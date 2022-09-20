@@ -2,7 +2,7 @@
   {
     "$type": "ModListMetadata, Wabbajack.Lib",
     "title": "Licentia BLACK",
-    "description": "Are we back or not?",
+    "description": "TEST PROFILE for the upcoming LICENTIA 11. (Mostly) Unsupported!",
     "author": "cacophony",
     "maintainers": [
       "github/cacophony-wj"
@@ -25,8 +25,8 @@
       "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/cacophony-wj/LeS/64c9562dc319c4dbc8d9f1c4cdd45851a259bf57/images/481663.png",
       "readme": "https://raw.githubusercontent.com/cacophony-wj/LeS/master/README.md",
-      "download": "https://authored-files.wabbajack.org/Licentia%20BLACK.wabbajack_eda387a1-cefb-41be-91b8-92e96cad1a4c",
-      "machineURL": "licentia_black",
+      "download": "https://authored-files.wabbajack.org/Licentia%20BLACK.wabbajack_3d950d72-df72-42d1-8980-9d1cdcf11bef",
+      "machineURL": "licentia_black/licentia_black",
       "discordURL": "https://discord.gg/jolly-coop"
     },
     "download_metadata": {
