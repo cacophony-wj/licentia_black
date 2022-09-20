@@ -9,11 +9,9 @@
 	"game": "skyrimspecialedition",
 	"official": false,
 	"tags": [
-		"Official",
 		"Creation Club",
-		"Anniversary Edition",
+		"Vokriinator Black",
 		"Legacy of the Dragonborn",
-		"LotD",
 		"Power Fantasy"
 	],
 	"nsfw": true,
@@ -24,18 +22,18 @@
 		"$type": "Links, Wabbajack.Lib",
 		"image": "https://raw.githubusercontent.com/cacophony-wj/LeS/64c9562dc319c4dbc8d9f1c4cdd45851a259bf57/images/481663.png",
 		"readme": "https://raw.githubusercontent.com/cacophony-wj/LeS/master/README.md",
-		"download": "https://authored-files.wabbajack.org/Licentia%20BLACK.wabbajack_3d950d72-df72-42d1-8980-9d1cdcf11bef",
+		"download": "https://authored-files.wabbajack.org/Licentia%20BLACK.wabbajack_8cd94143-c2ba-4ab6-811d-d8557ac71ef2",
 		"machineURL": "licentia_black/licentia_black",
 		"discordURL": "https://discord.gg/jolly-coop"
 	},
 	"download_metadata": {
 		"$type": "DownloadMetadata, Wabbajack.Lib",
-		"Hash": "jLMDWlRkWGs=",
-		"Size": 5367951,
-		"NumberOfArchives": 1184,
-		"SizeOfArchives": 127721415099,
-		"NumberOfInstalledFiles": 195914,
-		"SizeOfInstalledFiles": 191839651263
+		"Hash": "kYgplBy4uzA=",
+		"Size": 237957373,
+		"NumberOfArchives": 1195,
+		"SizeOfArchives": 128873685008,
+		"NumberOfInstalledFiles": 246434,
+		"SizeOfInstalledFiles": 197732891649
 	},
 	"version": "0.65",
 	"RepositoryName": ""
