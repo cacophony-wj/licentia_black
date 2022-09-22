@@ -1,7 +1,7 @@
 [{
 	"$type": "ModListMetadata, Wabbajack.Lib",
 	"title": "Licentia BLACK",
-	"description": "TEST PROFILE for the upcoming LICENTIA 11. (Mostly) Unsupported!",
+	"description": "Are we back or not?",
 	"author": "cacophony",
 	"maintainers": [
 		"github/cacophony-wj"
@@ -9,9 +9,11 @@
 	"game": "skyrimspecialedition",
 	"official": false,
 	"tags": [
+		"Official",
 		"Creation Club",
-		"Vokriinator Black",
+		"Anniversary Edition",
 		"Legacy of the Dragonborn",
+		"LotD",
 		"Power Fantasy"
 	],
 	"nsfw": true,
@@ -20,21 +22,21 @@
 	"force_down": false,
 	"links": {
 		"$type": "Links, Wabbajack.Lib",
-		"image": "https://raw.githubusercontent.com/cacophony-wj/LeS/64c9562dc319c4dbc8d9f1c4cdd45851a259bf57/images/481663.png",
+		"image": "https://authored-files.wabbajack.org/Licentia%20BLACK.wabbajack_da7186f8-a3f1-49b8-9e13-3a28378328ea",
 		"readme": "https://raw.githubusercontent.com/cacophony-wj/LeS/master/README.md",
-		"download": "https://authored-files.wabbajack.org/Licentia%20BLACK.wabbajack_8cd94143-c2ba-4ab6-811d-d8557ac71ef2",
-		"machineURL": "licentia_black/licentia_black",
+		"download": "https://authored-files.wabbajack.org/Licentia%20BLACK.wabbajack_eda387a1-cefb-41be-91b8-92e96cad1a4c",
+		"machineURL": "licentia_black",
 		"discordURL": "https://discord.gg/jolly-coop"
 	},
 	"download_metadata": {
 		"$type": "DownloadMetadata, Wabbajack.Lib",
-		"Hash": "kYgplBy4uzA=",
-		"Size": 237957373,
-		"NumberOfArchives": 1195,
-		"SizeOfArchives": 128873685008,
-		"NumberOfInstalledFiles": 246434,
-		"SizeOfInstalledFiles": 197732891649
+		"Hash": "jLMDWlRkWGs=",
+		"Size": 236459186,
+		"NumberOfArchives": 1203,
+		"SizeOfArchives": 135376522632,
+		"NumberOfInstalledFiles": 244788,
+		"SizeOfInstalledFiles": 211440566209
 	},
-	"version": "0.1.1.1",
+	"version": "0.1.1.2",
 	"RepositoryName": ""
 }]
