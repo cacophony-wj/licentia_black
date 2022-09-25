@@ -19,7 +19,7 @@
 	"nsfw": true,
 	"utility_list": false,
 	"image_contains_title": false,
-	"force_down": false,
+	"force_down": true,
 	"links": {
 		"$type": "Links, Wabbajack.Lib",
 		"image": "https://raw.githubusercontent.com/cacophony-wj/LeS/64c9562dc319c4dbc8d9f1c4cdd45851a259bf57/images/481663.png",
