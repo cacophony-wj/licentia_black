@@ -19,24 +19,24 @@
 	"nsfw": true,
 	"utility_list": false,
 	"image_contains_title": false,
-	"force_down": true,
+	"force_down": false,
 	"links": {
 		"$type": "Links, Wabbajack.Lib",
 		"image": "https://raw.githubusercontent.com/cacophony-wj/LeS/64c9562dc319c4dbc8d9f1c4cdd45851a259bf57/images/481663.png",
 		"readme": "https://raw.githubusercontent.com/cacophony-wj/LeS/master/README.md",
-		"download": "https://authored-files.wabbajack.org/Licentia%20BLACK.wabbajack_810c642d-ccd4-4014-b238-c11ca2d8b9ad",
+		"download": "https://authored-files.wabbajack.org/Licentia%20BLACK.wabbajack_b5bf5668-bab0-402f-ab07-85279d3e92cb",
 		"machineURL": "licentia_black",
 		"discordURL": "https://discord.gg/jolly-coop"
 	},
 	"download_metadata": {
 		"$type": "DownloadMetadata, Wabbajack.Lib",
-		"Hash": "YrMMrhCnZ8c=",
-		"Size": 219143575,
-		"NumberOfArchives": 1192,
-		"SizeOfArchives": 135225802538,
-		"NumberOfInstalledFiles": 244790,
-		"SizeOfInstalledFiles": 206259296896
+		"Hash": "9WRK/RX3ZGQ=",
+		"Size": 219063295,
+		"NumberOfArchives": 1189,
+		"SizeOfArchives": 135102313349,
+		"NumberOfInstalledFiles": 243471,
+		"SizeOfInstalledFiles": 205445339660
 	},
-	"version": "0.3.0.1",
+	"version": "0.3.1",
 	"RepositoryName": ""
 }]
