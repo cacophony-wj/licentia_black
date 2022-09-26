@@ -1,3 +1,7 @@
+# LICENTIA BLACK!
+
+## All the fucking and cutting heads, just a touch less insistent about it.
+
 ### Interested in other NSFW lists? Join my Discord Server!
 
 You can find the link to my Discord server at the end of this document.
