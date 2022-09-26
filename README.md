@@ -12,7 +12,7 @@ You can find the link to my Discord server at the end of this document.
 
 _Licentia BLACK_ grew from a desire to solve one incredible problem with _Licentia CLASSIC:_ the tendency for OStim's adult scenes to fail to complete on longer-term saves. To that end, the performance target for the list has been vastly reduced, making it a 60fps affair in even the most demanding outdoor areas even on low-end machines, especially with tweaks to ENB. The vast majority of the old gameplay from _Licentia Classic_ is here, but with less emphasis on troublesomely patched and maintained mods and more emphasis on things to do, see, and loot: more quests, more NPCs, and more collectibles.
 
-This readme is a bit bare bones until more testing and user reports come in. If at any point you get confused, please refer to the _Licentia Classic_ readme available [here](https://github.com/cacopony-wj/LeS).
+This readme is a bit bare bones until more testing and user reports come in. If at any point you get confused, please refer to the _Licentia Classic_ readme available [here](https://github.com/cacophony-wj/LeS).
 
 # FEATURING ARTIFACTS OF SKYRIM REVISED, UNIVERSAL STORAGE AND STAFF ENCHANTING!
 
