@@ -1,7 +1,7 @@
 [{
 	"$type": "ModListMetadata, Wabbajack.Lib",
 	"title": "Licentia BLACK",
-	"description": "Are we back or not?",
+	"description": "Getting there.",
 	"author": "cacophony",
 	"maintainers": [
 		"github/cacophony-wj"
@@ -23,20 +23,20 @@
 	"links": {
 		"$type": "Links, Wabbajack.Lib",
 		"image": "https://raw.githubusercontent.com/cacophony-wj/LeS/64c9562dc319c4dbc8d9f1c4cdd45851a259bf57/images/481663.png",
-		"readme": "https://raw.githubusercontent.com/cacophony-wj/LeS/master/README.md",
-		"download": "https://authored-files.wabbajack.org/Licentia%20BLACK.wabbajack_4ec88153-4ceb-4eb6-b135-e8c278ff0542",
+		"readme": "https://github.com/cacophony-wj/licentia_black",
+		"download": "https://authored-files.wabbajack.org/Licentia%20BLACK.wabbajack_a86e4c81-f0da-4d92-8e3d-99b7606ea576",
 		"machineURL": "licentia_black",
 		"discordURL": "https://discord.gg/jolly-coop"
 	},
 	"download_metadata": {
 		"$type": "DownloadMetadata, Wabbajack.Lib",
-		"Hash": "xVHIw/9h0Bk=",
-		"Size": 219016563,
-		"NumberOfArchives": 1183,
-		"SizeOfArchives": 135156490450,
-		"NumberOfInstalledFiles": 244209,
-		"SizeOfInstalledFiles": 205739575798
+		"Hash": "r7eglnh76aQ=",
+		"Size": 228770535,
+		"NumberOfArchives": 1166,
+		"SizeOfArchives": 128728782546,
+		"NumberOfInstalledFiles": 240622,
+		"SizeOfInstalledFiles": 205073986324
 	},
-	"version": "0.5.1.0",
+	"version": "0.6",
 	"RepositoryName": ""
 }]
