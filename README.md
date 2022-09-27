@@ -1,6 +1,6 @@
 # LICENTIA BLACK!
 
-## All the fucking and cutting heads, just a touch less insistent about it.
+## Just a touch darker than before.
 
 ### Interested in other NSFW lists? Join my Discord Server!
 
