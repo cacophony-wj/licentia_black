@@ -191,6 +191,10 @@ O Vile
 
 You can feel free to leave these on if you enjoy a challenge, but be warned that one of them has a near one-shot massive AOE attack and the other has far more regeneration that most characters are capable of attacking through. Especially if you adjust any of my difficulties higher!
 
+## Nether Follower Framework
+
+Now you need to decide if you want the Follower System to be pretty open, with companions agreeing to join you readily and not much required of you in return, or if you want it to be a more realistic hiring system where they expect payment every so often. For the immersive option, go into the _Follower Framework_ MCM and under _System_, choose "Import File" and wait for it to give you a confirmation message. For the free option, I recommend at least going under _Activity_ and enabling "Only Sandbox in Towns" to prevent your followers from wandering around all the time.
+
 ## MCM Recorder
 
 You're almost done. Thanks to a wonderful mod known as _MCM Recorder_ I no longer have to manually code MCM options for every setting each time a mod is updated, I can simply program a recording for you to run that does it for me. You should decide if you want a fun, easygoing, bloodthirsty game or one more intended for _Survival Mode_ (perhaps in concert with a _Bruma_ or _Chanterelle_ playthrough) where your abilities are less overwhelming, resources are more limited and higher maintenance is required. Pick the one that interests you. You should only run **ONE** of these!
