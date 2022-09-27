@@ -14,7 +14,7 @@ _Licentia BLACK_ grew from a desire to solve one incredible problem with _Licent
 
 This readme is a bit bare bones until more testing and user reports come in. If at any point you get confused, please refer to the _Licentia Classic_ readme available [here](https://github.com/cacophony-wj/LeS).
 
-# FEATURING ARTIFACTS OF SKYRIM REVISED, UNIVERSAL STORAGE AND STAFF ENCHANTING!
+# FEATURING ARTIFACTS OF SKYRIM REVISED AND STAFF ENCHANTING!
 
 Go [here](MODGUIDE.md) for credits and descriptions of the major mods in _Licentia_.
 
@@ -193,7 +193,7 @@ You can feel free to leave these on if you enjoy a challenge, but be warned that
 
 ## MCM Recorder
 
-You're almost done. Thanks to a wonderful mod known as _MCM Recorder_ I no longer have to manually code MCM options for every setting each time a mod is updated, I can simply program a recording for you to run that does it for me. You should decide if you want a fun, easygoing, bloodthirsty game or one more intended for _Survival Mode_ (perhaps in concert with a _Bruma_ or _Chanterelle_ playthrough) where your abilities are less overwhelming, resources are more limited and higher maintenance is required. Pick the one that interests you:
+You're almost done. Thanks to a wonderful mod known as _MCM Recorder_ I no longer have to manually code MCM options for every setting each time a mod is updated, I can simply program a recording for you to run that does it for me. You should decide if you want a fun, easygoing, bloodthirsty game or one more intended for _Survival Mode_ (perhaps in concert with a _Bruma_ or _Chanterelle_ playthrough) where your abilities are less overwhelming, resources are more limited and higher maintenance is required. Pick the one that interests you. You should only run **ONE** of these!
 
 O I want it fun!
 
@@ -201,7 +201,13 @@ O I want it immersive.
 
 Then close the MCM Menu, **TOUCH NOTHING**, and click the "Run Recording" button when it appears. Wait for all messages to stop and a message to pop up saying playback is finished. Then you can continue enjoying the opening of the game!
 
-You might have noticed there is another option here, "I want to use a controller." If you seek to play this modlist on a television, a portable device, or simply use the experience you have gained from a long history with consoles, I recommend joining my Discord server to find the best method to achieve this. Ignore this recording until you receive more specific instructions. (All it does is configure a few hotkeys to work with controllers instead.)
+You might have noticed there are several other options here. You can run as many of them additionally as you wish.
+
+"I want it hard as FUCK!" vastly increases the difficulty of dragon and modded encounters as well as adds up to 40 - 80 additional enemies in every dungeon or zone. I could never handle it given how spongey everything is now, but I know some of you are absolute beasts.
+
+ "I want it slutty!" makes it so that NPCs are more responsive to your advances, enables your clothes being knocked off during combat, and increases the frequency that you get exploited in other ways rather than killed. 
+
+Finally, "I want to use a controller." If you seek to play this modlist on a television, a portable device, or simply use the experience you have gained from a long history with consoles, I recommend joining my Discord server to find the best method to achieve this. Ignore this recording until you receive more specific instructions. (All it does is configure a few hotkeys to work with controllers instead.)
 
 ## ONE FINAL NOTE
 
