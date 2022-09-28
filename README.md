@@ -197,10 +197,9 @@ Now you need to decide if you want the Follower System to be pretty open, with c
 
 ## MCM Recorder
 
-You're almost done. Thanks to a wonderful mod known as _MCM Recorder_ I no longer have to manually code MCM options for every setting each time a mod is updated, I can simply program a recording for you to run that does it for me. You should decide if you want a fun, easygoing, bloodthirsty game or one more intended for _Survival Mode_ (perhaps in concert with a _Bruma_ or _Chanterelle_ playthrough) where your abilities are less overwhelming, resources are more limited and higher maintenance is required. Pick the one that interests you. You should only run **ONE** of these!
+You're almost done. Thanks to a wonderful mod known as _MCM Recorder_ I no longer have to manually code MCM options for every setting each time a mod is updated, I can simply program a recording for you to run that does it for me. You should decide if you want a fun, easygoing, bloodthirsty game or one more intended for _Survival Mode_ (perhaps in concert with a _Bruma_ or _Chanterelle_ playthrough) where your abilities are less overwhelming, resources are more limited and higher maintenance is required. Pick the one that interests you. You should only run **ONE** of these! (Please choose one, each configures a baseline setup that is recommended for this modlist.)
 
 O I want it fun!
-
 O I want it immersive.
 
 Then close the MCM Menu, **TOUCH NOTHING**, and click the "Run Recording" button when it appears. Wait for all messages to stop and a message to pop up saying playback is finished. Then you can continue enjoying the opening of the game!
