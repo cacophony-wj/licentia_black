@@ -1,7 +1,7 @@
 [{
 	"$type": "ModListMetadata, Wabbajack.Lib",
 	"title": "Licentia BLACK",
-	"description": "Tentacles, tendrils, teeth, tongues. You too will be devoured in the end.",
+	"description": "It never ends.",
 	"author": "cacophony",
 	"maintainers": [
 		"github/cacophony-wj"
@@ -19,24 +19,24 @@
 	"nsfw": true,
 	"utility_list": false,
 	"image_contains_title": false,
-	"force_down": true,
+	"force_down": false,
 	"links": {
 		"$type": "Links, Wabbajack.Lib",
-		"image": "https://raw.githubusercontent.com/cacophony-wj/LeS/64c9562dc319c4dbc8d9f1c4cdd45851a259bf57/images/481663.png",
+		"image": "https://raw.githubusercontent.com/cacophony-wj/licentia_black/main/Transparent-Background.png",
 		"readme": "https://github.com/cacophony-wj/licentia_black",
-		"download": "https://authored-files.wabbajack.org/Licentia%20BLACK.wabbajack_1679f2b8-3334-4d26-8010-5e258d58e9aa",
+		"download": "https://authored-files.wabbajack.org/Licentia%20BLACK.wabbajack_a6e4e9d2-c84a-436b-b9a4-e40145dc6322",
 		"machineURL": "licentia_black",
 		"discordURL": "https://discord.gg/jolly-coop"
 	},
 	"download_metadata": {
 		"$type": "DownloadMetadata, Wabbajack.Lib",
-		"Hash": "d6GImZE50ws=",
-		"Size": 229507036,
-		"NumberOfArchives": 1167,
-		"SizeOfArchives": 128292032703,
-		"NumberOfInstalledFiles": 240579,
-		"SizeOfInstalledFiles": 204118501586
+		"Hash": "Tyyu6BECTy4=",
+		"Size": 221351895,
+		"NumberOfArchives": 1183,
+		"SizeOfArchives": 126109636839,
+		"NumberOfInstalledFiles": 556546,
+		"SizeOfInstalledFiles": 219730145661
 	},
-	"version": "0.6.1.1",
+	"version": "0.8",
 	"RepositoryName": ""
 }]
