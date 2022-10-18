@@ -22,7 +22,7 @@
 	"force_down": false,
 	"links": {
 		"$type": "Links, Wabbajack.Lib",
-		"image": "https://raw.githubusercontent.com/cacophony-wj/licentia_black/main/Transparent-Background.png",
+		"image": "https://raw.githubusercontent.com/cacophony-wj/licentia_black/main/images/Transparent-Background.png",
 		"readme": "https://github.com/cacophony-wj/licentia_black",
 		"download": "https://authored-files.wabbajack.org/Licentia%20BLACK.wabbajack_21ffb329-2ed0-4ea7-892f-cdfdef7d2652",
 		"machineURL": "licentia_black",
