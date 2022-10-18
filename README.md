@@ -32,9 +32,6 @@ My best estimate as to what you need to play _Licentia_ enjoyably is as follows:
 - RAM: >= At least 8GB
 - PAGEFILE: >= At least 20GB
 
-
-- [Immersive & Adult on Nexus Next](https://next.nexusmods.com/skyrimspecialedition/collections/xxsqm4)
-
 Speaking of which, everything should be installed on an SSD that has at least 200GB of space available. The game is unplayable on an HDD, although you can relocate your downloads folder to one if you need space.
 
 Please note that you will also require _at least_ an additional 30GB on the drive you installed Wabbajack.exe to for extraction and recompression of files.
