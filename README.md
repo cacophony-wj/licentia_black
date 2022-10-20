@@ -192,9 +192,13 @@ You can feel free to leave these on if you enjoy a challenge, but be warned that
 
 Now you need to decide if you want the Follower System to be pretty open, with companions agreeing to join you readily and not much required of you in return, or if you want it to be a more realistic hiring system where they expect payment every so often. For the immersive option, go into the _Follower Framework_ MCM and under _System_, choose "Import File" and wait for it to give you a confirmation message. For the free option, I recommend at least going under _Activity_ and enabling "Only Sandbox in Towns" to prevent your followers from wandering around all the time.
 
+## VioLens
+
+You need to go to the "Profiles" section and "Load" a profile. There are two options: "Sane Violence" and "Ultra-Violence." "Ultra-Violence enables a chance for killmoves on every kill and removes all restrictions on decaptitations. Heads will be a-flyin', but I have heard unconfirmed reports that this situation is untenable over the long term and may cause glitches in combat or other bugs. I recommend "Sane Violence" which configures the mod mostly to the defaults but disables all killmoves on the player. Once you load a profile, you have to wait a few seconds for the import to be completed.
+
 ## MCM Recorder
 
-You're almost done. Thanks to a wonderful mod known as _MCM Recorder_ I no longer have to manually code MCM options for every setting each time a mod is updated, I can simply program a recording for you to run that does it for me. You should decide if you want a fun, easygoing, bloodthirsty game or one more intended for _Survival Mode_ (perhaps in concert with a _Bruma_ or _Chanterelle_ playthrough) where your abilities are less overwhelming, resources are more limited and higher maintenance is required. Pick the one that interests you. You should only run **ONE** of these! (Please choose one, each configures a baseline setup that is recommended for this modlist.)
+You're almost done. Thanks to a wonderful mod known as _MCM Recorder_ I no longer have to manually code MCM options for every setting each time a mod is updated, I can simply program a recording for you to run that does it for me. You should decide if you want a fun, easygoing, bloodthirsty game or one more intended for _Survival Mode_ (perhaps in concert with a _Bruma_ or _Chanterelle_ playthrough) where your abilities are less overwhelming, resources are more limited and higher maintenance is required. Pick the one that interests you. You should only run **ONE** of these! (Please choose one, each configures a baseline setup that is recommended for this modlist.) {Please note, the recordings will be listed with ZERO STEPS due to a tweak on my part, but they should still work fine.}
 
 O I want it fun!
 O I want it immersive.
