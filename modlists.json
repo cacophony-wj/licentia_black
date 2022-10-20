@@ -1,7 +1,7 @@
 [{
 	"$type": "ModListMetadata, Wabbajack.Lib",
 	"title": "Licentia BLACK",
-	"description": "So that's how it is.",
+	"description": "What's your redemption arc?",
 	"author": "cacophony",
 	"maintainers": [
 		"github/cacophony-wj"
@@ -24,19 +24,19 @@
 		"$type": "Links, Wabbajack.Lib",
 		"image": "https://raw.githubusercontent.com/cacophony-wj/licentia_black/main/images/Transparent-Background-2.png",
 		"readme": "https://github.com/cacophony-wj/licentia_black",
-		"download": "https://authored-files.wabbajack.org/Licentia%20BLACK.wabbajack_5581ba82-e266-44f1-aae3-c239815fce7e",
+		"download": "https://authored-files.wabbajack.org/Licentia%20BLACK.wabbajack_de3a2c43-b3f1-4997-914b-746090ae9920",
 		"machineURL": "licentia_black",
 		"discordURL": "https://discord.gg/jolly-coop"
 	},
 	"download_metadata": {
 		"$type": "DownloadMetadata, Wabbajack.Lib",
-		"Hash": "O3ndCY0RGSg=",
-		"Size": 160963071,
-		"NumberOfArchives": 1183,
-		"SizeOfArchives": 127676780781,
-		"NumberOfInstalledFiles": 556207,
-		"SizeOfInstalledFiles": 220198414274
+		"Hash": "rnmkgGZcW3c=",
+		"Size": 160925902,
+		"NumberOfArchives": 1185,
+		"SizeOfArchives": 127957412540,
+		"NumberOfInstalledFiles": 556292,
+		"SizeOfInstalledFiles": 220541155773
 	},
-	"version": "0.8.2",
+	"version": "0.9",
 	"RepositoryName": ""
 }]
