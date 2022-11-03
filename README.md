@@ -67,7 +67,7 @@ Particularly intrusive malware solutions such as _Bitdefender_ and _Webroot_ don
 
 The download and installation process can take a very long time depending on your system specs. 
 
-Do not install _Steam,_ _Skyrim_ or the modlist in any protected folders such as `C:Program Files,` `Downloads,` or your desktop.
+Do not install _Steam,_ _Skyrim_ or the modlist in any protected folders such as `Program Files,` `Downloads,` or your desktop.
 
 It is advised to have ALL of the folders (for `Wabbajack.exe`, the modlist folder, and the downloads folder) on an SSD. 
 
