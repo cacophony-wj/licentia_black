@@ -1,5 +1,21 @@
 # LICENTIA BLACK CHANGELOG
 
+## 0.13.1
+
+- Updated _enbseries_ to 0.477
+
+## 0.13
+
+- Added Skyrim Revamped - Complete Enemy Overhaul
+- Added Skyrim Revamped Reblanaced and Releveled_
+- Added _SRCE Konahrik's Accoutrements Patch_
+- Added _Briraka's Draugr Overhaul SRCEO Patch_
+- Added _SRCEO Dwemer Spectres Patch_
+- Added _SRCEO Cloaks of Skyrim Patch_
+- Added _Unique Item Tweaks_ and the LOTD patch.
+- Added a couple of other official LOTD patches.
+- Downgraded _MCM Helper_ to the proper version.
+
 ## 0.12.0.1
 
 - Recompiled to correct a fumbled priority sort.
