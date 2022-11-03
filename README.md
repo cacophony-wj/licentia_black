@@ -65,14 +65,11 @@ Particularly intrusive malware solutions such as _Bitdefender_ and _Webroot_ don
 
 ##  Using Wabbajack
 
-The download and installation process can take a very long time depending on your system specs. Wabbajack will calculate the amount of threads it will use at the start of the installation. 
+The download and installation process can take a very long time depending on your system specs. 
 
-    Adjust the Installation Location to a directory located on the root directory of one of your drives
-    For example, this might be "C:\Licentia", "D:\Licentia", or "E:\Licentia"
-    Ensure the Download Location is where you wish it to be, it defaults to a location within the directory just above
-    Click the Go/Begin button
+Do not install _Steam,_ _Skyrim_ or the modlist in any protected folders such as `C:Program Files,` `Downloads,` or your desktop.
 
-To have the highest amount of threads and thus the fastest speed, it is advised to have ALL of the folders (for `Wabbajack.exe`, the modlist folder, and the downloads folder) on an SSD. 
+It is advised to have ALL of the folders (for `Wabbajack.exe`, the modlist folder, and the downloads folder) on an SSD. 
 
 ##  Problems with Wabbajack
 
