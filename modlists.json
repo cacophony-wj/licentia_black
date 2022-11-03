@@ -1,7 +1,7 @@
 [{
 	"$type": "ModListMetadata, Wabbajack.Lib",
 	"title": "Licentia BLACK",
-	"description": "Just a little darker than before.",
+	"description": "Here. I'm cashed, man.",
 	"author": "cacophony",
 	"maintainers": [
 		"github/cacophony-wj"
@@ -24,19 +24,19 @@
 		"$type": "Links, Wabbajack.Lib",
 		"image": "https://raw.githubusercontent.com/cacophony-wj/licentia_black/main/images/Transparent-Background-2.png",
 		"readme": "https://github.com/cacophony-wj/licentia_black",
-		"download": "https://authored-files.wabbajack.org/Licentia%20BLACK.wabbajack_c739476a-40d2-42a7-89f9-83bf2aa441ec",
+		"download": "https://authored-files.wabbajack.org/Licentia%20BLACK.wabbajack_88f63392-457a-476a-8b37-baa4a61afdbd",
 		"machineURL": "licentia_black",
 		"discordURL": "https://discord.gg/jolly-coop"
 	},
 	"download_metadata": {
 		"$type": "DownloadMetadata, Wabbajack.Lib",
-		"Hash": "lHveXpXN8CA=",
-		"Size": 272676766,
-		"NumberOfArchives": 1189,
-		"SizeOfArchives": 125192516096,
-		"NumberOfInstalledFiles": 547850,
-		"SizeOfInstalledFiles": 212247557629
+		"Hash": "LufY1KgwEgk=",
+		"Size": 268828296,
+		"NumberOfArchives": 1199,
+		"SizeOfArchives": 125250086143,
+		"NumberOfInstalledFiles": 547890,
+		"SizeOfInstalledFiles": 212402684542
 	},
-	"version": "0.12.0.2",
+	"version": "0.13",
 	"RepositoryName": ""
 }]
