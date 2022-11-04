@@ -1,5 +1,13 @@
 # LICENTIA BLACK CHANGELOG
 
+## 0.15.1
+
+- Updated _enbseries_ without version change
+
+## 0.15
+
+- Created an alternate, safe for work profile. There is still nudity on a few female NPCs.
+
 ## 0.14
 
 - Replaced the ENB with _Rudy for Cathedral - Zangdar's LUX Edit_
