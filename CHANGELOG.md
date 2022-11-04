@@ -1,5 +1,17 @@
 # LICENTIA BLACK CHANGELOG
 
+## 0.14
+
+- Replaced the ENB with _Rudy for Cathedral - Zangdar's LUX Edit_
+- Added _ENB Light_
+- Added _Open World Loot - Encounter Zone & Loot Overhaul_
+- Added _Ghastly's Open World Loot Creation Club Patches_
+- Added _Open World Loot - Heavy Armory Patch_
+- Added _Open World Loot - Jaysus Swords SE Patch_
+- Added _Open World Loot - Legacy of the Dragonborn Patch_
+- Added _Open World Loot - OBIS Patch_
+
+
 ## 0.13.1
 
 - Updated _enbseries_ to 0.477
