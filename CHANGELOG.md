@@ -1,5 +1,8 @@
 # LICENTIA BLACK CHANGELOG
 
+## 0.15.1.1
+
+- Fixed some mesh overwrites which were causing purple fires among other issues.
 ## 0.15.1
 
 - Updated _enbseries_ without version change
