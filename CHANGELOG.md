@@ -1,5 +1,13 @@
 # LICENTIA BLACK CHANGELOG
 
+## 0.15.2
+
+- Updated _OStim NG_ to 6.2c. This should fix bugs with _Fertility Mode._
+- Updated _OPrivacy_ to 2.1c. This should fix bugs with its scenes as well as the extended romances from _Amorous Adventures._
+- Fixed a remaining pair of purple campfires.
+- Set gold weight to 0. What the hell, man.
+- Configured _Rudy Cathedral Lux_ to be more performance friendly.
+
 ## 0.15.1.1
 
 - Fixed some mesh overwrites which were causing purple fires among other issues.
