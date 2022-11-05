@@ -1,7 +1,7 @@
 [{
 	"$type": "ModListMetadata, Wabbajack.Lib",
 	"title": "Licentia BLACK",
-	"description": "Make a joyful noise.",
+	"description": "Keeping pests in their place.",
 	"author": "cacophony",
 	"maintainers": [
 		"github/cacophony-wj"
@@ -24,19 +24,19 @@
 		"$type": "Links, Wabbajack.Lib",
 		"image": "https://raw.githubusercontent.com/cacophony-wj/licentia_black/main/images/Transparent-Background-2.png",
 		"readme": "https://github.com/cacophony-wj/licentia_black",
-		"download": "https://authored-files.wabbajack.org/Licentia%20BLACK.wabbajack_d0ad35ee-d4a6-4157-a6f9-81185946da9c",
+		"download": "https://authored-files.wabbajack.org/Licentia%20BLACK.wabbajack_777e1b73-2f9f-4739-a04b-45a3bad7a20e",
 		"machineURL": "licentia_black",
 		"discordURL": "https://discord.gg/jolly-coop"
 	},
 	"download_metadata": {
 		"$type": "DownloadMetadata, Wabbajack.Lib",
-		"Hash": "NRamRA7pm4o=",
-		"Size": 285496888,
-		"NumberOfArchives": 1209,
-		"SizeOfArchives": 125747765013,
-		"NumberOfInstalledFiles": 565110,
-		"SizeOfInstalledFiles": 214707616028
+		"Hash": "LPC3fiFG3WI=",
+		"Size": 285784530,
+		"NumberOfArchives": 1211,
+		"SizeOfArchives": 125760833940,
+		"NumberOfInstalledFiles": 565112,
+		"SizeOfInstalledFiles": 214710729615
 	},
-	"version": "0.15.1.1",
+	"version": "0.15.2",
 	"RepositoryName": ""
 }]
