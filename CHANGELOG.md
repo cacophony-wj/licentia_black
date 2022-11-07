@@ -1,5 +1,14 @@
 # LICENTIA BLACK CHANGELOG
 
+## 0.17.1
+
+- Added _Kaidan 2 OpenSex Patch_
+- Added the Bruma patch for _Bears of the North_
+- Updated _OPrivacy_ to 2.1e
+- Next attempt to fix the weapon speed issue.
+- Fixed a darkfage bug on Henry, the kid from LOTD.
+- Added easter eggs about chickens.
+
 ## 0.17
 
 - Added the _OpenSex Compatibility Patch_ for better OSA menu navigation.
