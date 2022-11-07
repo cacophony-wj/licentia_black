@@ -1,5 +1,22 @@
 # LICENTIA BLACK CHANGELOG
 
+## 0.17
+
+- Added the _OpenSex Compatibility Patch_ for better OSA menu navigation.
+- Changed the load order of the _OSuite_ as per recommendations to hopefully fix _OPrivacy_ bugs.
+- Updated _Vokriinator Black_ to 6.11 in an attempt to fix the weapon speed bugs.
+- Added _Ordinator for Spell Perk Item Distributor_ at 100% distribution, no followers.
+- Added _Alternate Perspective Beta 3.0.2 Update_ on special loan from Scrab, to fix the intro bugs.
+- Added _Alternate Perspective - QuickPort Plugin_ as a special commission from Scrab.
+- To spawn in a completely random location, choose "QuickPort" from the dragon.
+- Attempted to fix the _Crimson Blood Armor_ crash in Dawnguard.
+- Added _Avoid the Wait When Changing to Female in Character Creation_
+- Customized the starting female preset to my own.
+- Removed clothing from characters in chargen.
+- Removed all starting gold and gear from characters in chargen.
+- Removed all starting novice spells from characters in chargen.
+- Use the resources in the starting room to customize your character.
+
 ## 0.15.2
 
 - Updated _OStim NG_ to 6.2c. This should fix bugs with _Fertility Mode._
