@@ -1,5 +1,28 @@
 # LICENTIA BLACK CHANGELOG
 
+## 1.1
+
+- Added _Sofia Remastered SE 2.0_
+- Added _Sofia Immersive Nakedness Recognition_
+- Updated _Billyy's Animations Pack OStim Port_ to 3.0
+- Updated _OpenSex Compatibility Patch_ to 4.8
+- Updated _Excitable Subs for OStim_ to 1.3a
+- Updated _SmoothCam_ to 1.7
+- Updated _Sound Fix for Large Sector Drives_ to 4.0
+- Fixed a bug where Lydia had no voice acting.
+
+## 1.0
+
+- Added @I Unpause's excellent comic art as the main menu!
+- Added _Papyrus Tweaks NG_
+- Added _Nchuanthumz Papyrus Load Fix_
+- Updated _Maximum Carnage_ to 7.1. Please endorse this mod!
+- Updated _OStim NG_ to 6.2d
+- Updated _OBody NG_ to 2.1
+- Updated _Spellsiphon_ to 5.25
+- Updated _Additional Clockwork_ to 3.0.4
+- Updated _Enhanced Invisibility_ to 1.3
+
 ## 0.17.1
 
 - Added _Kaidan 2 OpenSex Patch_
@@ -37,6 +60,7 @@
 ## 0.15.1.1
 
 - Fixed some mesh overwrites which were causing purple fires among other issues.
+
 ## 0.15.1
 
 - Updated _enbseries_ without version change
