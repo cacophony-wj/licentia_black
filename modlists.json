@@ -1,43 +1,44 @@
-[{
-	"$type": "ModListMetadata, Wabbajack.Lib",
-	"title": "Licentia BLACK",
-	"description": "Still fucking and cutting heads, just faster.",
-	"author": "cacophony",
-	"maintainers": [
-		"github/cacophony-wj"
-	],
-	"game": "skyrimspecialedition",
-	"official": true,
-	"tags": [
-		"Official",
-		"Power Fantasy",
-		"Vokriinator",
-		"CGO",
-		"Creation Club",
-		"LotD",
-		"Performance"
-	],
-	"nsfw": true,
-	"utility_list": false,
-	"image_contains_title": false,
-	"force_down": false,
-	"links": {
-		"$type": "Links, Wabbajack.Lib",
-		"image": "https://raw.githubusercontent.com/cacophony-wj/licentia_black/main/images/Transparent-Background-2.png",
-		"readme": "https://github.com/cacophony-wj/licentia_black",
-		"download": "https://authored-files.wabbajack.org/Licentia%20BLACK.wabbajack_008a3151-1a62-40b3-87b6-2acd488e4842",
-		"machineURL": "licentia_black",
-		"discordURL": "https://discord.gg/jolly-coop"
-	},
-	"download_metadata": {
-		"$type": "DownloadMetadata, Wabbajack.Lib",
-		"Hash": "kDtz71TJZXY=",
-		"Size": 354048907,
-		"NumberOfArchives": 1212,
-		"SizeOfArchives": 124858450598,
-		"NumberOfInstalledFiles": 563336,
-		"SizeOfInstalledFiles": 215316144913
-	},
-	"version": "1.0",
-	"RepositoryName": "licentia_black"
-}]
+[
+  {
+    "title": "Licentia BLACK",
+    "description": "Still fucking and cutting heads, just faster.",
+    "author": "cacophony",
+    "maintainers": [
+      "github/cacophony-wj"
+    ],
+    "game": "skyrimspecialedition",
+    "official": true,
+    "tags": [
+      "Official",
+      "Power Fantasy",
+      "Vokriinator",
+      "CGO",
+      "Creation Club",
+      "LotD",
+      "Performance"
+    ],
+    "nsfw": true,
+    "utility_list": false,
+    "image_contains_title": false,
+    "force_down": false,
+    "links": {
+      "image": "https://raw.githubusercontent.com/cacophony-wj/licentia_black/main/images/Transparent-Background-2.png",
+      "readme": "https://github.com/cacophony-wj/licentia_black",
+      "download": "https://authored-files.wabbajack.org/Licentia BLACK.wabbajack_115080fa-4fd5-4504-8045-40511b0d2a07",
+      "machineURL": "licentia_black",
+      "discordURL": "https://discord.gg/jolly-coop"
+    },
+    "download_metadata": {
+      "Hash": "aa6v9LNc79Y=",
+      "Size": 353875317,
+      "NumberOfArchives": 1218,
+      "SizeOfArchives": 125093305802,
+      "NumberOfInstalledFiles": 563676,
+      "SizeOfInstalledFiles": 215883185596
+    },
+    "version": "1.1",
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "2022-11-11T06:01:52.623988Z",
+    "repositoryName": ""
+  }
+]
