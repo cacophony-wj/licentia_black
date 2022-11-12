@@ -1,5 +1,21 @@
 # LICENTIA BLACK CHANGELOG
 
+## 1.3
+
+- Updated _CBBE 3BA_ to 2.45
+- Updated to the Nexus version of _Alternate Perspective_
+- Updated _TrueHUD_ to 1.1.8
+- Removed _SkyUI AIO Survival_ (it was redundant with Nordic anyway)
+- Changed the default Male Nord preset
+- Fixed a bug where some Thalmor Soldiers were nude
+- Reconfigured body physics
+- Reconfigured cloaks so that more of them would have physics
+- Extracted several BSAs and verified asset overwrites
+
+## 1.2
+
+- Fixed a bug where saves would start to lag and corrupt.
+
 ## 1.1
 
 - Added _Sofia Remastered SE 2.0_
