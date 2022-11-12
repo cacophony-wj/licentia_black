@@ -1,5 +1,12 @@
 # LICENTIA BLACK CHANGELOG
 
+## 1.3.1
+
+- Added _Clean Menu Plus_
+- Configured some UI elements to disappear during adult scenes.
+- Fixed a darkface bug on Ancano that I neglected.
+- Packed a few large mods into BSAs for faster loading.
+
 ## 1.3
 
 - Updated _CBBE 3BA_ to 2.45
