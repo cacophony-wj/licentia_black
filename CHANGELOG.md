@@ -1,5 +1,20 @@
 # LICENTIA BLACK CHANGELOG
 
+## 1.4
+
+- Added the _Fluffworks_ series of fluffy critter overhauls and associated patches.
+- Added _A Tragedy in Black - 2K Soul Gems_
+- Added _JS Attunement Sphere_
+- Added _JS Dwemer Puzzle Cube_
+- Added _JS Instruments of Skyrim_
+- Added _Resplendent Bee Statue_
+- Updated _OpenSex Standalone_ to 1.10
+- Updated _Papyrus Tweaks NG_ to 2.1
+
+## 1.3.2
+
+- Fixed a handful of darkface bugs on Dawnguard unique NPCs.
+
 ## 1.3.1
 
 - Added _Clean Menu Plus_
