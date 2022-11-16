@@ -1,5 +1,17 @@
 # LICENTIA BLACK CHANGELOG
 
+## 1.5
+
+- Replaced _REALORE ULTIMA_ with _Demoniac 1.12b_
+- Added _Kaidan - HD Armor Retexture_
+- Added _Kaidan - Immersive Lap Sitting_
+- Installed the proper version of the _L'Amour Rose Animation Pack_. Fuck me.
+- Downgraded _Kaidan Extended_ to 5.2
+- Removed _Slap Da Butt_
+- Removed _Kaidan - Drinking Addon Patch_
+- Removed _Kaidan - Fart Patch_
+- Removed _Kaidan - Slap Da Butt Patch_
+
 ## 1.4
 
 - Added the _Fluffworks_ series of fluffy critter overhauls and associated patches.
