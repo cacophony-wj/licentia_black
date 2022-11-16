@@ -1,5 +1,17 @@
 # LICENTIA BLACK CHANGELOG
 
+## 1.5.1.1
+
+- Sorted the mods by priority TO STOP THE QUESTIONS GATDAMMIT
+- Tweaks to Nordic UI for consistency
+
+## 1.5.1
+
+- Added _Stackable Stones of Berenziah with Optional Quest Markers_
+- Replaced _JS Dragon Claws SE_ with _JS Dragon Claws AE_
+- Re-enabled _Ren's HD Shrines_
+- Re-enabled _Skyrim Remastered - Glaciers & Ice_
+
 ## 1.5
 
 - Replaced _REALORE ULTIMA_ with _Demoniac 1.12b_
