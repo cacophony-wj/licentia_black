@@ -1,5 +1,13 @@
 # LICENTIA BLACK CHANGELOG
 
+## 1.7.1.1
+
+- Fix for CBBE 3BA body morph sliders not appearing on character creation.
+- Enabled alternate vaginal collision.
+- Enabled anal collision.
+- Increased the size of breast collision.
+- Disabled belly bulge on the Yuriana follower, which was applying to everyone for some reason.
+
 ## 1.7.1
 
 - Fix for a crash when you attempt to start from the dragon statue as a dragonborn.
