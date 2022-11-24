@@ -1,5 +1,9 @@
 # LICENTIA BLACK CHANGELOG
 
+## 1.7.1
+
+- Fix for a crash when you attempt to start from the dragon statue as a dragonborn.
+
 ## 1.7
 
 - Added _Billyy Invisible Furniture Pack_ (only available via search)
