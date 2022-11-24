@@ -1,5 +1,55 @@
 # LICENTIA BLACK CHANGELOG
 
+## 1.7
+
+- Added _Billyy Invisible Furniture Pack_ (only available via search)
+- Updated _OpenSex_ to 1.10
+- Fixed a bug where the PC would be in full plate during chargen.
+- Fixed a bug where ugly LODS would refuse to unload.
+- Configured a more detailed map.
+- Configured the lock-on button to be MOUSE4 by default.
+- Removed a couple of popups at the start of the game.
+- Removed _Yamete_ to encourage Nexus distribution. It should be an easy add if you want it back.
+- Updated and included the SFW profile.
+
+## 1.6
+
+- Updated _Serana Dialog Addon Patch Hub_ to 1.8.
+- Added the _VN5NT Male and Female Preset Packs_
+- Added _World of Weather_
+- Switched from _Realistic Grass Field_, 1k, to 2k and added a fix for 1080p users.
+- Reinstalled _Wyrmstooth_ to restore some deleted files.
+- Reinstalled _The Tools of Kagrenac_ to restore some deleted files.
+- Reinstalled _Gray Cowl of Noctunal_ and associated mods.
+- Removed _Artifacts of Skyrim Revised._
+- Removed _Chanterelle - A Savage World to Explore_ and associated mods.
+- Removed _Luminosity for A Quality World Map_
+- Regenerated LODs.
+
+## 1.5.2
+
+- Added _Cloaks of Skyrim Retextured Mesh Update_
+- Updated _HDT-SMP Hair Wigs_ to 1.21
+- Updated _Improved Follower Dialogue Lydia_ to 3.1A
+- Updated _Spell Perk Item Distributor_ to 6.1
+- Updated _Adamant_ to 5.6.2
+- Updated _Mysticism_ to 2.1.4
+- Updated _Heavy Armory_ to 5.2
+- Updated _Skyrim's Unique Treasures_ to 4.6
+- Wolves of Skyrim_ to 2.1 and verified asset overwrites
+- Updated _Skyrim Outfit System Revived_ to 0.5
+- Updated _Contextual Crosshair_ to 1.3
+- Updated _Skyland AIO_ to 4.06
+- Updated _Legacy Textures Upscaled_ to 1.0.0.6
+- Updated _Glorious Doors of Skyrim_ to 1.1
+- Updated _Ruins Clutter Improved_ to 3.2b
+- Updated _Misc Retexture Project_ to 2.7
+- Updated _Animated Forge Water_ to 0.6
+- Updated _po3's Papyrus Extender_ to 5.4
+- Updated _iWant Widgets_ to 1.31
+- Updated _Curated Bosses for True HUD_ to 1.2
+- Removed _Legacy of the Dragonborn Cleaned Textures_ (redundant)
+
 ## 1.5.1.1
 
 - Sorted the mods by priority TO STOP THE QUESTIONS GATDAMMIT
