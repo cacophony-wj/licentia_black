@@ -1,5 +1,11 @@
 # LICENTIA BLACK CHANGELOG
 
+## 1.7.3
+
+- Enabled the _Clean Menu_ mod for the SFW profile.
+- Fix for missing textures on a couple of SMIM objects (shack roofs)
+- Fix for mipmaps on _Realistic Grass_
+
 ## 1.7.2
 
 - Removed customizations from the player character that were resulting in crashes on load.
