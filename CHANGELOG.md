@@ -1,5 +1,9 @@
 # LICENTIA BLACK CHANGELOG
 
+## 1.7.2
+
+- Removed customizations from the player character that were resulting in crashes on load.
+
 ## 1.7.1.1
 
 - Fix for CBBE 3BA body morph sliders not appearing on character creation.
