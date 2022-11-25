@@ -1,5 +1,13 @@
 # LICENTIA BLACK CHANGELOG
 
+## 1.8
+
+- Added _RaceMenu Undress_
+- Added _RaceMenu Poser_
+- Fixed a god damn neck seam on the wood elves.
+- Fixed ugly female faces on the SAFE profile.
+- Fix for race conditions.
+
 ## 1.7.3
 
 - Enabled the _Clean Menu_ mod for the SFW profile.
