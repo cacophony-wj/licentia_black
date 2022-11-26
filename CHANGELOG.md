@@ -1,5 +1,32 @@
 # LICENTIA BLACK CHANGELOG
 
+## 2.1
+
+- Removed a Riften Prison Guard seduction that can break Static Skill Leveling.
+- Included a fixed script for the Solitude Relic Hunter start.
+
+## 2.0
+
+### ATTENTION: The following mods have only been added to the Licentia KAIDAN Profile.
+
+- Added _Kaidan Extended Edition 8.2.1_ and associated mods from KAIDANMOD.COM!!
+- Added _Dovahnique's High Poly Kaidan Replacer_
+- Added _Peeno - A Mushroom Follower_
+- Added _Flower Girls SE_ and disabled almost all features
+- Added _Flower Girls Sperm Textures_
+- Added _Sex Scene Framework_
+- Added _Secret Lives of Skyrim NPCs_ for the above
+- Added _Destination Weddings_
+- Added _I'm Glad You're Here_
+- Added _BA Bard Songs_
+- Added _Immersive College of Winterhold_
+- Added Mandragora's collection of Daedric and Divine Shrines
+- Added _JS Shrines of the Divines_
+- Added _Glacierslab SSE_
+- Added _SC - Glacierslab Addon_
+- Added _Transparent Icicle and Frost Atronach_
+
+
 ## 1.8
 
 - Added _RaceMenu Undress_
