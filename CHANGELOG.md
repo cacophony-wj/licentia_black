@@ -1,5 +1,38 @@
 # LICENTIA BLACK CHANGELOG
 
+## 3.0
+
+### ATTENTION: The following mods have only been added to the Licentia PITCH Profile.
+
+- Added _SexLab Utility Plus_
+- Added _SexLab Aroused SSE_
+- Added _SexLab Animation Loader SE_
+- Added _Billyy's SLAL Animations 6.2_
+- Added _BakaFactory's SLAL Pack_
+- Added _SLAL M2M Animations_
+- Added _SexLab Separate Orgasm_
+- Added _Spank That Ass SE_
+- Added _ZaZ Animation Pack_
+- Added _Devious Devices 5.2 Beta 7_
+- Added _Pama Prison Alternative_
+- Added _Devious Lore_
+- Added _Deviously Helpless SSE_
+- Added _SL Defeat SSE_
+- Added _Hydra Slavegirls SE_
+- Added _SexLab Sex Slaves SSE_
+- Added _Devious Cidhna_
+- Added _Sisterhood of Dibella_ and associated mods
+- Added _Neophytes of Dibella_
+- Added _Haunted House 1.8_
+- Added _From The Deeps Redone_
+- Added _A Forsworn Story 2.3 SSE_
+- Added _SexLab Confabulation_ and a couple of patches
+- Added _SexLab Eager NPCs SE_
+- Added _Amorous Adventures 3.4 SSE_
+- Added _Amorous Adventures Extended SSE_
+- Added _Amorous Adventures Text and Player Dialogue Revision_
+- Ran BodySlides for this stupid shit.
+
 ## 2.1.1
 
 - Re-enabled _Better Third Person Selection_
