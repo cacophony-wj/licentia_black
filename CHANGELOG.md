@@ -1,5 +1,10 @@
 # LICENTIA BLACK CHANGELOG
 
+## 2.1.1
+
+- Re-enabled _Better Third Person Selection_
+- Re-enabled _Papyrus Tweaks NG_
+
 ## 2.1
 
 - Removed a Riften Prison Guard seduction that can break Static Skill Leveling.
