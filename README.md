@@ -12,10 +12,6 @@ You can find the link to my Discord server at the end of this document.
 
 _Licentia BLACK_ grew from a desire to solve outsanding bugs with the original modlist, _Licentia CLASSIC:_. The performance target for the list has been vastly reduced. The vast majority of the old gameplay from _Licentia Classic_ is here, with an emphasis to expanding _Legacy of the Dragonborn_-associated content. Many of the instructions from the _Licentia Classic_ readme still apply, if you find yourself struggling, please consult that document available [here](https://github.com/cacophony-wj/LeS/blob/master/README.md).
 
-## FEATURING ARTIFACTS OF SKYRIM REVISED AND STAFF ENCHANTING!
-
-Go [here](MODGUIDE.md) for credits and descriptions of the major mods in _Licentia_.
-
 ## Requirements
 
 - [Nexus Premium Account](https://forums.nexusmods.com/index.php?/store/category/1-premium-membership/)
@@ -103,7 +99,7 @@ This shouldn't happen unless you download the list multiple times or download mu
 
 ### Customizing the List for Your PC
 
-**The Below Information Only Applies to Versions after 1.8** (Currently only available from the Jolly Co-Operators Discord)
+**The Below Information Only Applies to Versions after 3.1** (Currently only available from the Jolly Co-Operators Discord)
 
 To better target your system's capabilities, I have separated the ENB configuration into three profiles. You need to choose a configuration based on your system specifications, which can be determined with a tool such as CPU-Z or Hwmonitor. A little use of Google will help you find out how your specific hardware relates to the below recommendations.
 
