@@ -1,5 +1,22 @@
 # LICENTIA BLACK CHANGELOG
 
+## 3.2
+
+- Corrected a mistake with _Dave's UFHD Mountains_ by installing the following mods:
+- Added _Majestic Mountains Darkside_ and patch
+- Added _Majestic Mountains DynDOLOD 3 Pack_
+- Added _Dave's UFHD Majestic Mountains 8K_ and fixes
+- Added _Dave's UFHD Mountains Darker 8K_
+- Also added _Skyrim Landscape Overhaul - Stone Walls_
+- Regenerated LODs, adding roads to the map as well
+- NOT SAVE SAFE!
+
+## 3.1
+
+- Fix for the disappearing health bars during Helgen's destruction
+- Fix for ultimate dodge acting wacky during the same sequence
+- Fix for mismatched LL links
+
 ## 3.0
 
 ### ATTENTION: The following mods have only been added to the Licentia PITCH Profile.

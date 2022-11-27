@@ -101,10 +101,46 @@ This shouldn't happen unless you download the list multiple times or download mu
 
 ## Post-Installation
 
+### Customizing the List for Your PC
+
+**The Below Information Only Applies to Versions after 1.8** (Currently only available from the Jolly Co-Operators Discord)
+
+To better target your system's capabilities, I have separated the ENB configuration into three profiles. You need to choose a configuration based on your system specifications, which can be determined with a tool such as CPU-Z or Hwmonitor. A little use of Google will help you find out how your specific hardware relates to the below recommendations.
+
+If you are on an extreme potato computer such as a laptop or a system with integrated Intel graphics, you need to find three mods in the left pane of _Mod Organizer 2_, "ENB Helper," "ENB Input Disabler" and "Improved Camera." Uncheck these mods before launching the game or you will crash.
+
+If you are on a low end machine (older than 7-10 years) with any of the following:
+
+- Intel i3 or AMD Ryzen 3 or earlier
+- NVIDIA GTX 980 or AMD Vega 64 or earlier
+
+You need to navigate to the "Stock Game" folder and copy all of the files inside the "enb low" directory into the base "Stock Game" folder, then launch the list.
+
+If you are on a midrange machine (within 5 years) with newer hardware than the above but older than the following:
+
+- Intel i5 or AMD Ryzen 5 or earlier
+- NVIDIA GTX 2060 or AMD Radeon RX 580 or earlier
+
+You need to navigate to the "Stock Game" folder and copy all of the files inside the "end medium" directory into the base "Stock Game" folder, then launch the list.
+
+If you are on a high-end machine with
+
+- intel i7 or AMD Ryzen 5600 or later
+- NVIDIA GTX 2070 SUPER or AMD Radeon 5700 XT or later
+
+You need to navigate to the "Stock Game" folder and copy all of the files inside the "enb high" directory into the base "Stock Game" folder, then launch the list.
+
+If you are on a beast rig with something like a 3090 or god forbid a 4090, a 5800x3D or 11900K or better, you will probably find more satisfaction out of a different Wabbajack modlist.
+
+If you are confident you meet the requirements for one of the above targets, but still experience severe performance drops, you may need to customize your BIOS settings to maximize your hardware. Refer to your motherboard's documentation about enabling XMP or DOCP profiles.
+
+### Launching the List
+
 Launch _ModOrganizer.exe_ from the directory in which you installed the list. Launch the game from the **SKSE** entry in the drop-down menu.
 
-**NEW!** If you are interested in a profile with none of the adult mods and much fewer instances of nudity (along with no male nudity) select the "Licentia SAFE" profile from the dropdown above the list of mods before starting your game!
+If you are interested in a profile with none of the adult mods and much fewer instances of nudity (along with no male nudity) select the "Licentia SAFE" profile from the dropdown above the list of mods before starting your game!
 
+**NEW** Available now from the _Jolly Co-Operators_ Discord (at the end of this document), I now offer the future of _Licentia BLACK_ in the _Licentia KAIDAN_ profile, which emphasizes a male romance option with easily as much depth as the weathered old mare Serana. Also available are expanded romance options such as I'm Glad You're Here, A Skyrim Kiss and Destination Weddings. For the more horny degenerates, I also offer the _Licentia PITCH_ profile which emphasizes the most reliable SexLab quests available on Lover's Lab, along with plenty of Coom. Join my Discord and check #list-updates for information on these profiles if you are interested in them.
 
 ## MCM CONFIGURATION
 
