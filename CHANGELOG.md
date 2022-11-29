@@ -1,5 +1,20 @@
 # LICENTIA BLACK CHANGELOG
 
+## 3.4.1
+
+- Reconfigured _SSE Engine Fixes_ to handle saves properly. NOT SAVE SAFE!
+- Reconfigured _SSE Display Tweaks_ to rescale for differing resolutions.
+- Added _Vanilla Hair - Salt & Wind_
+- Added _KS Hairdos 1.7 Salt & Wind_
+- Added _KS Hairdos 1.8 Salt & Wind_
+- Added _Kalilies NPCs - Salt & Wind_
+- Added _Pandorable's NPCs Dragonborn - Salt & Wind_
+- Added _Pandorable's NPCs Dawnguard SE - Salt & Wind_
+- Added _Pandorable's Males - Salt & Wind_
+- Added multiple mods from _Foamimi's Salt & Wind Retexture Hub_
+- Added _Norse God - Male Character Preset_ in all variations
+- Added _IchDerMan's Preset Collection_
+
 ## 3.3
 
 - Added _OBody NG Standalone_ to the profiles without _OStim_
