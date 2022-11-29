@@ -1,5 +1,69 @@
 # LICENTIA BLACK CHANGELOG
 
+## 3.3
+
+- Added _OBody NG Standalone_ to the profiles without _OStim_
+- Enabled BodySlide presets that would allow the above to work
+- Added _Blended Roads_
+- Added _Blended Roads Redone 2K_
+- Added _Immersive Armors - SSE CBBE BodySlide_
+- Added _Immersive Armor Retexture CBBE_
+- Added _Immersive Armor HIMBO Conversion V2_
+- Added _Immersive Armor Weight Patch with CBBE_
+- Added _Fix for Invisible Hud AFter Helgen Intro_
+- Updated _Papyrus Tweaks NG_ to 3.0
+- Updated _Serana Dialogue Add-On_ to 3.3.1
+- Updated _SDA Patch Hub SE_ to 1.8
+- Updated _Destination Weddings_ to 1.1.1
+- Updated _OpenSex Standalone_ to 1.11.2
+- Updated _OCum Ascended_ to 2.2
+- Updated _VIGILANT SE_ to 1.7.1
+- Updated _VIGILANT SE HiRes Pack_ to 1.7b
+- Updated _VIGILANT VOICED_ to 1.7.1
+- Updated _VIGILANT - NPC Overhaul_ to 2.8
+- Updated _VIGILANT Armors and Weapons Retexture SE_ to 4.0
+- Updated _VIGILANT Book Covers_ to 1.5
+- Updated _The Wheels of Lull SE_ to 5.1.8
+- Updated _Legacy of the Dragonborn Patches_ to 2.9.5
+- Updated _Legacy of the Dragonborn CC Patch Hub_ to 5.1.2
+- Updated _Unofficial Skyrim CC Content Patch_ to 7.2
+- Updated _The Ultimate Dodge Mod SPID Patch_ to 1.2
+- Updated _Mysticism_ to 2.1.4
+- Updated _Treasure Hunter for SSE_ to 1.2.1
+- Updated _Ancient Nord Stalhrim_ to 1.2.3
+- Updated _Skyrim Rebalanced Revamped & Releveled_ to 2.49
+- Updated _Real Wildlife Improved SE_ to 4.1
+- Updated _Dwemer Spectres Special Edition_ to 4.0
+- Updated _Frozen Electrocuted Combustion_ to 5.1
+- Updated _Storm Lightning for SSE & VR_ to 1.4.17
+- Updated _Embers XD_ to 2.6.6
+- Updated _Simplicity of Snow_ to 0.10
+- Updated _Happy Little Trees_ to 2.03
+- Updated _Happy Little Shrubs_ to 1.17
+- Updated _Lux_ to 5.2
+- Updated _Lux Orbis_ to 3.0
+- Updated _Enhanced Volumetric Lighting & Shadows (EVLaS) to 1.3.1
+- Updated _Immersive Sounds Compendium CC Armor Patches_ to 2.01
+- Updated _A Clear Map of Skyrim and Other Worlds_ to 4.0
+- Updated _Happy Little Trees DynDOLOD Add-On_ to 2.02
+- Updated _Unofficial Lux Patchhub_ to 1.01
+- Updated _Ultimate Combat & Creatures Behavior Compatibility_ to 1.32
+- Updated _Better Third Person Selection_ to 2.2.3
+- Updated _Essential Favorites_ to 2.3
+- Updated _Favorite Misc Items_ to 3.7.1
+- Updated _Read or Take SKSE_ to 1.2
+- Updated _Quiet Better Jumping for CGO_ to 1.3
+- Updated _Oxygen Meter_ to 1.3
+- Updated _Informed Mail Delivery_ to 1.4
+- Updated _Unofficial Skyrim Special Edition Patch_ to 4.2.8
+- Updated _Unofficial Skyrim Modder's Patch_ to 2.5.7
+- Updated _SSE Display Tweaks_ to 0.5.12
+- Updated _SSE Engine Fixes_ to 5.9.1
+- Enabled _Daedric Srhines by Mandragora_ on all profiles
+- Reran _Nemesis_
+- Regenerated BodySlides.
+- Regenerated LODs
+
 ## 3.2
 
 - Corrected a mistake with _Dave's UFHD Mountains_ by installing the following mods:
