@@ -1,5 +1,10 @@
 # LICENTIA BLACK CHANGELOG
 
+## 3.4.2
+
+- Added _Immersive Armors Retexture and Mesh Fixes._ Oops.
+- Fixed a darkface bug on Kaidan in the KAIDAN profile. Synthesis seems to have picked up the wrong head data.
+
 ## 3.4.1
 
 - Reconfigured _SSE Engine Fixes_ to handle saves properly. NOT SAVE SAFE!
