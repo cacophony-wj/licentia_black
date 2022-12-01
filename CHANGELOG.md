@@ -1,5 +1,18 @@
 # LICENTIA BLACK CHANGELOG
 
+## 3.4.3.1
+
+- Removed a messed-up RaceMenu UI.
+
+## 3.4.3
+
+- Added _Song of the Green - Auri Lenka Replacer_ (KAIDAN profile)
+- Added _My Lovely Lydia_ (KAIDAN profile)
+- Added _Likeable Lucien_ (KAIDAN profile)
+- Fixed various seams on Kaidan's body. (KAIDAN profile)
+- Fixed Lydia's silent voice. (ALL profiles)
+- Fixed HUD inconsistensies. (ALL profiles)
+
 ## 3.4.2
 
 - Added _Immersive Armors Retexture and Mesh Fixes._ Oops.
