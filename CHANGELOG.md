@@ -1,5 +1,17 @@
 # LICENTIA BLACK CHANGELOG
 
+## 3.4.4
+
+- Enabled the _Skyrim Remastered Ice_ mod on profiles where it was disabled.
+- Removed _My Lovely Lydia_ from KAIDAN due to an incompatibility causing a neck gap.
+- This should fix the darkface bug on Lydia in all other profiles.
+- Lydia is now back to her apperance from the _NVICO_ mod. Open to suggestions for her replacer!
+- Fixed a blank texture on braziers outside of Windhelm's gate.
+- Moved the Content Warning ESPs so that they actually warn about content.
+- Hid MOST of the ESPs in the merges.
+- Set the default resolution to 1920x1080 because DisplayDownscaling is not a thing.
+- Deleted a couple of redundant downloads.
+
 ## 3.4.3.1
 
 - Removed a messed-up RaceMenu UI.
