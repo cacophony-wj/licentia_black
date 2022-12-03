@@ -1,5 +1,11 @@
 # LICENTIA BLACK CHANGELOG
 
+## 3.5.0.1
+
+- Fixed improper appearances on Auri and Kaidan that may have led to crashes.
+- Fixed a buggy patch that may have stalled Kaidan's wedding quest.
+- Return the ENB HIGH preset to the Stock Game folder.
+
 ## 3.4.5
 
 - Downgraded _Better Third Person Selection_ to 5.5 to prevent system freezes.
