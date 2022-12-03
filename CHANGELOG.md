@@ -1,5 +1,15 @@
 # LICENTIA BLACK CHANGELOG
 
+## 3.4.5
+
+- Downgraded _Better Third Person Selection_ to 5.5 to prevent system freezes.
+- Decided to experiment with _The Curator's Companion_ on the KAIDAN profile. Don't get too attached.
+- Fixed a bug on the PITCH profile where the nude body was default _CBBE._
+- Added additional mods for 21x9 and 32x9 support. **NOTE:** These are unsupported as I do not own any relevant video displays.
+- Verified _Multi Adoption_ was working properly. To move a child into a CC home, use the "Bless Home" spell.
+- Enabled and placed some mesh fixes for Lux on all profiles properly.
+- Moved a couple of ESPs for more consistent Load Order.
+
 ## 3.4.4
 
 - Enabled the _Skyrim Remastered Ice_ mod on profiles where it was disabled.
