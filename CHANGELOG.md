@@ -1,5 +1,15 @@
 # LICENTIA BLACK CHANGELOG
 
+## 3.5.1
+
+- Updated _Immersive Armors Retexture CBBE_ to 1.10
+- Replaced the Ringmail armor with a visible version!
+- Replaced the Vanguard armor that was causing skirt crashes!
+- Ensured that NPC skills and abilities were forwarded from Immersive College
+- Fixed a darkface bug on Mercer Frey
+- Installed the correct version of _Devious Cidhna_ to fix crash on load with PITCH
+- Disabled a fishing patch that may cause crashes about 5 - 10 minutes in
+
 ## 3.5.0.1
 
 - Fixed improper appearances on Auri and Kaidan that may have led to crashes.
