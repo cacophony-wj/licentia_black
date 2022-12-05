@@ -15,6 +15,7 @@
 
 The following updates are for the **KAIDAN** profile **ONLY**
 
+- Difficulty is set to NOVICE so I can have fun for once. Change to ADEPT or higher recommended.
 - Swapped _Schlongs of Skyrim Light_ for _Schlongs of Skyrim Full_
 - Swapped the _SOS Light_ male skins for their _SOS Full_ variants.
 - Added _SOS Futanari CBBE_ and the _Demoniac_ blending patch.
