@@ -1,5 +1,29 @@
 # LICENTIA BLACK CHANGELOG
 
+## 3.7
+
+- Added the available _OStim NG_ updates to _Billyy's Animation Packs._
+- Added _Vanilla Script MicroOptimizations_
+- Fixed darkface bugs, particularly on Auri and Esperance from _Secret Lives._
+- Fixed a bug where animations on the _PITCH_ and _SAFE_ profiles were not installing correctly in some cases.
+- Attempted a weapon speed fix. If you have weapon speed issues, please try enabling the fix in the _SPERG_ MCM.
+- Enabled the option to level skills without sleeping. If you prefer to sleep to level up, turn on _Survival Mode._
+- Enabled _LOTD_ support for the _Fishing CC_ content.
+- Patched all smithing ingredients to their default weight values.
+- Returned _Synthesis_ to the tools folder and re-enabled patchers.
+- Reran _Nemesis_
+
+The following updates are for the **KAIDAN** profile **ONLY**
+
+- Swapped _Schlongs of Skyrim Light_ for _Schlongs of Skyrim Full_
+- Swapped the _SOS Light_ male skins for their _SOS Full_ variants.
+- Added _SOS Futanari CBBE_ and the _Demoniac_ blending patch.
+- Created two new MCM Recordings:
+- The _FUTA_ recording makes a female character a futanari and causes 1 out of every 20 females to be futanari.
+- The _NO FUTA_ recording disables all futanari content.
+- IF YOU DO NOT RUN ONE OF THESE RECORDINGS, 1 out of every 10 females WILL BE A FUTANARI (a girl with a penis)
+- Thank you to @iAmMe for his additions guide for the futa stuff! I hate it but I know some people really love it!
+
 ## 3.6
 
 - Removed _ORomance_ as that seems to be the cause of _OStim_ scenes failing after 50 hours.
