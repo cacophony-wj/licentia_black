@@ -1,5 +1,19 @@
 # LICENTIA BLACK CHANGELOG
 
+## 3.6
+
+- Removed _ORomance_ as that seems to be the cause of _OStim_ scenes failing after 50 hours.
+- Enabled the PITCH OUTPUT that was causing problems with _Nemesis_ on the SexLab profile.
+- Verified that the bondage shop is present outside of Whiterun.
+- Fixed a few darkface bugs due to bad load order.
+- Fixed _Synthesis_ runs so fewer of these darkfaces will occur.
+- Replaced the _Troll Hunter_ armor that appears to be causing crashes in Dragonsreach.
+- Monitoring a situation where Dunheviir, the Undead Dragon in the Soul Cairn, may cause system freezes when killed.
+- Please advise me immediately if this bug occurs for you.
+- Compiled and submitted reports from myself and a friend that may help resolve WJ install corruption.
+- Perhaps some other fixes I forgot. It has been a frustrating couple of days.
+- Yes I do accept tips.
+
 ## 3.5.1
 
 - Updated _Immersive Armors Retexture CBBE_ to 1.10
