@@ -1,5 +1,20 @@
 # LICENTIA BLACK CHANGELOG
 
+## 3.7.2
+
+- Fixed the garbled genitalia on the males of the _KAIDAN_ profile
+- Disabled the underwear on the _KAIDAN_ profile.
+- Left easter eggs to assauge your boredom.
+
+## 3.7.1.1
+
+- Removed the IGNORE flag from the reinstalled armor textures.
+
+## 3.7.1
+
+- Reinstalled some missing textures that were causing certain armors to be purple.
+- Potential fix for the Dragonsreach crash some users experienced.
+
 ## 3.7
 
 - Added the available _OStim NG_ updates to _Billyy's Animation Packs._
