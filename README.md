@@ -89,7 +89,7 @@ Some Internet providers have difficulty accessing the servers which host the fil
 
 **Wabbajack could not find my game folder:**
 
-_Licentia_ will not work with a GOG or pirated version of the game. If you own the game on _Steam,_ go back to the Pre-Installation step. If this still doesn't work, ensure that you are not running Wabbajack as an Administrator. DO NOT ASK FOR HELP WITH PIRATED GAMES ON THE WABBAJACK DISCORD.
+_Licentia_ will not work with a GOG or pirated version of the game. If you own the game on _Steam,_ go back to the Installation step. If this still doesn't work, ensure that you are not running Wabbajack as an Administrator. DO NOT ASK FOR HELP WITH PIRATED GAMES ON THE WABBAJACK DISCORD.
 
 **MEGA download cap exceeded.**
 
