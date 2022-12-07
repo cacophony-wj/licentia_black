@@ -132,7 +132,7 @@ If you are confident you meet the requirements for one of the above targets, but
 
 Launch _ModOrganizer.exe_ from the directory in which you installed the list. Launch the game from the **SKSE** entry in the drop-down menu.
 
-# IF YOU RECEIVE A SWAPCHAIN ERROR WHEN YOU LAUNCH THE LIST, YOU DID NOT READ. READ!!**
+# IF YOU RECEIVE A SWAPCHAIN ERROR WHEN YOU LAUNCH THE LIST, YOU DID NOT READ. READ!!
 
 If you are interested in a profile with none of the adult mods and much fewer instances of nudity (along with no male nudity) select the "Licentia SAFE" profile from the dropdown above the list of mods before starting your game!
 
