@@ -23,10 +23,6 @@ Configurable. Keep reading or crash. It's your world, I'm just writing READMEs i
 
 ## Installation
 
-##  Pre-Installation
-
-These steps are only needed if you install this Modlist for the first time. If you update the Modlist, jump straight to **Updating**.
-
 ###  Installing Microsoft Visual C++ Redistributable Package
 
 I doubt you need to do this since you likely already have this installed. The package is required for MO2 and you can download it from Microsoft. Download the x64 version under "Visual Studio 2015, 2017 and 2019". <a href="https://aka.ms/vs/16/release/vc_redist.x64.exe">Direct link</a> if you can't find it.
