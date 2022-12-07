@@ -115,7 +115,7 @@ If you are on a midrange machine (within 5 years) with newer hardware than the a
 - Intel i5 or AMD Ryzen 5 or earlier
 - NVIDIA GTX 2060 or AMD Radeon RX 580 or earlier
 
-You need to navigate to the "Stock Game" folder and copy all of the files inside the "end medium" directory into the base "Stock Game" folder, then launch the list.
+You need to navigate to the "Stock Game" folder and copy all of the files inside the "enb medium" directory into the base "Stock Game" folder, then launch the list.
 
 If you are on a high-end machine with
 
