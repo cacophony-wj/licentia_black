@@ -212,7 +212,7 @@ Hardest difficulty on all mods, severely nerfed spells and perks, followers and 
 
 Then close the MCM Menu, **TOUCH NOTHING**, and click the "Run Recording" button when it appears. Wait for all messages to stop and a message to pop up saying playback is finished. 
 
-**Next up, how do you feel about women with penises? **
+**Next up, how do you feel about women with penises?**
 
 If you **DO NOT** like women with penises, or you are one of _those_ "Two Scoops, Two Sexes, Two Terms" people, you must run the "NO FUTA" option (otherwise known as the "BRO" option). This will disable all "futanari" (miraculously attractive females who also have large penises) from your game.
 
