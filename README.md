@@ -47,6 +47,10 @@ The _Anniversary Edition_ upgrade is required. No exceptions will be made. If yo
 
 This includes `Program Files,` `Downloads`, `Documents`, the `Desktop` or any other folders that Windows considers "Protected" (essential to the operating system). If the _Wabbajack_ folder, the _Skyrim Special Edition_ folder, the _Steam_ folder, the modlist folder or the downloads folder are in any of these directories, the modlist will not function properly. Relocate offending folders to a non-Protected location such as the root directory of one of your drives. (D:\ for example.) _Google_ can assist you with accomplishing this.
 
+**Do Not Use Any Protected Folders inside of Onedrive**
+
+You will experience tons of weird bugs if your `My Games` folder (usually in the `Documents` folder) is part of a _OneDrive_ Cloud Folder. You will need to relocate it or disable _OneDrive._ There are no exceptions.
+
 **Disable or Uninstall Offensive Anti-Malware Programs**
 
 Exclude antivirus and anti-malware programs from monitoring three directories: those containing the _Wabbajack_ app, the _Skyrim Special Edition_ game folder, and the directory in which you wish to install the modlist. _Wabbajack_ and _Mod Organizer_ 2 both use low-level file system virtualization which most anti-malware programs falsely detect as malicious. 
