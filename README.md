@@ -203,6 +203,7 @@ Go to the "Profiles" section and "Load" a profile. "Sane Violence" enables killm
 You should only run **ONE** of these! (Please choose at least one, each configures a baseline setup that is recommended for this modlist.) 
 
 O I want it fun!
+
 O I want it immersive.
 
 Then close the MCM Menu, **TOUCH NOTHING**, and click the "Run Recording" button when it appears. Wait for all messages to stop and a message to pop up saying playback is finished. 
