@@ -212,13 +212,15 @@ Hardest difficulty on all mods, severely nerfed spells and perks, followers and 
 
 Then close the MCM Menu, **TOUCH NOTHING**, and click the "Run Recording" button when it appears. Wait for all messages to stop and a message to pop up saying playback is finished. 
 
-**Next up, how do you feel about women with penises?**
+## Next up, are you playing on the KAIDAN profile?
+
+## How do you feel about women with penises?
 
 If you **DO NOT** like women with penises, or you are one of _those_ "Two Scoops, Two Sexes, Two Terms" people, you must run the "NO FUTA" option (otherwise known as the "BRO" option). This will disable all "futanari" (miraculously attractive females who also have large penises) from your game.
 
 If you **DO** like women with penises, run the "FUTA" option (otherwise known as the "BRUH" option). This will set a female PC to a futanari and enable a small chance for any given female NPC to also be a futanari.
 
-# IF YOU DO NOT RUN ONE OF THE FUTA OPTIONS ABOUT EVERY TENTH WOMAN WILL HAVE A HUGE PENIS.
+# IF YOU DO NOT RUN ONE OF THE FUTA OPTIONS ON THE KAIDAN PROFILE ABOUT EVERY TENTH WOMAN WILL HAVE A HUGE PENIS.
 
 You might have noticed there are a couple of other options here. You can run one or both as you see fit.
 
