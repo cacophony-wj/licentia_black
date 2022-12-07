@@ -204,19 +204,27 @@ You should only run **ONE** of these! (Please choose at least one, each configur
 
 O I want it fun!
 
+Easiest difficulty on all mods, most powerful options for spells and perks, no additional spawns, no fine print. You probably want this one.
+
 O I want it immersive.
+
+Hardest difficulty on all mods, severely nerfed spells and perks, followers and pets do not teleport, more maintenance required, no popup messages to tell you when things are going wrong. Best for _Survival Mode._ Slightly less easy to abuse.
 
 Then close the MCM Menu, **TOUCH NOTHING**, and click the "Run Recording" button when it appears. Wait for all messages to stop and a message to pop up saying playback is finished. 
 
-You might have noticed there are several other options here. You can run as many of them additionally as you wish.
+**Next up, how do you feel about women with penises? **
+
+If you **DO NOT** like women with penises, or you are one of _those_ "Two Scoops, Two Sexes, Two Terms" people, you must run the "NO FUTA" option (otherwise known as the "BRO" option). This will disable all "futanari" (miraculously attractive females who also have large penises) from your game.
+
+If you **DO** like women with penises, run the "FUTA" option (otherwise known as the "BRUH" option). This will set a female PC to a futanari and enable a small chance for any given female NPC to also be a futanari.
+
+# IF YOU DO NOT RUN ONE OF THE FUTA OPTIONS ABOUT EVERY TENTH WOMAN WILL HAVE A HUGE PENIS.
+
+You might have noticed there are a couple of other options here. You can run one or both as you see fit.
 
 "I want it hard as FUCK!" vastly increases the difficulty of dragon and modded encounters as well as adds up to 40 - 80 additional enemies in every dungeon or zone. 
 
  "I want it slutty!" makes it so that NPCs are more responsive to your advances, enables your clothes being knocked off during combat, and increases the frequency that you get exploited in other ways rather than killed. 
-
-"FUTA" (the "BRUH" option) configures a female character to be a "futanari" (female looking character with a penis) and sets a small chance for any given female NPC to also be a futanari. Ignore errors about any missing menu options, you will receive such errors if you are male.
-
-"NO FUTA" (the "BRO" option) disables all futanari from the game.
 
 ## FINAL NOTES
 
