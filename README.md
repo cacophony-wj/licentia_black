@@ -101,8 +101,6 @@ This shouldn't happen unless you download the list multiple times or download mu
 
 ### Customizing the List for Your PC
 
-**The Below Information Only Applies to Versions after 3.1** (Currently only available from the Jolly Co-Operators Discord)
-
 To better target your system's capabilities, I have separated the ENB configuration into three profiles. You need to choose a configuration based on your system specifications, which can be determined with a tool such as CPU-Z or Hwmonitor. A little use of Google will help you find out how your specific hardware relates to the below recommendations.
 
 If you are on an extreme potato computer such as a laptop or a system with integrated Intel graphics, you need to find three mods in the left pane of _Mod Organizer 2_, "ENB Helper," "ENB Input Disabler" and "Improved Camera." Uncheck these mods before launching the game or you will crash.
