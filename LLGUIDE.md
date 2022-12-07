@@ -172,6 +172,8 @@ File: `SexLab Utility Plus v20221027.7z`
 
 Comments: Adds a ton of configuration options to the basic _SexLab_ MCM, including many different kinds of filters for animation types. It's recommended to enable them all to narrow them down as much as possible, because the mod tends to ignore some animations in a list numbering more than 250, regardless of how much the hard _SLAL_ limit is expanded.
 
+## OStim Solutions - A SexLab Solutions Revisited Port
+
 URL: https://www.loverslab.com/files/file/17441-ostim-solutions-a-sexlab-solutions-revisited-port/
 
 File: `SexLab_Solutions_Revisited_SE_-_Ostim_Beta_5.zip`
