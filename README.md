@@ -230,7 +230,7 @@ Ignore any messages about missing menu options. They will not affect your game.
 
 ## FINAL NOTES
 
-When you reach your first exterior world location, you will be prompted to enable _Survival Mode_. With this option enabled, you will not be able to fast travel normally, markers can be placed next to other markers, and you will have to eat food, sleep, and stay warm to survive. (Fast travel can, however, be enabled on _Survival Mode_ by consulting the _Conner's Survival Mode_ MCM. You will also receive a prompted about which deity you wish to worship, depending on your race. Choose according to your preference.
+When you reach your first exterior world location, you will be prompted to enable _Survival Mode_. With this option enabled, you will not be able to fast travel normally, markers can be placed next to other markers, and you will have to eat food, sleep, and stay warm to survive. (Fast travel can, however, be enabled on _Survival Mode_ by consulting the _Conner's Survival Mode_ MCM.) You will also receive a prompted about which deity you wish to worship, depending on your race. Choose according to your preference.
 
 ## Updating the Modlist
 
