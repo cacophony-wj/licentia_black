@@ -1,5 +1,11 @@
 # LICENTIA BLACK CHANGELOG
 
+## 3.7.3
+
+- Fix for the guydick that would not stay customized if the user chose to do so.
+- Fix for the floating distorted girldick.
+- _I really scuffed it on the dicks, didn't I_
+
 ## 3.7.2
 
 - Fixed the garbled genitalia on the males of the _KAIDAN_ profile

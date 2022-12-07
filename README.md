@@ -140,6 +140,8 @@ If you are interested in a profile with none of the adult mods and much fewer in
 
 ## MCM CONFIGURATION
 
+## IF YOU WISH TO PLAY THE "PITCH" SEXLAB PROFILE, READ THE LLGUIDE.md LOCATED ELSEWHERE IN THIS GITHUB REPO!!
+
 ## WHEN YOU SPAWN IN HELGEN'S INN, DO NOT TOUCH ANYTHING!
 
 Wait until the _Fertility Mode_ question appears on your screen. 
