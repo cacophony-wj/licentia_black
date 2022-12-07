@@ -1,5 +1,10 @@
 # LICENTIA BLACK CHANGELOG
 
+## 3.3.7.1
+
+- Included "enb medium" by default to reduce support burdens from people who don't read.
+- Cleaned up the readme and made it less hostile.
+
 ## 3.7.3
 
 - Fix for the guydick that would not stay customized if the user chose to do so.
