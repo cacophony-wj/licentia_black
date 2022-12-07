@@ -2,7 +2,7 @@
 
 ## Including Caco's Limited Pitch Profile Guide
 
-If it is your intention to play the PITCH profile despite your good judgment, it is recommended to visit the description pages of all the complex mods listed below and try to at least read them once to understand how they work. Otherwise you are likely to have a bad time, because often they don't make obvious sense or don't perform as intended. They _always_ require special care and consideration to use properly, especially if you plan on any sort of long-term gameplay. Any notes or comments I have about using the mods myself I have appended to the links.
+I could configure all the Mod Configuration Menus for you with yet another recording, but I'm not going to. I think it would actually be counter-productive to your enjoyment of the list. As a matter of fact, playing the profile at all is probably counter-productive. But if it is your intention to play the PITCH profile despite your good judgment, it is recommended to visit the description pages of all the complex mods listed below and try to at least read them once to understand how they work. Then spend time exploring all the Mod Configuration Menus yourself and experimenting with the settings. Otherwise you are likely to have a bad time, because often _SexLab_ mods don't make much obvious sense or don't perform as intended. They _always_ require special care and consideration to use properly, especially if you plan on any sort of long-term gameplay. Any notes or comments I have from using the mods myself I have appended to the links.
 
 ## Billyy's SLAL Animations (11-2-2022)
 
