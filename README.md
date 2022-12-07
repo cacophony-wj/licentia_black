@@ -224,7 +224,9 @@ You might have noticed there are a couple of other options here. You can run one
 
 "I want it hard as FUCK!" vastly increases the difficulty of dragon and modded encounters as well as adds up to 40 - 80 additional enemies in every dungeon or zone. 
 
- "I want it slutty!" makes it so that NPCs are more responsive to your advances and also gives more buffs for sexual activity, as well as makes it easier to gain skill points via such methods.
+"I want it slutty!" makes it so that NPCs are more responsive to your advances and also gives more buffs for sexual activity, as well as makes it easier to gain skill points via such methods.
+
+Ignore any messages about missing menu options. They will not affect your game.
 
 ## FINAL NOTES
 
