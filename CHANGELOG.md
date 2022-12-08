@@ -1,6 +1,6 @@
 # LICENTIA BLACK CHANGELOG
 
-## 3.3.7.1
+## 3.7.3.1
 
 - Included "enb medium" by default to reduce support burdens from people who don't read.
 - Cleaned up the readme and made it less hostile.
