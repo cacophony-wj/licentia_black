@@ -1,4 +1,6 @@
-# LICENTIA BLACK!! READ!! OR LEARN TO ENJOY CRASHES!!
+# LICENTIA BLACK
+
+![Licentia Black Splash Screen](images/Splash%20Screen%20with%20Logo.jpg)
 
 ## Just a touch darker than before.
 
@@ -10,70 +12,64 @@ You can find the link to my Discord server at the end of this document.
 
 **This Modlist contains mods with sexual content and you need to be of legal age in your country (most western countries: 18+, some eastern ones: 21+)**.
 
-_Licentia BLACK_ grew from a desire to solve outsanding bugs with the original modlist, _Licentia CLASSIC:_. The performance target for the list has been vastly reduced. The vast majority of the old gameplay from _Licentia Classic_ is here, with an emphasis to expanding _Legacy of the Dragonborn_-associated content. Many of the instructions from the _Licentia Classic_ readme still apply, if you find yourself struggling, please consult that document available [here](https://github.com/cacophony-wj/LeS/blob/master/README.md).
+_Licentia BLACK_ grew from a desire to solve outsanding bugs with the original modlist, _Licentia CLASSIC:_. The performance target for the list has been vastly reduced. The vast majority of the old gameplay from _Licentia Classic_ is here, with an emphasis to expanding _Legacy of the Dragonborn_-associated content. Many of the instructions from the _Licentia Classic_ readme still apply, if you find yourself struggling, please consult that document available [here](https://github.com/cacophony-wj/LeS/.md). You might also find other helpful tips in the `TROUBLESHOOTING.md` document found in that repository.
 
 ## Requirements
 
 - [Nexus Premium Account](https://forums.nexusmods.com/index.php?/store/category/1-premium-membership/)
 - [LoversLab Account](https://www.loverslab.com/)
 
-### System Specs
-
-Configurable. Keep reading or crash. It's your world, I'm just writing READMEs in it.
-
 ## Installation
 
 ###  Installing Microsoft Visual C++ Redistributable Package
 
-I doubt you need to do this since you likely already have this installed. The package is required for MO2 and you can download it from Microsoft. Download the x64 version under "Visual Studio 2015, 2017 and 2019". <a href="https://aka.ms/vs/16/release/vc_redist.x64.exe">Direct link</a> if you can't find it.
+The _Microsoft Visual C++_ redistributable package is required for _Mod Organizer 2_ and you can download it from _Microsoft._ Download the x64 version under "Visual Studio 2015, 2017 and 2019" [here](https://aka.ms/vs/16/release/vc_redist.x64.exe).
 
 ###  Steam Config
 
 **Change Steam's Update Behavior**
 
-To ensure that _Steam_ does not automatically update _Skyrim_ for you and lock you out of playing your _Wabbajack_ modlist(s), head over to the Properties window, navigate to the Updates tab and change Automatic updates to _Only update this game when I launch it_. You should also disable the _Steam Cloud_ while you're at it.
+To ensure that _Steam_ does not automatically update _Skyrim_ for you and lock you out of playing your _Wabbajack_ modlist(s), open the Properties window of _Skyrim AE_ in _Steam_, navigate to the Updates tab and change Automatic updates to _Only update this game when I launch it_. You should also disable the _Steam Cloud_. It is incompatible with the profile-specific saves of a _Wabbajack_ modlist.
 
 **Set the Game language to English**
 
-Wabbajack will check your game files and make sure that we have the same version. This also means that any other language than English will fail the installation.
-
-Open the Steam Properties window, navigate to the Language tab and select English from the dropdown menu.
+_Wabbajack_ will check your game files and make sure that your installed version is the same as my installed version. This also means that any other language than English will fail the installation. You can change the game's language in the Properties window as mentioned above. It may be required to verify your files afterward.
 
 **Install Skyrim** 
 
-The _Anniversary Edition_ upgrade is required. No exceptions will be made. If you do not have the game installed, do so and launch the vanilla game to download all _Creation Club_ content available with the upgrade.
+The _Anniversary Edition_ upgrade is required. No exceptions will be made. If you do not have the game installed, do so and launch the vanilla game to download all _Creation Club_ content available with the upgrade. If for some reason you have problems with your _Steam_ installation, you may need to verify the local content as described in _Steam's_ documentation.
 
 **Do Not Use Any Part of This List in a Protected Folder**
 
-This includes `Program Files,` `Downloads`, `Documents`, the `Desktop` or any other folders that Windows considers "Protected" (essential to the operating system). If the _Wabbajack_ folder, the _Skyrim Special Edition_ folder, the _Steam_ folder, the modlist folder or the downloads folder are in any of these directories, the modlist will not function properly. Relocate offending folders to a non-Protected location such as the root directory of one of your drives. (D:\ for example.) _Google_ can assist you with accomplishing this.
+This includes `Program Files,` `Downloads`, `Documents`, the `Desktop` or any other folders that _Windows_ considers "Protected" (essential to the operating system). If the _Wabbajack_ folder, the _Skyrim Special Edition_ folder, the _Steam_ folder, the modlist folder or the downloads folder are in any of these directories, the modlist will not function properly. Relocate offending folders to a non-Protected location such as the root directory of one of your drives. (D:\ for example.)
 
 **Do Not Use Any Protected Folders inside of OneDrive**
 
-You will experience tons of weird bugs if your `My Games` folder (usually in the `Documents` folder) is part of a _OneDrive_ Cloud Folder. You will need to relocate it or disable _OneDrive._ There are no exceptions.
+You will experience unusual behavior if your `My Games` folder (usually in the `Documents` folder) is part of a _OneDrive_ Cloud Folder. You will need to relocate it or disable _OneDrive._ There are no exceptions.
 
-**Disable or Uninstall Offensive Anti-Malware Programs**
+**Make Exceptions for Anti-Malware Programs**
 
-Exclude antivirus and anti-malware programs from monitoring three directories: those containing the _Wabbajack_ app, the _Skyrim Special Edition_ game folder, and the directory in which you wish to install the modlist. _Wabbajack_ and _Mod Organizer_ 2 both use low-level file system virtualization which most anti-malware programs falsely detect as malicious. 
+Exclude antivirus and anti-malware programs from monitoring three directories: those containing the _Wabbajack_ app, the _Skyrim Special Edition_ game folder, and the directory in which you wish to install the modlist. _Wabbajack_ and _Mod Organizer 2_ both use low-level file system virtualization which most anti-malware programs falsely detect as malicious. 
 
-Particularly intrusive malware solutions such as _Bitdefender_ and _Webroot_ don't propery respect exclusions, they must be completely uninstalled. Please consider avoiding third-party anti-malware solutions and relying on _Windows Defender,_ which is more compatible with the applications used to install and play _Wabbajack_ modlists. It is more than sufficient for legitimate Internet activity.
+Particularly intrusive malware solutions such as _Bitdefender_ and _Webroot_ don't propery respect exclusions and cannot be completely disabled -- they must be fully uninstalled. Please consider avoiding third-party anti-malware solutions and relying on _Windows Defender,_ which is more compatible with the applications used to install and play _Wabbajack_ modlists. 
 
 **Set Pagefile to 40GB Or Above**
 
-This can be accomplished in the System Settings for Windows. Refer to _Google_ for assistance. It is recommended to set the minimum and maximum pagefile size to `40,960` all on one solid state drive as mentioned above. You do not need more than one of these.
+This can be accomplished in the System Settings for Windows. It is recommended to set the minimum and maximum pagefile size to `40,960` all on one solid state drive as mentioned above. MOre than one pagefile is not needed so long as it is large enough and located on a fast enough drive.
 
-**Ensure You Have Enough Space**
+**Ensure Enough Free Storage Space**
 
-As of this writing you need approximately **20GB** for the `Steam` folder, **180 GB** for the downloads folder, and **200GB** for the modlist folder. These do not all need to be on the same drive. You also need **30GB** of free space on your `Windows` drive and **30GB** additional free space on your `Wabbajack` drive to leave room for temporary files, patches, and caches. Finally, never reduce the free space on any drive below **15%** (the bar in _File Manager_ will turn red) or you will suffer severe performance problems.
+As of this writing approximately **20GB** is required for the `Steam` folder, **180 GB** for the downloads folder, and **200GB** for the modlist folder. These do not all need to be on the same drive. Approximately **30GB** of free space is required on your `Windows` drive and **30GB** additional free space on your `Wabbajack` drive to leave room for temporary files, patches, and caches. Finally, never reduce the free space on any drive below **15%** (the bar in _File Manager_ will turn red) or you will suffer severe performance problems.
  
 ##  Using Wabbajack
 
 The download and installation process can take a very long time depending on your system specs. 
 
-It is advised to have ALL relevant folders (for `Wabbajack.exe`, `Steam`, the modlist folder, and the downloads folder) on a solid state (volatile) drive. Do not place any of these folders on a hard disk drive, flash drive, or external drive of any kind. After the list is installed, you can relocate **only** the downloads folder to such a drive (or delete it, but that may make updating difficult).
+It is advised to have ALL relevant folders (for `Wabbajack.exe`, `Steam`, the modlist folder, and the downloads folder) on a solid state drive. Do not place any of these folders on a hard disk drive, flash drive, or external drive of any kind. After the list is installed, you can relocate **only** the downloads folder to such a drive (or delete it, but that may make updating difficult).
 
 ##  Problems with Wabbajack
 
-There are a lot of different scenarios where Wabbajack will produce an error. I recommend re-running Wabbajack before posting anything. Wabbajack will continue where it left off so you lose no progress.
+There are a lot of different scenarios where _Wabbajack_ will produce an error. Re-run _Wabbajack_ before seeking assistance. _Wabbajack_ will only download and reinstall the bare minimum necessary to get the modlist working. 
 
 **DO NOT CONTACT MOD AUTHORS DIRECTLY.**
 
@@ -85,56 +81,59 @@ You did not purchase the $20 upgrade to Skyrim. This is not negotiable. Purchase
 
 **Could not download x:**
 
-Some Internet providers have difficulty accessing the servers which host the files comprising the list. You might try using a VPN with a terminus set to the United States. Free options include _ProtonVPN_ and _Cloudflare WARP._ If a download gets interrupted, you may need to delete all corrupt local copies before trying again.
+Some Internet providers have difficulty accessing the servers which host the files comprising the list. Try using a VPN (Virtual Private Network) with a terminus set to the United States. Free options include _ProtonVPN_ and _Cloudflare WARP._ If a download gets interrupted, you may need to delete all corrupt local copies before trying again.
 
 **Wabbajack could not find my game folder:**
 
-_Licentia_ will not work with a GOG or pirated version of the game. If you own the game on _Steam,_ go back to the Installation step. If this still doesn't work, ensure that you are not running Wabbajack as an Administrator. DO NOT ASK FOR HELP WITH PIRATED GAMES ON THE WABBAJACK DISCORD.
+_Licentia Black_ will not work with a GOG or pirated version of the game. If you own the game on _Steam,_ go back to the Installation step. If this still doesn't work, ensure that you are not running Wabbajack as an Administrator. **DO NOT ASK FOR HELP WITH PIRATED GAMES.**
 
 **MEGA download cap exceeded.**
 
-This shouldn't happen unless you download the list multiple times or download multiple Wabbajack lists. I can't support circumventing MEGA's bandwith restrictions so either sign up for an account or wait for the timeout to expire.
+This shouldn't happen unless you download the list multiple times or download multiple _Wabbajack_ lists. I can't support circumventing MEGA's bandwith restrictions so either sign up for an account or wait for the timeout to expire.
 
 ## Post-Installation
 
-### Customizing the List for Your PC
+### System Specifications
 
-To better target your system's capabilities, I have separated the ENB configuration into three profiles. You need to choose a configuration based on your system specifications, which can be determined with a tool such as `CPU-Z` or `Hwmonitor`. A little use of _Google_ will help you find out how your specific hardware relates to the below recommendations.
+To better target your system's capabilities, separate ENB configurations are included. The default is "enb medium" for which the specifications are below.
 
-If you are on an extreme potato computer such as a laptop or a system with integrated Intel graphics, you need to find three mods in the left pane of _Mod Organizer 2_, "ENB Helper," "ENB Input Disabler" and "Improved Camera." Uncheck these mods before launching the game or you will crash.
+- Intel i5 or AMD Ryzen 5
+- NVIDIA GTX 2060 or AMD Radeon RX 580
+
+You can use tool such as `CPU-Z` or `Hwmonitor` to determine your PC's hardware.
+
+If you are on an extreme potato computer (laptop, Intel graphics), consider deleting the ENB-related files `d3d11.dll,` `d3dcompiler_46e.dll` and the `enbseries` folder, which are located within the `Stock Game` folder in the modlist directory. Afterward, uncheck the _Detection Meter_ mod inside the primary pane of _Mod Organizer 2_ or your game will give a "swapchain" error and crash before launching.
 
 If you are on a low end machine (older than 7-10 years) with any of the following:
 
 - Intel i3 or AMD Ryzen 3 or earlier
 - NVIDIA GTX 980 or AMD Vega 64 or earlier
 
-You need to navigate to the "Stock Game" folder and copy all of the files inside the "enb low" directory into the base "Stock Game" folder, then launch the list.
-
-If you are on a midrange machine (within 5 years) with newer hardware than the above but older than the following:
-
-- Intel i5 or AMD Ryzen 5 or earlier
-- NVIDIA GTX 2060 or AMD Radeon RX 580 or earlier
-
-You need to navigate to the "Stock Game" folder and copy all of the files inside the "enb medium" directory into the base "Stock Game" folder, then launch the list.
+Delete the enb files as described above and the copy all of the files inside the "enb low" directory into the base "Stock Game" folder.
 
 If you are on a high-end machine with
 
 - intel i7 or AMD Ryzen 5600 or later
-- NVIDIA GTX 2070 SUPER or AMD Radeon 5700 XT or later
+- NVIDIA RTX 2070 SUPER or AMD Radeon 5700 XT or later
 
-You need to navigate to the "Stock Game" folder and copy all of the files inside the "enb high" directory into the base "Stock Game" folder, then launch the list.
+Take the same steps as above, but copy all of the files inside the "enb high" directory into the base "Stock Game" folder.
 
-If you are on a beast rig with something like a 3090 or god forbid a 4090, a 5800x3D or 11900K or better, you will probably find more satisfaction out of a different Wabbajack modlist.
+If you have an extremely powerful machine with
 
-If you are confident you meet the requirements for one of the above targets, but still experience severe performance drops, you may need to customize your BIOS settings to maximize your hardware. Refer to your motherboard's documentation about enabling XMP or DOCP profiles.
+- AMD Ryzen 5800x3D or Intel i7 11900K or later
+- NVDIA RTX 3090 or later
+
+This list will likely not exploit your system's full capabilities. If that matters to you, please consider another list.
+
+The list is configured for a resolution of `2560x1440` by default. It will upscale to higher resolutions. Lower ones will have truncated UI elements, you must set these manually in the `SkyrimPrefs` INI.
+
+If you are confident you meet the requirements for one of the above targets, but still experience severe performance drops, you may need to customize your `BIOS` settings to maximize your hardware. Refer to your motherboard's documentation about enabling XMP or DOCP Profiles.
 
 ### Launching the List
 
 Launch _ModOrganizer.exe_ from the directory in which you installed the list. Launch the game from the **SKSE** entry in the drop-down menu.
 
-# IF YOU RECEIVE A SWAPCHAIN ERROR WHEN YOU LAUNCH THE LIST, YOU DID NOT READ. READ!!
-
-If you are interested in a profile with none of the adult mods and much fewer instances of nudity (along with no male nudity) select the "Licentia SAFE" profile from the dropdown above the list of mods before starting your game!
+If you are interested in a profile with none of the adult mods and much fewer instances of nudity, select the "Licentia SAFE" profile from the dropdown above the list of mods before starting your game.
 
 If you are interested in the stablest version of the list featuring the _OSuite_ series of adult mods, select the "Licentia BLACK" profile from the dropdown menu. 
 
@@ -142,15 +141,15 @@ The "Licentia KAIDAN" profile provides a fleshed out male romantic partner, Kaid
 
 For the more horny degenerates, I also offer the _Licentia PITCH_ profile which emphasizes the most reliable SexLab quests available on Lover's Lab, along with plenty of Coom. Join my Discord and check #list-updates for further information on these profiles if you are interested in them.
 
-# FOR A LIST OF ALL MANUALLY DOWNLOADED MODS, READ LLGUIDE.md ELSEWHERE IN THIS REPO! READ!!
+You can find a list of all mods hosted on sites other than Nexus [here](LLGUIDE.md). Please consult this document if you choose to play the "PITCH" profile. I will not offer much support for that profile because I want it to exist more than I want to fix broken mods. As the document mentions, a profile based on a _SexLab_ suite is better served by someone who understands what to watch out for.
 
 ## MCM CONFIGURATION
 
 ## WHEN YOU SPAWN IN HELGEN'S INN, DO NOT TOUCH ANYTHING!
 
-Wait until the _Fertility Mode_ question appears on your screen. 
+Wait until the _Fertility Mode_ question appears on your screen. It should be a simple prompt whether to enable Pregnancy, Yes or No.
 
-Choose whether to enable pregnancy and reproductive cycle issues by answering yes or no. Keep in mind that the overhead for this mod can be demanding for weak CPUs. Unless you have role-playing plans involving these features I recommend disabling it or minimizing its impact.
+Choose whether to enable pregnancy and reproductive cycles. Keep in mind that the overhead for this mod can be demanding for weak CPUs. Unless you have role-playing plans involving these features I recommend disabling it or minimizing its impact.
 
 If you answer this question with _YES_, open your Mod Configuration Menu and find the entry for _Fertility Mode._ It is important to limit the scope of the mod if you intend a long-term playthrough.
 
@@ -210,21 +209,19 @@ O I want it immersive.
 
 Hardest difficulty on all mods, severely nerfed spells and perks, followers and pets do not teleport, more maintenance required, no popup messages to tell you when things are going wrong. Best for _Survival Mode._ Slightly less easy to abuse.
 
-Then close the MCM Menu, **TOUCH NOTHING**, and click the "Run Recording" button when it appears. Wait for all messages to stop and a message to pop up saying playback is finished. 
+Close the MCM menu, **TOUCH NOTHING**, and click the "Run Recording" button when it appears. Wait for a message to pop up saying playback is finished, then wait for all messages to disappear in the upper-left corner of your screen.
 
-## Next up, are you playing on the KAIDAN profile?
+"Futanari" content is available on the "KAIDAN" profile. I recommend looking up what this material consists of before continuing. It can be unsettling to the uninitiated. 
 
-## How do you feel about women with penises?
+If you **DO NOT** seek futanari content, you must run the "NO FUTA" option.
 
-If you **DO NOT** like women with penises, or you are one of _those_ "Two Scoops, Two Sexes, Two Terms" people, you must run the "NO FUTA" option (otherwise known as the "BRO" option). This will disable all "futanari" (miraculously attractive females who also have large penises) from your game.
+If you **DO** seek futanari content, run the "FUTA" option. This will set a female PC to a futanari and enable a small chance for any given female NPC to also be a futanari.
 
-If you **DO** like women with penises, run the "FUTA" option (otherwise known as the "BRUH" option). This will set a female PC to a futanari and enable a small chance for any given female NPC to also be a futanari.
-
-# IF YOU DO NOT RUN ONE OF THE FUTA OPTIONS ON THE KAIDAN PROFILE ABOUT EVERY TENTH WOMAN WILL HAVE A HUGE PENIS.
+## If you do not run one of these recordings, you will regret it.
 
 You might have noticed there are a couple of other options here. You can run one or both as you see fit.
 
-"I want it hard as FUCK!" vastly increases the difficulty of dragon and modded encounters as well as adds up to 40 - 80 additional enemies in every dungeon or zone. 
+"I want it hard as FUCK!" vastly increases the difficulty of dragon and modded encounters, adds approximately 30 bandits to every bandit encounter, and adds up to 40 additional enemies in every dungeon. It can be crashy on all but the most powerful systems.
 
 "I want it slutty!" makes it so that NPCs are more responsive to your advances and also gives more buffs for sexual activity, as well as makes it easier to gain skill points via such methods.
 
@@ -232,13 +229,13 @@ Ignore any messages about missing menu options. They will not affect your game.
 
 ## FINAL NOTES
 
-When you reach your first exterior world location, you will be prompted to enable _Survival Mode_. With this option enabled, you will not be able to fast travel normally, markers can be placed next to other markers, and you will have to eat food, sleep, and stay warm to survive. (Fast travel can, however, be enabled on _Survival Mode_ by consulting the _Conner's Survival Mode_ MCM.) You will also receive a prompt about which Deity you wish to worship, depending on your race. Choose according to your preference.
+When you reach your first exterior world location, you will be prompted to enable _Survival Mode_. With this option enabled, you will not be able to fast travel normally, markers can be placed next to other markers, and you will have to eat food, sleep, and stay warm to survive. (Fast travel can, however, be enabled on _Survival Mode_ by consulting the _Conner's Survival Mode_ MCM.) You will also receive a prompt about which Divine and/or Daedra you wish to worship, depending on your race. Choose according to your preference.
 
 ## Updating the Modlist
 
 Many times newer versions of _Licentia_ will require an updated version of _Wabbajack_. Please ensure that you run _only_ the `Wabbajack.exe` located in the root of the _Wabbajack_ directory. _Wabbajack_ will automatically update to the latest version if necessary. 
 
-Download the modlist from the Gallery and specify the same directories. Then check the "Overwrite" box. 
+Download the modlist from the Gallery and specify the same directories. Then check the "Overwrite" box. Never update a list without checking this box. If you have customized the list, you can append `[NoDelete]` to the beginning of your added mods in _Mod Organizer 2_ and they will not be deleted. However, they will be unchecked and relocated to the bottom of the list of installed mods. You will need to return them to their rightful place and re-enable or rewrite any patches you created.
 
 It is rarely recommended to continue a save when you update a modlist.
 
