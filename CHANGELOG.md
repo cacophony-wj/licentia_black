@@ -1,5 +1,17 @@
 # LICENTIA BLACK CHANGELOG
 
+## 3.8
+
+- Updated _OSA for OStim_ to 1.2
+- Updated _OStim NG_ to 6.3d
+- Updated _OBody NG_ to 2.2.1
+- Updated _OPrivacy_ to 2.2a
+- Updated _Naughty Voices_ to 1.4
+- Updated _Kaidan Extended Edition_ to 8.3.0
+- Swapped _Kaidan Immersive Features_ for _Kaidan Immersive Features OStim_ and updated to 9.3.0
+- Removed _Realistic Dog Sounds_ so you can hear the Corgis' custom barks
+- Created a guide for DLSS and RayTracing -- these mods are paid so check out the guide in #black-additions to get them working!
+
 ## 3.7.3.1
 
 - Included "enb medium" by default to reduce support burdens from people who don't read.
