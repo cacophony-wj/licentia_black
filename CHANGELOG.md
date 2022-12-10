@@ -1,5 +1,17 @@
 # LICENTIA BLACK CHANGELOG
 
+## 3.8.1
+
+- Created the "Licentia BLANK" profile which removes the following mods:
+- Removed _Sinister Seven_ and all associated patches.
+- Removed _Convenient Horses_ and all associated patches.
+- Removed the two Corgi mods, _Gladys_ and _Merlin_.
+- Removed all of the skin, makeup, overlay and features mods.
+
+## 3.8.0.1
+
+- Restored the `OSA.esm` to the BLACK profile where I forgot to update it.
+- Fixed the path for _Synthesis_ so nobody will get missing mod errors.
 ## 3.8
 
 - Updated _OSA for OStim_ to 1.2
