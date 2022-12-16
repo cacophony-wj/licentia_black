@@ -118,12 +118,6 @@ File: `MiasLair71hSexlabBSA.7z`
 
 File: `MiasLair71Textures.7z`
 
-## Neophytes of Dibella
-
-URL: https://www.loverslab.com/files/file/5918-neophytes-of-dibella/
-
-Files: `Neophytes of Dibella 0.3.zip`
-
 ## Pama Prison Alternative
 
 URL: https://www.loverslab.com/files/file/17619-prison-alternative-a-modular-prison-system/

@@ -1,5 +1,26 @@
 # LICENTIA BLACK CHANGELOG
 
+## 3.10
+
+- Rolled the _NEEDS_ profile into the main list as an option.
+- Added _Billyy Group Anims OpenSex Compatibility Patch_
+- Updated _OBody NG_ to 2.2.2
+- Updated _SDA Patch Hub_ to 1.9
+- Updated _The Secret Lives of Skyrim NPCs_ to 4.1a
+- Updated _Amorous Adventures PLUS - OStim and OpenSex Edition_ to 1.0.1
+- Updated _Ordinator - Combat Styles_ to 1.8
+- Updated _VIGILANT - NPC Overhaul_ to 2.8.1
+- Updated _Papyrus Tweaks NG_ to 3.0.1
+- Updated _PapyrusUtil SE_ to 4.4
+- Verified that undead thralls are quite buggy
+- Verified that the _BLANK_ profile was included with the list.
+- Fixed a bug with friendly fire for some followers
+- Fixed a bug where Serana's spells might kill the player
+
+## 3.9
+
+- Unreleased.
+
 ## 3.8.1
 
 - Created the "Licentia BLANK" profile which removes the following mods:
