@@ -1,5 +1,9 @@
 # LICENTIA BLACK CHANGELOG
 
+## 3.10.1
+
+- Downgraded _PapyrusUtils_ 4.4 to 3.9. Woops.
+
 ## 3.10
 
 - Rolled the _NEEDS_ profile into the main list as an option.
