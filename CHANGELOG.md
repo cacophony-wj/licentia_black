@@ -12,6 +12,8 @@
 - Changed _Demoniac_ to the glossy option.
 - Removed _Neophytes of Dibella_
 - Removed _The Ultimate Dodge Mod SPID Patch_
+- Fixed glitchy gonads on the dudes.
+- Fixed the crosshair disappearing after sneak.
 - Altered some _Nether_ profile options.
 - Disabled belly bulge.
 - Redesigned the MCM Recordings.
