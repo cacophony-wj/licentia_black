@@ -199,33 +199,15 @@ Go to the "Profiles" section and "Load" a profile. "Sane Violence" enables killm
 
 ## MCM Recorder
 
-You should only run **ONE** of these! (Please choose at least one, each configures a baseline setup that is recommended for this modlist.) 
+You should **ALWAYS** run the "RUN ME FIRST" recording since this establishes the baseline for the games settings. To do so, click the recording, click OK, close the MCM menu, **TOUCH NOTHING**, and click the "Run Recording" button when it appears. Wait for a message to pop up saying playback is finished, then wait for all messages to disappear in the upper-left corner of your screen. If you are on any profile but _BLACK_ you may receive warnings about missing options. They are unimportant. Skip them.
 
-O I want it fun!
+If you are on an adult profile and prefer some of the women in the game be "futanari" (look it up) run the recording entitled "RUN ME TO ADD FUTA". _This will not make your PC into a futanari._ To do so you will need to find the "Player" options in the MCM and select "ERF Futanari CBBE" as your schlong. The schlong can be adjusted from RaceMenu.
 
-Easiest difficulty on all mods, most powerful options for spells and perks, no additional spawns, no fine print. You probably want this one.
+If you want the game to be significantly harder, run the "RUN ME TO MAKE IT HARDER" recording. This will add far more enemies to dungeons and encounters, toughen them up, and make dragons a major pain in the bahookas. It is not as difficult as the old "HARD AS FUCK" recording because that option received quite a few crash reports due to the immense number of enemies.
 
-O I want it immersive.
+If you want the game to over-emphasize sexual encounters do the "RUN ME TO MAKE IT SLUTTIER" recording. This will make NPCs proposition you as well as make them more receptive to your advances. It does little else.
 
-Hardest difficulty on all mods, severely nerfed spells and perks, followers and pets do not teleport, more maintenance required, no popup messages to tell you when things are going wrong. Best for _Survival Mode._ Slightly less easy to abuse.
-
-Close the MCM menu, **TOUCH NOTHING**, and click the "Run Recording" button when it appears. Wait for a message to pop up saying playback is finished, then wait for all messages to disappear in the upper-left corner of your screen.
-
-"Futanari" content is available on the "KAIDAN" profile. I recommend looking up what this material consists of before continuing. It can be unsettling to the uninitiated. 
-
-If you **DO NOT** seek futanari content, you must run the "NO FUTA" option.
-
-If you **DO** seek futanari content, run the "FUTA" option. This will set a female PC to a futanari and enable a small chance for any given female NPC to also be a futanari.
-
-## If you do not run one of these recordings, you will regret it.
-
-You might have noticed there are a couple of other options here. You can run one or both as you see fit.
-
-"I want it hard as FUCK!" vastly increases the difficulty of dragon and modded encounters, adds approximately 30 bandits to every bandit encounter, and adds up to 40 additional enemies in every dungeon. It can be crashy on all but the most powerful systems.
-
-"I want it slutty!" makes it so that NPCs are more responsive to your advances and also gives more buffs for sexual activity, as well as makes it easier to gain skill points via such methods.
-
-Ignore any messages about missing menu options. They will not affect your game.
+Any combination of recordings may be run except the first. You must at least run the first recording.
 
 ## FINAL NOTES
 

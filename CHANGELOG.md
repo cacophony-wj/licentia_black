@@ -1,5 +1,23 @@
 # LICENTIA BLACK CHANGELOG
 
+## 4.0
+
+- Version change to reflect the inclusion of _NEEDS_.
+- The _KAIDAN_ Profile is now the new _BLACK_ Profile.
+- Implemented _SOS Full_ and _ERF Futanari_ options on all but the SFW Profile.
+- Restored _XPMSE Full_ for people who wish to use Weapon Styles.
+- Replaced _The Ultimate Dodge Mod Reborn_ with _The Ultimate Dodge Mod Redux_
+- Added _The Ultimate Dodge Mod Script Fixes_
+- Added _The Ultimate Dodge Mod Compatibility for Archery Gameplay Overhaul_
+- Changed _Demoniac_ to the glossy option.
+- Removed _Neophytes of Dibella_
+- Removed _The Ultimate Dodge Mod SPID Patch_
+- Altered some _Nether_ profile options.
+- Disabled belly bulge.
+- Redesigned the MCM Recordings.
+- Reran _Nemesis_.
+- Reran BodySlides.
+
 ## 3.10.1
 
 - Downgraded _PapyrusUtils_ 4.4 to 3.9. Woops.
