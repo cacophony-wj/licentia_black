@@ -3,6 +3,7 @@
 ## 4.1
 
 - Replaced _ConsoleUtilSSE_ with _ConsoleUtilSSE NG_
+- Reinstalled _Demoniac_ with more subtle options.
 - Fixed vampire eyes being brown -- they are now gray.
 - Verified that belly bulge is disabled.
 - Verified that Ringmail Armor is fine.
