@@ -1,5 +1,14 @@
 # LICENTIA BLACK CHANGELOG
 
+## 4.1
+
+- Replaced _ConsoleUtilSSE_ with _ConsoleUtilSSE NG_
+- Fixed vampire eyes being brown -- they are now gray.
+- Verified that belly bulge is disabled.
+- Verified that Ringmail Armor is fine.
+- Verified that Freecam on Start is disabled.
+- Reran Nemesis on all profiles
+
 ## 4.0
 
 - Version change to reflect the inclusion of _NEEDS_.
