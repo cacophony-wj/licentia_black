@@ -225,6 +225,10 @@ It is rarely recommended to continue a save when you update a modlist.
 
 You can just remove the _Licentia BLACK_ folder. 
 
+# IF YOU ENCOUNTER INSTALL PROBLEMS, ERROR MESSAGES, CRASHES, OR OTHER UNEXPECTED BEHAVIOR
+
+Refer to [Troubleshooting](TROUBLESHOOTING.md). If you can't find your answer there, ensure that you have followed **EVERY STEP** of this readme to the letter. Often a reinstall of the list will solve many unusual problems. If your problem involves an inability to continue a mandatory portion of the game, refer to the _Unofficial Elder Scrolls Pages_ and verify that you are not experiencing a vanilla bug. Try loading a save from before the most recent quest stage or dungeon that you started. If you ignore this documentation you will likely be ignored when you ask for help.
+
 ## Contact
 
 I am regularly available on [my discord server](https://discord.gg/jolly-coop).
