@@ -1,5 +1,9 @@
 # LICENTIA BLACK CHANGELOG
 
+## 4.1.1.1
+
+- Rebuilt hashes, caches and mod patches to maybe help with install errors.
+
 ## 4.1.1
 
 - Updated `enbseries` to v0.484
