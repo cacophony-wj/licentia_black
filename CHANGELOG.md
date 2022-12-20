@@ -1,5 +1,13 @@
 # LICENTIA BLACK CHANGELOG
 
+## 4.1.1
+
+- Enabled the _Devour_ set of animations on the BLANK Profile.
+- Fixed a bug where adult scenes would cause characters to stand inside each other.
+- Fixed darkface bugs on some random Secret Lives NPCs (wenches)
+- Duplicated picky behavioral mods for compatibility with multiple profiles.
+- All profiles should work out of the box now.
+
 ## 4.1
 
 - Replaced _ConsoleUtilSSE_ with _ConsoleUtilSSE NG_
