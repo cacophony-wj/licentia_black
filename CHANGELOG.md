@@ -2,6 +2,7 @@
 
 ## 4.1.1
 
+- Updated `enbseries` to v0.484
 - Enabled the _Devour_ set of animations on the BLANK Profile.
 - Fixed a bug where adult scenes would cause characters to stand inside each other.
 - Fixed darkface bugs on some random Secret Lives NPCs (wenches)
