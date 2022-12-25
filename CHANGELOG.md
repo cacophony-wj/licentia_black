@@ -1,5 +1,17 @@
 # LICENTIA BLACK CHANGELOG
 
+## 4.2
+
+- Added _Fair Skin Complexion BlackDetailMap.dds Fix_
+- Updated _Serana Dialogue Addon_ to 3.32
+- Updated _Fertility Mode Fixes & Tweaks_ to 2.60
+- Updated _Vampire Feed Proxy_ to 1.2
+- Downgraded _Amorous Adventures PLUS OStim & OpenSex_ to 0.5 Beta
+- Resolved darkface bugs from _Improved Follower Dialog - Lydia_ and _Serana Dialog Addon
+- Built alternate BodySlides for crashing Troll Hunter armors
+- Disabled a crashing Thalmor cloak
+- Made adding _Skyrim Upscaler_ and _RTGI Shaders_ by Marty easier
+
 ## 4.1.1.1
 
 - Rebuilt hashes, caches and mod patches to maybe help with install errors.
