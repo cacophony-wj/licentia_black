@@ -1,5 +1,26 @@
 # LICENTIA BLACK CHANGELOG
 
+## 4.3
+
+- Updated _I'm Glad You're Here_ to 3.2.1
+- Updated _Destination Weddings_ to 1.3
+- Updated _Vokriinator Black_ to 6.12
+- Updated _Experience_ to _Experience NG_ 3.0
+- Updated _Skill Rate Remover_ to 1.3
+- Updated _SRCEO Revamped & Releveled_ to 2.50
+- Updated _Know Your Enemy_ to 10.0
+- Updated _Comprehensive Falskaar Fixes_ to 1.4
+- Updated _Papyrus Tweaks_ to 3.2.1
+- Updated _xLODGen_ to 0.97
+- Included an enb "medium-low" preset from @ArdisFoxx.
+- Made this enb configuration the default. Thank you kind one!
+- Re-Enabled _Detection Meter_ on the _BLACK_ Profile.
+- Patched a few NPCs with proper _SRCEO_ perks.
+- Resolved a _Secret Lives_ bug on _Survival Mode._
+- Fixed a neck seam on some NPCs, including Serana. Sorry, Mommy.
+- Adjusted resolution to default of 1920x1080.
+- Adjusted upscaling so the screen will no longer cut off on the sides.
+
 ## 4.2
 
 - Added _Fair Skin Complexion BlackDetailMap.dds Fix_
