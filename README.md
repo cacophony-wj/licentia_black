@@ -125,7 +125,12 @@ If you have an extremely powerful machine with
 
 This list will likely not exploit your system's full capabilities. If that matters to you, please consider another list.
 
-The list is configured for a resolution of `2560x1440` by default. It will upscale to higher resolutions. Lower ones will have truncated UI elements, you must set these manually in the `SkyrimPrefs` INI.
+**NEW** Thanks to my user @ArdisFoxx, a hybrid between "enb medium" and "enb low" is now available! This one is much more performance friendly than "enb medium" but not as painful on the eyes as "enb low." You can use it by copying files from the "enb medium-low" directory, and according to Ardis, the target specification for 60 FPS gameplay with those files is: 
+
+- Intel i7 4770K or equivalent
+- NVIDIA GTX 1660 SUPER or equivalent
+
+The list is configured for a resolution of `1920x1080` by default, to reduce support questions because the list cannot automatically downscale. It _will_ automatically upscale to higher resolutions at a sacrifice in quality. If you wish to increase your resolution for **BEST** quality (highly recommended), select the "INI Editor" from the _Tools_ menu along the icon bar of MO2 and change it via the `SkyrimPrefs.ini` file. Scroll down until you see the `[Display]` header and look for the `iSize` values. Note that the TYPICAL ORDER IS REVERSED, so for 1440p you would set the first value, `iSize H=` to **1440** and the second value, `iSize W=` to **2560.**
 
 If you are confident you meet the requirements for one of the above targets, but still experience severe performance drops, you may need to customize your `BIOS` settings to maximize your hardware. Refer to your motherboard's documentation about enabling XMP or DOCP Profiles.
 
