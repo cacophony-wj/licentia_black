@@ -3,7 +3,7 @@
   - [Leveling up is weird!](#leveling-up-is-weird)
   - [My weapons are swinging super fast or super slow!](#my-weapons-are-swinging-super-fast-or-super-slow)
   - [My buff spells are not working on my followers, allies, or summons!](#my-buff-spells-are-not-working-on-my-followers-allies-or-summons)
-  - [When I level up, my skill points can be distributed but do not increase in the perk menu!](#when-i-level-up-my-skill-points-can-be-distributed-but-do-not-increase-in-the-perk-menu)
+  - [I can't level up my skills!](#i-cant-level-up-my-skills)
   - [WARNING! DON'T LISTEN TO ORLANDO!](#warning-dont-listen-to-orlando)
   - [I love the paraglider mod, but I keep dying when I land!](#i-love-the-paraglider-mod-but-i-keep-dying-when-i-land)
   - [The tuning gloves in Winterhold seem to be acting up.](#the-tuning-gloves-in-winterhold-seem-to-be-acting-up)
@@ -52,9 +52,9 @@ Known bug with Skyrim when weapon speed buffs or debuffs get stacked too high. W
 
 Many of these effects are regarded as hostile by the _Simple No Internal Friendly Fire_ mod and are thus rendered ineffective by that mod at the engine level. If you create a build based around buffs and debuffs, I recommend enabling player on ally Spell Damage in the _SNIFF_ MCM. Obviously this will make it so that your damaging spells harm your allies. Your spells always damaged allies in vanilla, so I do not wish to offer other solutions.
 
-### When I level up, my skill points can be distributed but do not increase in the perk menu!
+### I can't level up my skills!
 
-This is due to a _Static Skill Leveling_ conflict. If you have _any_ effect on your character that either reduces or increases skill XP by any amount, the point distribution will not function. Most commonly this is due to XP penalties from survival-related debuffs, so before leveling up, make certain you take care of all your physical needs. You might also want to verify that you apply your skill points only when no similar effects are active.
+This is due to a _Static Skill Leveling_ conflict. If you have _any_ effect on your character that either reduces or increases Skill XP by any amount, the point distribution will seem to work, but nothing will actually increase in the Statistics menu. This will also prevent Skill Books from increasing Skills. Most commonly this is due to XP penalties from survival-related debuffs, so before leveling up, make certain you take care of all your physical needs. You might also want to verify that you apply your Skill Points only when all similar effects are inactive. If you have made certain of this and still can't get Skill Points, ensure that you are not at the Skill Cap for your race. The cap can be identified in the Statistics menu as a red or gold bar above the name of the skill. If you wish to level these further, you will need to gain more Character Levels.
 
 ### WARNING! DON'T LISTEN TO ORLANDO!
 
