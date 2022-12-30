@@ -1,5 +1,15 @@
 # LICENTIA BLACK CHANGELOG
 
+## 4.4
+
+- Updated _OpenSex_ to 1.14
+- Updated _CBBE 3BA_ to 2.46
+- Updated _Kaiden Extended Edition_ to 8.3.2
+- Updated _Kaidan Immersive Features_ to 9.3.2
+- Updated _Improved Follower Dialogue - Lydia_ to 3.2
+- Verified the correct version of _Experience NG_ was installed (3.1.0)
+- Fixed a bug where dogs would swirl with bats and red mist
+
 ## 4.3
 
 - Updated _I'm Glad You're Here_ to 3.2.1
