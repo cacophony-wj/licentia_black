@@ -5,6 +5,7 @@
 - Updated _Laura's Bondage Shop SSE_ to 3.40
 - Ensured that NPCs from this mod were patched appropriately
 - Reinstalled _CBBE 3BA_ to remove an accidental _Flower Girls_ dependency
+- Verified that the stupid fucking belly bulge is disabled in all the 52 INIs it is enabled in by default
 
 ## 4.4
 
