@@ -1,5 +1,11 @@
 # LICENTIA BLACK CHANGELOG
 
+## 4.5
+
+- Updated _Laura's Bondage Shop SSE_ to 3.40
+- Ensured that NPCs from this mod were patched appropriately
+- Reinstalled _CBBE 3BA_ to remove an accidental _Flower Girls_ dependency
+
 ## 4.4
 
 - Updated _OpenSex_ to 1.14
