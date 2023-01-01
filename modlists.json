@@ -24,21 +24,21 @@
     "links": {
       "image": "https://raw.githubusercontent.com/cacophony-wj/licentia_black/main/images/Transparent-Background-2.png",
       "readme": "https://github.com/cacophony-wj/licentia_black",
-      "download": "https://authored-files.wabbajack.org/Licentia BLACK.wabbajack_c2ae1713-f6de-4cfe-afc0-c1d03d1a70be",
+      "download": "https://authored-files.wabbajack.org/Licentia BLACK.wabbajack_69f65d56-acaf-4fa6-ac07-2fc98b8fba58",
       "machineURL": "licentia_black",
       "discordURL": "https://discord.gg/jolly-coop"
     },
     "download_metadata": {
-      "Hash": "6cDvp0+dxMc=",
-      "Size": 380054040,
-      "NumberOfArchives": 1378,
-      "SizeOfArchives": 138050419786,
-      "NumberOfInstalledFiles": 384050,
-      "SizeOfInstalledFiles": 220946197129
+      "Hash": "HMPpxsfJMEc=",
+      "Size": 383914977,
+      "NumberOfArchives": 1379,
+      "SizeOfArchives": 138052948235,
+      "NumberOfInstalledFiles": 384066,
+      "SizeOfInstalledFiles": 220961333455
     },
-    "version": "4.5.1.1",
+    "version": "4.6",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2022-12-31T22:57:01.0724974Z",
+    "dateUpdated": "2023-01-01T00:13:21.4682055Z",
     "repositoryName": ""
   }
 ]
