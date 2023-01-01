@@ -1,5 +1,9 @@
 # LICENTIA BLACK CHANGELOG
 
+## 4.5.1
+
+- Updated _Laura's Bondage Shop SSE_ to 3.41
+
 ## 4.5
 
 - Updated _Laura's Bondage Shop SSE_ to 3.40
