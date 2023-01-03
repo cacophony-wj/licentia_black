@@ -1,5 +1,31 @@
 # LICENTIA BLACK CHANGELOG
 
+## 5.1
+
+Added requests from my users including:
+
+- _Castle Volkihar Rebuilt_ to the BLACK Profile
+- _Better Telekenesis_ to the BLACK Profile
+- _Odin_ and associated patches to the NEEDS Profile
+
+## 5.0
+
+Added the TOYS Profile, which is based on the BLANK Profile. It includes:
+
+- _Toys and Love_
+- _Toys BodySlide SE CBBE 3Ba_
+- _Toys CelloViolin MusicPack_
+- _Toys LoreFitting MusicPack_
+- _Toys Original LoveCum Pack_
+- _Toys Starter LovePack SE_
+- _Toys Furniture LovePack_
+- _Toyful Temptations_
+- _Sanguine's Toy Box of Orgies_
+- _Classic Toy Box_
+- _Toys - Voices BSA + ESP_
+
+The TOYS Series of mods is configured to default and is quite permissive, please feel free to play around with the MCMs.
+
 ## 4.5.1
 
 - Updated _Laura's Bondage Shop SSE_ to 3.41
