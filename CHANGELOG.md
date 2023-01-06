@@ -1,5 +1,28 @@
 # LICENTIA BLACK CHANGELOG
 
+## 5.2
+
+- Added _eFPS - Exterior FPS Boost_
+- Added _eFPS - Anniversary Edition_
+- Added _eFPS - Official Patch Hub_
+- Added _A Matter of Time_ to the NEEDS Profile (did not configure)
+- Updated _OStim_ to 6.4d
+- Updated _OpenSex_ to 1.15
+- Updated _OBody_ to 3.0.0
+- Updated _Papyrus Tweaks NG_ to 3.3
+- Updated _Papyrus Extender_ to 5.4.1
+- Updated _Spell Perk Item Distributor_ to 6.3.0
+- Removed _Lydia Redefined_ due to conflicts with _Nether_
+- Removed _Winterhold Quest Tweaks_ due to incompatibilities
+- Enabled _Castle Volkihar Rebuilt_ on all Profiles
+- Enabled _OBody_ on the TOYS Profile
+- Made Flame Cloaks less visually obtrusive
+- Determined how to enable _Courage_ and similar Illusion spells on friendly actors
+- Installed a patch to make the LOTD Museum brighter
+- Attempted to fix a crash with the undead dragon of _Dawnguard_
+- Set 3rd persion dialog to be less twitchy
+- Relocated the _DynDOLOD_ ESPs
+
 ## 5.1
 
 Added requests from my users including:
