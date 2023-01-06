@@ -23,6 +23,31 @@
 - Set 3rd persion dialog to be less twitchy
 - Relocated the _DynDOLOD_ ESPs
 
+## 5.2
+
+- Added _eFPS - Exterior FPS Boost_
+- Added _eFPS - Anniversary Edition_
+- Added _eFPS - Official Patch Hub_
+- Added _A Matter of Time_ to the NEEDS Profile (did not configure)
+- Updated _OStim_ to 6.4d
+- Updated _OpenSex_ to 1.15
+- Updated _OBody NG_ to 3.0.0
+- Updated _Spell Perk Item Distributor_ to 6.3.1
+- Updated _Papyrus Tweaks NG_ to 3.3
+- Updated _Papyrus Extender_ to 5.4.1
+- Removed _Lydia Redefined_ due to incompatibilities with Nether
+- Removed _Winterhold Quest Tweaks_ due to incompatibilities
+- Enabled _Castle Volkihar Rebuilt_ on all Profiles
+- Made Flame Cloaks less visually obtrusive
+- Fixed clipping on the _TOYS_
+- Patched the _LOTD Museum_ to be a bit brighter
+- Attempted to fix a crash with the undead dragon from Dawnguard
+- Set 3rd person conversation to be less twitchy
+- Relocated DynDOLOD ESPs
+- Tweaked INIs to be more performant
+- Reran _Nemesis_ on all Profiles
+- Regenerated _Synthesis_ on all Profiles
+
 ## 5.1
 
 Added requests from my users including:
