@@ -1,27 +1,43 @@
 # LICENTIA BLACK CHANGELOG
 
-## 5.2
+## 5.3b (KAIDAN PROFILE _ONLY_)
 
-- Added _eFPS - Exterior FPS Boost_
-- Added _eFPS - Anniversary Edition_
-- Added _eFPS - Official Patch Hub_
-- Added _A Matter of Time_ to the NEEDS Profile (did not configure)
-- Updated _OStim_ to 6.4d
-- Updated _OpenSex_ to 1.15
-- Updated _OBody_ to 3.0.0
-- Updated _Papyrus Tweaks NG_ to 3.3
-- Updated _Papyrus Extender_ to 5.4.1
-- Updated _Spell Perk Item Distributor_ to 6.3.0
-- Removed _Lydia Redefined_ due to conflicts with _Nether_
-- Removed _Winterhold Quest Tweaks_ due to incompatibilities
-- Enabled _Castle Volkihar Rebuilt_ on all Profiles
-- Enabled _OBody_ on the TOYS Profile
-- Made Flame Cloaks less visually obtrusive
-- Determined how to enable _Courage_ and similar Illusion spells on friendly actors
-- Installed a patch to make the LOTD Museum brighter
-- Attempted to fix a crash with the undead dragon of _Dawnguard_
-- Set 3rd persion dialog to be less twitchy
-- Relocated the _DynDOLOD_ ESPs
+- Added _ORomance_
+- Added _ORomance Plus_
+- Added _ORomance OpenSex Patch_
+- Added _OMerchants - OStim merchants with benefits_
+- Added _OpenSex Addon Hub_
+- Added _OpenSex Anal Animations Add-On_
+- Added _Drago Foot Animation Add on for OpenSex_
+- Added _KS Hairdos SSE_
+- Added _Multicolored KS Hairdos Standalone_
+- Added _Civil War Lines Expansion_
+- Added _THICCEN - A Fat Chicken Replacer_
+- Added _Masks of the Dovah Sonaak SE_
+- Added _Paintings Remade_
+- Added _Immersive College of Winterhold X Lux Patch_
+- Added _MuJointFix_
+- Added _OnMagicApply Replacer_
+- Updated _OpenSex Standalone_ to 1.17
+- Updated _Amorous Adventures PLUS - OStim and OpenSex Edition_ to 1.0.2
+- Updated _Skyrim Outfit System SE Revived_ to 0.6
+- Updated _Spellsiphon - Immersive Combat_ to 5.26
+- Updated _Kaidan Immersive Features_ to 9.3.4
+- Updated _Song of the Green (Auri Follower) to 1.4
+- Updated _SDA Patch Hub_ to 1.9
+- Updated _Gladys the Corgi - A Custom Dog Follower Mod_ to 2.0.2.1
+- Updated _Merlin the Corgi - A Magical Dog Follower Mod_ to 2.0.2
+- Updated _Simple Dual Sheathe_ to 1.5.4
+- Updated _Security Overhaul SKSE - Some More Locks_ to 1.0.2
+- Updated _Lux_ to 5.3.1
+- Updated _Lux Orbis_ to 3.1.1
+- Updated _Embers XD_ to 2.6.9
+- Updated _Unofficial Lux Patchhub_ to 2.1
+- Re-ran _Nemesis_
+- Fixed a bug where a kissing scene in the Serana Romance would break sex scenes.
+- Fixed the missing roads in Solitude (somehow...)
+- For real fixed all of the flicker in Winterhold College.
+- Re-recorded MCMs.
 
 ## 5.2
 
