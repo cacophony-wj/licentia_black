@@ -1,5 +1,23 @@
 # LICENTIA BLACK CHANGELOG
 
+## 5.4
+
+### ALL PROFILES
+
+### BLACK, BLANK, and NEEDS PROFILES
+
+- Added _Moon Lovemaking Compendium_
+
+### PITCH PROFILE
+
+- Added _Ryadin Animations SLAL Pack Complete SSE_
+- Added _S.L.U.T.S. Resume_
+- Added _SLUTS Resume Replacement Cart_
+- Added _The Trappings of Fate_
+- Added _TDF - Aggressive Prostitution_
+- Added _RohZiMa's New Animated Poser for Skyrim SE_
+- Updated _Laura's Bondage Shop_ to 3.42
+
 ## 5.3b (KAIDAN PROFILE _ONLY_)
 
 - Added _ORomance_
@@ -37,6 +55,7 @@
 - Fixed a bug where a kissing scene in the Serana Romance would break sex scenes.
 - Fixed the missing roads in Solitude (somehow...)
 - For real fixed all of the flicker in Winterhold College.
+- Fixed a crash in Calcelmo's Lab for some users.
 - Re-recorded MCMs.
 
 ## 5.2
