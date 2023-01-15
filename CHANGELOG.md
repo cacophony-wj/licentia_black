@@ -1,5 +1,10 @@
 # LICENTIA BLACK CHANGELOG
 
+## 5.4.1
+
+- Disabled _KS Hairdos_ (non SMP) on the NEEDS Profile
+- Disabled _Peeno_ on the NEEDS Profile
+
 ## 5.4
 
 ### ALL PROFILES
@@ -18,7 +23,9 @@
 - Added _RohZiMa's New Animated Poser for Skyrim SE_
 - Updated _Laura's Bondage Shop_ to 3.42
 
-## 5.3b (KAIDAN PROFILE _ONLY_)
+## 5.3b 
+
+### ONLY THE BLACK PROFILE IS AVAILABLE WITH THIS VERSION
 
 - Added _ORomance_
 - Added _ORomance Plus_
