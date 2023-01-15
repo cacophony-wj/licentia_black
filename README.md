@@ -130,7 +130,7 @@ This list will likely not exploit your system's full capabilities. If that matte
 - Intel i7 4770K or equivalent
 - NVIDIA GTX 1660 SUPER or equivalent
 
-The list is configured for a resolution of `1920x1080` by default, to reduce support questions because the list cannot automatically downscale. It _will_ automatically upscale to higher resolutions at a sacrifice in quality. If you wish to increase your resolution for **BEST** quality (highly recommended), select the "INI Editor" from the _Tools_ menu along the icon bar of MO2 and change it via the `SkyrimPrefs.ini` file. Scroll down until you see the `[Display]` header and look for the `iSize` values. Note that the TYPICAL ORDER IS REVERSED, so for 1440p you would set the first value, `iSize H=` to **1440** and the second value, `iSize W=` to **2560.**
+The list is configured for a resolution of `1920x1080` by default, to reduce support questions because the list cannot automatically downscale. It _will_ automatically upscale to higher resolutions at a sacrifice in quality. If you wish to increase your resolution for **BEST** quality (highly recommended), **SELECT YOUR PREFERRED PROFILE FROM THE LIST BELOW FIRST**, then select the "INI Editor" from the _Tools_ menu along the icon bar of MO2 and change it via the `SkyrimPrefs.ini` file. Scroll down until you see the `[Display]` header and look for the `iSize` values. Note that the TYPICAL ORDER IS REVERSED, so for 1440p you would set the first value, `iSize H=` to **1440** and the second value, `iSize W=` to **2560.**
 
 If you are confident you meet the requirements for one of the above targets, but still experience severe performance drops, you may need to customize your `BIOS` settings to maximize your hardware. Refer to your motherboard's documentation about enabling XMP or DOCP Profiles.
 
@@ -138,13 +138,29 @@ If you are confident you meet the requirements for one of the above targets, but
 
 Launch _ModOrganizer.exe_ from the directory in which you installed the list. Launch the game from the **SKSE** entry in the drop-down menu.
 
-If you are interested in a profile with none of the adult mods and much fewer instances of nudity, select the "Licentia SAFE" profile from the dropdown above the list of mods before starting your game.
+The Licentia SAFE profile is the tamest of the bunch. Just straight up Vokriinator / Apocalypse gameplay with every LOTD Quest and tons of collectibles. It is the only one where PCs and most of the NPCs are wearing undies (except for a few that came with their own bodies) so this should be a stream-safe profile unless you particularly enjoy killing townspeople and stripping them.
 
-If you are interested in the stablest version of the list featuring the _OSuite_ series of adult mods, select the "Licentia BLACK" profile from the dropdown menu. 
+The Licentia BLACK profile adds the OStim NG suite for plenty of ways to have romantic interludes between missions. It is probably the one friendliest to non-traditional NSFW players such as the ladies or the romantics. It incudes most of the BWB Kaidan suite from KaidanMod.com and expands the non-combat roleplay with more romantic expressions and things like bard songs and wedding locations.
 
-The "Licentia KAIDAN" profile provides a fleshed out male romantic partner, Kaidan, courtesy of the _Kaidan EXPANDED_ series of mods from [https://kaidanmod.com](https://kaidanmod.com) in addition to Serana. Also available are expanded romance options such as _I'm Glad You're Here, A Skyrim Kiss_ and _Destination Weddings._ 
+The Licentia BLANK profile is the same as the Licentia BLACK profile, but with the extra Kaidan expansions and a few other less-impactful mods removed to better accommodate user additions.
 
-For the more horny degenerates, I also offer the _Licentia PITCH_ profile which emphasizes the most reliable SexLab quests available on Lover's Lab, along with plenty of Coom. Join my Discord and check #list-updates for further information on these profiles if you are interested in them.
+The Licentia NEEDS profile is based off of the BLACK profile and adds punishing survival gameplay in the form of iNeed, Frostfall, Campfire, and Hunterborn. You will need to manage your resources and time carefully to survive, and many colder areas will be inaccessible to you until are much more hardy.
+
+The Licentia PITCH profile is the raunchiest and most offensive of the bunch. A throwback to the bad old days of Lover's Lab, it focuses on erotic roleplay such as bondage and non-consensual content mostly via submissive NSFW quests to go along with the SFW quests of all the other profiles. No creature content and some scenes will fade to black as a result, but support for bondage gear on males as well as beast races is included. Do NOT play this profile if you are squeamish.
+
+The Licentia TOYS profile is based off of the BLANK profile but has the OStim suite removed in favor of Toys. Similar to the PITCH profile, the TOYS profile differs in that it focuses on bondage devices as kinky gameplay mechanics instead of huge punishing quest arcs. There will be a chance when looting that you will be equipped with a random Toy with MASSIVE buffs but equally large disadvantages. Removing them is a struggle that I leave for you to uncover! It's mostly intended as a sexy way to test yourself while ascending to godhood. And unlike the PITCH profile or Happy Fun Times, it does not require as much time min-maxing or straight up running away.
+
+For a profile with none of the adult mods and much fewer instances of nudity, select the "Licentia SAFE" profile from the dropdown above the list of mods before starting your game.
+
+For the default version of the list featuring the _OSuite_ series of adult mods, select the "Licentia BLACK" profile from the dropdown menu. This version of the list receives the most testing and support.
+
+For more room for your own additions, choose the "Licentia BLANK" profile. Remember that you must always keep the total number of "full" ESPs and ESMs at **254 or less.**
+
+For punishing survival-based gameplay, choose the "Licentia NEEDS" profile.
+
+For submissive female roleplay and questing, choose the "Licentia PITCH" profile. This profile is not recommended if you are squeamish.
+
+For a lighter version of the above, choose the "Licentia TOYS" profile.
 
 You can find a list of all mods hosted on sites other than Nexus [here](LLGUIDE.md). Please consult this document if you choose to play the "PITCH" profile. I will not offer much support for that profile because I want it to exist more than I want to fix broken mods. As the document mentions, a profile based on a _SexLab_ suite is better served by someone who understands what to watch out for.
 
@@ -196,7 +212,7 @@ These dragons feature passive buffs and alternate attacks that make them almost 
 
 ## Nether Follower Framework
 
-For immersive follower management, including the need to pay their weekly salaries, choose to "Import File" under the _System_ menu. This is not necessary for hiring requirements from the original game. You should probably at least check "Only Sandbox in Town" under _Activity_ to prevent them from wandering off in dangerous areas.
+For immersive follower management, including the need to pay their weekly salaries, choose to "Import File" under the _System_ menu.
 
 ## VioLens
 
@@ -206,13 +222,13 @@ Go to the "Profiles" section and "Load" a profile. "Sane Violence" enables killm
 
 You should **ALWAYS** run the "RUN ME FIRST" recording since this establishes the baseline for the games settings. To do so, click the recording, click OK, close the MCM menu, **TOUCH NOTHING**, and click the "Run Recording" button when it appears. Wait for a message to pop up saying playback is finished, then wait for all messages to disappear in the upper-left corner of your screen. If you are on any profile but _BLACK_ you may receive warnings about missing options. They are unimportant. Skip them.
 
-If you are on an adult profile and prefer some of the women in the game be "futanari" (look it up) run the recording entitled "RUN ME TO ADD FUTA". _This will not make your PC into a futanari._ To do so you will need to find the "Player" options in the MCM and select "ERF Futanari CBBE" as your schlong. The schlong can be adjusted from RaceMenu.
+If you are on an adult profile and prefer some of the women in the game be "futanari" (look it up) run the recording entitled "LET THERE BE FUTA". _This will not make your PC into a futanari._ To do so you will need to find the "Player" options in the MCM and select "ERF Futanari CBBE" as your schlong. The schlong can be adjusted from RaceMenu.
 
-If you want the game to be significantly harder, run the "RUN ME TO MAKE IT HARDER" recording. This will add far more enemies to dungeons and encounters, toughen them up, and make dragons a major pain in the bahookas. It is not as difficult as the old "HARD AS FUCK" recording because that option received quite a few crash reports due to the immense number of enemies.
+If you want the game to be significantly harder, run the "Make it hard" recording. This will add boatloads of enemies to dungeons and encounters, toughen them up, and make dragons into a hair-pulling challenge. This recording is not recommended on midrange or low-end systems.
 
-If you want the game to over-emphasize sexual encounters do the "RUN ME TO MAKE IT SLUTTIER" recording. This will make NPCs proposition you as well as make them more receptive to your advances. It does little else.
+If you want to make it easier to score in adult scenarios, do the "Make it Slutty" recording. This will make NPCs proposition you as well as make them more receptive to your advances. 
 
-Any combination of recordings may be run except the first. You must at least run the first recording.
+Any combination of recordings may be run except the first. **YOU MUST AT LEAST RUN THE FIRST RECORDING**
 
 ## FINAL NOTES
 
