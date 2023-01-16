@@ -24,6 +24,12 @@ File: `AFS_2.3.zip`
 
 Comments: This is a very gruesome quest mod featuring a lot of violence centering around Forsworn brutality. Do not play if you are squeamish. None of the creature content will work, and at last report, the mod required a lot of manual troubleshooting (including `setstage` commands) to complete properly.
 
+## Alternate Perspective - Sold Out
+
+URL: https://www.loverslab.com/files/file/17830-alternate-perspective-sold-out/
+
+File: `AP - Sold Out V2.7z`
+
 ## Amorous Adventures Extended
 
 URL: https://www.loverslab.com/files/file/8849-amorous-adventures-extended-se/
@@ -124,6 +130,16 @@ URL: https://www.loverslab.com/files/file/17619-prison-alternative-a-modular-pri
 
 File: `PamaPrisonAlternative_V1.3_ForSpecialEdition.zip`
 
+## RohZiMa's New Animated Poser for Skyrim SE
+
+URL: https://www.loverslab.com/files/file/23031-rohzimas-new-animated-poser-for-skyrim-lese-rzazz/
+
+File: `RZAZZ_0.60_SE.zip`
+
+## Ryadin Animations SLAL Pack
+
+URL: https://www.loverslab.com/files/file/9187-rydins-animations-resource-pack/
+
 ## Schlongs of Skyrim SE
 
 URL: https://www.loverslab.com/files/file/5355-schlongs-of-skyrim-se/
@@ -158,6 +174,12 @@ URL: https://www.loverslab.com/files/file/10742-sexlab-solutions-revisited-se/
 
 File: `SexLab Solutions v3 - Revisited SE v1.1.5.7z`
 
+## SexLab TDF Prostitution and Pimping
+
+URL: https://www.loverslab.com/files/file/5827-sexlab-tdf-prostitution-and-pimping-the-former-aggressive-prostitution-v2255-se/
+
+File: `TDF20220530_v2.7z`
+
 ## SexLab Utility Plus
 
 URL: https://www.loverslab.com/files/file/10316-osmelmc-mod-tweaks/
@@ -165,6 +187,24 @@ URL: https://www.loverslab.com/files/file/10316-osmelmc-mod-tweaks/
 File: `SexLab Utility Plus v20221027.7z`
 
 Comments: Adds a ton of configuration options to the basic _SexLab_ MCM, including many different kinds of filters for animation types. It's recommended to enable them all to narrow them down as much as possible, because the mod tends to ignore some animations in a list numbering more than 250, regardless of how much the hard _SLAL_ limit is expanded.
+
+## S.L.U.T.S. Resume
+
+URL: https://www.loverslab.com/files/file/13199-sluts-resume/
+
+File: `SLUTSResume 3.0.zip`
+
+File: `S.L.U.T.S. Resume 3.0.2 PATCH.zip`
+
+File `SLUTS - Redux_Cart.7z`
+
+## Submissive Lola: The Resubmission
+
+URL: https://www.loverslab.com/files/file/15346-submissive-lola-the-resubmission-lese/
+
+File: `SubmissiveLolaResubmission 2.0.59.7z`
+
+File: `SubmissiveLolaResubmission -Optional - RidingCrop SE.7z`
 
 ## OStim Solutions - A SexLab Solutions Revisited Port
 

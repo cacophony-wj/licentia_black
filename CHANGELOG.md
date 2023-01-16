@@ -1,5 +1,12 @@
 # LICENTIA BLACK CHANGELOG
 
+## 5.4.1.1
+
+### As yet unreleased.
+
+- Fixed a missing Persistent flag from _Secret Lives_ that may have caused a crash when using the Voyeur Power.
+- Reinstalled _High Poly Head_ with different options due to incompatibilities with some presets.
+
 ## 5.4.1
 
 - Disabled _KS Hairdos_ (non SMP) on the NEEDS Profile
