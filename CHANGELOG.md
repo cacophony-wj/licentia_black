@@ -2,10 +2,20 @@
 
 ## 5.4.1.1
 
-### As yet unreleased.
+### ALL PROFILES
 
 - Fixed a missing Persistent flag from _Secret Lives_ that may have caused a crash when using the Voyeur Power.
 - Reinstalled _High Poly Head_ with different options due to incompatibilities with some presets.
+
+### BLACK PROFILE
+
+- Enabled the _Moon Lovemaking Compendium_
+
+### SAFE PROFILE
+
+- Added _Leather Bikini for UNP-TBBP_ (textures only)
+- Added _Light Cardio - Underwear Replacer_
+- Added _REALORE MEN'S - Basic_ (nevernude)
 
 ## 5.4.1
 
