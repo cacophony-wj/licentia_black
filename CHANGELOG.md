@@ -1,5 +1,48 @@
 # LICENTIA BLACK CHANGELOG
 
+## 5.5 (KAIDAN PROFILE ONLY)
+
+- Added _Billyy's Furniture Pack for OStim NG_
+- Added _Bandit Lines Expansion for OBIS SE_
+- Added _Forsworn and Thalmor Lines Expansion
+- Added _Missives - Gray Cowl Patch
+- Updated _Scaleform Translation Plus Plus_ to 1.6 NG
+- Updated _Whose Quest Is It AnywayO to 1.5 NG
+- Updated _Mum's The Word_ to 2.1 NG
+- Updated _Yes I'm Sure_ to 1.7 NG
+- Updated _I'm Walkin' Here_ to 1.7 NG
+- Updated _SDA Patch Hub_ to 1.9.1
+- Updated _OpenSex - Open Alternative to OSex_ to 1.17
+- Updated _HDT-SMP Hair / Wigs_ to 1.1
+- Updated _Legacy of the Dragonborn_ to 5.6.5
+- Updated _Amorous Adventures PLUS Rewrite_ to 1.0.2
+- Updated _Vokriinator Black_ to 6.12
+- Updated _Adamant - A Perk Overhaul_ to 5.7.4
+- Updated _Mysticism - A Magic Overhaul_ to 2.2.1
+- Updated _Functional Fearsome Fists_ to 1.2
+- Updated _Headhunter - Bounties Redone_ to 1.41
+- Updated _OBIS Missives Addon_ to 1.10
+- Updated _Immersive Armors Retexture and Mesh Fixes SE_ to 1.4
+- Updated _Nether's Follower Framework_ to 2.8.1
+- Updated _Cathedral Weathers Unofficial Update_ to 2.39
+- Updated _Water for ENB_ to 1.71
+- Updated _Elder Scroll HD_ to 2.0
+- Updated _Papyrus Tweaks NG_ to 3.3.1
+- Updated _The Choice Is Yours_ to 2.6
+- Updated _Ghastly's Open World Loot Creation Club Patches_ to 3.0.3
+- Updated _MoreHUD Inventory Edition_ to 1.0.20
+- Removed _Billyy's Invisible Furniture Pack_ (old version)
+- Reinstalled several mods to ensure no errors
+- Ensured that _Zim's Immersive Artifacts_ and its _LOTD Patch_ are installed correctly.
+  If you are not getting the Thane weapons, I do not know how to resolve it.
+- Patched some location zones in exteriors again
+- Fixed a few bugs from the support channels
+- Did some file verification and patching that would probably bore you to know about
+- Reran _Nemesis_
+- Regenerated _BodySlides_
+- Regenerated _LODs_
+- Regenerated _Synthesis_
+
 ## 5.4.1.1
 
 ### ALL PROFILES
