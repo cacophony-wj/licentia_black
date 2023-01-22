@@ -4,7 +4,7 @@ Without running _Synthesis_, your added NPCs, armors, and weapons will not have 
 
 To even use the tool at all, you must have _.NET v 6.0_ and the _.NET v 6.0 SDK_ installed on your system. Find them [here.](https://dotnet.microsoft.com/en-us/download/dotnet/6.0) (You want the "Desktop Runtime" and the latest version of the SDK.) You must restart your system completely between _each installation._ **Be aware that 6.0 replaces all versions of .NET after 4.5** (included with Windows 10 & 11), with the exception of _7.0._ If you run into strange error messages with the patchers, you may need to remove older versions of _.NET._ **I am uncertain how this will affect any applications you have installed that rely on these older runtimes.** If you are uncertain, check your other apps after uninstalling. 
 
-Before you begin the patching process, I recommend deleting old _Synthesis_ ESPs. They can be found by right-clicking on one of them in _MO2_ and selectiong "Open Origin in Explorer." Just delete all of them, return to _MO2,_ and strike the F5 key to refresh the Virtual Files System.
+Before you begin the patching process, I recommend deleting old _Synthesis_ ESPs. They can be found by right-clicking on one of them in _MO2_ and selecting "Open Origin in Explorer." Just delete all of them, return to _MO2,_ and strike the F5 key to refresh the Virtual Files System.
 
 Next select "Synthesis" from the _Mod Organizer 2_ drop-down menu and launch it. You will see three groups listed, "Synthesis0," "Synthesis1," and "Synthesis2". These represent three groupings of patchers that will result in three ESPs of the same name as the group.
 
