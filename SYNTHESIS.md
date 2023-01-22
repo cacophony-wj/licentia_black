@@ -2,9 +2,9 @@
 
 Without running _Synthesis_, your added NPCs, armors, and weapons will not have any of the resistances or vulnerabilities that the ones in the rest of the list do. If this is not an issue for you, you probably don't need to run _Synthesis._
 
-To run the tool, select "Synthesis" from the _Mod Organizer 2_ drop-down menu and launch it.
+To even use the tool at all, you must have _.NET v 6.0_ and the _.NET v 6.0 SDK_ installed on your system. Find them [here.](https://dotnet.microsoft.com/en-us/download/dotnet/6.0) (You want the "Desktop Runtime" and the latest version of the SDK.) You must restart your system completely between _each installation._ **Be aware that 6.0 replaces all versions of .NET after 4.5** (included with Windows 10 & 11), with the exception of _7.0._ If you run into strange error messages with the patchers, you may need to remove older versions of _.NET._ **I am uncertain how this will affect any applications you have installed that rely on these older runtimes.** If you are uncertain, check your other apps after uninstalling. 
 
-You will see three groups listed, "Synthesis0," "Synthesis1," and "Synthesis2". These represent three groupings of patchers that will result in three ESPs of the same name as the group.
+select "Synthesis" from the _Mod Organizer 2_ drop-down menu and launch it. You will see three groups listed, "Synthesis0," "Synthesis1," and "Synthesis2". These represent three groupings of patchers that will result in three ESPs of the same name as the group.
 
 Wait for the tool and all of its patchers to "compile" (represented by blue circles) and the arrows at the bottom of each group to turn white. If one of the circles turns red, perhaps the compilation glitched out. Try closing the tool and opening it again to see if it goes away. If it doesn't, you will need to click on the name of the patcher with the red circle (for example: "AmuletsShowOnEverything") and refer to the error messages in the large, right-most pane. Report the errors to my #black-additions channel to see if anyone has any tips on resolving them.
 
