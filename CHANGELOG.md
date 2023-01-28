@@ -1,5 +1,31 @@
 # LICENTIA BLACK CHANGELOG
 
+## 5.5.3
+
+- Updated _OStim NG - OSA Overhaul and API Next Gen_ to 6.5c
+- Updated _OpenSex Standalone_ to 1.18
+- Updated _OpenSex Addon Hub_ to 2.1
+- Updated _OpenSex Anal Animations Add on_ to 1.17
+- Updated _Drago Foot Animation Add On for OStim_ to 1.4
+- Updated _Amorous Adventures PLUS - OStim and OpenSex Edition_ to 1.1
+- Updated _OSmp - Automatic SMP physics toggle for OStim_ to 3.0
+- Updated _Papyrus Tweaks NG_ to 4.0
+- Removed _Sink or Swim_
+- Removed _Masks of the Dovah Sonaak_
+- Reran Nemesis
+
+## 5.5.2.1
+
+- Updated the ENB Series binary so the list could be installed.
+
+## 5.5.2
+
+- Reran _Nemesis_ with the correct patchers so _Ultimate Dodge_ would work.
+
+## 5.5.1
+
+- Corrected an IGNORE flag preventing _OBody_ from being installed.
+
 ## 5.5 (KAIDAN PROFILE ONLY)
 
 - Added _Billyy's Furniture Pack for OStim NG_
