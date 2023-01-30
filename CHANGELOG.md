@@ -1,5 +1,14 @@
 # LICENTIA BLACK CHANGELOG
 
+## 5.5.4
+
+- Updated _OStim NG_ to 6.5e
+- Fix for invisible rain in some cases.
+- Fix for invisible hands in some cases (Hrongar)
+- Auto mode in OStim still does not work. It's due to the addon packs I use. Please don't report this to the _OStim_ team.
+
+## 5.5.3.1
+
 ## 5.5.3
 
 - Updated _OStim NG - OSA Overhaul and API Next Gen_ to 6.5c
