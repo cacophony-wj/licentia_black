@@ -1,5 +1,11 @@
 # LICENTIA BLACK CHANGELOG
 
+## 5.5.5
+
+- Updated _Improved Camera SE_ to PR5
+- Verified the configuration file was correct
+- Regenerated BodySlides.
+
 ## 5.5.4
 
 - Updated _OStim NG_ to 6.5e
