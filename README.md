@@ -230,7 +230,7 @@ Refer to [Troubleshooting](TROUBLESHOOTING.md). If you can't find your answer th
 
 I am regularly available on [my discord server](https://discord.gg/jolly-coop).
 
-If you enjoyed playing this modlist and feel that your time spent with it was worth any amount of money, consider giving me a tip. Join my private server and check the pins of the #black channels for options to provide compensation. I work on this thing almost constantly!
+If you enjoyed playing this modlist and feel that your time spent with it was worth any amount of money, consider giving me a tip. Tax season is upon as and as a technically self-employed person, I will be responsible for 100% of it out of my pocket. There are donation options ranging from $1 to $35 (with a merch bonus) to extravagant gifts from an Amazon wishlist. Consult my webpage at [cacophony.me](https://cacophony.me) for details (at the bottom of the page).
 
 ## Contributing
 
