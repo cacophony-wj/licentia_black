@@ -100,7 +100,7 @@ To better target your system's capabilities, separate ENB configurations are inc
 - Intel i5 or AMD Ryzen 5
 - NVIDIA GTX 2060 or AMD Radeon RX 580
 
-You can use tool such as `CPU-Z` or `Hwmonitor` to determine your PC's hardware.
+You can use tool such as `Speccy` to determine your computer's hardware.
 
 If you are on an extreme potato computer (laptop, Intel graphics), consider deleting the ENB-related files `d3d11.dll,` `d3dcompiler_46e.dll` and the `enbseries` folder, which are located within the `Stock Game` folder in the modlist directory. Afterward, uncheck the _Detection Meter_ mod inside the primary pane of _Mod Organizer 2_ or your game will give a "swapchain" error and crash before launching.
 
