@@ -138,31 +138,7 @@ If you are confident you meet the requirements for one of the above targets, but
 
 Launch _ModOrganizer.exe_ from the directory in which you installed the list. Launch the game from the **SKSE** entry in the drop-down menu.
 
-The Licentia SAFE profile is the tamest of the bunch. Just straight up Vokriinator / Apocalypse gameplay with every LOTD Quest and tons of collectibles. It is the only one where PCs and most of the NPCs are wearing undies (except for a few that came with their own bodies) so this should be a stream-safe profile unless you particularly enjoy killing townspeople and stripping them.
-
-The Licentia BLACK profile adds the OStim NG suite for plenty of ways to have romantic interludes between missions. It is probably the one friendliest to non-traditional NSFW players such as the ladies or the romantics. It incudes most of the BWB Kaidan suite from KaidanMod.com and expands the non-combat roleplay with more romantic expressions and things like bard songs and wedding locations.
-
-The Licentia BLANK profile is the same as the Licentia BLACK profile, but with the extra Kaidan expansions and a few other less-impactful mods removed to better accommodate user additions.
-
-The Licentia NEEDS profile is based off of the BLACK profile and adds punishing survival gameplay in the form of iNeed, Frostfall, Campfire, and Hunterborn. You will need to manage your resources and time carefully to survive, and many colder areas will be inaccessible to you until are much more hardy.
-
-The Licentia PITCH profile is the raunchiest and most offensive of the bunch. A throwback to the bad old days of Lover's Lab, it focuses on erotic roleplay such as bondage and non-consensual content mostly via submissive NSFW quests to go along with the SFW quests of all the other profiles. No creature content and some scenes will fade to black as a result, but support for bondage gear on males as well as beast races is included. Do NOT play this profile if you are squeamish.
-
-The Licentia TOYS profile is based off of the BLANK profile but has the OStim suite removed in favor of Toys. Similar to the PITCH profile, the TOYS profile differs in that it focuses on bondage devices as kinky gameplay mechanics instead of huge punishing quest arcs. There will be a chance when looting that you will be equipped with a random Toy with MASSIVE buffs but equally large disadvantages. Removing them is a struggle that I leave for you to uncover! It's mostly intended as a sexy way to test yourself while ascending to godhood. And unlike the PITCH profile or Happy Fun Times, it does not require as much time min-maxing or straight up running away.
-
-For a profile with none of the adult mods and much fewer instances of nudity, select the "Licentia SAFE" profile from the dropdown above the list of mods before starting your game.
-
-For the default version of the list featuring the _OSuite_ series of adult mods, select the "Licentia BLACK" profile from the dropdown menu. This version of the list receives the most testing and support.
-
-For more room for your own additions, choose the "Licentia BLANK" profile. Remember that you must always keep the total number of "full" ESPs and ESMs at **254 or less.**
-
-For punishing survival-based gameplay, choose the "Licentia NEEDS" profile.
-
-For submissive female roleplay and questing, choose the "Licentia PITCH" profile. This profile is not recommended if you are squeamish.
-
-For a lighter version of the above, choose the "Licentia TOYS" profile.
-
-You can find a list of all mods hosted on sites other than Nexus [here](LLGUIDE.md). Please consult this document if you choose to play the "PITCH" profile. I will not offer much support for that profile because I want it to exist more than I want to fix broken mods. As the document mentions, a profile based on a _SexLab_ suite is better served by someone who understands what to watch out for.
+**UPDATED!** All version of _Licentia BLACK_ are now limited to the primary profile due to lack of time. (I am attending full time school.) In addition, and much to my disappointment, **all previous versions including alternate profiles and Licentia CLASSIC can no longer be installed** due to the removal of _Improved Camera PR4_ from Github. As a result the Archive has been removed from MEGA. Please do not ask for these versions or any missing files to install them, there is no way for me to legally distribute them and no means by which their installation can be bypassed. Please don't ask for exceptions because neither I nor my support staff can do anything about it at this point.
 
 ## MCM CONFIGURATION
 
