@@ -97,8 +97,8 @@ This shouldn't happen unless you download the list multiple times or download mu
 
 To better target your system's capabilities, separate ENB configurations are included. The default is "enb medium" for which the specifications are below.
 
-- Intel i5 or AMD Ryzen 5
-- NVIDIA GTX 2060 or AMD Radeon RX 580
+- Intel i5 or AMD Ryzen 5 or equivalent
+- NVIDIA GTX 2060 or AMD Vega 64 or equivalent
 
 You can use tool such as `Speccy` to determine your computer's hardware.
 
@@ -107,7 +107,7 @@ If you are on an extreme potato computer (laptop, Intel graphics), consider dele
 If you are on a low end machine (older than 7-10 years) with any of the following:
 
 - Intel i3 or AMD Ryzen 3 or earlier
-- NVIDIA GTX 980 or AMD Vega 64 or earlier
+- NVIDIA GTX 980 or AMD Radeon RX 580 or earlier
 
 Delete the enb files as described above and the copy all of the files inside the "enb low" directory into the base "Stock Game" folder.
 
