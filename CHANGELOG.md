@@ -1,5 +1,10 @@
 # LICENTIA BLACK CHANGELOG
 
+## 5.5.6
+
+- Applied the hotfix for _Improved Camera SE_
+- Corrected all paths.
+
 ## 5.5.5
 
 - Updated _Improved Camera SE_ to PR5
