@@ -130,7 +130,11 @@ Refer to the primary readme and ensure you meet all the system specification req
 
 ### I can't start an OStim scene or receive errors when attempting to do so!
 
-_Wabbajack 3.0_ sometimes has difficulty with corrupted installs. Refer to the readme and keep reinstalling the list until the error messages go away. If they simply refuse to do so after multiple attempts, you might try earlier versions of _Wabbajack,_ or you might submit all relevant logs to me via DM and I will attempt to forward them to the _Wabbajack_ developers.
+_Wabbajack 3.0_ sometimes has difficulty with corrupted installs. The first thing you can try is navigating to the _OStim_ MCM and selecting the "Update All" option near the bottom left. Close all menus and wait about 60 seconds, then attempt your adult interaction again. 
+
+If this doesn't work, perhaps one of the _OStim_ plugins did not install properly via _Wabbajack._ Try right-clicking on the _OStim NG_ mod in _Mod Organizer 2_ and selecting "reinstall." There shouldn't be any options to choose, so just click through. Launch the game and attempt your adult interaction again.
+
+If this *STILL* doesn't work, Refer to the readme and keep reinstalling the list until the error messages go away. If they simply refuse to do so after multiple attempts, you might try earlier versions of _Wabbajack,_ or you might submit all relevant logs to me via DM and I will attempt to forward them to the _Wabbajack_ developers.
 
 ### I can no longer end an OStim scene!
 
