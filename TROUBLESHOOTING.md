@@ -4,6 +4,8 @@
   - [My weapons are swinging super fast or super slow!](#my-weapons-are-swinging-super-fast-or-super-slow)
   - [My buff spells are not working on my followers, allies, or summons!](#my-buff-spells-are-not-working-on-my-followers-allies-or-summons)
   - [I can't level up my skills!](#i-cant-level-up-my-skills)
+  - [How do I start the Main Story Quest? I went to Helgen but it is intact!](#how-do-i-start-the-main-story-quest-i-went-to-helgen-but-it-is-intact)
+  - [Certain quests -- especially the Creation Club quests -- will not start or complete!](#certain-quests-especially-the-creation-club-quests-will-not-start-or-complete)
   - [WARNING! DON'T LISTEN TO ORLANDO!](#warning-dont-listen-to-orlando)
   - [I love the paraglider mod, but I keep dying when I land!](#i-love-the-paraglider-mod-but-i-keep-dying-when-i-land)
   - [The tuning gloves in Winterhold seem to be acting up.](#the-tuning-gloves-in-winterhold-seem-to-be-acting-up)
@@ -55,6 +57,14 @@ Many of these effects are regarded as hostile by the _Simple No Internal Friendl
 ### I can't level up my skills!
 
 This is due to a _Static Skill Leveling_ conflict. If you have _any_ effect on your character that either reduces or increases Skill XP by any amount, the point distribution will seem to work, but nothing will actually increase in the Statistics menu. This will also prevent Skill Books from increasing Skills. Most commonly this is due to XP penalties from survival-related debuffs, so before leveling up, make certain you take care of all your physical needs. You might also want to verify that you apply your Skill Points only when all similar effects are inactive. If you have made certain of this and still can't get Skill Points, ensure that you are not at the Skill Cap for your race. The cap can be identified in the Statistics menu as a red or gold bar above the name of the skill. If you wish to level these further, you will need to gain more Character Levels.
+
+### How do I start the Main Story Quest? I went to Helgen but it is intact!
+
+This mod uses _Alternate Perspective_ by the amazing NSFW modder Scrab, in which you can observe and walk through Helgen's destruction as a neutral bystander. To witness Alduin's first attack in centuries, travel to Helgen and choose the "Rent A Room (Start Intro)" option. Then sleep in the bed that the innkeeper offers you for at least one hour. The intro will begin as soon as you step outside. Bear in mind it is important to complete this step relatively early as many later quest stages rely on it. See the question below.
+
+### Certain quests (especially the Creation Club quests) will not start or complete!
+
+A lot of quest stages in later quests are directly reliant on **ALL** the quest triggers -- including event, interaction, and location-based triggers -- being activated during the intro sequence in which Alduin destroys Helgen. If you are finding that Uthgerd will not brawl with you, Ysolda will not ask you for the mammoth tusk, you can't talk to the Creation Club pets, or _Saints and Seducers_ NPCs are not responding, go back and do Helgen. I am also extremely skeptical of all starts which skip this part of the game, including the "Dragonborn" start from the dragon statue in the opening room as well as the "Skip Intro" start in the Helgen Inn's basement. If you find it is impossible to complete certain quests after using these "skips," I refuse to be held responsible.
 
 ### WARNING! DON'T LISTEN TO ORLANDO!
 
