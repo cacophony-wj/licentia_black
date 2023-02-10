@@ -1,5 +1,16 @@
 # LICENTIA BLACK CHANGELOG
 
+## 5.6.1
+
+- Added hotfix 2 for _Improved Camera SE_
+
+## 5.6
+
+- Added back the _Auri - Convenient Horses Patch_
+- Removed _OWintersun_
+- Verified that clean saves could be loaded.
+- Corrected a wrong _SSEEdit_ path.
+
 ## 5.5.6
 
 - Applied the hotfix for _Improved Camera SE_
