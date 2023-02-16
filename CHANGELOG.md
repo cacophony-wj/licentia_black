@@ -1,5 +1,24 @@
 # LICENTIA BLACK CHANGELOG
 
+## 5.6.3
+
+- Added back _Improved Camera SE_
+- Added a Reinstaller for _3BA_ physics
+- Added _Underground - a dungeon texture overhaul_ (Riften only)
+- Updated _OpenSex Standalone - Open alternative to OSex_ to 1.22.1
+- Updated _OpenSex Addon Hub_ to 3.0
+- Updated _OpenSex Anal Anamations Addon_ to 1.20
+- Updated _Drago Foot Animation Addon for OpenSex_ to 1.7
+- Updated _CBBE 3BA_ to 2.47 and slightly changed physics options
+- Updated _po3's Papyrus Extender_ to 5.5
+- Removed _CBPC 3-Bone Breast Body_
+- Removed some custom physics configurations
+- Re-ran _Nemesis_
+
+## 5.6.2
+
+- Removed _Improved Camera SE_ until it reaches a more long-term revision.
+
 ## 5.6.1
 
 - Added hotfix 2 for _Improved Camera SE_
