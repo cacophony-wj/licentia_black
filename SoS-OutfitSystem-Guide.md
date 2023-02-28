@@ -3,6 +3,7 @@
 
 *This guide is written for the Wabbajack list known as Licentia Black. It is an 18+/21+  adult themed NSFW Skyrim SE/AE Mod list. This guide can be used by others to achieve the same results - but the steps may need to be modified - I leave that to the user.* 
 
+*Dedication: To Rak (a new Licentia Black list user): for motivating me to work on this issue once more - as well as pointing me at the convoluted post that finally solved the problem. Oh and for inspiring Bob's Family Name*
 
 **My Dick Broke My Transmog**
 
