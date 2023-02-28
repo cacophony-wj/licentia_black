@@ -16,7 +16,7 @@
 
 ![Meet Bob](/assets/image10.png)
 
-Good day, degenerates. Meet Bob Greymane. Bob has offered to help explain how this works. Bob just wants to adventure and meet his soulmate when he finally takes that arrow to the knee. Bob likes his hide armor - but he thinks a new look may help him feel better about himself, make his DPS better, and attract that soulmate he is looking for. As we all know - a well dressed toon performs much better than one that looks frumpy in their stock game armor.
+Good day friends. Meet Bob Greymane. Bob has offered to help explain how this works. Bob just wants to adventure and meet his soulmate when he finally takes that arrow to the knee. Bob likes his hide armor - but he thinks a new look may help him feel better about himself, make his DPS better, and attract that soulmate he is looking for. As we all know - a well dressed toon performs much better than one that looks frumpy in their stock game armor.
 
 Bob already installed all his Licentia Black Wabbajack list which includes Skyrim Outfit System 0.6. But Bob is still having issues with his nethers showing up when he’s being intimate with his chosen partner after a long day of adventuring. “How do we fix this?” He asked me one day a few months ago. I told him “I do not know Bob!” Today I found the way - and got on my horse and rode over to tell Bob how we were gonna fix his penis issue the easy way. Suffice to say he was excited to help.
 
