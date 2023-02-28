@@ -10,6 +10,7 @@
 
 **How To Get The Skyrim Outfit System Mod To Work With Schlongs Of Skyrim Full (The New Easy Way)**
 
+*A guide by Katiefraggle42*
 
 **Problem:** Skyrim outfit system is an amazing mod that was originally made for Skyrim LE by DavidJCobb then ported to Skyrim SE by aers and then updated by thekineticeffect, who has done amazing work with it. The mod works flawlessly out of the box to bring transmog-like features to Skyrim, but only for female player characters and NPC’s, and male characters who use nevernude or SoS light. SoS Full gives a bunch of headaches when trying to get this mod to work on male toons who use SoS Full or SoS Full/Himbo. Until now! Recently thekineticeffect released the 0.7 beta which includes (IMO) a revolutionary workaround for this issue. And this guide is gonna help you set it up - because while is is fast to do - it is not intuitive, since it is in testing on their end.
 
