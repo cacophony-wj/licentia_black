@@ -4,14 +4,14 @@
 *This guide is written for the Wabbajack list known as Licentia Black. It is an 18+/21+  adult themed NSFW Skyrim SE/AE Mod list. This guide can be used by others to achieve the same results - but the steps may need to be modified - I leave that to the user.* 
 
 
-#My Dick Broke My Transmog
-###OR
-##How To Get The Skyrim Outfit System Mod To Work With Schlongs Of Skyrim Full (The New Easy Way)
+**My Dick Broke My Transmog**
+***OR***
+**How To Get The Skyrim Outfit System Mod To Work With Schlongs Of Skyrim Full (The New Easy Way)**
 
 
 **Problem:** Skyrim outfit system is an amazing mod that was originally made for Skyrim LE by DavidJCobb then ported to Skyrim SE by aers and then updated by thekineticeffect, who has done amazing work with it. The mod works flawlessly out of the box to bring transmog-like features to Skyrim, but only for female player characters and NPC’s, and male characters who use nevernude or SoS light. SoS Full gives a bunch of headaches when trying to get this mod to work on male toons who use SoS Full or SoS Full/Himbo. Until now! Recently thekineticeffect released the 0.7 beta which includes (IMO) a revolutionary workaround for this issue. And this guide is gonna help you set it up - because while is is fast to do - it is not intuitive, since it is in testing on their end.
 
-![Meet Bob](asssets\image10.png)
+![Meet Bob](\assets\image10.png)
 
 Good day, degenerates. Meet Bob Greymane. Bob has offered to help explain how this works. Bob just wants to adventure and meet his soulmate when he finally takes that arrow to the knee. Bob likes his hide armor - but he thinks a new look may help him feel better about himself, make his DPS better, and attract that soulmate he is looking for. As we all know - a well dressed toon performs much better than one that looks frumpy in their stock game armor.
 
@@ -23,25 +23,25 @@ Bob already installed all his Licentia Black Wabbajack list which includes Skyri
 
 2) Install the new version as “[NoDelete][Framework] Skyrim Outfit System v0.7.0 BETA1” without the “”. (Just copy and paste the name when you install). Then drag that new mod up to the Framework divider on the left side of MO2 and put it directly under the old one and activate it. Once you activate it - you need to deactivate the old one. The esp from the new one will stay where it is supposed to be in the list if you do it this way. Activate new one THEN deactivate the old one.
 
-![where to put mod](asssets\image11.png)
+![where to put mod](\assets\image11.png)
 
 3) Hold the right CTRL key and double click the new outfit mod to open its folder in explorer. 
 
-![explorer view of the mod](asssets\image3.png)
+![explorer view of the mod](\assets\image3.png)
 
 4) Double click the SKSE folder and then Double click the Plugins folder that is inside that. Your screen should show the contents of the plugin folder like this:
 
-![inside the plugins folder](asssets\image8.png)
+![inside the plugins folder](\assets\image8.png)
 
 5) You are going to right click the “SkyrimOutfitSystemScript_CustomPolicy002.disabled.rhai”. This will be the 3rd file down. Choose to open the file with Notepad.
 
-![code snippet](asssets\image7.png)
+![code snippet](\assets\image7.png)
 
 **DO NOT TOUCH THAT SNIPPET OF CODE. JUST DON’T DO IT. PLEASE! All we are doing here is resaving this file in the same folder but with a different name.** 
 
 6) Rename the file to “SkyrimOutfitSystemScript_CustomPolicy001.rhai” (This is absolutely important. Please get the name correct without the quotes) and change the “save as type” drop down to ALL FILES. DO NOT SAVE IT AS A TXT FILE! PLEASE!
 
-![where to put mod](asssets\image4.png)
+![where to put mod](\assets\image4.png)
   
 We are now done with file things. Close the explorer window and Notepad. At this point we are ready to start the game and make Bob’s dreams and your toon’s dreams of being well dressed a reality.
 
@@ -53,20 +53,20 @@ So Bob used Skyrim Cheat Engine to get a really nice enchanted ring for 2 handed
 
 7) Open your MCM menu - and scroll down to Skyrim Outfit System. If this is a new game we need to turn the mod on. So on the first screen - Enable the mod. 
 
-![outfit mcm](asssets\image5.png)
+![outfit mcm](\assets\image5.png)
 
 You can enable other options here but for now just enable the mod and make sure your Toon’s name is in the dropdown.
 
 
 8) On theOutfits screen - go ahead and select the create new empty outfit option. This will allow you to search for any armor from any mod you have installed. (It helps to know which outfit you are after first).
 
-![outfit mcm 2](asssets\image2.png)
+![outfit mcm 2](\assets\image2.png)
 
 I already had an outfit for Bob from earlier - but a strapping guy like this can’t have just one. So a screen will pop up and give you the opportunity to name your outfit - Bob decided on “Bob’s cool new duds”.
 
 The next screen is where the magic happens. Here you can search for your outfit. Bob liked the Evil Mastermind Armor - but prefers the stats of his Hide Armor for some reason - so we searched for Evil Master. Above that you can keep using that drop down to add all the pieces you want. In this case Bob didn’t want to hide his handsome face so we left the mask out. 
 
-![where to put mod](asssets\image13.png)
+![where to put mod](\assets\image13.png)
 
 *sidenote - Leaving the head slot empty is also how you can hide your helmet but still have one equipped. What? Yes.*
 
@@ -74,17 +74,17 @@ The next screen is where the magic happens. Here you can search for your outfit.
 
 Go ahead and tick the per-slot policy editor at this point. We need to tell the offending slot 52 that SoS adds to all body armor pieces that it needs to not leave a big hole where the penis should be when Bob wants to get down with his partner. Remember that’s why we are here, dicks and rings.
 
-![marking slot 52](asssets\image9.png)
+![marking slot 52](\assets\image9.png)
 
 So when you tick that per-slot editor option - the right screen changes to what you see above. Navigate to page 3 of 4 and change the Unofficial (Typically Pelvis Under) drop down to “Require Ring”. What? Ah - if you paid attention to the code snipped way back in the beginning it was named “Require Ring”. So go ahead and select “Go back to Outfit list” on the top left.
 
-![activating outfit](asssets\image12.png)
+![activating outfit](\assets\image12.png)
 
 Here now is the new outfit Bob wanted and we have to set it Active. So go ahead and do that and we are done. For real done. Any new outfits for males you would make the same way. You are all set up to make as many cool new duds for your Dude as you want.
 
 Let’s back out and see the results.
 
-![Bob's New Duds](asssets\image6.png)
+![Bob's New Duds](\assets\image6.png)
 
 So much better Bob.
 
@@ -92,6 +92,6 @@ In the interest of keeping this guide semi SFW I wont show the results when i ta
 
 So that being said for Adult mod users - there is one more step. Both Ostim and SexLab frameworks strip toons when scenes are initiated. We need to tell these frameworks that the ring needs to be unequipped as well. For Ostim users (Licentia Black)  - go to Ostim’s mcm and choose the undressing tab - mark the ring in slot 36. If it doesn’t auto strip the ring you will have an unwanted hole.
 
-![ostim undress](asssets\image1.png)
+![ostim undress](\assets\image1.png)
 
 NOW YOU ARE DONE. GO FORTH AND FUCK AND CONQUER SKYRIM!
