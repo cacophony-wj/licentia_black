@@ -25,7 +25,7 @@ Bob already installed all his Licentia Black Wabbajack list which includes Skyri
 
 *The following directions assume that you have the Licentia Black Wabbajack list installed already.  And that you are frustrated or are going to be frustrated by this mod and the things that SOS Full does to it. So let Bob and I save you some of that frustration and make this just work for all toons regardless of what is between their legs.*
 
-1) Download the Skyrim Outfit System v0.7.0 BETA1 mod from the miscellaneous files section (I will update the link if a new version comes out). This is a manual download and will need to be installed with the new mod button that is located in the top left of the MO2 and looks like a folder icon.
+1) Download the [Skyrim Outfit System v0.7.0 BETA1](https://www.nexusmods.com/skyrimspecialedition/mods/42162?tab=files) mod from the miscellaneous files section (I will update the link if a new version comes out). This is a manual download and will need to be installed with the new mod button that is located in the top left of the MO2 and looks like a folder icon.
 
 2) Install the new version as “[NoDelete][Framework] Skyrim Outfit System v0.7.0 BETA1” without the “”. (Just copy and paste the name when you install). Then drag that new mod up to the Framework divider on the left side of MO2 and put it directly under the old one and activate it. Once you activate it - you need to deactivate the old one. The esp from the new one will stay where it is supposed to be in the list if you do it this way. Activate new one THEN deactivate the old one.
 
