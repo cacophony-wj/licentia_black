@@ -1,4 +1,6 @@
-﻿*This guide is intended for 18+/21+ mature audiences due to sexual language. It is up to the user to determine if they are the correct age for this content depending on where they are located in the world. There are no Nude images contained in this guide.*
+#FOR MALE CHARACTERS AND FOLLOWERS ONLY - Futa is unconfirmed but may benefit from this as well.
+ 
+ *This guide is intended for 18+/21+ mature audiences due to sexual language. It is up to the user to determine if they are the correct age for this content depending on where they are located in the world. There are no Nude images contained in this guide.*
 
 
 *This guide is written for the Wabbajack list known as Licentia Black. It is an 18+/21+  adult themed NSFW Skyrim SE/AE Mod list. This guide can be used by others to achieve the same results - but the steps may need to be modified - I leave that to the user.* 
