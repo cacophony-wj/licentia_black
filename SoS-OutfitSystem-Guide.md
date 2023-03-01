@@ -76,7 +76,7 @@ The next screen is where the magic happens. Here you can search for your outfit.
 
 9) Notice I left the ring we equipped off the costume list. Bob likes gloves - so the rings will show up on the outside of the gloves if added to the list. Bob doesn’t like that look so I left it out. At this point Use the Base policy drop down to select Require equipped. So if an armor is equipped in one of the 3 slots that the costume uses it will transmog those pieces. If you were playing a female character you are done. But that’s not what this guide is about. And we are almost done. I promise.
 
-Go ahead and tick the per-slot policy editor at this point. We need to tell the offending slot 52 that SoS adds to all body armor pieces that it needs to not leave a big hole where the penis should be when Bob wants to get down with his partner. Remember that’s why we are here, dicks and rings.
+Go ahead and tick the per-slot policy editor at this point. We need to tell the offending "Unofficial (Typically Pelvis Under)" body slot, that SoS adds to all body armor pieces, that it needs to not leave a big hole where the penis should be when Bob wants to get down with his partner. Remember that’s why we are here, dicks and rings.
 
 ![marking slot 52](/assets/image9.png)
 
