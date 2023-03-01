@@ -94,7 +94,7 @@ So much better Bob.
 
 In the interest of keeping this guide semi SFW I wont show the results when i take his armor and ring off. Trust me it works. Now as for this ring. You need to have a ring at all times. Whatever ring. Just any ring, equipped or this wont work and he will have a hole where his penis should be and he will be sad. To strip him nude - remove his armor AND the Ring. The Penis is tied to the ring. Call it a cock ring if you want. Ring on - SoS puts his penis away and he wears clothes Ring off - Sos reequips his penis so there is no hole. Try it out.
 
-So that being said for Adult mod users - there is one more step. Both Ostim and SexLab frameworks strip toons when scenes are initiated. We need to tell these frameworks that the ring needs to be unequipped as well. For Ostim users (Licentia Black)  - go to Ostim’s mcm and choose the undressing tab - mark the ring in slot 36. If it doesn’t auto strip the ring you will have an unwanted hole.
+So that being said for Adult mod users - there is one more step. Both Ostim and SexLab frameworks strip toons when scenes are initiated. We need to tell these frameworks that the ring needs to be unequipped as well. For Ostim users (Licentia Black)  - go to Ostim’s mcm and choose the undressing tab - mark the 36 Ring option on the left side so that it is on. If it doesn’t auto strip the ring you will have an unwanted hole.
 
 ![ostim undress](/assets/image1.png)
 
