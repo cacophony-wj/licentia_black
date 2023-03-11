@@ -1,10 +1,45 @@
 # LICENTIA BLACK CHANGELOG
 
+## 5.6.4
+
+- Added _Delta of Venus - Sex Fantasies for OStim NG_
+- Added _OVamp_
+- Added _OSouls_
+- Added _Smooches of Skyrim_
+- Added _Koralina's Mystic Eyes_
+- Added _Koralina's Eyebrows for High Poly Head_
+- Added _Koralina's Freckles & Moles_
+- Added _Koralina's Makeup Tweaks_
+- Added _Vampire Lines Expansion_
+- Added _Bandit Lines Expansion_
+- Added _RaceMenu 0.4.16 Memory Leak Hotfix_
+- Added back _XPMSSE - Nemesis - Papyrus Stack Fix_
+- Updated _OpenSex Standalone - Open alternative to OSex_ to 1.24
+- Updated _Billyy Furniture Pack for OStim NG_ to 2.1
+- Updated _Moon Lovemaking Compendium for OStim NG_ to 1.1
+- Updated _Fertility Mode v3 fixes and Tweaks_ to 2.61
+- Updated _IchDerMan's Preset Collection_ to 1.2
+- Updated _Mundus - A Standing Stone Overhaul_
+- Updated _Atlas Map Markers SE_ to 2.7
+- Updated _Animated Forge Water_ to 0.7
+- Updated _More Informative Console_ to 1.1.0
+- Updated _Auto Input Switch_ to 1.2
+- Downgraded  _Faster HDT-SMP_ to 1.49
+- Reconfigured jiggle physics to be more modest. They were too jiggly.
+- Reran _Nemesis_. 
+
+## 5.6.3.1
+
+- Corrected the load order, which had reverted to an alphabetical listing of plugins.
+
 ## 5.6.3
 
 - Added back _Improved Camera SE_
 - Added a Reinstaller for _3BA_ physics
+- Added _Casting Bar_
+- Added _Casting Bar HUD Variance_ (Nordic grey to purple)
 - Added _Underground - a dungeon texture overhaul_ (Riften only)
+- Added _Cathedral - 3D Lavendar_ (extra size)
 - Updated _OpenSex Standalone - Open alternative to OSex_ to 1.22.1
 - Updated _OpenSex Addon Hub_ to 3.0
 - Updated _OpenSex Anal Anamations Addon_ to 1.20
