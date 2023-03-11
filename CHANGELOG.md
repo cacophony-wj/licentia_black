@@ -1,5 +1,9 @@
 # LICENTIA BLACK CHANGELOG
 
+## 5.6.4.1
+
+- Fix for incorrect _enbseries_.
+
 ## 5.6.4
 
 - Added _Delta of Venus - Sex Fantasies for OStim NG_
