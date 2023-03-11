@@ -1,4 +1,6 @@
-﻿*This guide is intended for 18+/21+ mature audiences due to sexual language. It is up to the user to determine if they are the correct age for this content depending on where they are located in the world. There are no Nude images contained in this guide.*
+#FOR MALE CHARACTERS AND FOLLOWERS ONLY - Futa is unconfirmed but may benefit from this as well.
+ 
+ *This guide is intended for 18+/21+ mature audiences due to sexual language. It is up to the user to determine if they are the correct age for this content depending on where they are located in the world. There are no Nude images contained in this guide.*
 
 
 *This guide is written for the Wabbajack list known as Licentia Black. It is an 18+/21+  adult themed NSFW Skyrim SE/AE Mod list. This guide can be used by others to achieve the same results - but the steps may need to be modified - I leave that to the user.* 
@@ -23,7 +25,7 @@ Bob already installed all his Licentia Black Wabbajack list which includes Skyri
 
 *The following directions assume that you have the Licentia Black Wabbajack list installed already.  And that you are frustrated or are going to be frustrated by this mod and the things that SOS Full does to it. So let Bob and I save you some of that frustration and make this just work for all toons regardless of what is between their legs.*
 
-1) Download the Skyrim Outfit System v0.7.0 BETA1 mod from the miscellaneous files section (I will update the link if a new version comes out). This is a manual download and will need to be installed with the new mod button that is located in the top left of the MO2 and looks like a folder icon.
+1) Download the [Skyrim Outfit System v0.7.0 BETA1](https://www.nexusmods.com/skyrimspecialedition/mods/42162?tab=files) mod from the miscellaneous files section (I will update the link if a new version comes out). This is a manual download and will need to be installed with the new mod button that is located in the top left of the MO2 and looks like a folder icon.
 
 2) Install the new version as “[NoDelete][Framework] Skyrim Outfit System v0.7.0 BETA1” without the “”. (Just copy and paste the name when you install). Then drag that new mod up to the Framework divider on the left side of MO2 and put it directly under the old one and activate it. Once you activate it - you need to deactivate the old one. The esp from the new one will stay where it is supposed to be in the list if you do it this way. Activate new one THEN deactivate the old one.
 
@@ -76,7 +78,7 @@ The next screen is where the magic happens. Here you can search for your outfit.
 
 9) Notice I left the ring we equipped off the costume list. Bob likes gloves - so the rings will show up on the outside of the gloves if added to the list. Bob doesn’t like that look so I left it out. At this point Use the Base policy drop down to select Require equipped. So if an armor is equipped in one of the 3 slots that the costume uses it will transmog those pieces. If you were playing a female character you are done. But that’s not what this guide is about. And we are almost done. I promise.
 
-Go ahead and tick the per-slot policy editor at this point. We need to tell the offending slot 52 that SoS adds to all body armor pieces that it needs to not leave a big hole where the penis should be when Bob wants to get down with his partner. Remember that’s why we are here, dicks and rings.
+Go ahead and tick the per-slot policy editor at this point. We need to tell the offending "Unofficial (Typically Pelvis Under)" body slot, that SoS adds to all body armor pieces, that it needs to not leave a big hole where the penis should be when Bob wants to get down with his partner. Remember that’s why we are here, dicks and rings.
 
 ![marking slot 52](/assets/image9.png)
 
@@ -94,7 +96,7 @@ So much better Bob.
 
 In the interest of keeping this guide semi SFW I wont show the results when i take his armor and ring off. Trust me it works. Now as for this ring. You need to have a ring at all times. Whatever ring. Just any ring, equipped or this wont work and he will have a hole where his penis should be and he will be sad. To strip him nude - remove his armor AND the Ring. The Penis is tied to the ring. Call it a cock ring if you want. Ring on - SoS puts his penis away and he wears clothes Ring off - Sos reequips his penis so there is no hole. Try it out.
 
-So that being said for Adult mod users - there is one more step. Both Ostim and SexLab frameworks strip toons when scenes are initiated. We need to tell these frameworks that the ring needs to be unequipped as well. For Ostim users (Licentia Black)  - go to Ostim’s mcm and choose the undressing tab - mark the ring in slot 36. If it doesn’t auto strip the ring you will have an unwanted hole.
+So that being said for Adult mod users - there is one more step. Both Ostim and SexLab frameworks strip toons when scenes are initiated. We need to tell these frameworks that the ring needs to be unequipped as well. For Ostim users (Licentia Black)  - go to Ostim’s mcm and choose the undressing tab - mark the 36 Ring option on the left side so that it is on. If it doesn’t auto strip the ring you will have an unwanted hole.
 
 ![ostim undress](/assets/image1.png)
 
