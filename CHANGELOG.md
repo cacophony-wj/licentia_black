@@ -1,5 +1,31 @@
 # LICENTIA BLACK CHANGELOG
 
+## 5.6.4.7
+
+- Update to _Improved Camera SE_ to get the list installable again.
+
+## 5.6.4.6
+
+- Capped framerate at 59.0.
+- Enabled FXAA anti-aliasing.
+- Changed some actions (killmovies, crafting) to display in third person (previously all first)
+
+## 5.6.4.5
+
+- Interim testing version. Unreleased.
+
+## 5.6.4.4
+
+- Fix for dark lighting on the ENB HIGH preset.
+
+## 5.6.4.3
+
+- Interim testing version. Unreleased.
+
+## 5.6.4.2
+
+- Another fix for incorrect _enbseries._
+
 ## 5.6.4.1
 
 - Fix for incorrect _enbseries_.
