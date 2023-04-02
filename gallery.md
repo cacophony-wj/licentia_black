@@ -19,6 +19,8 @@
 |[![CHM Nord Female](/assets/presets/FemaleNords/enb2023_4_1_15_07_48_small.png)](/assets/presets/FemaleNords/enb2023_4_1_15_07_48.png)|[![CHM Nord Female](/assets/presets/FemaleNords/enb2023_4_1_15_08_13_small.png)](/assets/presets/FemaleNords/enb2023_4_1_15_08_13.png)|[![CHM Nord Female](/assets/presets/FemaleNords/enb2023_4_1_15_08_42_small.png)](/assets/presets/FemaleNords/enb2023_4_1_15_08_42.png)|
 |Vrayth's - Nord Female 2|Vrayth's - Nord Female 3|Zelest|
 |[![CHM Nord Female](/assets/presets/FemaleNords/enb2023_4_1_15_09_02_small.png)](/assets/presets/FemaleNords/enb2023_4_1_15_09_02.png)|[![CHM Nord Female](/assets/presets/FemaleNords/enb2023_4_1_15_09_21_small.png)](/assets/presets/FemaleNords/enb2023_4_1_15_09_21.png)|[![CHM Nord Female](/assets/presets/FemaleNords/enb2023_4_1_15_09_52_small.png)](/assets/presets/FemaleNords/enb2023_4_1_15_09_52.png)|
+  
+* Marie and Prisonea have head sculpt files that you may need to use in addition to loading their presets.
 </details>
 
 ## Male Based Presets
