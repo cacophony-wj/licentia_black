@@ -6,7 +6,7 @@
   - [I can't level up my skills!](#i-cant-level-up-my-skills)
   - [How do I start the Main Story Quest? I went to Helgen but it is intact!](#how-do-i-start-the-main-story-quest-i-went-to-helgen-but-it-is-intact)
   - [Certain quests -- especially the Creation Club quests -- will not start or complete!](#certain-quests-especially-the-creation-club-quests-will-not-start-or-complete)
-  - [I'm not receiving the extra Thane weapons from Balgruuf (or others, when I complete their quests).](im-not-receiving-the-extra-thane-weapons-from-balgruuf-or-others-when-i-complete-their-quests)
+  - [I'm not receiving the extra Thane weapons from Balgruuf (or others, when I complete their quests).](#im-not-receiving-the-extra-thane-weapons-from-balgruuf-or-others-when-i-complete-their-quests)
   - [WARNING! DON'T LISTEN TO ORLANDO!](#warning-dont-listen-to-orlando)
   - [I love the paraglider mod, but I keep dying when I land!](#i-love-the-paraglider-mod-but-i-keep-dying-when-i-land)
   - [The tuning gloves in Winterhold seem to be acting up.](#the-tuning-gloves-in-winterhold-seem-to-be-acting-up)
