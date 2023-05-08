@@ -6,6 +6,7 @@
   - [I can't level up my skills!](#i-cant-level-up-my-skills)
   - [How do I start the Main Story Quest? I went to Helgen but it is intact!](#how-do-i-start-the-main-story-quest-i-went-to-helgen-but-it-is-intact)
   - [Certain quests -- especially the Creation Club quests -- will not start or complete!](#certain-quests-especially-the-creation-club-quests-will-not-start-or-complete)
+  - [I'm not receiving the extra Thane weapons from Balgruuf (or others, when I complete their quests).](im-not-receiving-the-extra-thane-weapons-from-balgruuf-or-others-when-i-complete-their-quests)
   - [WARNING! DON'T LISTEN TO ORLANDO!](#warning-dont-listen-to-orlando)
   - [I love the paraglider mod, but I keep dying when I land!](#i-love-the-paraglider-mod-but-i-keep-dying-when-i-land)
   - [The tuning gloves in Winterhold seem to be acting up.](#the-tuning-gloves-in-winterhold-seem-to-be-acting-up)
@@ -65,6 +66,10 @@ This mod uses _Alternate Perspective_ by the amazing NSFW modder Scrab, in which
 ### Certain quests (especially the Creation Club quests) will not start or complete!
 
 A lot of quest stages in later quests are directly reliant on **ALL** the quest triggers -- including event, interaction, and location-based triggers -- being activated during the intro sequence in which Alduin destroys Helgen. If you are finding that Uthgerd will not brawl with you, Ysolda will not ask you for the mammoth tusk, you can't talk to the Creation Club pets, or _Saints and Seducers_ NPCs are not responding, go back and do Helgen. I am also extremely skeptical of all starts which skip this part of the game, including the "Dragonborn" start from the dragon statue in the opening room as well as the "Skip Intro" start in the Helgen Inn's basement. If you find it is impossible to complete certain quests after using these "skips," I refuse to be held responsible.
+
+### I'm not receiving the extra Thane weapons from Balgruuf (or others, when I complete their quests).
+
+These quests are all on a rather buggy time delay. I don't know why, but this has been confirmed with multiple user reports, and it happens with LOTD and just its patches. If you want to receive all the Thane weapons legitimately, do not delay in completing their quests. For Balgruuf, do Helgen almost from the beginning of the game and complete everything up through Mimilnur (the first dragon attack) as soon as you can. Otherwise you won't get them. For the other Thane quests, don't mess around after you start them. Complete them and get the weapons. Otherwise you will have to console them in.
 
 ### WARNING! DON'T LISTEN TO ORLANDO!
 
