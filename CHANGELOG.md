@@ -1,5 +1,231 @@
 # LICENTIA BLACK CHANGELOG
 
+## 6.0 through 6.10.2
+
+Added _PI-CHO Hyper ENB for Cathedral Weathers_
+Added _Valerica - Lust of a Mother_ (with OStim patch)
+Added _Fertility Adventures_
+Added _Fertility Adventures Child Add-On_
+Added _OVirginity Reflowered_
+Added _Flower Girls No Dialogue Pollution_
+Added _Night-blooming Violets for OStim NG_
+Added _Drago's Enchant Those Potions OpenSex Add on_
+Added _Waifu Expression Redux (With High Poly Head Support)
+Added _REALORE ULTIMA 2.1 8K_
+Added _Remove Female Wrinkles_
+Added some of _eeekie's Enhanced NPC's_
+Added _WICO - Windsong Immersive Character Overhaul_
+Added _Bijin Wives SE_
+Added _Bijin Warmaidens SE_
+Added _Bijin NPCs SE_
+Added _Bijin Skin - CBBE_ and _Lady Bits for Bijin Skin_
+Added _Bijin AIO De-Standalone_
+Added _Bijin NPCs Civil War Legate Rikke Fix_
+Added _Seranaholic 1.5 High Poly Head Conversion_
+Added _Valerica by rxkx22 - SSE_
+Added _BeastHHBB - Khajiit and Argonian Content_
+Added _Interesting Beasts_
+Added _Legacy of the Dragonborn - NPC Overhaul_
+Added _Dovahnique's High Poly Inigo Replacer_
+Added _Faendal Facelift_
+Added _Vilja in Skyrim_
+Added _Vilja Re-Imagined SSE_
+Added _Vilja - Flower Girls Patch_
+Added _BiR's Remiel Replacer_ as recommended by @Occilator.
+Added _Remiel - Custom Voiced Dwemer Specialist and Companion_
+Added _Expressive Remiel_ with custom hotfox from @Samsung#6949.
+Added _Remiel's Crossbow Replacer_
+Added _Hoth_
+Added _Xelzaz - Custom Fully Voiced Argonian Telvanni Follower_
+Added _Xelzaz Anniversary Edition Plugin_
+Added _Xelzaz Follower Wyrmstooth Patch_
+Added _Redcap the Riekling - A Fully Voice-Acted Immersive Follower and Quest_
+Added _KS Hair for Flower Girls_
+Added _AW Flower Girls - Facegen Only_
+Added _Andromeda - Unique Standing Stones of Skyrim_ (the XP buffs have been removed)
+Added _Moonpath to Elsewyr Retexture SE_
+Added _Witchplate Armor Retexture SE_
+Added _The Wheels of Lull Retexture SE_
+Added _Ebony Armors and Weapons Retexture SE_
+Added _Daedric Armors and Weapons Retexture SE_
+Added _Orcish Armors and Weapons Retexture SE_
+Added _Iron Armors and Weapons Retexture SE_
+Added _Steel Armors and Weapons Retexture SE_
+Added _Imperial Armor and Weapons Retexture SE_
+Added _Blades Armor and Weapons Retexture SE_
+Added _Elven Armors and Weapons Retexture SE_
+Added _Glass Armors and Weapons Retexture SE_
+Added _Wolf Armor and Weapons Retexture SE_
+Added _Nordic Carved Armors and Weapons Retexture SE_
+Added _Silver Armor and Weapons Retexture SE_
+Added _Modular Armory_
+Added _Ahzidal's Armor Set - My version SE_
+Added _Skyrim on Skooma_
+Added _Real Bosses - Light_
+Added _Real Bosses Patch Truck_
+Added _Oblivion Style Troll Health Regen_
+Added _Legacy of the Dragonborn CBBE Patch_
+Added _Vigilant CBBE (3BA) Bodyslide_
+Added _Bruma - CBBE 3BBB Conversion with Uniboob_
+Added _Beyond Skyrim - Bruma - HIMBO Refit_
+Added _Horses Simply Turn Better_
+Added _Faster Horses_
+Added _Cleaned and Upscaled Textures for LotD SSE_
+Added _Majestic Bruma Mountains_
+Added _Happy Little Trees - Beyond Skyrim Bruma LOD Replacer_
+Added _SOLAS Weathers Plugin and Resources_
+Added _Mists of Tamriel_
+Added _Thunder Sounds - WiZkiD Mix -_
+Added _Picta Series - Improved Sky Meshes_
+Added _Whiterun Mesh Fixes_
+Added _Bright Waterfall Fix for ENB_
+Added _Better Dirt Cliffs and Alphas SE_
+Added _Skyland Happy Little Trees Bark_
+Added _Grass FPS Booster_
+Added _Simple Offense Suppression_
+Added _Simplest Horses_
+Added _Faster Horse Dismount SSE_
+Added _Animated Whistling_
+Added _Simplest Horses - Animated Whistling Patch_
+Added _Wizard Hats_
+Added _LOTD Pale Pass Extension_
+Added _Unofficial Legacy of the Dragonborn and Beyond Skyrim Bruma Synergy Patch_
+Added _Falskaar - Addons and Patches_
+Added _Summermyst X Immersive Jewelry_
+Added _Ordinator Beyond Skyrim Patch_
+Added _Trade and Barter - Patches_
+Added _Wintersun - More Patches_
+Added _Shadow Boost_
+Added _ECE Sliders Addon for Racemenu_
+Added _Skyrim Sewers - Radiant Quests Enabled_
+Added _SPID - NFF - Ignore Token to CustomAI Followers_
+Added _Undeath XMPSSE Patch_
+Added _Deadly Spell Impacts Transparency Fix for ENB_
+Added _Taelith (HPH Bosmer-Woodelf Racemenu Preset_
+Added _Bruma Fur Hat for M'aiq_
+Added _Snowflakes 2021_
+Added RaceMenu Presets from my Users
+Added LOTD patches for Super Followers
+Added _WIDeadBodyCleanupScript Crash Fix_
+Added _Critter Spawn Congestion Fix_
+Added _Vokrii Ice Spike Crash Fix_
+Added a host of other small script fixes you probably won't notice.
+Added some of katie's patches
+Added katie's OBody configuration files
+Swapped PI-CHO Hyper ENB for Patrician ENB - EMPEROR Edition
+Swapped to the _DynDOLOD NG DLL_
+Swapped _Likable Lucien_ for _Cosmos Lucien Replacer_
+Swapped _Veydosebrom Regions_ in for _Realistic Grass Field_, with complex grass patch.
+Swapped _Skyrim Anniversary - Growable Plants_ for the correct version
+Updated _OSA for OStim_ to 1.3
+Updated _OStim NG - OSA Overhaul and API Next Gen_ to 6.6f
+Updated _OpenSex_ to _Open Animations Romance and Erotica_ 1.30
+Updated _Drago's OpenSex Anal Amimations Add-On_ to 1.22
+Updated _Drago Foot Animation Add on for OpenSex_ to 1.8
+Updated _Moon Lovemaking Compendium for OStim NG_ to 1.2
+Updated _Fencing In The Dark for OStim NG_ to 1.1
+Updated _OPrivacy_ to 2.5b
+Updated _Devour - Sensual Vampire Feeding for OStim_ to 2.0
+Updated _Serana Dialogue Addon_ to 4.0 **BETA**
+Updated _Smooches of Skyrim_ to 1.6
+Updated _Destination Weddings_ to 1.4
+Updated _Destination Weddings Compatibility Patches_ to 1.1
+Updated _Immersive Armors Retexture and Mesh Fixes SE_ to 1.6
+Updated _Immersive Armors - SSE CBBE BodySlide_ to 2.5
+Updated _Immersive Armor HIMBO V2_ to 2.1.9
+Updated _Ancient Nord Stalhrim_ to 1.2.3.1
+Updated _Maximum Carnage_ to 7.2
+Updated _Legacy of the Dragonborn Patches (Official) to 2.9.8
+Updated _VIGILANT Voiced - English Addon_ to 1.7.2
+Updated _VIGILANT SE HiRes Pack - Lost Textures_ to 1.7.2
+Updated _Beyond Skyrim - Bruma SE_ to 1.6.2
+Updated _Wyrmstooth_ to 1.20
+Updated _The Wheels of Lull Unwound Edition_ to 5.1.9
+Updated _Alternate Perspective - Alternate Start_ to 2.6
+Updated _Mysticism - A Magic Overhaul_ to 2.2.3
+Updated _Adamant - A Perk Overhaul_ to 5.7.6
+Updated _Legacy Safehouse Plus_ to 3.2
+Updated _Legacy of the Dragonborn Curator's Companion_ to 6.2.3
+Updated _Nether's Follower Framework_ to 2.8.3b
+Updated _Gladys the Corgi - A Custom Dog Follower Mod_ to 2.0.3.1
+Updated _Headhunter - Bounties Redone_ to 1.43
+Updated _Skyrim's Paraglider_ to 1.5.0
+Updated _Functional Fearsome Fists - Innate Unarmed Boost_ to 1.3
+Updated _Spellsiphon - Immersive Combat_ to 5.27
+Updated _Ordinator - Combat Styles_ to the ESL
+Updated _Mundus - A Standing Stone Overhaul_ to 1.9.1
+Updated _2K Hyperborean Snow_ to _4K Hyperborean Snow_
+Updated _2K Septentrional Landscapes_ to _4K Septentrional Landscapes_
+Updated _2K Riften of Reverie_ to _4K Riften of Reverie_
+Updated _2K Mrf's Markarth_ to _4K Mrf's Markarth_
+Updated _2K Raven Rock_ to _4K Raven Rock_
+Updated _Storm Lightning for SSE and VR_ to 1.4.17
+Updated _Simplicity of Snow_ to 0.11
+Updated _Security Overhaul SKSE - Some More Locks_ to 1.0.2
+Updated _Atlas Map Markers SE_ to 2.7
+Updated _Skyland AIO_ to 4.1
+Updated _Happy Little Trees Add-On - DynDOLOD 3_ to 2.02
+Updated _Lux_ to 6.0.3
+Updated _Lux Orbis_ to 3.2
+Updated _Water for ENB_ to 1.76
+Updated _Embers XD_ to 2.7.2
+Updated _WizKid Carriages_ to 1.4
+Updated _Immersive College of Winterhold Patch Collection_ to 1.1.1
+Updated _Skyrim Sewers Undeath Patch_ to 4.14
+Updated _Animated Forge Water_ to 0.7
+Updated _Unofficial Skyrim Modder's Patch - USMP SE_ to 2.5.8c
+Updated _Spell Perk Item Distributor_ to 6.5.2
+Updated _Papyrus Tweaks NG_ to 4.1
+Updated _Spell Perk Item Distributor_ to 6.5
+Updated _Simple Dual Sheath_ to 1.5.6
+Updated _Read or Take SKSE_ to 1.3
+Updated _DynDOLOD Resources_ to 3.00
+Updated _Quest Journal Limit Bug Fixer_ to 0.2.1
+Updated to the latest compile of _enbseries_ 0.488
+Reverted to the non-NG version of _Yes Im Sure_ due to a conflict
+Reinstalled _Happy Little Trees_ for less blue snow
+Removed _Rudy ENB for Cathedral Weathers - Lux Edition_
+Removed _Enhanced Volumetric Lighting and Shadows_ (incompatible with new ENB)
+Removed _Demoniac Texture_
+Removed _Demoniac SOS Patch_
+Removed _Pandorable's Valerica_
+Removed _Likable Lucien_
+Removed _Selina Mage Follower_
+Removed _Koralina's Eyebrows for High Poly Head_
+Removed _Koralina's Freckles & Moles_
+Removed _Koralina's Makeup Tweaks
+Removed _Koralina's Mystic Eyes_
+Removed _World Eater Beater_
+Removed _Love and Expectations - The Story of Olfina Gray-Man and Jon Battle-Born_
+Removed _Sofia - The Funny Fully Voices Follower_ and associated patches
+Removed _Improved Follower Dialogue - Lydia_
+Removed _Citizens of Tamriel_ and associated patches
+Removed _Mihail's Mimics_
+Removed _Volumetric Mists_
+Removed _Convenient Horses_ and associated patches
+Removed _Cathedral Weathers Unofficial Update_
+Removed _Cathedral Weathers - Diverse Seasons_
+Removed _Informed Mail Delivery_
+Removed _Contextual Crosshair_
+Removed _Casting Bar_ and _Casting Bar Hud Variance_
+Removed _Better Ambient Wolf Sounds_
+Removed _Chicken and Ramen Noodle Soups SSE_
+Removed _Bijin NPCs Civil War Legate Rikke Fix_ (no longer needed)
+Reinstalled Lux during darker nights troubleshooting.
+Reinstalled _Dovahnique's High Poly Inigo Replacer_ with proper assets.
+Reinstalled all the NPC mods.
+Fixed and beautified the _Flower Girls_ NPCs.
+Resolved a bug where Myrwatch floor would be a void.
+Rebuilt the NPC merge to accomodate changes.
+Verified NPC conflict resolution.
+Resolved all _darkface_ bugs
+Reran _Nemesis_
+Regenerated _BodySlides_
+Reran _LODS_
+Countless other bugfixes.
+Deleted some redundant downloads
+Hopefully most major bugs quashed in testing!
+
 ## 5.6.4.7
 
 - Update to _Improved Camera SE_ to get the list installable again.
