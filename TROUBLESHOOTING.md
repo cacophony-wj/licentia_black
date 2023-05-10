@@ -1,6 +1,7 @@
 - [Content](#content)
   - [I don't have one of those ancient NUMPADs! How am I gonna use OStim?](#i-dont-have-one-of-those-ancient-numpads-how-am-i-gonna-use-ostim)
   - [Leveling up is weird!](#leveling-up-is-weird)
+  - [How do I turn off headbob and / or constant subtle camera motion?](#how-do-I-turn-off-headbob-and-or-constant-subtle-camera-motion)
   - [My weapons are swinging super fast or super slow!](#my-weapons-are-swinging-super-fast-or-super-slow)
   - [My buff spells are not working on my followers, allies, or summons!](#my-buff-spells-are-not-working-on-my-followers-allies-or-summons)
   - [I can't level up my skills!](#i-cant-level-up-my-skills)
@@ -14,7 +15,6 @@
   - [The Civil War questline is horribly messed up. I can't complete the Battle(s) of Whiterun / Solitude / Windhelm. People are inverting backwards off the ground. Enemies don't stop spawning. There's no Ulfric/Tullius!](#the-civil-war-questline-is-horribly-fucked-up-i-cant-complete-the-battles-of-whiterun--solitude--windhelm-people-are-inverting-backwards-off-the-ground-enemies-dont-stop-spawning-theres-no-ulfrictullius)
   - [I can't complete the bandit raid quest for Whiterun (or another city)](#i-cant-complete-the-bandit-raid-quest-for-whiterun-or-another-city)
   - [I'm trying to kill the Necromancers for Undeath and the quest won't complete.](#im-trying-to-kill-the-necromancers-for-undeath-and-the-quest-wont-complete)
-  - [I set OStim to Auto Mode and things got weird.](#i-set-ostim-to-auto-mode-and-things-got-weird)
 - [Technical](#technical)
   - [I crashed!](#i-crashed)
   - [I'm randomly crashing!](#im-randomly-crashing)
@@ -47,9 +47,13 @@ Still not working? The uncapper preset prevents skills from leveling beyond your
 
 Skill not leveling up upon reading a skill book? Make sure you're not at the cap, then check for any debuffs to skill gain on your magic effects tab. Take care of those, then try again.
 
+### How do I turn off headbob and / or constant subtle camera motion?
+
+You didn't run the MCM recording because it disables the headbob effect. The list is horribly broken without that recording, so start over and actually read the Readme document.
+
 ### My weapons are swinging super fast or super slow!
 
-Known bug with Skyrim when weapon speed buffs or debuffs get stacked too high. While impossible in the vanilla game, speeds with as many multipliers as my perks allow will eventually "roll over" and do the opposite. As far as I know, you can fix this by toggling the "Weapon Speed Fix" on and off in the menu for _SPERG._ If that does not work, you will need to disable all weapon speed adjustments from the same menu.
+You didn't run the MCM recording because it disables weapon speed effects. They are temporarily unsupported due to mod incompatibilities, which will likely be resolved in the future. The list is horribly broken without that recording, so start over and actually read the Readme document.
 
 ### My buff spells are not working on my followers, allies, or summons!
 
@@ -61,11 +65,11 @@ This is due to a _Static Skill Leveling_ conflict. If you have _any_ effect on y
 
 ### How do I start the Main Story Quest? I went to Helgen but it is intact!
 
-This mod uses _Alternate Perspective_ by the amazing NSFW modder Scrab, in which you can observe and walk through Helgen's destruction as a neutral bystander. To witness Alduin's first attack in centuries, travel to Helgen and choose the "Rent A Room (Start Intro)" option. Then sleep in the bed that the innkeeper offers you for at least one hour. The intro will begin as soon as you step outside. Bear in mind it is important to complete this step relatively early as many later quest stages rely on it. See the question below.
+This mod uses _Alternate Perspective_, in which you can observe and walk through Helgen's destruction as a neutral bystander. To witness Alduin's first attack in centuries, travel to Helgen and choose the "Rent A Room (Start Intro)" option. Then sleep in the bed that the innkeeper offers you for at least one hour. The intro will begin as soon as you step outside. Bear in mind it is important to complete this step relatively early as many later quest stages rely on it. See the question below.
 
 ### Certain quests (especially the Creation Club quests) will not start or complete!
 
-A lot of quest stages in later quests are directly reliant on **ALL** the quest triggers -- including event, interaction, and location-based triggers -- being activated during the intro sequence in which Alduin destroys Helgen. If you are finding that Uthgerd will not brawl with you, Ysolda will not ask you for the mammoth tusk, you can't talk to the Creation Club pets, or _Saints and Seducers_ NPCs are not responding, go back and do Helgen. I am also extremely skeptical of all starts which skip this part of the game, including the "Dragonborn" start from the dragon statue in the opening room as well as the "Skip Intro" start in the Helgen Inn's basement. If you find it is impossible to complete certain quests after using these "skips," I refuse to be held responsible.
+A lot of quest stages in later quests are directly reliant on **ALL** the quest triggers -- including event, interaction, and location-based triggers -- being activated during the intro sequence in which Alduin destroys Helgen. If you are finding that Uthgerd will not brawl with you, Ysolda will not ask you for the mammoth tusk, you can't talk to the Creation Club pets, or _Saints and Seducers_ NPCs are not responding, go back and do Helgen. I am also extremely skeptical of all starts which skip this part of the game, including the "Dragonborn" start from the dragon statue in the opening room as well as the "Skip Intro" start in the Helgen Inn's basement.
 
 ### I'm not receiving the extra Thane weapons from Balgruuf (or others, when I complete their quests).
 
@@ -99,15 +103,11 @@ The Civil War questline is incredibly broken even in vanilla Skyrim partially du
 
 ### I can't complete the bandit raid quest for Whiterun (or another city)
 
-The guy who made this quest kinda made it really picky. You basically have to keep the Guard Captain alive while landing the last blow on the Bandit Leader **YOURSELF**.  Otherwise the quest will fail. No, followers or summons _do not count._ If you manage to do this without killing any NPCs, congratulations! Even if the quest fails, it should still technically "complete" and remove itself from your quest log. If it doesn't, you're just going to have to keep trying it until you get it. It seems to be rather buggy. I recommend buffing or armoring up and charging out in front of the guards before those damn fools get themselves killed.
+The Quest Objective to keep the Guard Captain alive is optional and he is extremely weak. Most likely he will die. You can still complete the quest if he does, you will just not receive any reward from the city (which is rather meager considering the effort required).
 
 ### I'm trying to kill the Necromancers for Undeath and the quest won't complete.
 
 Yeah, this is just a buggy part of this mod, at least when included in a large modlist like this. After clearing the ritual site, try opening console and typing `killall`. That should clear the quest. If that doesn't work, highlight the dead Necromancers and type `resurrect` followed by `killall.` If this STILL doesn't work, you will probably have to repeat this portion until it does.
-
-### I set OStim to Auto Mode and things got weird.
-
-Auto Mode is a work in progress. I recommend leaving it disabled completely, even for "aggressive" scenes. It has a tendency to get locked up in a solo animation, a kissing animation, not progress to later steps in the scene, among other issues. I'm sure it will improve over time.
 
 ## Technical
 
@@ -131,15 +131,15 @@ These are all caused by the extremely janky customization that makes first perso
 
 ### My performance is really terrible, low FPS, input lag during combat!
 
-Refer to the primary readme and ensure you meet all the system specification requirements and that your XMP or DOCP profiles are enabled on your motherboard.
+Refer to the primary readme and ensure you meet all the system specification requirements and that your performance settings are correct on your motherboard.
 
 ### I can't start an OStim scene or receive errors when attempting to do so!
 
-_Wabbajack 3.0_ sometimes has difficulty with corrupted installs. The first thing you can try is navigating to the _OStim_ MCM and selecting the "Update All" option near the bottom left. Close all menus and wait about 60 seconds, then attempt your adult interaction again. 
+The first thing you can try is navigating to the _OStim_ MCM and selecting the "Update All" option near the bottom left. Close all menus and wait about 60 seconds, then attempt your adult interaction again. 
 
 If this doesn't work, perhaps one of the _OStim_ plugins did not install properly via _Wabbajack._ Try right-clicking on the _OStim NG_ mod in _Mod Organizer 2_ and selecting "reinstall." There shouldn't be any options to choose, so just click through. Launch the game and attempt your adult interaction again.
 
-If this *STILL* doesn't work, Refer to the readme and keep reinstalling the list until the error messages go away. If they simply refuse to do so after multiple attempts, you might try earlier versions of _Wabbajack,_ or you might submit all relevant logs to me via DM and I will attempt to forward them to the _Wabbajack_ developers.
+If this *STILL* doesn't work, Refer to the readme and keep reinstalling the list until the error messages go away. 
 
 ### I can no longer end an OStim scene!
 
