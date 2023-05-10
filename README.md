@@ -1,8 +1,8 @@
 # LICENTIA BLACK
 
-![Licentia Black Splash Screen](images/Splash%20Screen%20with%20Logo.jpg)
+![Licentia Black Logo](images/4k_licentia_logo.webp)
 
-## Just a touch darker than before.
+## "All I want to be is a badass comic book hottie who fucks and cuts heads."
 
 ### Interested in other NSFW lists? Join my Discord Server!
 
@@ -12,7 +12,7 @@ You can find the link to my Discord server at the end of this document.
 
 **This Modlist contains mods with sexual content and you need to be of legal age in your country (most western countries: 18+, some eastern ones: 21+)**.
 
-_Licentia BLACK_ grew from a desire to solve outsanding bugs with the original modlist, _Licentia CLASSIC._ The performance target for the list has been vastly reduced. The vast majority of the old gameplay from _Licentia Classic_ is here, with an emphasis to expanding _Legacy of the Dragonborn_-associated content. Many of the instructions from the _Licentia Classic_ readme still apply, if you find yourself struggling, please consult that document available [here](https://github.com/cacophony-wj/LeS/blob/master/README.md). You can also find an expansive library of support suggestions on my Discord server (linked, again, at the bottom of this document).
+_Licentia BLACK_ is one of _Wabbajack's_ oldest and most well-regarded adult modlists, featuring optional non-fetish content with the _OSuite_ series of _OSA / OStim_ mods and an emphasis on build variety, backed up by an accessible Power Fantasy design philosophy. It also includes a host of displayable collectibles in the form of the _Legacy of the Dragonborn_ museum, with patches to incorporate **every** LOTD Quest Mod and all but one of the "Super Follower" mods. In addition to all this, the author places great weight on ensuring the list is as stable as it can possibly be and aggressively removes mods which cause regular crashes, and recent improvements to the NSFW framework ensure that it is much more viable for a long-term playthrough. As the final bonus, additions and customizations are welcomed via the author's Discord server, so if you don't like the list, **MAKE IT YOUR OWN!!**
 
 ## Requirements
 
@@ -55,11 +55,11 @@ Particularly intrusive malware solutions such as _Bitdefender_ and _Webroot_ don
 
 **Set Pagefile to 40GB Or Above**
 
-This can be accomplished in the System Settings for Windows. It is recommended to set the minimum and maximum pagefile size to `40,960` all on one solid state drive as mentioned above. MOre than one pagefile is not needed so long as it is large enough and located on a fast enough drive.
+This can be accomplished in the System Settings for Windows. It is recommended to set the minimum and maximum pagefile size to `40,960` all on one solid state drive as mentioned above. More than one pagefile is not needed so long as it is large enough and located on a fast enough drive.
 
 **Ensure Enough Free Storage Space**
 
-As of this writing approximately **20GB** is required for the `Steam` folder, **180 GB** for the downloads folder, and **200GB** for the modlist folder. These do not all need to be on the same drive. Approximately **30GB** of free space is required on your `Windows` drive and **30GB** additional free space on your `Wabbajack` drive to leave room for temporary files, patches, and caches. Finally, never reduce the free space on any drive below **15%** (the bar in _File Manager_ will turn red) or you will suffer severe performance problems.
+As of this writing approximately **20GB** is required for the `Steam` folder, **170 GB** for the downloads folder, and **260 GB** for the modlist folder. Approximately **30 GB** of free space is required on your `Windows` drive and **30 GB** additional free space on your `Wabbajack` drive to leave room for temporary files, patches, and caches. Thus the total required space is approximately **510 GB.** These do not all need to be on the same drive.  Finally, never reduce the free space on any drive below **15%** (the bar in _File Manager_ will turn red) or you will suffer severe performance problems.
  
 ##  Using Wabbajack
 
@@ -95,50 +95,18 @@ This shouldn't happen unless you download the list multiple times or download mu
 
 ### System Specifications
 
-To better target your system's capabilities, separate ENB configurations are included. The default is "enb medium" for which the specifications are below.
-
-- Intel i5 or AMD Ryzen 5 or equivalent
-- NVIDIA GTX 2060 or AMD Vega 64 or equivalent
-
-You can use tool such as `Speccy` to determine your computer's hardware.
-
-If you are on an extreme potato computer (laptop, Intel graphics), consider deleting the ENB-related files `d3d11.dll,` `d3dcompiler_46e.dll` and the `enbseries` folder, which are located within the `Stock Game` folder in the modlist directory. Afterward, uncheck the _Detection Meter_ mod inside the primary pane of _Mod Organizer 2_ or your game will give a "swapchain" error and crash before launching.
-
-If you are on a low end machine (older than 7-10 years) with any of the following:
-
-- Intel i3 or AMD Ryzen 3 or earlier
-- NVIDIA GTX 980 or AMD Radeon RX 580 or earlier
-
-Delete the enb files as described above and the copy all of the files inside the "enb low" directory into the base "Stock Game" folder.
-
-If you are on a high-end machine with
+The list's performance requirements have been greatly increased, therefore, the recommended setup for an enjoyable experience is at least
 
 - intel i7 or AMD Ryzen 5600 or later
 - NVIDIA RTX 2070 SUPER or AMD Radeon 5700 XT or later
 
-Take the same steps as above, but copy all of the files inside the "enb high" directory into the base "Stock Game" folder.
-
-If you have an extremely powerful machine with
-
-- AMD Ryzen 5800x3D or Intel i7 11900K or later
-- NVDIA RTX 3090 or later
-
-This list will likely not exploit your system's full capabilities. If that matters to you, please consider another list.
-
-**NEW** Thanks to my user @ArdisFoxx, a hybrid between "enb medium" and "enb low" is now available! This one is much more performance friendly than "enb medium" but not as painful on the eyes as "enb low." You can use it by copying files from the "enb medium-low" directory, and according to Ardis, the target specification for 60 FPS gameplay with those files is: 
-
-- Intel i7 4770K or equivalent
-- NVIDIA GTX 1660 SUPER or equivalent
-
 The list is configured for a resolution of `1920x1080` by default, to reduce support questions because the list cannot automatically downscale. It _will_ automatically upscale to higher resolutions at a sacrifice in quality. If you wish to increase your resolution for **BEST** quality, select the "INI Editor" from the _Tools_ menu along the icon bar of MO2 and change it via the `SkyrimPrefs.ini` file. Scroll down until you see the `[Display]` header and look for the `iSize` values. Note that the TYPICAL ORDER IS REVERSED, so for 1440p you would set the first value, `iSize H=` to **1440** and the second value, `iSize W=` to **2560.**
 
-If you are confident you meet the requirements for one of the above targets, but still experience severe performance drops, you may need to customize your `BIOS` settings to maximize your hardware. Refer to your motherboard's documentation about enabling XMP or DOCP Profiles.
+If you are confident you meet the above target, but still experience severe performance drops, you may need to customize your `BIOS` settings to maximize your hardware. Refer to your motherboard's documentation.
 
 ### Launching the List
 
 Launch _ModOrganizer.exe_ from the directory in which you installed the list. Launch the game from the **SKSE** entry in the drop-down menu.
-
-**UPDATED!** All version of _Licentia BLACK_ are now limited to the primary profile due to lack of time. (I am attending full time school.) In addition, and much to my disappointment, **all previous versions including alternate profiles and Licentia CLASSIC can no longer be installed** due to the removal of _Improved Camera PR4_ from Github. As a result the Archive has been removed from MEGA. Please do not ask for these versions or any missing files to install them, there is no way for me to legally distribute them and no means by which their installation can be bypassed. Please don't ask for exceptions because neither I nor my support staff can do anything about it at this point.
 
 ## MCM CONFIGURATION
 
@@ -186,25 +154,9 @@ O Vile
 
 These dragons feature passive buffs and alternate attacks that make them almost impossible to kill. Of course, you can become near-godlike depending on your _Vokriinator Black_ build, so feel free to leave them enabled if you think you can take it.
 
-## Nether Follower Framework
-
-For immersive follower management, including the need to pay their weekly salaries, choose to "Import File" under the _System_ menu.
-
-## VioLens
-
-Go to the "Profiles" section and "Load" a profile. "Sane Violence" enables killmoves on the last enemy in combat. "Ultra-Violence" enables kill moves on every kill and unlocks decapitations from the beginning of the game. They both disable killmoves on the player.
-
 ## MCM Recorder
 
-You should **ALWAYS** run the "RUN ME FIRST" recording since this establishes the baseline for the games settings. To do so, click the recording, click OK, close the MCM menu, **TOUCH NOTHING**, and click the "Run Recording" button when it appears. Wait for a message to pop up saying playback is finished, then wait for all messages to disappear in the upper-left corner of your screen. If you are on any profile but _BLACK_ you may receive warnings about missing options. They are unimportant. Skip them.
-
-If you are on an adult profile and prefer some of the women in the game be "futanari" (look it up) run the recording entitled "LET THERE BE FUTA". _This will not make your PC into a futanari._ To do so you will need to find the "Player" options in the MCM and select "ERF Futanari CBBE" as your schlong. The schlong can be adjusted from RaceMenu.
-
-If you want the game to be significantly harder, run the "Make it hard" recording. This will add boatloads of enemies to dungeons and encounters, toughen them up, and make dragons into a hair-pulling challenge. This recording is not recommended on midrange or low-end systems.
-
-If you want to make it easier to score in adult scenarios, do the "Make it Slutty" recording. This will make NPCs proposition you as well as make them more receptive to your advances. 
-
-Any combination of recordings may be run except the first. **YOU MUST AT LEAST RUN THE FIRST RECORDING**
+Find the _MCM Recorder_ menu in the _Mod Configuration_ menu accessible via the `ESCAPE` key or the `START` button. Click the "RUN ME" recording, click OK, close the MCM menu, click the "Run Recording" button when it appears, and **TOUCH NOTHING.** Wait for a message to pop up saying playback is finished, then wait for all messages to disappear in the upper-left corner of your screen. There may occasionally be error messages referencing outdated settings. They are unimportant. Skip them.
 
 ## FINAL NOTES
 
@@ -224,13 +176,13 @@ You can just remove the _Licentia BLACK_ folder.
 
 # IF YOU ENCOUNTER INSTALL PROBLEMS, ERROR MESSAGES, CRASHES, OR OTHER UNEXPECTED BEHAVIOR
 
-Refer to [Troubleshooting](TROUBLESHOOTING.md). If you can't find your answer there, ensure that you have followed **EVERY STEP** of this readme to the letter. Often a reinstall of the list will solve many unusual problems. If your problem involves an inability to continue a mandatory portion of the game, refer to the _Unofficial Elder Scrolls Pages_ and verify that you are not experiencing a vanilla bug. Try loading a save from before the most recent quest stage or dungeon that you started. If you ignore this documentation you will likely be ignored when you ask for help.
+Refer to [Troubleshooting](TROUBLESHOOTING.md). If you can't find your answer there, ensure that you have followed **EVERY STEP** of this readme to the letter. Often a reinstall of the list will solve many unusual problems. If your problem involves an inability to continue a mandatory portion of the game, refer to the _Unofficial Elder Scrolls Pages_ and verify that you are not experiencing a vanilla bug. Try loading a save from before the most recent quest stage or dungeon that you started. 
 
 ## Contact
 
 I am regularly available on [my discord server](https://discord.gg/jolly-coop).
 
-If you enjoyed playing this modlist and feel that your time spent with it was worth any amount of money, consider giving me a tip. Tax season is upon as and as a technically self-employed person, I will be responsible for 100% of it out of my pocket. There are donation options ranging from $1 to $35 (with a merch bonus) to extravagant gifts from an Amazon wishlist. Consult my webpage at [cacophony.me](https://cacophony.me) for details (at the bottom of the page).
+If you enjoyed playing this modlist and feel that your time spent with it was worth any amount of money, consider giving me a tip. There are donation options ranging from $1 to $35 (with a merch bonus) to extravagant gifts from an Amazon wishlist. Consult my webpage at [cacophony.me](https://cacophony.me) for details (at the bottom of the page).
 
 ## Contributing
 
