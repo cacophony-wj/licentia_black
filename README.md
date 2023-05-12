@@ -180,7 +180,7 @@ Refer to [Troubleshooting](TROUBLESHOOTING.md). If you can't find your answer th
 
 ## Guides for modifying the list are available! I will not discipline you for modifications!
 
-To add your dream outfits to your copy of _Licentia,_ [consult the BodySlide document available here.](https://github.com/cacophony-wj/licentia_black/edit/main/How-To-Add-Outfits.md]
+To add your dream outfits to your copy of _Licentia,_ [consult the BodySlide document available here](How-To-Add-Outfits.md].
 
 
 ## Contact
