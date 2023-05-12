@@ -17,7 +17,7 @@ Now you need to choose a proper body from the "Outfit/Body" selection. I recomme
 
 Next is the proper BodySlide preset. Only the "- Zeroed Sliders -" option from the "Preset" dropdown will work properly in this list, because of how _OBody_ works. Don't worry, you will be able to customize your proportions via _OBody_ while in-game. Select it and continue.
 
-If you like, you can verify that everything is working by clicking the "Preview" button near the bottom of BodySlide, and you will see your chosen body our outfit there.
+If you like, you can verify that everything is working by clicking the "Preview" button near the bottom of BodySlide, and you will see your chosen body or outfit there.
 
 Now comes the actual "building" part. You need to **HOLD DOWN THE LEFT CONTROL BUTTON** (very important) and click "Batch Build..." in the lower left corner of BodySlide. A list of bodies and outfits will appear that will include your newly installed outfit -- you need to find them in this list and place a checkmark next to them, while **leaving the other boxes blank.**
 
