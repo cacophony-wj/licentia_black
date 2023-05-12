@@ -35,3 +35,4 @@ For all other questions or problems, stop by my #black-additions channel!
 
 ### ENJOY!
 
+**Please Note:** If you wish to build a male armor instead, you need to follow the same process above but ensure that the BodySlides are available for _HIMBO_ and that you select all relevant _HIMBO_ options during the process. I believe the correct preset for _OBody_ is called "HIMBO Zero for OBody." **Don't build with any other preset.** As you may expect, custom male BodySlides are a lot less commonly created by mod authors than custom female BodySlides.
