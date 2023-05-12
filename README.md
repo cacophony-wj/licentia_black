@@ -183,7 +183,7 @@ Refer to [Troubleshooting](TROUBLESHOOTING.md). If you can't find your answer th
 - To enable controller support for _Licentia,_ [consult the controller guide available here](controller-guide.md).
 - To use _Skyrim Outfit System_ (the transmog mod) properly, [consult the guide for it here](SoS-OutfitSystem-Guide.md).
 - To add your dream outfits to your copy of _Licentia,_ [consult the BodySlide document available here](How-To-Add-Outfits.md).
-- If you add any mod to the list, you need to [run Synthesis as described here](How-To-Run-Synthesis.md].
+- If you add any mod to the list, you need to [run Synthesis as described here](How-To-Run-Synthesis.md).
 
 For help with your additions, stop by my #black-additions channel and you might just get it!
 
