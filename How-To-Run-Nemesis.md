@@ -28,7 +28,7 @@ Sometimes it will never complete regardless of how many times you try and additi
 
 Next you must reinstall **every mod that includes custom behavior files.** These include all of the mods listed above, with the exception of "Retimed Hit Frame," which is a modification of vanilla files, not an actual separate mod. (I don't believe any particular options are needed but if so I will update this document.)
 
-Ensure that your _KAIDAN Output_ folder is still empty and launch _Nemesis_ a final time. It will prompt for your languge, make certain that it is English, and you will need to check all the proper boxes again. It is almost guaranteed to work this time.
+Ensure that your _KAIDAN Output_ folder is still empty and launch _Nemesis_ a final time. It will prompt for your language -- make certain that it is English -- and you will need to check all the proper boxes again. It is almost guaranteed to work this time.
 
 Once you do finish running _Nemesis_ successfully, **refresh MO2** with the `F5` key.
 
