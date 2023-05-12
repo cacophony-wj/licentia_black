@@ -1,1 +1,37 @@
 
+### If you want to add your custom Sloot or other outfits to Licentia, there are many steps you must take to ensure they are incorporated properly.
+
+First of all, when you download your chosen outfit, you must ensure that it has _CBBE 3BA_ BodySlides available for it. This is the "body type" used in the list and the "BodySlides" are what fit them to your body. Without them, your armor will not match your Dragonborn's proportions -- you will look "different" when you are wearing it as opposed to when you are nude. This is not a big deal for bulky, heavily plated armors -- but becomes more important the more skimpy the outfit is. If it doesn't matter to you, just add the armor with the rest of the other gear, place the `ESP` above `Schlongs of Skyrim.esp` and don't worry about it!
+
+Often times these BodySlides are not included with the original outfit mod -- most heavy armors are for the vanilla body, and most skimpy armors were designed for a older but more detailed body mod -- _UNP._ Sometimes you must search Nexus for BodySlides that go with your chosen outfit, either via the "Requirements" dropdown or the plain old Search Bar. The outfit's description page should mention what types of BodySlides are available for it.
+
+Install your chosen armor mod according to the standard procedure for _Mod Organizer 2._ (You can refer to any number of Google results or videos to learn about this process.) Be sure to select the proper _FOMOD_ options in the installer -- what customizations you want, verify that the body type is _CBBE_ or _CBBE 3BA_, and continue. Then place the armor with "Armor Additions" in the **left pane** of MO2 and "enable" it by clicking the empty bubble to the left of the name of the mod. If you have installed any additional files, patches, or BodySlides with this outfit, you must install and enable those as well. After doing so, **refresh MO2** by striking the `F5` key.
+
+After doing so, you will find `ESP`s for your outfit mods at the **bottom of the right pane** of MO2. You need to relocate them just above `Schlongs of Skyrim.esp` somewhere in the list of `ESP`s -- the `ESP,` **NOT THE ESM.** Enable them in the same fashion you enabled the original mods. Most outfit mods will not require any xEdit patching unless they place "chests" or "books" or other collectibles somewhere in the world, or unless they distribute to Leveled Lists (are intended to be looted from enemies and chests randomly). If they are craft-only, or if you plan on consoling them in, you don't need to be concerned. If not, post a request for assistance to my #black-additions channel and myself or someone else may help you.
+
+Now it is time to run the BodySlides. You need to launch the _BodySlide_ tool from the main dropdown of MO2. This window _looks_ complicated, but it becomes simpler the more you become familiar with it. The first step is to clear out any remainder of old BodySlide runs that I may have made. In the top right corner are two boxes, the "Group Filter" and the "Outfit Filter." You need to click the gray `X` in each of these boxes to clear any filters that are there, so that you can select from all of the outfits that are installed for the list. 
+
+Once that is done, you need to narrow down the list of outfits to the one you installed. Click the little magnifying glass to the left of "Group Filter" and  then "Choose groups..." In this moderately long list of categories there **MAY** be a listing for your armor -- it will be named similar to the original mod. If it is there, place a check in the box next to it. If not, you will probably need to select the Body Type that your armor is shaped for -- "CBBE" is a safe one. On rare occasions the armor will be categorized as "Unassigned" and if this is the case you probably don't want to use it. Once the proper box is checked, click "OK" to continue.
+
+Now you need to choose a proper body from the "Outfit/Body" selection. I recommend selecting "CBBE Body" but it may not be listed according to the Group Filter you specified earlier. Really any CBBE body or outfit will do. This step clears out any remaining filters I may have been using in my last run. 
+
+Next is the proper BodySlide preset. Only the "- Zeroed Sliders -" option from the "Preset" dropdown will work properly in this list, because of how _OBody_ works. Don't worry, you will be able to customize your proportions via _OBody_ while in-game. Select it and continue.
+
+If you like, you can verify that everything is working by clicking the "Preview" button near the bottom of BodySlide, and you will see your chosen body our outfit there.
+
+Now comes the actual "building" part. You need to **HOLD DOWN THE LEFT CONTROL BUTTON** (very important) and click "Batch Build..." in the lower left corner of BodySlide. A list of bodies and outfits will appear that will include your newly installed outfit -- you need to find them in this list and place a checkmark next to them, while **leaving the other boxes blank.**
+
+Begin by right-clicking anywhere in the window and choosing "Select None." Then scroll through the list (it may be rather time consuming) and find the listings for your chosen outfit -- there may be more than one especially if the outfit includes multiple pieces such as gloves, boots, a physics-enabled skirt, etc. Place a checkmark in the box next to all of them.
+
+Now click the "Build" button. A prompt will appear asking you which Windows directory you want your BodySlide meshes to be saved to. **This step is important because without it, the meshes will overwrite the ones that are already installed in the list with your new proportions -- instead of creating copies elsewhere.** You are just going to have to navigate to the "BodySlide Output" directory for _Licentia_ using Explorer. (This should be something like `C:\Licentia\mods\BodySlide Output`) If you are in the correct directory, you will see only a 'meshes' folder there. If you see many directories -- **you have gone too far** -- navigate again to the proper "BodySlide Output" directory. Once this directory is selected, click the "Select Folder" button.
+
+The outfits will build to the proper directory rather quickly. Ignore any error messages unless they are related specifically to your chosen outfit. If you receive them, drop a note in my #black-additions channel for assistance.
+
+That is all you need to do to get them working, but you may wish to verify that they were placed in the proper folder before you finish up. To do so, find the directory you built the BodySlides to with Windows File Explorer and check it. There should be a `meshes` folder inside with no other directories, and inside that `meshes` folder **there must not be a second meshes folder.** If there is, the BodySlide building process glitched out and you will not see them in game. You need to delete any errored meshes folders and do the process all over again, ensuring that you have chosen the proper "BodySlide Output" directory.
+
+That's all you need to know. Please remember that if you get impossibly lost or your list becomes horribly messed up, one of the greatest advantages of _Wabbajack_ is that you can simply install over your copy of the list and return to a fully working setup.
+
+For all other questions or problems, stop by my #black-additions channel!
+
+### ENJOY!
+
