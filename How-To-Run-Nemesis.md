@@ -24,7 +24,7 @@ After that is done, click "Launch Nemesis Behavior Engine." The tool will slowly
 
 The tool can be rather inconsistent at times. Give it a good old College Try until it finally finishes up for whatever inexplicable reason. 
 
-Sometimes it will never complete regardless of how many times you try and additional troubleshooting is needed. **In this case you will need to completely reset all relevant behavior files in the list and start again from scratch." To do so, find the _KAIDAN Output_ folder (reference to a previous version of the list) and delete **every file located inside,** then **refresh MO2** by striking the `F5` key.
+Sometimes it will never complete regardless of how many times you try and additional troubleshooting is needed. **In this case you will need to completely reset all relevant behavior files in the list and start again from scratch.** To do so, find the _KAIDAN Output_ folder (reference to a previous version of the list) and delete **every file located inside,** then **refresh MO2** by striking the `F5` key.
 
 Next you must reinstall **every mod that includes custom behavior files.** These include all of the mods listed above, with the exception of "Retimed Hit Frame," which is a modification of vanilla files, not an actual separate mod. (I don't believe any particular options are needed but if so I will update this document.)
 
