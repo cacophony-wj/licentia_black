@@ -1,5 +1,27 @@
 # LICENTIA BLACK CHANGELOG
 
+## 6.11
+
+- Regenerated LODs without grass
+- Fixed a physics problem where the schlong would dangle ever so slightly to the right
+- Corrected the BodySlide data path so textures would show on models
+
+## 6.10.6
+
+- Patched the race records so all the abilities show up properly
+- 
+## 6.10.5
+
+- Removed creepy _DynDOLOD_ "Got Your Firstborn" loading screens
+
+## 6.10.4
+
+- Fixed the missing textures on Kaidan's body
+
+## 6.10.3 
+
+- Recompiled with proper _enbseries_
+
 ## 6.0 through 6.10.2
 
 - Added _PI-CHO Hyper ENB for Cathedral Weathers_
