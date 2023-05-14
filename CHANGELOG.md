@@ -1,5 +1,13 @@
 # LICENTIA BLACK CHANGELOG
 
+## 6.11.1
+
+- Updated _Open Animations Romance and Erotica_ to 1.31
+- Updated _Moon Lovemaking Compendium for OStim NG_ to 1.3
+- Updated _Drago's Enchant Those Potions Opensex Add on_ to 1.4
+- Added _Survival Mode Patch - Cloaks of Skyrim_
+- Re-ran _Nemesis._
+- 
 ## 6.11
 
 - Regenerated LODs without grass
