@@ -1,5 +1,10 @@
 # LICENTIA BLACK CHANGELOG
+## 6.11.2
 
+- Updated _Serana Dialogue Addon_ to BETA 4.0.2.0
+- Updated _SDA Patch Hub_ to 2.5
+- Fixed the bright grass at night time
+-
 ## 6.11.1
 
 - Updated _Open Animations Romance and Erotica_ to 1.31
