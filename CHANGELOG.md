@@ -2,46 +2,47 @@
 
 ## 6.12
 
-Added _Redcap CC Goblings Commentary and Follower Interactions Patch_Added _Fluffworks LotD Patch_
-Added _PAPER_
-Added _Optimized Scripts for Apocalypse_
-Added _Optimized Scripts for Enhanced Blood Textures_
-Added _Optimized Scripts for Ordinator_
-Added _Optimized Scripts for SP*RG
-Added _Optimized Scripts for Summermyst_
-Added _Optimized Scripts for Vokrii_
-Added _Optimized Scripts for XPMSSE_
-Added _DLC2dunFrostmoonTriggerScript Optimization_
-Added _DLC2PillarBuilderActorScript Tweak_
-Swapped _ORomance OpenSex Patch_ out for _ORomance Plus OpenSex Patch_
-Updated _Fencing In The Dark for OStim NG_ to 1.2
-Updated _CBBE 3BA Creation Club_ to 1.2
-Updated _IchDerMan's Preset Collection_ to 1.3
-Updated _Redcap the Riekling - A Fully Voice-Acted Immersive Follower and Quest_ to 1.3.4
-Updated _Xelzaz - Custom Fully Voiced Argonian Telvanni Follower_ to 1.9
-Updated _Remiel - Custom Voiced Dwemer Specialist and Companion_ to 1.6.1
-Updated _Expressive Remiel_ to 1.0.9
-Updated _Maximum Carnage_ to 7.7
-Updated _Destination Weddings_ to 1.4.1
-Updated _Skyrim on Skooma_ to 69.3
-Updated _Leaps of Faith_ to 1.02
-Updated _Beyond Skyrim - Bruma SE_ to 1.63
-Updated _Paarthurnax - Quest Expansion_ to 1.12
-Updated _Sidequests of Skyrim_ to 0.8
-Updated _Faster HDT-SMP_ to 1.50.9rc-1
-Updated _Illustrious Whiterun 4K_ to 2.0
-Updated _Embers XD_ to 2.73
-Updated _Cathedral - 3D Thistle_ to 2.1
-Updated _Animated Forge Water_ to 0.7.2
-Updated _Kaidan Auri Banter Patch_ to 0.2
-Updated _Spell Perk Item Distributor_ to 6.6.1
-Updated _Janquel's Arguably Needed Quixotically Unifying ESP Library_ to 1.7.1
-Updated _DLC2dunSeekerInvisScript Fix_ to 1.1
-Reinstalled _CBBE 3BA - Physics Reinstaller_ with slightly more jiggle
-Reinstalled _CBPC - CBP Physics with Collisions_ with slightly more jiggle
-Reinstalled _Myrwatch - Editable Home Cells_
-Reran _Nemesis_
-Regenerated _BodySlides_
+- Added _Redcap CC Goblings Commentary and Follower Interactions Patch_Added _Fluffworks LotD Patch_
+- Added _PAPER_
+- Added _Optimized Scripts for Apocalypse_
+- Added _Optimized Scripts for Enhanced Blood Textures_
+- Added _Optimized Scripts for Ordinator_
+- Added _Optimized Scripts for SP*RG
+- Added _Optimized Scripts for Summermyst_
+- Added _Optimized Scripts for Vokrii_
+- Added _Optimized Scripts for XPMSSE_
+- Added _DLC2dunFrostmoonTriggerScript Optimization_
+- Added _DLC2PillarBuilderActorScript Tweak_
+- Swapped _ORomance OpenSex Patch_ out for _ORomance Plus OpenSex Patch_
+- Updated _Fencing In The Dark for OStim NG_ to 1.2
+- Updated _CBBE 3BA Creation Club_ to 1.2
+- Updated _IchDerMan's Preset Collection_ to 1.3
+- Updated _Redcap the Riekling - A Fully Voice-Acted Immersive Follower and Quest_ to 1.3.4
+- Updated _Xelzaz - Custom Fully Voiced Argonian Telvanni Follower_ to 1.9
+- Updated _Remiel - Custom Voiced Dwemer Specialist and Companion_ to 1.6.1
+- Updated _Expressive Remiel_ to 1.0.9
+- Updated _Maximum Carnage_ to 7.7
+- Updated _Destination Weddings_ to 1.4.1
+- Updated _Skyrim on Skooma_ to 69.3
+- Updated _Leaps of Faith_ to 1.02
+- Updated _Beyond Skyrim - Bruma SE_ to 1.63
+- Updated _Paarthurnax - Quest Expansion_ to 1.12
+- Updated _Sidequests of Skyrim_ to 0.8
+- Updated _Faster HDT-SMP_ to 1.50.9rc-1
+- Updated _Illustrious Whiterun 4K_ to 2.0
+- Updated _Embers XD_ to 2.73
+- Updated _Cathedral - 3D Thistle_ to 2.1
+- Updated _Animated Forge Water_ to 0.7.2
+- Updated _Kaidan Auri Banter Patch_ to 0.2
+- Updated _Spell Perk Item Distributor_ to 6.6.1
+- Updated _Janquel's Arguably Needed Quixotically Unifying ESP Library_ to 1.7.1
+- Updated _DLC2dunSeekerInvisScript Fix_ to 1.1
+- Updated _CBBE 3BA Vanilla Clothes and Armor_ to 2.5
+- Reinstalled _CBBE 3BA - Physics Reinstaller_ with slightly more jiggle
+- Reinstalled _CBPC - CBP Physics with Collisions_ with slightly more jiggle
+- Reinstalled _Myrwatch - Editable Home Cells_
+- Reran _Nemesis_
+- Regenerated _BodySlides_
 
 ## 6.11.2
 
