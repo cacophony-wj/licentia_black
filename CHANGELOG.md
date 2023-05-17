@@ -44,6 +44,10 @@
 - Reran _Nemesis_
 - Regenerated _BodySlides_
 
+## 6.11.2.1
+
+- Fixed a crash with Thalmor Cloaks.
+
 ## 6.11.2
 
 - Updated _Serana Dialogue Addon_ to BETA 4.0.2.0
