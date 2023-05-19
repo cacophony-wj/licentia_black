@@ -82,4 +82,4 @@ Finally a couple of notes from the comments for the mod. It may be rather buggy 
 
 And hey, if it works great and you have a blast with it _without_ turning the whole game into a laughable cakewalk, report back, yeah?
 
-[Tainted Blood Patch](/esps/clminiatas_taint.esp)
+[Tainted Blood Patch](/esps/clminatas_taint.esp)
