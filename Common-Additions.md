@@ -28,6 +28,7 @@ Keep in mind you will need at least **ONE FULL ESP SLOT** for the primary mod, s
 
 ![Sofia Install Order](/images/sofia.load.order.png)
 ![Sofia Load Ordder](/images/sofia.install.order.png)
+
 [Sofia Patch](/esps/Minus_Sofia.esp)
 
 ## ADDING IMPROVED LYDIA BACK
