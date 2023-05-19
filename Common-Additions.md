@@ -1,6 +1,6 @@
-## CACO's COMMISSIONS - Or: Commonly Requested Additions to LICENTIA BLACK
+# CACO's COMMISSIONS - 
 
-### An ever-evolving document
+### Or: Commonly Requested Additions to LICENTIA BLACK, An ever-evolving document
 
 ## ADDING SOFIA BACK
 
