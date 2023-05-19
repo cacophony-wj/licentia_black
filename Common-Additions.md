@@ -26,8 +26,8 @@ Keep in mind you will need at least **ONE FULL ESP SLOT** for the primary mod, s
 
 **That should be it,** but if you desire a different appearance for Sofia, or that she wear underwear instead of stripping naked all the time, or other customizations, ping me on my Discord server and I'll see what I can do!
 
-(/images/sofia.install.order.png)
-(/images/sofia.load.order.png)
+![Sofia Install Ordder](/images/sofia.install.order.png)
+![Sofia Load Order](/images/sofia.load.order.png)
 [Sofia Patch](/esps/Minus_Sofia.esp)
 
 ## ADDING IMPROVED LYDIA BACK
