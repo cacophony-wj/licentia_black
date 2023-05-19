@@ -26,8 +26,8 @@ Keep in mind you will need at least **ONE FULL ESP SLOT** for the primary mod, s
 
 **That should be it,** but if you desire a different appearance for Sofia, or that she wear underwear instead of stripping naked all the time, or other customizations, ping me on my Discord server and I'll see what I can do!
 
-![Sofia Install Ordder](/images/sofia.install.order.png)
-![Sofia Load Order](/images/sofia.load.order.png)
+![Sofia Install Order](/images/sofia.load.order.png)
+![Sofia Load Ordder](/images/sofia.install.order.png)
 [Sofia Patch](/esps/Minus_Sofia.esp)
 
 ## ADDING IMPROVED LYDIA BACK
@@ -47,9 +47,13 @@ This should only be done on a new game, but you should be good to go!
 
 If you like what I do, please consider leaving me a small tip via https://cacophony.me
 
+[Lydia Patch](/esps/quesoturtles_lydia.esp)
+
 ## ADDING YURIANA, BUXOM WENCH
 
 **To include _Yuriana, Buxom Wench_ into _Licentia BLACK SIX,_** install the mod just as you did the others, under _Cosmos Lucien_, and place the attached ESP at the end of your Load Order. You can select any hairstyle you want because no patches are necessary to include them. She does have custom "tied up" poses, so you will also need to run _Nemesis._ To do so, please check the pins and server history for details. The commands !pins and !usesearch can provide screenshots on how. You should also consult the readme which is constantly under revision, and you should know where it can be found already.
+
+[Yuriana Patch](/esps/traces_yuriana.esp)
 
 ## ADDING TAINTED BLOOD OF THE DRAGONBORN
 
@@ -76,3 +80,5 @@ However I feel I must leave you with a warning. Messing with derived forms of th
 Finally a couple of notes from the comments for the mod. It may be rather buggy depending on which form you choose to succumb to first. I have read unconfirmed reports that it is best to acquire the forms in the same order they are presented originally: first werewolf, then vampire, and finally lich. Lastly, given that the Vampire keywords are sometimes applied via script, if you run into any problems you may be able to solve them by going into the MCM for _Tainted Blood_ and selecting the "Reset" option.
 
 And hey, if it works great and you have a blast with it _without_ turning the whole game into a laughable cakewalk, report back, yeah?
+
+[Tainted Blood Patch](/esps/clminiatas_taint.esp)
