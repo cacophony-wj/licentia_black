@@ -26,6 +26,8 @@ Keep in mind you will need at least **ONE FULL ESP SLOT** for the primary mod, s
 
 **That should be it,** but if you desire a different appearance for Sofia, or that she wear underwear instead of stripping naked all the time, or other customizations, ping me on my Discord server and I'll see what I can do!
 
+[Sofia Patch](/esps/Minus_Sofia.esp)
+
 ## ADDING IMPROVED LYDIA BACK
 
 **If you are missing the awesome _Improved Lydia_ mod from your _BLACK SIX_ playthrough,** I have a patch here to help you out, at the request of @quesoturtle#4588. First, you need to install the following two mods:
