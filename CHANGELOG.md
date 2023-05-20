@@ -22,6 +22,12 @@
 - I have had reports of Serana's _Crimson Blood_ quest not functioning properly. Please submit saves from this quest area.
 - Also... something appears to have happened to the chickens... BEWARE
 
+## 6.12.0.1
+
+### BUG SQUASHING
+
+- Fix for invalid META during install.
+-
 ## 6.12
 
 - Added _Redcap CC Goblings Commentary and Follower Interactions Patch_Added _Fluffworks LotD Patch_
