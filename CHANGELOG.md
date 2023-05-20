@@ -1,5 +1,27 @@
 # LICENTIA BLACK CHANGELOG
 
+## 6.13
+
+### MOD ADDITIONS, UPDATES, REMOVALS:
+
+- Added _Inconsequential Pets_
+- Added _College of Winterhold Quest Start Fixes_
+- Added [REDACTED]
+- Updated _Night-blooming Violets for OStim NG_ to 1.1
+- Updated _Vokriinator Black_ to 5.7.8
+- Updated _Adamant_ to 5.7.8
+- Updated _Mysticism_ to 2.2.4
+- Updated _Headhunter - Bounties Redone_ to 1.43
+
+### BUG SQUASHING:
+
+- Disabled all Goblins in the _Skyrim Immersive Creatures_ MCM. 
+- If you encounter hard freezes in the overworld, check this MCM and disable "Goblins" and "Goblin Wars" and go into a building and wait for 72 hours.
+- Fixed a situation where _Myrwatch_ would be an an infinite void when you entered it.
+- I have had reports of blank textures in Elsewyr (the Khajiit area), please submit saves if you encounter them.
+- I have had reports of Serana's _Crimson Blood_ quest not functioning properly. Please submit saves from this quest area.
+- Also... something appears to have happened to the chickens... BEWARE
+
 ## 6.12
 
 - Added _Redcap CC Goblings Commentary and Follower Interactions Patch_Added _Fluffworks LotD Patch_
