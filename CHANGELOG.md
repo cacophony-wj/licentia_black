@@ -27,7 +27,7 @@
 ### BUG SQUASHING
 
 - Fix for invalid `META.ini` during install.
-- 
+
 ## 6.12
 
 - Added _Redcap CC Goblings Commentary and Follower Interactions Patch_Added _Fluffworks LotD Patch_
