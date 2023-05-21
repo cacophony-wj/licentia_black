@@ -16,7 +16,7 @@ Big new update because there were some mods I wanted to try.
 - Updated _DynDOLOD 3.00_ to Alpha-127
 - Updated _DynDOLOD DLL NG and Scripts_ to Alpha-6
 - Removed _RaceMenu's_ Body Morph plugins. Use _OBody NG_ instead.
-- Discovered several files I could flag ESL. X `ESP` slots free now.
+- Discovered several files I could flag ESL. **17** `ESP` slots free now.
 - Re-Recorded MCMs.
 - Regenerated _LODs._
 - Regenerated _Synthesis_ with the following changes.
