@@ -20,6 +20,15 @@ Big new update because there were some mods I wanted to try.
 - Re-Recorded MCMs.
 - Regenerated _LODs._
 - Regenerated _Synthesis_ with the following changes.
+- Added _Disenchant Everything_ patcher
+- Added _GrassFPS_ patcher
+- Added _KS Hairs Bald Helmets Fixer_ 
+- Added _Killmove Paralysis Patcher_
+- Added _Dead Body Cleanup NPC Attacher_
+- Added _Sleeping Outfit Remover_
+- Added _musictype patcher_
+- Added _Honed Metal Additional_Ingredients_ patcher
+- Added _Grid Transition Crash Fix_
 - Changed the `ico` and `exe` for _Mod Organizer 2_ to suit the modlist.
 
 ## BUG SQUASHING:
