@@ -6,7 +6,7 @@ Big new update because there were some mods I wanted to try.
 
 ## MOD ADDITIONS, UPDATES, REMOVALS:
 
-_ Added _Wet Function Redux_ with _OEndurance Trigger_ and proper 4K textures.
+- Added _Wet Function Redux_ with _OEndurance Trigger_ and proper 4K textures.
 - Added _OCrime_
 - Added _Binaural 3D Surround Sound for Headphones._ Try it!
 - Added _Far LOD Improvement Project SSE_
