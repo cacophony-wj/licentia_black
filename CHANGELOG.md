@@ -1,5 +1,37 @@
 # LICENTIA BLACK CHANGELOG
 
+## 6.15
+
+Big new update because there were some mods I wanted to try.
+
+## MOD ADDITIONS, UPDATES, REMOVALS:
+
+_ Added _Wet Function Redux_ with _OEndurance Trigger_ and proper 4K textures.
+- Added _OCrime_
+- Added _Binaural 3D Surround Sound for Headphones._ Try it!
+- Added _Far LOD Improvement Project SSE_
+- Added back _OBooty_
+- Added back _Triple Triad in Skyrim_ along with the _Tamriel Edition_ and assorted follower patches.
+- Updated _xLODGen_ to 0.98
+- Updated _DynDOLOD 3.00_ to Alpha-127
+- Updated _DynDOLOD DLL NG and Scripts_ to Alpha-6
+- Removed _RaceMenu's_ Body Morph plugins. Use _OBody NG_ instead.
+- Discovered several files I could flag ESL. X `ESP` slots free now.
+- Re-Recorded MCMs.
+- Regenerated _LODs._
+- Regenerated _Synthesis_ with the following changes.
+- Changed the `ico` and `exe` for _Mod Organizer 2_ to suit the modlist.
+
+## BUG SQUASHING:
+
+- Corrected the doubled quest bug from _Lustmord Armor._
+- Fixed purple squares on the ground in The Reach.
+- Fixed floating lanterns in some areas.
+
+## 6.14
+
+Testing version. Disregard.
+
 ## 6.13
 
 ### MOD ADDITIONS, UPDATES, REMOVALS:
