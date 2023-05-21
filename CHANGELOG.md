@@ -27,7 +27,7 @@ Big new update because there were some mods I wanted to try.
 - Added _Dead Body Cleanup NPC Attacher_
 - Added _Sleeping Outfit Remover_
 - Added _musictype patcher_
-- Added _Honed Metal Additional_Ingredients_ patcher
+- Added _Honed Metal Additional Ingredients_ patcher
 - Added _Grid Transition Crash Fix_
 - Changed the `ico` and `exe` for _Mod Organizer 2_ to suit the modlist.
 
