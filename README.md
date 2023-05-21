@@ -114,6 +114,8 @@ Launch _ModOrganizer.exe_ from the directory in which you installed the list. La
 
 Wait until the _Fertility Mode_ question appears on your screen. It should be a simple prompt whether to enable Pregnancy, Yes or No.
 
+## Fertility Mode
+
 Choose whether to enable pregnancy and reproductive cycles. Keep in mind that the overhead for this mod can be demanding for weak CPUs. Unless you have role-playing plans involving these features I recommend disabling it or minimizing its impact.
 
 If you answer this question with _YES_, open your Mod Configuration Menu and find the entry for _Fertility Mode._ It is important to limit the scope of the mod if you intend a long-term playthrough.
@@ -142,6 +144,12 @@ Unchecked.
 
 Unchecked.
 
+## MCM Recorder
+
+Find the _MCM Recorder_ menu in the _Mod Configuration_ menu accessible via the `ESCAPE` key or the `START` button. Click the "RUN ME" recording, click OK, close the MCM menu, click the "Run Recording" button when it appears, and **TOUCH NOTHING.** Wait for a message to pop up saying playback is finished, then wait for all messages to disappear in the upper-left corner of your screen. There may occasionally be error messages referencing outdated settings. They are unimportant. Skip them.
+
+There are a few more MCMs that must be customized manually.
+
 ## Diverse Dragons Encounters
 
 Open the _Diverse Dragons Encounters MCM_ (DDC) and under the "Dragons" entry, **UNCHECK** the following:
@@ -154,9 +162,27 @@ O Vile
 
 These dragons feature passive buffs and alternate attacks that make them almost impossible to kill. Of course, you can become near-godlike depending on your _Vokriinator Black_ build, so feel free to leave them enabled if you think you can take it.
 
-## MCM Recorder
+## VioLens
 
-Find the _MCM Recorder_ menu in the _Mod Configuration_ menu accessible via the `ESCAPE` key or the `START` button. Click the "RUN ME" recording, click OK, close the MCM menu, click the "Run Recording" button when it appears, and **TOUCH NOTHING.** Wait for a message to pop up saying playback is finished, then wait for all messages to disappear in the upper-left corner of your screen. There may occasionally be error messages referencing outdated settings. They are unimportant. Skip them.
+Decide whether you want killmoves for every last enemy or not. Be warned -- enabling many killmoves may cause unexpected bugs.
+
+**For occasional killmoves,** go to the _Profiles_ menu, select "Load Profile" and then "Sane Violence."
+
+**For frequent killmoves,** go to the _Profiles_ menu, select "Load Profile" and then "Ultra-Violence."
+
+Both profiles disable killmoves on the player due to conflicts.
+
+## Follower Framework
+
+### System
+
+Choose to import the profile.
+
+## Wet Function Redux
+
+**This is a dangerous mod to enable.** It causes players **and NPCs** to get "sweaty" and "shiny" during strenuous adult scenes, basically as their stamina drains from rapid movements. I want to check it out, so you can join me if you wish.
+
+**To enable this mod,** go to "Visual Effects" and choose "Start Effect." No more steps are required.
 
 ## FINAL NOTES
 
