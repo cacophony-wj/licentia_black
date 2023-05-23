@@ -164,11 +164,17 @@ These dragons feature passive buffs and alternate attacks that make them almost 
 
 ## VioLens
 
-Decide whether you want killmoves for every last enemy or not. Be warned -- enabling many killmoves may cause unexpected bugs.
+### Profile System
 
-**For occasional killmoves,** go to the _Profiles_ menu, select "Load Profile" and then "Sane Violence."
+#### Settings
 
-**For frequent killmoves,** go to the _Profiles_ menu, select "Load Profile" and then "Ultra-Violence."
+Click "Load - SELECT." 
+
+Decide whether you want killmoves for every final enemy in each encounter or not. Be warned -- enabling many killmoves may cause unexpected bugs.
+
+**For occasional killmoves,** select "Sane Violence."
+
+**For frequent killmoves,** select "Ultra-Violence."
 
 Both profiles disable killmoves on the player due to conflicts.
 
@@ -176,13 +182,21 @@ Both profiles disable killmoves on the player due to conflicts.
 
 ### System
 
-Choose to import the profile.
+#### Save Load Configuration
+
+Click "Load From File."
 
 ## Wet Function Redux
 
-**This is a dangerous mod to enable.** It causes players **and NPCs** to get "sweaty" and "shiny" during strenuous adult scenes, basically as their stamina drains from rapid movements. I want to check it out, so you can join me if you wish.
+**This is a dangerous mod to enable.** It causes players **and NPCs** to get "sweaty" and "shiny" during strenuous activity, basically as their stamina drains. Hot. I want to check it out, so you can join me if you wish.
 
-**To enable this mod,** go to "Visual Effects" and choose "Start Effect." No more steps are required.
+**To enable this mod,** take the following steps.
+
+### Targets
+
+#### Current Target
+
+Click "Start Effect." No further configuration is required.
 
 ## FINAL NOTES
 
