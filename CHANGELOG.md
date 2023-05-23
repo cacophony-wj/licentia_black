@@ -1,5 +1,30 @@
 # LICENTIA BLACK CHANGELOG
 
+## 6.16
+
+BAD chickens.
+
+## MOD ADDITIONS, UPDATES, REMOVALS:
+
+Updated _OStim NG - OSA Overhaul and API Next Gen_ to 6.7d
+Updated _Open Animations Romance and Erotica_ to 1.32
+Updated _Drago's OpenSex Anal Animations Add on_ to 1.23
+Updated _Drago Foot Animation Add on for Opensex_ to 1.9
+Updated _Default.ini for Drago_ to 1.6
+Updated _Serana Dialogue Add-On_ to 4.0.2.1 (THIS MOD IS NOW OUT OF BETA)
+Updated _SDA Patch Hub_ without version change (for some reason...)
+Updated _Redcap CC Goblins Commentary_ to 1.1
+Updated _Elder Scroll HD_ to 2.1
+Restorted _RaceMenu_ body morph sliders (GRR)
+Removed _Binaural 3D Surround Sound for Headphones_
+Removed _CHORB_
+Removed [REDACTED]
+Reran _Nemesis_
+
+## NOTE
+
+No futa for now. SoonTM
+
 ## 6.15
 
 Big new update because there were some mods I wanted to try.
