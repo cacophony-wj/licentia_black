@@ -19,6 +19,7 @@
   - [I crashed!](#i-crashed)
   - [I'm randomly crashing!](#im-randomly-crashing)
   - [I gave something to a follower and it crashed!](#i-gave-something-to-a-follower-and-it-crashed)
+  - [I can't get out of a crafting animation! OR My followers or other characters got stuck somewhere!](#i-cant-get-out-of-a-crafting-animation-or-my-followers-or-other-characters-got-stuck-somewhere)
   - [I have problems with the camera! Flickering, weird 1st person body clipping! Can't switch to 3rd person!](#i-have-problems-with-the-camera-flickering-weird-1st-person-body-clipping-cant-switch-to-3rd-person)
   - [My performance is really terrible, low FPS, input lag during combat!](#my-performance-is-really-terrible-low-fps-input-lag-during-combat)
   - [I can't start an OStim scene or receive errors when attempting to do so!](#i-cant-start-an-ostim-scene-or-receive-errors-when-attempting-to-do-so)
@@ -124,6 +125,12 @@ You probably don't have enough paged RAM. Skyrim is very badly optimized. Try in
 Was it less than a full stack of arrows but more than half of that stack of arrows? Yeah, this is a bug and can't be fixed. Don't do that!
 
 If it was something else, first launch the game and try it again. If it happens again report it and tell me which item it was!
+
+### I can't get out of a crafting animation! OR My followers or other characters got stuck somewhere!
+
+Bugs such as this are common to many lists, and `moveto player` is the go-to solution. If you get stuck in a crafting or other SFW animation, open the console with the **tilde** ` key and type `player.moveto player`. That will get you out of it. I find that getting stuck in animations is common if you are attempting to craft or do some repetitive animation in first person. The list should switch you to third automatically but you could try doing so yourself before mining ores, brewing potions, etc.
+
+If an NPC gets stuck on some landscape or architecture, you can use a similar command. For followers imported into Nether, you can strike the `F6` key to teleport them all to you at once. Especially useful if they lag behind in the OVerworld. Keep in mind that "SUPER" followers such as Inigo and Lucien **CANNOT** be imported into Nether. If other NPCs get stuck, open console just as above, and click on them until they are highlighted in white. (You may need to scroll your mouse wheel until this occurs.) Then type `moveto player` and they will appear close to you and should be able to continue.
 
 ### I have problems with the camera! Flickering, weird 1st person body clipping! Can't switch to 3rd person!
 
