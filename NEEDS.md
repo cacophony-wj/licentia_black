@@ -2,7 +2,7 @@
 
 After you complete the rest of the **README.md**, follow the steps below.
 
-**If at any time these menus are blank or unresponsive, close the MCM, wait 10 seconds, and try configuring them again.
+**If at any time these menus are blank or unresponsive, close the MCM, wait 10 seconds, and try configuring them again.**
 
 ## Frostfall
 
