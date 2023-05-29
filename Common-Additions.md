@@ -50,12 +50,6 @@ If you like what I do, please consider leaving me a small tip via https://cacoph
 
 [Lydia Patch](/esps/quesoturtles_lydia.esp)
 
-## ADDING YURIANA, BUXOM WENCH
-
-**To include _Yuriana, Buxom Wench_ into _Licentia BLACK SIX,_** install the mod just as you did the others, under _Cosmos Lucien_, and place the attached ESP at the end of your Load Order. You can select any hairstyle you want because no patches are necessary to include them. She does have custom "tied up" poses, so you will also need to run _Nemesis._ To do so, please check the pins and server history for details. The commands !pins and !usesearch can provide screenshots on how. You should also consult the readme which is constantly under revision, and you should know where it can be found already.
-
-[Yuriana Patch](/esps/traces_yuriana.esp)
-
 ## ADDING TAINTED BLOOD OF THE DRAGONBORN
 
 **Like being a _Growl_ werewolf, a _Sacrosanct_ vampire, or an _Undeath_ lich? How would you like to be all three AT THE SAME TIME!?** At the request of @Climanata#7661, I created a Patch for _Tainted Blood of the Dragonborn_ which, with a little effort, allows you to be even more OP than ever before!
@@ -76,10 +70,18 @@ As the last step, copy the attached `ESP` in your _Shared Patches_ folder and en
 
 That's pretty much it!
 
-However I feel I must leave you with a warning. Messing with derived forms of the Dragonborn is risky business and I have rarely seen it work as expected, and this mod appears to handle most of its compatibility for the three transformations with scripting (and there is a lot of heavy scripting in this list already), so be wary of bugs. For this reason (and I actually think it's a little too OP even for this list), I can't offer official support for this addition. If you encounter problems with your transformations as a result, you are on your own.
+**However I feel I must leave you with a warning.** Messing with derived forms of the Dragonborn is risky business and I have rarely seen it work as expected, and this mod appears to handle most of its compatibility for the three transformations with scripting (and there is a lot of heavy scripting in this list already), so be wary of bugs. For this reason (and I actually think it's a little too OP even for this list), I can't offer official support for this addition. If you encounter problems with your transformations as a result, you are on your own.
 
 Finally a couple of notes from the comments for the mod. It may be rather buggy depending on which form you choose to succumb to first. I have read unconfirmed reports that it is best to acquire the forms in the same order they are presented originally: first werewolf, then vampire, and finally lich. Lastly, given that the Vampire keywords are sometimes applied via script, if you run into any problems you may be able to solve them by going into the MCM for _Tainted Blood_ and selecting the "Reset" option.
 
 And hey, if it works great and you have a blast with it _without_ turning the whole game into a laughable cakewalk, report back, yeah?
 
 [Tainted Blood Patch](/esps/clminatas_taint.esp)
+
+## ADDING YURIANA, BUXOM WENCH
+
+**To include _Yuriana, Buxom Wench_ into _Licentia BLACK SIX,_** install the mod just as you did the others, under _Cosmos Lucien_, and place the attached ESP at the end of your Load Order. You can select any hairstyle you want because no patches are necessary to include them. She does have custom "tied up" poses, so you will also need to run _Nemesis._ To do so, please check the pins and server history for details. The commands !pins and !usesearch can provide screenshots on how. You should also consult the readme which is constantly under revision, and you should know where it can be found already.
+
+**Warning:** I have received scattered user reports that this mod is damaging to long-term saves, particularly due to Yuriana and other followers' heavily-scripted AoE spells and especially in combination with other _Wenches_ series of mods. If you notice spells being cast repeatedly on you even in the absence of the triggers that are supposed to proc them, you have encountered this bug, which reports suggest only begins to occur after about 50 hours of play. Use with caution.
+
+[Yuriana Patch](/esps/traces_yuriana.esp)
