@@ -24,7 +24,7 @@ You are already ready to starve and die of thirst in Skyrim.
 
 #### Toggles
 
-Click the "X" nest to "Start Keep It Clean."
+Click the "X" next to "Start Keep It Clean."
 
 Close the MCM and wait for all messages to stop. You are now ready to stink in Skyrim.
 
