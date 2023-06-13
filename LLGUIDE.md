@@ -4,17 +4,17 @@
 
 I could configure all the Mod Configuration Menus for you with yet another recording, but I'm not going to. I think it would actually be counter-productive to your enjoyment of the list. As a matter of fact, playing the profile at all is probably counter-productive. But if it is your intention to play the PITCH profile despite your good judgment, it is recommended to visit the description pages of all the complex mods listed below and try to at least read them once to understand how they work. Then spend time exploring all the Mod Configuration Menus yourself and experimenting with the settings. Otherwise you are likely to have a bad time, because often _SexLab_ mods don't make much obvious sense or don't perform as intended. They _always_ require special care and consideration to use properly, especially if you plan on any sort of long-term gameplay. Any notes or comments I have from using the mods myself I have appended to the links.
 
-## Billyy's SLAL Animations (11-2-2022)
+## Billyy's SLAL Animations
 
-URL: https://www.loverslab.com/files/file/3999-billyys-slal-animations-2022-11-2/
+URL: https://www.loverslab.com/files/file/3999-billyys-slal-animations-2023-6-4/
 
-File: `774788719_SLAL_Billyy_Animationsv6.2SE.7z`
+File: `573348029_SLAL-Billyy_Animations6.7SE.7z`
 
-## BakaFactory's SLAL Animations 5.40
+## BakaFactory's SLAL Animations
 
 URL: https://www.loverslab.com/files/file/6707-bakafactorys-slal-animation-le-sse/
 
-File: `891921229_BakaFactorySLALAnimation5.40`
+File: `1595608377_BakaFactorySLALAnimation6.01.7z`
 
 ## A Forsworn Story 
 
@@ -134,11 +134,13 @@ File: `PamaPrisonAlternative_V1.3_ForSpecialEdition.zip`
 
 URL: https://www.loverslab.com/files/file/23031-rohzimas-new-animated-poser-for-skyrim-lese-rzazz/
 
-File: `RZAZZ_0.60_SE.zip`
+File: `RZAZZ_1.00_SE.zip`
 
 ## Ryadin Animations SLAL Pack
 
 URL: https://www.loverslab.com/files/file/9187-rydins-animations-resource-pack/
+
+File: `Rydin Animations SLAL Pack_Complete_SSE v0.5a.7z`
 
 ## Schlongs of Skyrim SE
 
@@ -180,21 +182,17 @@ URL: https://www.loverslab.com/files/file/5827-sexlab-tdf-prostitution-and-pimpi
 
 File: `TDF20220530_v2.7z`
 
-## SexLab Utility Plus
+## Simple Slavery Plus Plus
 
-URL: https://www.loverslab.com/files/file/10316-osmelmc-mod-tweaks/
+URL: https://www.loverslab.com/files/file/13531-simple-slavery-plus-plus/
 
-File: `SexLab Utility Plus v20221027.7z`
-
-Comments: Adds a ton of configuration options to the basic _SexLab_ MCM, including many different kinds of filters for animation types. It's recommended to enable them all to narrow them down as much as possible, because the mod tends to ignore some animations in a list numbering more than 250, regardless of how much the hard _SLAL_ limit is expanded.
+File: `Simple Slavery Plus Plus 6.3.19 [SE].zip`
 
 ## S.L.U.T.S. Resume
 
 URL: https://www.loverslab.com/files/file/13199-sluts-resume/
 
-File: `SLUTSResume 3.0.zip`
-
-File: `S.L.U.T.S. Resume 3.0.2 PATCH.zip`
+File: `SLUTSResume 3.1.zip`
 
 File `SLUTS - Redux_Cart.7z`
 
@@ -202,7 +200,7 @@ File `SLUTS - Redux_Cart.7z`
 
 URL: https://www.loverslab.com/files/file/15346-submissive-lola-the-resubmission-lese/
 
-File: `SubmissiveLolaResubmission 2.0.59.7z`
+File: `SubmissiveLolaResubmission 2.0.64.7z`
 
 File: `SubmissiveLolaResubmission -Optional - RidingCrop SE.7z`
 
@@ -216,7 +214,7 @@ File: `SexLab_Solutions_Revisited_SE_-_Ostim_Beta_5.zip`
 
 URL: https://www.loverslab.com/files/file/5929-sexlab-separate-orgasm-se/
 
-FIle: `SexLab-Separate-Orgasm 2022-08-02.7z`
+FIle: `SexLab-Separate-Orgasm 2023-01-16.7z`
 
 Comments: You may remember this one from _Dungeons & Deviousness_. Turns sex into a little minigame you have to use a series of keystrokes to "win" (orgasm). Read the modpage to see how to configure it. **WARNING:** if you do not set the **MOD** option to **ZERO** you will eventually become such a nympho or satyr that it is impossible to reduce your arousal below maximum. This is a troll setting because the author hates you.
 
@@ -236,6 +234,11 @@ File: `SexLabFrameworkSE_v163.7z`
 
 Comments: The entire point. Before anything will work, you must "INSTALL" this mod via the MCM, close all menus, and wait for a "Complete" message in the upper left corner of your screen. Then you must configure it as you see fit (pay special attention to the filters) and register the sexytime animations in the _Animation Loader._ The mod was never optimized and will often suffer from script delay and even freezeups. It may be better now, I dunno. You can usually get around it by opening the console menu and waiting a few seconds.
 
+## SexLab Framework PPLUS
+
+URL: `https://www.loverslab.com/files/file/25318-sexlab-p/`
+
+File: `SexLab Framework PPLUS - V1.8.2.3 - LATEST.zip`
 ## SexLab Defeat SSE
 
 URL: https://www.loverslab.com/files/file/9152-sexlab-defeat-sse/
@@ -249,6 +252,12 @@ Comments: _The Original Broken LL Mod._ It cannot and never will work properly. 
 URL: https://www.loverslab.com/files/file/16160-m2m-animations-for-slal/
 
 File: `SLAL_M2MAnimations_SE_v20210222.7z`
+
+## Public Whore
+
+URL: https://www.loverslab.com/files/file/17026-public-whore/
+
+File: `Public Whore v1.2.4 SE.zip`
 
 ## SexLab Animation Loader
 
@@ -278,11 +287,29 @@ File: `SOS - No Futanari Schlong - Addon.7z`
 
 ## Spank That Ass
 
-URK: https://www.loverslab.com/files/file/9385-spank-that-ass-se/
+URL: https://www.loverslab.com/files/file/9385-spank-that-ass-se/
 
 File: `Spank That Ass SE v4.8 BETA (27-Apr-2021).7z`
 
+## Submissive Lola - Coffee's Task Extension
+
+URL: https://www.loverslab.com/files/file/27451-submissive-lola-coffees-task-extension/
+
+File: `cfl_LolaAddon_Beta_1.0.1.zip`
+
+## The Trappings of Fate
+
+URL: https://www.loverslab.com/files/file/22231-the-trappings-of-fate/
+
+File: `2023_04_23_The Trappings of Fate v.1.2.0.7z`
+
 Comments: Another kink of mine in addition to _Defeat_ and the _Slavegirls._ Allows partners to really wail on your cheeks until they turn bright red if they get excited. Gives various debuffs the more you get warped on. Although the sounds are silly but satisfying, more of a role-playing thing because there are no animations. The other NSFW profiles have spank animations. Just sayin'
+
+## Yamete Kudasai
+
+URL: https://www.loverslab.com/files/file/23123-yamete-kudasai/
+
+File: `YameteKudasai - 2.1.2.2.zip`
 
 ## ZaZ Animation Pack
 
