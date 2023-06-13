@@ -18,11 +18,17 @@ File: `1595608377_BakaFactorySLALAnimation6.01.7z`
 
 ## A Forsworn Story 
 
-URL: https://www.loverslab.com/files/file/1733-a-forsworn-story/
+URL: https://www.mediafire.com/file/jawkdmiu75gxa3s/AFS+redone+0.7.zip/file
 
-File: `AFS_2.3.zip`
+File: `AFS redone 0.7.zip`
 
 Comments: This is a very gruesome quest mod featuring a lot of violence centering around Forsworn brutality. Do not play if you are squeamish. None of the creature content will work, and at last report, the mod required a lot of manual troubleshooting (including `setstage` commands) to complete properly.
+
+## Acheron Extension Library
+
+URL: `https://www.loverslab.com/files/file/27063-acheron-extension-library/`
+
+File: `Acheron Extension Library - 1.1.zip`
 
 ## Alternate Perspective - Sold Out
 
@@ -42,13 +48,11 @@ URL: https://www.loverslab.com/files/file/984-amorous-adventures-v34-20180602/?d
 
 File: `AmorousAdventures-v3_4-SexLab.7z`
 
-## Blending Patch for ERF Futanari CBBE
+## Amorous Adventures Text and Player Dialogue Revision
 
-URL: https://www.loverslab.com/topic/137830-easy-way-to-make-seamless-sos-textures/#comment-2908467
+URL: https://www.loverslab.com/files/file/23233-amorous-adventures-text-and-player-dialogue-revision/
 
-File: `Demoniac SOS patch.rar`
-
-Comments: This is a forum post so navigate carefully. Stuff like this is extremely painful to find yourself. Thank @iAmMe for this one.
+File: `Amorous Adventures Text and Player Dialogue Revision.zip`
 
 ## Devious Cidhna
 
@@ -56,11 +60,13 @@ URL: https://www.loverslab.com/files/file/1052-devious-cidhna-may-5-2018/
 
 File: `Devious Cidhna v1_10_SE.7z`
 
+File: `Devious Cidhna v1_10-NonLocalized_ESP.7z`
+
 Comments: A cruel slavery and bondage quest that takes place in the Cidhna Mine subplot of Markarth. Mostly works from what I understand, aside from typical _Devious Devices_ jank.
 
-## Devious Devices 5.2 Beta 7
+## Devious Devices 5.2
 
-URL: https://mega.nz/file/oDxVjTDT#nDkSIwWLZxYFLMlUBKWAEaVCWpEb4U8yg_7dRwNAlK4
+URL: https://mega.nz/file/3A90hQZS#wqqyGkKrYGPGFfPiluHfSmyTL5RqHJGT0-MtinqXTxU
 
 Comments: An incredibly bloated mod. Usually used in combination with _Cursed Loot_ which is even more broken. I chose not to include that one but its an easy add if you wish to use it. Read the modpage, configure it carefully, and don't ask me anything about it.
 
@@ -68,13 +74,19 @@ Comments: An incredibly bloated mod. Usually used in combination with _Cursed Lo
 
 URL: https://www.loverslab.com/files/file/16231-devious-lore-se/
 
-File: `Devious Lore SE v2.3.1.7z`
+File: `Devious Lore SE v3.0.0.7z`
+
+File: `Devious Lore Dwarven Gilded Oil Suit 3BA.7z`
+
+File: `Devious Lore SE - KS Hairs Patch 3.0.1.7z`
+
+File: `Devious Devices - Lore Patch for DD 5.2 SE (2023-10-3).7z`
 
 ## Deviously Helpless
 
-URL: https://www.loverslab.com/files/file/6561-deviously-helpless-se/
+URL: https://www.loverslab.com/files/file/829-deviously-helpless/)
 
-File: `Deviously Helpless SE v1.17a.001 (converted by Roggvir).zip`
+File: `Deviously Helpless 1.15d.7z`
 
 ## Replacer for Fjotra
 
@@ -86,17 +98,11 @@ Comments: Another forum post.
 
 ## From The Deeps Redone
 
-URL: https://www.loverslab.com/files/file/8663-from-the-deeps-for-sse/
+URL: https://www.loverslab.com/files/file/1792-from-the-deeps/
 
-File: `From The Deeps (redone) 2.6SE.7z`
+File: `From The Deeps (redone) 2.6.zip`
 
 Comments: A standout Lovecraftian NSFW quest mod. Once featured and fixed up by @erri120 for WJ's legendary _Lotus_ NSFW modlist. Probably the apex of explicit LL quest mods.
-
-## A Haunted House
-
-URL: https://www.loverslab.com/files/file/2355-haunted-house/
-
-File: `Haunted House 1.8.rar`
 
 ## Hydragorgon's Slave Girls
 
@@ -108,17 +114,25 @@ File: `Hydra_Slavegirls_SSE_v1.0.7z`
 
 Comments: Okay so this one is really bad and so horribly cringey, it's hilarious. A personal weakness of mine, it was one of the first LL mods I ever installed. Places a ton of bondage girls as decoration all over _Skyrim._ Some of them you can talk to and read incredibly lame dialog.
 
+## Monoman's Mod Tweaks
+
+URL: https://www.loverslab.com/files/file/6942-monomans-mod-tweaks/
+
+File: Hydra Slave Girls Tweak v1.0.7z
+
 ## Laura's Bondage Shop
 
 URL: https://www.loverslab.com/files/file/6949-devious-devices-lauras-bondage-shop-7-oct-2021-v332/
 
-File: `Laura's Bondage Shop v3.32 SSE version - by tznvlw.7z`
+File: `Laura's Bondage Shop v3.42 SE version - By aurreth.7z`
 
 Comments: The successor to the legendary _Captured Dreams_ BDSM quest mod. Never played much of it other than it was a favorite addition to my old _SexLab_ list. To interact with it, find the shop between _Whiterun_ and the western watchtower.
 
 ## SexLab Sex Slaves (Mia's Lair)
 
 URL: https://www.loverslab.com/files/file/5520-sexlab-sex-slaves-sse/
+
+File: `MiaJennySasha7.3ReplacerFor71h.7z`
 
 File: `MiasLair71hSexlabBSA.7z`
 
@@ -178,9 +192,9 @@ File: `SexLab Solutions v3 - Revisited SE v1.1.5.7z`
 
 ## SexLab TDF Prostitution and Pimping
 
-URL: https://www.loverslab.com/files/file/5827-sexlab-tdf-prostitution-and-pimping-the-former-aggressive-prostitution-v2255-se/
+URL: https://www.loverslab.com/files/file/5827-sexlab-tdf-prostitution-and-pimping-the-former-aggressive-prostitution-2023/
 
-File: `TDF20220530_v2.7z`
+File: `TDF2023.7z`
 
 ## Simple Slavery Plus Plus
 
@@ -226,11 +240,11 @@ File: `SexLabArousedSSELoose-29.7z`
 
 Comments: The number one reason _SexLab_ modlists usually break. Neuter it as much as possible. Set the cloaks really low, the timers really long, disable most of the options including any debuffs, and have it clean out dead things. Good luck!
 
-## SexLab Framework SE v1.63
+## SexLab Framework AE v1.65
 
 URL: https://www.loverslab.com/files/file/20058-sexlab-se-sex-animation-framework-v165-110822/
 
-File: `SexLabFrameworkSE_v163.7z`
+File: `SexLabFrameworkAE_v165.7z`
 
 Comments: The entire point. Before anything will work, you must "INSTALL" this mod via the MCM, close all menus, and wait for a "Complete" message in the upper left corner of your screen. Then you must configure it as you see fit (pay special attention to the filters) and register the sexytime animations in the _Animation Loader._ The mod was never optimized and will often suffer from script delay and even freezeups. It may be better now, I dunno. You can usually get around it by opening the console menu and waiting a few seconds.
 
@@ -239,13 +253,6 @@ Comments: The entire point. Before anything will work, you must "INSTALL" this m
 URL: `https://www.loverslab.com/files/file/25318-sexlab-p/`
 
 File: `SexLab Framework PPLUS - V1.8.2.3 - LATEST.zip`
-## SexLab Defeat SSE
-
-URL: https://www.loverslab.com/files/file/9152-sexlab-defeat-sse/
-
-File: `SL Defeat SSE.7z`
-
-Comments: _The Original Broken LL Mod._ It cannot and never will work properly. That said, the best way to use it is to disable all features but player surrender (without robbery or teleport options) and only surrender at the beginning of combat when you really want yourself to get punished. If you try to surrender right before you die it will probably fail to register in time. **I will not offer advice for any feature but player surrender at the beginning of combat.**
 
 ## M2M Animations
 
@@ -267,11 +274,13 @@ File: `SLAL_SE.7z`
 
 Comments: In addition to installing and configuring _SexLab_ you must enable and register all animations here. It's faster than it used to be but it still takes a bit of time. Wait for the complete message before trying anything.
 
-## Slap Da Butt: 
+## The Sisterhood of Dibella SE
 
-URL: https://www.loverslab.com/files/file/21583-slap-da-butt-se/
+URL: https://www.loverslab.com/files/file/26037-the-sisterhood-of-dibella-se-february-2023/
 
-File: `Slap Da Butt`
+File: `SisterhoodOfDibellaSE20230226.7z`
+
+File: `SisterhoodOfDibellaVoicePackSE20230226.7z`
 
 ## Futanari CBBE SSE
 
