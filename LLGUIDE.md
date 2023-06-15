@@ -194,7 +194,7 @@ File: `SexLabFrameworkAE_v165.7z`
 
 ## SexLab Framework PPLUS
 
-URL: `https://www.loverslab.com/files/file/25318-sexlab-p/`
+URL: https://www.loverslab.com/files/file/25318-sexlab-p/
 
 File: `SexLab Framework PPLUS - V1.8.2.3 - LATEST.zip`
 
