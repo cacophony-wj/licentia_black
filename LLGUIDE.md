@@ -296,5 +296,3 @@ File: `YouDontNeedABreak.7z`
 
 URL: https://mega.nz/#!WEgGDaCa!wAho2Rphy47Lcd55DEmV50GgN07CMnTjhQ_r9s6dq-I
 
-Comments: Requires configuration and especially registration of the animations. Read the modpage and forums and use your judgment.
-
