@@ -66,6 +66,8 @@ URL: https://www.loverslab.com/files/file/16231-devious-lore-se/
 
 File: `Devious Lore SE v3.0.0.7z`
 
+File: `Devious Lore SE 3.0.1 Hotfix Update.7z`
+
 File: `Devious Lore Dwarven Gilded Oil Suit 3BA.7z`
 
 File: `Devious Lore SE - KS Hairs Patch 3.0.1.7z`
@@ -211,8 +213,6 @@ URL: https://www.loverslab.com/files/file/5520-sexlab-sex-slaves-sse/
 File: `MiasLair71hSexlabBSA.7z`
 
 File: `MiaJennySasha6.3ReplacerFor71h.7z`
-
-File: `MiasLair71hSexlabBSA.7z`
 
 File: `MiasLair71Textures.7z`
 
