@@ -8,7 +8,7 @@ File: `AFS_2.2_test1SE.7z`
 
 ## Acheron Extension Library
 
-URL: `https://www.loverslab.com/files/file/27063-acheron-extension-library/`
+URL: https://www.loverslab.com/files/file/27063-acheron-extension-library/
 
 File: `Acheron Extension Library - 1.1.zip`
 
