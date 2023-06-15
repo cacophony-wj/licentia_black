@@ -110,7 +110,13 @@ File: `SLAL_M2MAnimations_SE_v20210222.7z`
 
 URL: https://www.loverslab.com/files/file/6942-monomans-mod-tweaks/
 
-File: Hydra Slave Girls Tweak v1.0.7z
+File: `Hydra Slave Girls Tweak v1.0.7z`
+
+## OsmelMC Mod Tweaks
+
+URL: https://www.loverslab.com/files/file/10316-osmelmc-mod-tweaks/
+
+File: `SexLab Utlity Plus v20230603.7z`
 
 ## Pama Prison Alternative
 
