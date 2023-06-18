@@ -1,5 +1,114 @@
 # LICENTIA BLACK CHANGELOG
 
+## 7.0
+
+**GAME VERSION CHANGES:**
+
+- Update from _Skyrim Special Edition_ version 1.5.97 to version 1.6.640, with **all** _Creation Club_ content.
+ 
+**MOD ADDITIONS, UPDATES, REMOVALS:**
+ 
+- Added _NAT.ENB III - Natural and Atmospheric Tamriel ENB Plugin_ in place of _SOLAS Weathers_
+- Added _Rudy ENB for NAT III_ in place of _Patrician ENB_
+- Added _Skyrim's Paraglider Anniversary Edition Update_
+- Added _Splashes of Storms_ in place of _Wonders of Weather_
+- Added _Rudy fix for Splashes of Storms and ENB_
+- Added _The Halls of the Greybeards - a High Hrothgar Retexturing_
+- Added _Skyrim 3D High Hrothgar Steps_
+- Added _NORDIC UI - Compass Markers Restored_
+- Added _SKSE ini pre-download for lazy users_
+- Replaced _Yes Im Sure_ with _Yes Im Sure NG_
+- Added back _Enhanced Volumetric Lighting and Shadows (EVLaS)_
+- Added _SkyUI AIO Survival_
+- Added _Nordic UI - SkyUI AIO Survival Patch_
+- Added _Nordic UI Active Effects for SkyUI SE_
+- Added the forum patch for _Schlongs of Skyrim_ 1.6.640
+- Added _Static Skill Leveling Rewritten._ 
+- Added _Clockwork Superior Sorting Hang Helper_
+- Added _BiR's Remiel Replacer_
+- Added _CrashLogger_
+- Replaced _Dynamic Animation Replacer_ with _Open Animation Replacer_
+- Replaced _Combat Music Fix SKSE_ with _dTry Plugin Updates_
+- Updated _OpenSex Addon Hub_ to 3.1
+- Updated _Moon Lovemaking Compendium_ to 1.4
+- Updated _Drago's Anal Animations Add on _ to 1.24
+- Updated _ORomance Plus_ and its _OpenSex_ patch to 1.3
+- Updated _Caliente's Beautiful Bodies Enhancer - CBBE_ to 1.8.1
+- Updated _Serana Dialogue Add-On_ to 4.0.2.3
+- Updated _Seranaholic 1.5 High Poly Head Conversion_ to 1.3
+- Updated _Remiel - Custom Voiced Dwemer Specialist and Companion_ to 1.6
+- Updated _Vilja Re-Imagined SSE_ to 3.0-CBBE
+- Updated _The Wheels of Lull SE_ to 5.1.10
+- Updated _Expressive Remiel_ to 2.1
+- Updated _enbseries_ to Boris' latest unversioned 0.493
+- Updated _Vokriinator Black_ to 6.14.1
+- Updated _Skyrim Revamped Rebalanced and Releveled_ to 2.54
+- Updated _Skyrim on Skooma_ to 69.4
+- Updated _Lux_ to 6.1.1 (with brighter lighting templates)
+- Updated _Lux - Via_ to 1.7 (with brighter lighting templates)
+- Updated _Embers XD_ to 2.7.4
+- Updated _CoMAP_ to 4.0.0
+- Updated _OStim NG - OSA Overhaul and API Next Gen_ to 6.7e
+- Updated _Soaking Wet_ to the 1.6.640 version
+- Updated _Faster HDT-SMP_ to the 1.6.640 version
+- Updated _Honed Metal_ to the 1.6.353 version
+- (Added the _Honed Metal 1.6.640 Community Patch_)
+- Removed _Static Skill Leveling._ 
+- Updated _RaceMenu_ to the 04.19.14, 1.6.640 version
+- Updated _Skyrim Skill Uncapper_ to 0.1.7 BETA
+- Updated _Simple Offense Suppression_ to the 1.6.640 version
+- Updated _Dynamic Animation Replacer_ to 1.1.3 AE
+- Updated _Simple Dual Sheathe_ to the 1.5.6, 1.6.640 version
+- Updated _Spell Perk Item Distributor_ to the 1.6.640 version
+- Updated _Detection Meter_ to 0.17-NG
+- Updated _Better Jumping_ to the 1.6.640 version
+- Updated _Encounter Zones Unlocked_ to the 1.6.640 version
+- Updated _MoreHUD_ to 5.2.2 AE
+- Updated _MoreHUD Inventory Edition_ to 2.1.2 AE
+- Updated _Better Third Person Selection_ to 0.5.8 AE
+- Updated _Fix Note for SkyUI SE_ to the 1.6.640 version
+- Updated _To Your Face SE_ to the 1.6.640 version
+- Updated _Actor Limit Fix_ to the 9.0, 1.6.640 version
+- Updated _po3's Tweaks_ to the 1.6.640 version
+- Updated _Bug Fixes SSE_ to 10.0
+- Updated _Scrambled Bugs_ to 21.0
+- Updated _Fux Ro D'oh_ to the 2.3, 1.6.640 version
+- Updated _MFG Fix_ to 1.6.1
+- Updated _ENB Helper_ to 2.2
+- Updated _MCM Helper_ to the 1.4, 1.6.640 version
+- Updated _SSE Engine Fixes_ to the 6.1.1, 1.6.640 version
+- Updated _SSE Display Tweaks_ to the 1.6.640 version
+- Updated _Address Library for SKSE Plugins_ to the 1.6.640 version
+- Updated _Papyrus Tweaks NG_ to the 1.6.640 version
+- Updated _PapyrusUtil_ to 4.4 AE
+- Updated _po3's Papyrus Extender_ to 5.5
+- Updated _More Informative Console_ to the 1.6.640 version
+- Updated _JContainers_ to 4.2.3
+- Updated the disabled _Auto Input Switch_ to the 1.6.640 version
+- Reinstalled _Security Overhaul SKSE - Lock Variations_ with the proper version
+- Reinstalled _Enhanced Visibility_ with the proper version
+- Reinstalled _Frozen Electrocuted Combustion_ with the proper version
+- Reinstalled _Storm Lighting for SSE_ with the proper version
+- Reinstalled _Moons and Stars - Sky Overhaul SKSE_ with the proper version
+- Reinstalled _SmoothCam_ with the proper version
+- Reinstalled _Read or Take SKSE_ with the proper version
+- Reinstalled _Oxygen Meter_ with the proper version
+- Reinstalled _Console Commands Extender_ with the proper version
+- Removed _NetScriptFramework_
+- Removed _Improved Camera SE_
+- Removed _Wash That Blood Off 2_
+- Removed _Player Rotation in ShowRaceMenu_
+- Removed _Screenshot Helper_
+- Removed _SkyPal - Your Friendly Papyrus Library_
+- Removed _Copy and Paste In Console_
+- Removed _WetFunction Redux_ (too heavily scripted the way I want to use it)
+- Removed _OEndurance_ (required for _WetFunction_)
+- Removed _Fertility Mode_ and associated mods (reduce script load and I don't engage with it much)
+- Removed _Modular Armory_ (incompatible with BodySlide)
+- Removed redundant mods which are included as a part of _Unofficial Skyrim Modder's Patch_, these include:
+
+## MANY OTHER CHANGES, FIXES AND UPDATES THAT I'M SURE I'VE FORGOTTEN.
+
 ## 6.16
 
 BAD chickens.
@@ -62,6 +171,10 @@ Big new update because there were some mods I wanted to try.
 - Corrected the doubled quest bug from _Lustmord Armor._
 - Fixed purple squares on the ground in The Reach.
 - Fixed floating lanterns in some areas.
+- Patched weight of all ores back to 1.0 lbs.
+- Fixed SMIM overwrites.
+- Installed Rudy's Night Eye fix.
+- Fixed a neck gap on some Creation Club pirate outfits.
 
 ## 6.14
 
@@ -88,6 +201,19 @@ Testing version. Disregard.
 - I have had reports of blank textures in Elsewyr (the Khajiit area), please submit saves if you encounter them.
 - I have had reports of Serana's _Crimson Blood_ quest not functioning properly. Please submit saves from this quest area.
 - Also... something appears to have happened to the chickens... BEWARE
+
+### TESTING
+
+- Verified that ORomance is functioning on this version.
+- Verified that OStim scenes are functioning on this version.
+- Verified that combat proceeds normally on this version.
+- Verified that the MCM Recorder still functions properly.
+
+### GENERATION
+
+- Rebuilt BodySlides
+- Regenerated LODs
+- Reran Nemesis
 
 ## 6.12.0.1
 
