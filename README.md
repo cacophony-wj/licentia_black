@@ -112,37 +112,7 @@ Launch _Licentia Black.exe_ (a renamed copy of _Mod Organizer 2_ with a custom i
 
 ## WHEN YOU SPAWN IN HELGEN'S INN, DO NOT TOUCH ANYTHING!
 
-Wait until the _Fertility Mode_ question appears on your screen. It should be a simple prompt whether to enable Pregnancy, Yes or No.
-
-## Fertility Mode
-
-Choose whether to enable pregnancy and reproductive cycles. Keep in mind that the overhead for this mod can be demanding for weak CPUs. Unless you have role-playing plans involving these features I recommend disabling it or minimizing its impact.
-
-If you answer this question with _YES_, open your Mod Configuration Menu and find the entry for _Fertility Mode._ It is important to limit the scope of the mod if you intend a long-term playthrough.
-
-## Settings Page 1
-
-### Automation
-
-#### Player Only
-
-Checked.
-
-#### Randomly Inseminate PC
-
-Unchecked.
-
-## Settings Page 2
-
-### Preferences
-
-#### Show Verbose Messages
-
-Unchecked.
-
-#### The Widget (ONLY IF FEMALE)
-
-Unchecked.
+Wait until all the messages appear then disappear in the upper left corner of the screen. Then you may continue.
 
 ## MCM Recorder
 
@@ -185,18 +155,6 @@ Both profiles disable killmoves on the player due to conflicts.
 #### Save Load Configuration
 
 Click "Load From File."
-
-## Wet Function Redux
-
-**This is a dangerous mod to enable.** It causes players **and NPCs** to get "sweaty" and "shiny" during strenuous activity, basically as their stamina drains. Hot. I want to check it out, so you can join me if you wish.
-
-**To enable this mod,** take the following steps.
-
-### Targets
-
-#### Current Target
-
-Click "Start Effect." No further configuration is required.
 
 ## FINAL NOTES
 
