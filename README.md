@@ -118,43 +118,7 @@ Wait until all the messages appear then disappear in the upper left corner of th
 
 Find the _MCM Recorder_ menu in the _Mod Configuration_ menu accessible via the `ESCAPE` key or the `START` button. Click the "RUN ME" recording, click OK, close the MCM menu, click the "Run Recording" button when it appears, and **TOUCH NOTHING.** Wait for a message to pop up saying playback is finished, then wait for all messages to disappear in the upper-left corner of your screen. There may occasionally be error messages referencing outdated settings. They are unimportant. Skip them.
 
-There are a few more MCMs that must be customized manually.
-
-## Diverse Dragons Encounters
-
-Open the _Diverse Dragons Encounters MCM_ (DDC) and under the "Dragons" entry, **UNCHECK** the following:
-
-O Nether
-
-O Sanguine
-
-O Vile
-
-These dragons feature passive buffs and alternate attacks that make them almost impossible to kill. Of course, you can become near-godlike depending on your _Vokriinator Black_ build, so feel free to leave them enabled if you think you can take it.
-
-## VioLens
-
-### Profile System
-
-#### Settings
-
-Click "Load - SELECT." 
-
-Decide whether you want killmoves for every final enemy in each encounter or not. Be warned -- enabling many killmoves may cause unexpected bugs.
-
-**For occasional killmoves,** select "Sane Violence."
-
-**For frequent killmoves,** select "Ultra-Violence."
-
-Both profiles disable killmoves on the player due to conflicts.
-
-## Follower Framework
-
-### System
-
-#### Save Load Configuration
-
-Click "Load From File."
+Everything should now be configured automatically thanks to **NEW** MCM Recordings. Enjoy the modlist!
 
 ## FINAL NOTES
 
