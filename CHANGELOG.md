@@ -1,5 +1,40 @@
 # LICENTIA BLACK CHANGELOG
 
+## 7.0.1
+
+## MOD ADDITIONS, UPDATES, REMOVALS
+
+- Added _Comprehensive Attack Speed Patch_
+- Added _I'm Talkin' Here_
+- Added _Universal Cured Serana Eye Fix_
+- Added _Feminine Argonian Textures Hotfix_
+- Added _HelpExtender._
+- Updated _enbseries_ to 0.494
+- Updated _Fencing in the Dark for OStim NG_ to 1.3
+- Updated _Remiel's Crossbow Replacer_ to 1.2
+- Reinstalled _ORomance_ in the hopes of fixing it.
+- Reinstalled the optional _REALORE_ patch for smooth elf faces
+- Changed the main menu again
+- Changed the main menu music
+
+### BUG SQUASHING
+
+- Fixed a neckseam on Remiel
+- Made the raindrops smaller / shorter.
+- Rearranged a couple of rogue masters.
+- Experimented with Predator Vision -- It does not work with Rudy.
+
+### TESTING
+
+- Verified that _ORomance_ is functioning on this version.
+- Verified that _OStim_ scenes are functioning on this version.
+- Verified that combat proceeds normally on this version.
+- Verified that the _MCM Recorder_ still functions properly.
+
+### GENERATION
+
+- Reran _Nemesis_
+
 ## SLOOT 1.5
 
 **MOD ADDITIONS, UPDATES, REMOVALS:**
