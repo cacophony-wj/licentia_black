@@ -1,5 +1,59 @@
 # LICENTIA BLACK CHANGELOG
 
+## SLOOT 1.5
+
+**MOD ADDITIONS, UPDATES, REMOVALS:**
+
+- Added _DX Cassandra Apocrypha Robes_
+- Added _DX Celes Rogue Armor_
+- Added _DX Daedric Reaper Armor_
+- Added _DX Demon Armor_
+- Added _DX Stella Mithril Armor
+- Added _DX Ursine Armor Pack_
+- Added _Comprehensive Attack Speed Patch_
+- Added _I'm Talkin' Here_
+- Added _Universal Cured Serana Eye Fix_
+- Added _Femenine Argonian Textures Hotfix_
+- Added _HelpExtender._
+- Updated _enbseries_ to 0.494
+- Reinstalled _ORomance_ in the hopes of fixing it.
+- Reinstalled the optional _REALORE_ patch for smooth elf faces
+- Changed the main menu again
+- Changed the main menu music
+
+**BUG SQUASHING**
+
+- Fixed a neckseam on _Remiel_
+- Fixed missing textures on some DX outfits.
+- Fixed a bug where Serana's _Crimson Blood_ quest would not finish properly.
+- Made the raindrops smaller / shorter.
+- Rearranged a couple of rogue masters.
+- Experimented with _Predator Vision_ -- It does not work with Rudy.
+
+## PITCH 3.2
+
+**MOD ADDITIONS, UPDATES, REMOVALS:**
+
+- Added _The Book of Sex SE_
+- Added _Sexlab - Cum Overlays_
+- Added _Interesting NPCs - Sexlab Patch_
+- Added _Helgen Reborn - Sexlab Patch_
+- Removed _GKB Waves Reborn_
+- Removed _CHOCOLATE_
+- Removed _A Cat's Life_
+- Removed _Attack Dogs_
+- Removed _Eli's Coffee Mod_
+- Removed _Gladys_ & _Merlin_
+- Removed _Meeko_ & _Vigiliance Reborn_
+
+**OUTPUT GENERATION**
+- Rerecorded _MCMs_. Install SEXLAB before running them.
+- Reran _Synthesis_ to reflect the changes
+- Regenerated _DynDOLOD_ to reflect the removal of the Cat Shoppes
+
+## 7.0.0.1
+
+- Changed main menu screen to a custom commission from @ArdisFoxx Art.
 ## 7.0
 
 **GAME VERSION CHANGES:**
