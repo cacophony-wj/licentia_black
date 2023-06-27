@@ -1,8 +1,46 @@
 # LICENTIA BLACK CHANGELOG
 
+## 7.1.0.1
+
+### MOD ADDITIONS, UPDATES, REMOVALS
+
+- Added _OStim NPCs - NPC Sex Lives Improved_
+- Added _OStim Lovers_
+- Added _SOS - Futanari CBBE SSE V1.1b_
+- Added _SOS - Futanari - Patch for REALORE SKIN ULTIMA_ with custom tweaks by yours truly
+- Added _SOS - No Futanari Schlong - Addon_
+- Added _Genesis Surface Spawns - Encounters Levelled_ to make up for the loss of SIC.
+- Added @ArdisFoxx's _Neela - the Licentia Babe_ RaceMenu and BodySlide presets.
+- Swapped _Amorous Adventures PLUS for OpenSex_ out with _Amorous Adventures for OStim_ and _Amorous Adventures for OStim NG Patch_
+- Replaced _Skyrim Skill Uncapper (fixed) AE_ with _Skyrim Skill Uncapper for SE and AE_
+- Updated _Open Animations Romance and Erotica to 1.34
+- Updated _Drago's OpenSex Animations Add on_ to 1.25
+- Updated _Naughty Voices_ to 2.3
+- Updated _OPrivacy_ to 2.7b
+- Updated _Excitable Subs for OStim_ to 1.3b
+- Updated _DynDOLOD 3.00_ to Alpha-128
+- Updated _DynDOLOD Resources SE 3.00_ to Alpha-37
+- Downgraded _Static Skill Leveling Rewritten_ to 1.4 due to a bug with XP gain
+- Reinstalled _CBBE 3BA_ without the _Flower Girls_ compatibility
+- Reinstalled _Static Skill Leveling Rewritten_ with experience fixes for _Ordinator_ and _Vokrii_ 
+- Removed _Flower Girls SE & VR_ and all associated mods and patches
+- Removed _Sex Scene Framework_
+- Removed _Secret Lives of Skyrim NPCs_
+- Removed _Valerica, Lust of a Mother - Flower Girls_
+- Removed _Skyrim Immersive Creatures_ and all patches reliant on it, including my own.
+- Removed _JS Misplaced Septims_ (minor impact for a full ESP slot)
+
+**OUTPUT GENERATIONS**
+
+- Tweaked the new _Uncapper_ INI.
+- Regenerated LODs.
+- Re-ran _Nemesis.
+- Re-ran _Synthesis._
+- Re-recorded MCMs.
+  
 ## 7.0.1
 
-## MOD ADDITIONS, UPDATES, REMOVALS
+### MOD ADDITIONS, UPDATES, REMOVALS
 
 - Added _Comprehensive Attack Speed Patch_
 - Added _I'm Talkin' Here_
