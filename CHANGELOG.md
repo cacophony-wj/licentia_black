@@ -1,5 +1,25 @@
 # LICENTIA BLACK CHANGELOG
 
+## 7.2
+
+## MOD ADDITIONS, UPDATES, REMOVALS:**
+
+- Added _Vanilla Warpaints Absolution_
+- Added _Beast Race Bodypaints_
+- Added _Simple Belly Paints SE_
+- Added _Weathered Nordic Bodypaints_
+- Added _Wolfpaint - Collection_
+- Added _Yyvgengar Bodypaint - Designs of the Lupine_
+- Added _Ziovdendian Bodypaint - Designs of the Lupine_
+- Reinstalled all the _Community Overlays_
+- Replaced _eeekie's Brynjolf_ with _BB's Brynjolf_
+
+### BUG SQUASHING
+
+- Fixed a bug where certain Triple Triad cards would not display.
+- Fixed a bug with glitchy body textures for certain female argonians.
+- Unpacked a couple script archives to resolve a possible archeology bug.
+  
 ## 7.1.0.1
 
 ### MOD ADDITIONS, UPDATES, REMOVALS
