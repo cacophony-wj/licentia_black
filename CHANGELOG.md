@@ -2,7 +2,7 @@
 
 ## 7.2
 
-## MOD ADDITIONS, UPDATES, REMOVALS:**
+## MOD ADDITIONS, UPDATES, REMOVALS:
 
 - Added _Vanilla Warpaints Absolution_
 - Added _Beast Race Bodypaints_
