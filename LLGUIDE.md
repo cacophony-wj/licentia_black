@@ -227,19 +227,6 @@ URL: https://www.loverslab.com/files/file/6942-monomans-mod-tweaks/
 File: `Hydra Slave Girls Tweak v1.0.7z`
 
 **NOTE:** This file is displayed in a massive list of similar versions and unrelated mods. Be sure to only download the one with the exact filename above.
-
-## OsmelMC Mod Tweaks
-
-URL: https://www.loverslab.com/files/file/10316-osmelmc-mod-tweaks/
-
-File: `SexLab Utlity Plus v20230603.7z`
-
-## Pama Prison Alternative
-
-URL: https://www.loverslab.com/files/file/17619-prison-alternative-a-modular-prison-system/
-
-File: `PamaPrisonAlternative_V1.3_ForSpecialEdition.zip`
-
 ## Public Whore
 
 URL: https://www.loverslab.com/files/file/17026-public-whore/
