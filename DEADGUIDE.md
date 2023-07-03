@@ -46,6 +46,8 @@ FILE: `zdd_e_SE.7z`
 
 ## Immersive Daedra Worship: Temple of Molag Bal
 
+URL: https://www.loverslab.com/files/file/10941-immersive-daedra-worship-temple-of-molag-bal/
+
 File: `Immersive_Daedra_Worship_v05alpha_-_1.zip`
 
 File: `Immersive_Daedra_Worship_-_Music_Addon_pt_1.zip`
