@@ -120,6 +120,12 @@ URL: https://www.loverslab.com/files/file/20058-sexlab-se-sex-animation-framewor
 
 File: `SexLabFrameworkAE_v165.7z`
 
+## SexLab Animation Loader SE
+
+URL: https://www.loverslab.com/files/file/23737-sexlab-animation-loader/
+
+File: `SLAL v1.6 SE.7z`
+
 ## SexLab Utility Plus
 
 URL: https://www.loverslab.com/files/file/10316-osmelmc-mod-tweaks/
