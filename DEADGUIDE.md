@@ -1,4 +1,8 @@
-# READ ME!!! YOU MUST COMPLETE THIS LIST OF LOVER'S LAB LIST OF MODS TO DOWNLOAD
+# READ ME!!! Extremely Important!!!
+
+### The Lover's Lab downloader is broken.
+
+If you try to use the _Lover's Lab_ manual downloader in _Wabbajack,_ **I can almost guarantee it will not function properly.** It serves the wrong files, directs you to the wrong links, prints the wrong information in the logs and sometimes even writes the metas after download incorrectly. **As a result, you _MUST_ download _EVERY SINGLE FILE_ on this page_** before closing this window. **TRIPLE CHECK IT, _especially if there has been a large update!!_**
 
 ## Acheron Extension Library
 
@@ -167,3 +171,27 @@ File: `Succubus Explosion Addon V1.2.7z`
 URL: https://www.loverslab.com/files/file/23123-yamete-kudasai/
 
 File: `YameteKudasai - 2.1.2.5.zip`
+
+# NOW, ON TO BUSINESS
+
+Most of what you need to know about the _DEAD_ version of this modlist can be found in the primary readme, available on Github. However, the MCM process is a bit different. After many tests, the ideal procedure to get MCMs working properly is this one:
+
+1. Create your character.
+2. TOUCH NOTHING after you spawn until all messages in the upper left corner DISAPPEAR.
+3. Save the game.
+4. Return to the Main Menu of Skyrim.
+5. Load your most recently saved game.
+6. Install the SexLab mod. This is done in the SexLab MCM and reads something like "Install / Update SexLab."
+7. TOUCH NOTHING after closing the MCM until all messages in the upper left corner DISAPPEAR and you wait AN ADDITIONAL 30 SECONDS.
+8. Go to the SL ANIM LOADER MCM and click "ENABLE ALL" followed by "REGISTER ANIMATIONS."
+9. TOUCH NOTHING until you receive a popup saying that 300 or so animations have been registered.
+10. Close the MCM and wait 30 seconds.
+11. Open the MCM and find the menu for ZAZ. Along the left there will be an entry marked SEXLAB. Scroll to the top and click REGISTER.
+12. TOUCH NOTHING until this menu entry changes to a greyed out REGISTERED.
+13. Close the MCM
+14. Wait 30 seconds.
+15. Save the game.
+16. Return to the Manu Menu of Skyrim
+17. Load your most recently saved game.
+18. You can now continue setup as per the instructions in the rest of the readme. Browse around on this Github or my Discord server to find them. SexLab versions require extra knowledge and care, you will need to investigate, learn, and apply that knowledge on your own!
+19. **I will not be able to fix all of the many bugs with SexLab!**
