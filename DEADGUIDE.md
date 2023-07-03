@@ -197,3 +197,5 @@ Most of what you need to know about the _DEAD_ version of this modlist can be fo
 17. Load your most recently saved game.
 18. You can now continue setup as per the instructions in the rest of the readme. Browse around on this Github or my Discord server to find them. SexLab versions require extra knowledge and care, you will need to investigate, learn, and apply that knowledge on your own!
 19. **I will not be able to fix all of the many bugs with SexLab!**
+
+My dedicated fan `@I Unpause`, who is pretty much the reason the SexLab profiles are the way they are, advises that at times the SexLab MCMs will not complete. If this is the case for you, try choosing a low key start to a nearly empty interior (one of the home ownership starts will be fine) and completing setup from there. I **do not recommend this method** but it's better than never running the MCMs at all.
