@@ -370,18 +370,18 @@ Most of what you need to know about the _PITCH_ version of this modlist can be f
 5. Load your most recently saved game.
 6. Install the SexLab mod. This is done in the SexLab MCM and reads something like "Install / Update SexLab."
 7. TOUCH NOTHING after closing the MCM until all messages in the upper left corner DISAPPEAR and you wait AN ADDITIONAL 30 SECONDS.
-8. Go to the SL ANIM LOADER MCM and click "ENABLE ALL" followed by "REGISTER ANIMATIONS."
-9. TOUCH NOTHING until you receive a popup saying that 300 or so animations have been registered.
-10. Close the MCM and wait 30 seconds.
-11. Open the MCM and find the menu for ZAZ. Along the left there will be an entry marked SEXLAB. Scroll to the top and click REGISTER.
+8. Open the MCM and find the menu for ZAZ. Along the left there will be an entry marked SEXLAB. Scroll to the top and click REGISTER.
 12. TOUCH NOTHING until this menu entry changes to a greyed out REGISTERED.
 13. Close the MCM
 14. Wait 30 seconds.
-15. Save the game.
-16. Return to the Manu Menu of Skyrim
-17. Load your most recently saved game.
-18. You can now continue setup as per the instructions in the rest of the readme. Browse around on this Github or my Discord server to find them. SexLab versions require extra knowledge and care, you will need to investigate, learn, and apply that knowledge on your own!
-19. **I will not be able to fix all of the many bugs with SexLab!**
+15. Go to the SL ANIM LOADER MCM and click "ENABLE ALL" followed by "REGISTER ANIMATIONS."
+16. TOUCH NOTHING until you receive a popup saying that 300 or so animations have been registered.
+11. Close the MCM and wait 30 seconds.
+12. Save the game.
+13. Return to the Manu Menu of Skyrim
+14. Load your most recently saved game.
+15. You can now continue setup as per the instructions in the rest of the readme. Browse around on this Github or my Discord server to find them. SexLab versions require extra knowledge and care, you will need to investigate, learn, and apply that knowledge on your own!
+16. **I will not be able to fix all of the many bugs with SexLab!**
 
 My dedicated fan `@I Unpause`, who is pretty much the reason the SexLab profiles are the way they are, advises that at times the SexLab MCMs will not complete. If this is the case for you, try choosing a low key start to a nearly empty interior (one of the home ownership starts will be fine) and completing setup from there. I **do not recommend this method** but it's better than never running the MCMs at all.
 
