@@ -344,9 +344,7 @@ File: `SubmissiveLolaResubmission -Optional - RidingCrop SE.7z`
 
 URL: https://www.loverslab.com/files/file/27451-submissive-lola-coffees-task-extension/
 
-File: `cfl_LolaAddon_Beta_1.0.5.zip`
-
-File: `cfl_lola_voice_1.0.5_update.zip`
+File: `cfl_LolaAddon_Beta_1.0.6.zip`
 
 ## The Trappings of Fate
 
@@ -365,6 +363,12 @@ File: `YameteKudasai - 2.1.2.2.zip`
 URL: https://www.loverslab.com/files/file/20155-you-dont-need-a-break-fix-an-eager-npcs-annoyance/
 
 File: `YouDontNeedABreak.7z`
+
+## Deviously Enchanted Chests
+
+URL: https://www.loverslab.com/files/file/1405-deviously-enchanted-chests/
+
+File: `Deviously Enchanted Chests SE 3.11.7z`
 
 # NOW, ON TO BUSINESS
 
