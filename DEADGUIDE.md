@@ -199,3 +199,7 @@ Most of what you need to know about the _DEAD_ version of this modlist can be fo
 19. **I will not be able to fix all of the many bugs with SexLab!**
 
 My dedicated fan `@I Unpause`, who is pretty much the reason the SexLab profiles are the way they are, advises that at times the SexLab MCMs will not complete. If this is the case for you, try choosing a low key start to a nearly empty interior (one of the home ownership starts will be fine) and completing setup from there. I **do not recommend this method** but it's better than never running the MCMs at all.
+
+## A FINAL WARNING
+
+If for some reason you do forget a file and Wabbajack tries to download it and it fails, it will **never function again.** _You need to delete any failed files from the attempt from the downloads completely_ and start the process over again downloading and verifying each file. **It's a hassle but it's worth it.** If I have left something out of this readme feel free to ping me or DM me on Discord, I welcome interruptions.
