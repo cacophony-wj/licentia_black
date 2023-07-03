@@ -226,6 +226,8 @@ URL: https://www.loverslab.com/files/file/6942-monomans-mod-tweaks/
 
 File: `Hydra Slave Girls Tweak v1.0.7z`
 
+**NOTE:** This file is displayed in a massive list of similar versions and unrelated mods. Be sure to only download the one with the exact filename above.
+
 ## OsmelMC Mod Tweaks
 
 URL: https://www.loverslab.com/files/file/10316-osmelmc-mod-tweaks/
