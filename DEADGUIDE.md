@@ -138,6 +138,12 @@ File: `SlaveTats CumTextures Remake v1.2.5 By Vacaliga - Complete Set Modificati
 
 **NOTE:** The second file above is not with the other downloads. It is listed in the description of the mod itself (the main text) about 2/3 of the way down the page, on an almost impossible to see dark gray link. Search carefully.
 
+## SexLab Separate Orgasm SE:
+
+URL: https://www.loverslab.com/files/file/5929-sexlab-separate-orgasm-se/
+
+FIle: `SexLab-Separate-Orgasm 2023-01-16.7z`
+
 ## SexLab TDF Prostitution and Pimping
 
 URL: https://www.loverslab.com/files/file/5827-sexlab-tdf-prostitution-and-pimping-the-former-aggressive-prostitution-2023/
