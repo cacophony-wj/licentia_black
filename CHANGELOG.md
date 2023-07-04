@@ -1,5 +1,42 @@
 # LICENTIA BLACK CHANGELOG
 
+## 7.3
+
+## MOD ADDITIONS, UPDATES, REMOVALS:
+
+- Added _Randall's Fia Hug Pack OpenSex Add On_
+- Added _Feet Animation Pack for OStim NG_
+- Added _Photo Mode_ by po3
+- Added _Deadly Dragons - Temporary LotD Patch_
+- Added _Take a Peek - Look Through Keyholes_
+- Added _MQ105 Duplicate Script Fix_
+- Added back _Improved Camera SE_
+- Updated _Night-blooming Violets for OStim NG_ to 1.2.1
+- Updated _Remiel - Dwemer Specialist_ to 1.6.4
+- Updated _Extended Encounters_ to 1.6.5
+- Updated _Deadly Dragons SE_ to 6.5.8
+- Updated _Immersive Armor Himbo V2_ to 2.2.1.
+- Updated _Ancient Nord Stalhrim_ to 1.2.4.1
+- Updated _Licentia Babe Neela_ preset to 1.2
+- Reinstalled _Deadly Dragons SE Patches_
+- Removed _OVirginity Reflowered_
+- Removed _OSouls_
+- Removed _OCrime_
+- Removed _opleaseletmego_
+- Removed _OBooty_
+
+### BUG SQUASHING, QUALITY OF LIFE
+
+- Verified correct installation of the _OStim_ suite. One of the animation mods had been replaced with a single INI due to a misconfiguration on my part, this has been corrected.
+- The author of _Immersive Armor HIMBO_ mod is aware of the bug with Mandyn Hlaalu's boiled chitin armor and currently working on a fix.
+- Tested _OBody Standalone_ as a solution for the _OBody_ updating bug ... no dice.
+- The RaceMenu presets menu was a mess. I organized them into folders by gender and race. Check out the Featured presets first. The main Male and Female folders are from official preset "mods" on Nexus. The User Submissions folder has presets from my user presets channel. (They are still very messy.) All sculpts can be found a couple directories above, in the Sculpts folder.
+
+## OUTPUT GENERATION
+
+- Re-ran _Nemesis_.
+- Regenerated _Synthesis_.
+  
 ## 7.2
 
 ## MOD ADDITIONS, UPDATES, REMOVALS:
