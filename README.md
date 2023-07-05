@@ -14,6 +14,17 @@ You can find the link to my Discord server at the end of this document.
 
 _Licentia BLACK_ is one of _Wabbajack's_ oldest and most well-regarded adult modlists, featuring optional non-fetish content with the _OSuite_ series of _OSA / OStim_ mods and an emphasis on build variety, backed up by an accessible Power Fantasy design philosophy. It also includes a host of displayable collectibles in the form of the _Legacy of the Dragonborn_ museum, with patches to incorporate **every** LOTD Quest Mod and all but one of the "Super Follower" mods. In addition to all this, the author places great weight on ensuring the list is as stable as it can possibly be and aggressively removes mods which cause regular crashes, and recent improvements to the NSFW framework ensure that it is much more viable for a long-term playthrough. As the final bonus, additions and customizations are welcomed via the author's Discord server, so if you don't like the list, **MAKE IT YOUR OWN!!**
 
+**NEW! SUMMER-ONLY VERSIONS OF THE MODLIST!!** While between semesters I have decided to focus more heavily on list customizations to suit different types of users who enjoy the core of "Licentia" but would prefer a slightly different style. If you join my Discord server, you can find the below alternates available. Please bear in mind that each of these are _entirely separate lists_ and each requires a _separate, full installation of Licentia._ Managing multiple profiles in the same list is nightmarish and I don't want to attempt it again. However, if you keep all downloads from all the versions, you can switch between them very quickly using _Wabbajack._ Also note that saves from one version cannot be used on any other, and I will not make it a habit to mix and match these into more alternate combinations.
+
+**LICENTIA SLOOT:** This version of Licentia features skimpy outfits for the player and almost all NPC characters, as well as custom overpowered sexy armors that can be found only randomly, piece by piece, in the "boss chests" of dungeons.
+**LICENTIA COMBAT:** The long-demanded _MCO_ version of _Licentia_. A request from users, this list removes the ability to wield a greatweapon one-handed in favor of flashy combat animations that can only be used in third person camera mode.
+**LICENTIA NEEDS:** A throwback to the old way of doing things. This version of _Licentia_ features a rather archaic Survival and Needs mods setup to make the environment as much your enemy as the combatants. 
+**LICENTIA PITCH:** Another request from users, this list tries to offer a much less intrusive version of what _Wabbajack_'s other NSFW lists focus on, with lightly configured bondage and submission roleplay.
+**LICENTIA TOYS:** Similar to _PITCH_ except using mods that are much more stable and even less intrusive. Fight your way back from a naked bondage nightmare to dominate all who cross your path.
+**LICENTIA DEAD:** Schlock 60's vampire gore sex goddess grindhouse cult film. The mod is called "Serana Dead Sexy." Look it up. You're likely to either love it or hate it; this pile is almost entirely a terrible idea.
+**LICENTIA SAFE:** Basic _LICENTIA BLACK_ with all nudity and porn removed. Really only useful for prudes or streamers.
+**LICENTIA QUESTS:** _Coming soon!_ An almost insane soul-sucking number of huge quest mods courtesy of the _Hall of the Forgotten_ expansion to _Legacy of the Dragonborn._
+
 ## Requirements
 
 - [Nexus Premium Account](https://forums.nexusmods.com/index.php?/store/category/1-premium-membership/)
