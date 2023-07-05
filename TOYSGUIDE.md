@@ -52,12 +52,6 @@ URL: https://www.loverslab.com/files/file/3999-billyys-slal-animations-2023-6-4/
 
 File: `573348029_SLAL-Billyy_Animations6.7SE.7z`
 
-## M2M Animations
-
-URL: https://www.loverslab.com/files/file/16160-m2m-animations-for-slal/
-
-File: `SLAL_M2MAnimations_SE_v20210222.7z`
-
 ## Schlongs of Skyrim SE
 
 URL: https://www.loverslab.com/files/file/5355-schlongs-of-skyrim-se/
