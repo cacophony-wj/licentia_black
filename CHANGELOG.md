@@ -1,5 +1,19 @@
 # LICENTIA BLACK CHANGELOG
 
+## 7.4
+
+## MOD ADDITIONS, UPDATES, REMOVALS:
+
+- Removed _Naughty Voices_
+- Removed _OPrivacy_
+- Removed _Excitable Subs_
+- Removed _OStim Lovers_
+
+## OUTPUT GENERATIONS
+
+- Regenerated LODs with higher gamma to prevent a mismatch.
+- Regenerated Synthesis.
+  
 ## 7.3
 
 ## MOD ADDITIONS, UPDATES, REMOVALS:
