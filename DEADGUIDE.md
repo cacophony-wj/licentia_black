@@ -178,7 +178,7 @@ File: `Sexlab Confabulation SE V1.7.4.zip`
 
 File: `SexLab Confabulation - Solutions Patch V1.7.4.zip`
 
-File: `SexLab Confabulation - TCIY Patch SE.zip`
+File: `SexLab Confabulation - TCIY Patch.zip`
 
 File: `SexLab Confabulation V1.7.4 Hotfix.zip`
 
