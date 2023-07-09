@@ -126,23 +126,11 @@ File: `SexLab Confabulation - TCIY Patch SE.zip`
 
 File: `SexLab Confabulation V1.7.4 Hotfix.zip`
 
-## Succubus Explosion Addon
-
-https://www.loverslab.com/files/file/25402-succubus-explosion-addon/
-
-File: `Succubus Explosion Addon V1.2.7z`
-
 ## Yamete Kudasai
 
 URL: https://www.loverslab.com/files/file/23123-yamete-kudasai/
 
 File: `YameteKudasai - 2.1.2.5.zip`
-
-## A Forsworn Story 
-
-URL: https://www.loverslab.com/files/file/8092-afs_22_test1se/
-
-File: `AFS_2.2_test1SE.7z`
 
 ## Alternate Perspective - Sold Out
 
@@ -195,12 +183,6 @@ File: `Devious Devices - Lore Patch for DD 5.2 SE (2023-10-3).7z`
 URL: https://www.loverslab.com/files/file/6561-deviously-helpless-se/
 
 File: `Please download Deviously Helpless SE v1.17a.001 (converted by Roggvir).zip`
-
-## From The Deeps Redone
-
-URL: https://www.loverslab.com/files/file/8663-from-the-deeps-for-sse/
-
-File: `From The Deeps (redone) 2.6SE.7z`
 
 ## Hydragorgon's Slave Girls
 
@@ -305,8 +287,6 @@ URL: https://www.loverslab.com/files/file/26037-the-sisterhood-of-dibella-se-feb
 
 File: `SisterhoodOfDibellaSE20230226.7z`
 
-File: `SisterhoodOfDibellaVoicePackSE20230226.7z`
-
 ## S.L.U.T.S. Resume
 
 URL: https://www.loverslab.com/files/file/13199-sluts-resume/
@@ -340,12 +320,6 @@ File: `cfl_LolaAddon_Beta_1.0.6.zip`
 URL: https://www.loverslab.com/files/file/22231-the-trappings-of-fate/
 
 File: `2023_04_23_The Trappings of Fate v.1.2.0.7z`
-
-## Yamete Kudasai
-
-URL: https://www.loverslab.com/files/file/23123-yamete-kudasai/
-
-File: `YameteKudasai - 2.1.2.2.zip`
 
 ## You Don't Need A Break
 
