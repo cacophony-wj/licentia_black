@@ -117,7 +117,7 @@ If you are confident you meet the above target, but still experience severe perf
 
 ### Launching the List
 
-Launch _Licentia Black.exe_ (a renamed copy of _Mod Organizer 2_ with a custom icon) from the directory in which you installed the list. Launch the game from the **SKSE** entry in the drop-down menu.
+Launch _ModOrganizer.exe_ from the directory in which you installed the list. Launch the game from the **SKSE** entry in the drop-down menu.
 
 ## MCM CONFIGURATION
 
