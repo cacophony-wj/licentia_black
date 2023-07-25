@@ -8,6 +8,7 @@ First, ensure that all antivirus and antimalware applications are temporarily di
 
 Next, launch the tool with the "Nemesis Unlimited Behavior Engine" option on the main dropdown menu of MO2. You will need to verify that all of the behavior patches are checked appropriately. For the default version of _Licentia_, these include the following options:
 
+- Animated Traversal
 - Archery Gameplay Overhaul SE
 - TUDM Attack Cancel
 - Combat Gameplay Overhaul SE
@@ -24,11 +25,11 @@ After that is done, click "Launch Nemesis Behavior Engine." The tool will slowly
 
 The tool can be rather inconsistent at times. Give it a good old College Try until it finally finishes up for whatever inexplicable reason. 
 
-Sometimes it will never complete regardless of how many times you try and additional troubleshooting is needed. **In this case you will need to completely reset all relevant behavior files in the list and start again from scratch.** To do so, find the _KAIDAN Output_ folder (reference to a previous version of the list) and delete **every file located inside,** then **refresh MO2** by striking the `F5` key.
+Sometimes it will never complete regardless of how many times you try and additional troubleshooting is needed. There are still options to fix this however! Find the _KAIDAN Output_ folder (reference to a previous version of the list) and delete **every file located inside,** then **refresh MO2** by striking the `F5` key. 
 
-Next you must reinstall **every mod that includes custom behavior files.** These include all of the mods listed above, with the exception of "Retimed Hit Frame," which is a modification of vanilla files, not an actual separate mod. (I don't believe any particular options are needed but if so I will update this document.)
+Ensure that your _KAIDAN Output_ folder is still empty and launch _Nemesis_ a final time. It will prompt for your language -- make certain that it is English -- and you will need to check all the proper boxes again. Then update and run the tool once more. 
 
-Ensure that your _KAIDAN Output_ folder is still empty and launch _Nemesis_ a final time. It will prompt for your language -- make certain that it is English -- and you will need to check all the proper boxes again. Then update and run the tool once more. It is almost guaranteed to work this time.
+If this **STILL** does not work, you must reset all default behavior files by reinstalling the mod _Project New Reign - Nemesis Behavior Engine_ under the **SFW Animations** section of MO2. You can do this by simply right-clicking on it and choosing Reinstall. There shouldn't be any options you need to configure. It should be almost guaranteed to work this time. If it doesn't, I am stumped, and you will need to resort to Google.
 
 Once you do finish running _Nemesis_ successfully, **refresh MO2** with the `F5` key.
 
