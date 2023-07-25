@@ -1,6 +1,6 @@
 ### If you add or update horny or combat animations to the list, or hell even just regular old normie animations, you will likely need to rerun Nemesis or your characters will "T-Pose."
 
-To do so, ensure that you have installed your animation mods properly, along with any _Nemesis_ patches they may require, and placed any `ESP` included in its proper location in your Lord Order (most commonly just above `Schlongs of Skyrim.esp`, **NOT THE ESM**).
+To do so, ensure that you have installed your animation mods properly, along with any _Nemesis_ patches they may require, and placed any `ESP` included in its proper location in your Load Order (most commonly just above `Schlongs of Skyrim.esp`, **NOT THE ESM**).
 
 _Nemesis_ is the tool used to update _Skyrim's_ behavior files so the animations will be used at the proper time. If this is not done, when that animation is supposed to be played, your PC or NPC will "T-Pose" which means stand bolt erect with arms almost akimbo, or otherwise do absolutely nothing. To solve this problem we must run the _Nemesis_ tool.
 
