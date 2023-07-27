@@ -48,11 +48,11 @@ File: `SOS - Futanari CBBE SSE V1.1b.7z`
 
 ## Schlongs of Skyrim - Futanari - Patch for REALORE SKIN ULTIMA
 
-URL: https://www.loverslab.com/topic/137830-easy-way-to-make-seamless-sos-textures/page/7/#comment-3875963
+URL: https://www.loverslab.com/topic/137830-easy-way-to-make-seamless-sos-textures/page/7/
 
 File: `SOS - Futanari - Patch for REALORE SKIN ULTIMA.7z`
 
-**NOTE:** Not a standard download. It is attachment to a forum post.
+**NOTE:** Not a standard download. It is attachment to a forum post. It is about 3/4 of the way down the page.
 
 ## Schlongs of Skyrim - Empty Schlong for Females
 
@@ -78,11 +78,11 @@ File: `SLAL v1.6 SE.7z`
 
 ## SexLab Aroused Extended
 
-URL: https://www.loverslab.com/topic/130406-sexlab-aroused-extended/page/35/#comment-3871553
+URL: https://www.loverslab.com/topic/130406-sexlab-aroused-extended/page/35/
 
 File: `SLAX-ASA3.rar`
 
-**NOTE:** Not a standard download. It is attachment to a forum post.
+**NOTE:** Not a standard download. It is attachment to a forum post. It is about halfway down the page.
 
 ## SexLab Utility Plus
 
@@ -101,6 +101,12 @@ File: `Sexlab - Cum Overlays V2.8 (20-Oct-2020).7z`
 File: `SlaveTats CumTextures Remake v1.2.5 By Vacaliga - Complete Set Modification.7z`
 
 **NOTE:** The second file above is not with the other downloads. It is listed in the description of the mod itself (the main text) about 2/3 of the way down the page, on an almost impossible to see dark gray link. Search carefully.
+
+## Gender Bender
+
+URL: https://www.loverslab.com/files/file/6976-gender-bender-se/
+
+File: `GenderBender_SE.7z`
 
 ## SexLab TDF Prostitution and Pimping
 
@@ -168,15 +174,9 @@ File: `Devious Cidhna v1_10-NonLocalized_ESP.7z`
 
 URL: https://www.loverslab.com/files/file/16231-devious-lore-se/
 
-File: `Devious Lore SE v3.0.0.7z`
-
-File: `Devious Lore SE 3.0.1 Hotfix Update.7z`
+File: `Devious Lore SE-AE 3.0.2.7z`
 
 File: `Devious Lore Dwarven Gilded Oil Suit 3BA.7z`
-
-File: `Devious Lore SE - KS Hairs Patch 3.0.1.7z`
-
-File: `Devious Devices - Lore Patch for DD 5.2 SE (2023-10-3).7z`
 
 ## Deviously Helpless
 
@@ -213,7 +213,7 @@ File: `Hydra Slave Girls Tweak v1.0.7z`
 
 URL: https://www.loverslab.com/files/file/17026-public-whore/
 
-File: `Public Whore v1.2.4 SE.zip`
+File: `Public Whore v1.2.5 SE.zip`
 
 ## Public Whore SE/VR hotfix
 
@@ -305,7 +305,7 @@ File: `Spank That Ass SE v4.8 BETA (27-Apr-2021).7z`
 
 URL: https://www.loverslab.com/files/file/15346-submissive-lola-the-resubmission-lese/
 
-File: `SubmissiveLolaResubmission 2.0.64.7z`
+File: `SubmissiveLolaResubmission 2.1.1.7z`
 
 File: `SubmissiveLolaResubmission -Optional - RidingCrop SE.7z`
 
@@ -313,7 +313,7 @@ File: `SubmissiveLolaResubmission -Optional - RidingCrop SE.7z`
 
 URL: https://www.loverslab.com/files/file/27451-submissive-lola-coffees-task-extension/
 
-File: `cfl_LolaAddon_Beta_1.0.6.zip`
+File: `cfl_LolaAddon_Beta_1.0.8.zip`
 
 ## The Trappings of Fate
 
