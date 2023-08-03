@@ -1,5 +1,84 @@
 # LICENTIA BLACK CHANGELOG
 
+## 8.5.0.2
+
+**MOD ADDITIONS, UPDATES, CHANGES and REMOVALS**
+
+- Added _EVG Animated Traversal_ and patches
+- Added _Know Your Enemy Redux_
+- Added _Know your Armor 2_
+- Added _Base Object Swapper_
+- Added _JS Rumpled Rugs SE_ (_RUGNAROK_ variant)
+- Added _JS Common Cages SE_
+- Added _Sigils of Skyrim_
+- Added _Skyrim 202X Smaller Packages_
+- Added _Northfire's Dungeons_
+- Added _Icy Cave Remaster_
+- Added _HD Remastered Imperial Fotrs - 4K_
+- Added _Statue of Mara_
+- Added _Statue of Kynareth_
+- Added _Whiterun Skyforge - Reforged_
+- Added _Realistic HD Baskets Remastered_
+- Added _Rally's Barrels_
+- Added _Rally's Mead Barrels_
+- Added _Rally's Textures - Shibui Skyrim Recolor 2K_
+- Added _Ancient Pottery_
+- Added _Snazzy HD Noble Beds_
+- Added _Skyrim 3D Furniture_
+- Added _Vanilla Table Replacers_
+- Added _RUSTIC FURNITURE - SPECIAL EDITION_
+- Added _RUSTIC RELIEFS_
+- Added _RUSTIC MAPS_
+- Added _RUSTIC ALCHEMY and ENCHANTING TABLES 2K_
+- Added _Alchemy Station Variants - Persistent Swap ENB_
+- Added _ElSopa Potions Redone 1K_
+- Added _CC's HQ Carts - 2K_
+- Added _Rally's Display Cases_
+- Added _Rudy HQ - Falling Leaves and Needles SE_- 
+- Added _LITTLE THINGS_
+- Added _Bright Falling Leaves Fix_
+- Added _Better Bats_
+- Added _Rudy HQ ENB Light - Glowing Mushrooms_
+- Added _SD's Horn Candles SE
+- Added _Rudification - Rudy Candles Expanded_
+- Added _IMMERSIVE LORE-FRIENDLY CHEESE_
+- Added _Lore Friendly Goat Cheese HQ REtexture_
+- Added _Cheese Wedge - Replacer_
+- Added _Better Mammoth Tusks_
+- Added _SSE-SRO - Enhanced Spidersac_
+- Added _Basic Dining Set Replacer_
+- Added _Skeleton Replacer HD_
+- Added _Butterflies_
+- Added _Rudy HQ - Luna Moth ENB Light_
+- Added _Cathedral - 3D Mountain Flowers Resized and Desaturated_
+- Added _Cathedral - 3D Sword Ferns_
+- Added _Drier Cathedral - 3D Plants_
+- Added _Gildergreen Roots Removed_
+- Added very minute portions of _High Poly Project_
+- Added _tanningrack001_
+- Reinstalled _Glorious Doors_ with higher resolution
+- Removed no-longer-necessary staff patches
+
+**BUG SQUASHING**
+
+- Nerfed Viper Dust to not do quite so much insane damage
+- Fixed Kaidan. He will now be pubeless, with scars and wounds, and I got rid of those damn pants!
+- Fixed Gladys & Merlin, Tate's Corgis. They will be less powerful but at least they will follow and dismiss.
+- Fixed the crash entering Bruma. It was caused by a misapplied patch for one of the children there.
+- Confirmed the ChildRaces were using the proper behavior files. The Modder's Patch messes with them.
+- Ran Nemesis for _Animated Traversal_ with the proper options. The alternate shortcut animations should work now.
+- Removed the OnMagicApply replacer in case that was causing issues.
+- Updated enb with Boris's update that isn't an update, to remove the nag warning.
+- There is now no longer a need to run Synthesis for most additions. The perks and resistances will automatically be applied to your mods.
+
+**OUTPUT GENERATIONS**
+
+- Recorded the MCM for _Sinister 7_ to space them out more
+- Recorded the MCM for _ICOW_ so trainers no longer give passive skill XP
+- Converted included LE mods to SE
+- Regenerated LODs in a more compatible way to reduce freezes, infinite load screens and crashes.
+- Re-ran Synthesis.
+  
 ## 7.4
 
 ## MOD ADDITIONS, UPDATES, REMOVALS:
