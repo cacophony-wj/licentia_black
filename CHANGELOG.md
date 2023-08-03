@@ -39,7 +39,7 @@
 - Added _Bright Falling Leaves Fix_
 - Added _Better Bats_
 - Added _Rudy HQ ENB Light - Glowing Mushrooms_
-- Added _SD's Horn Candles SE
+- Added _SD's Horn Candles SE_
 - Added _Rudification - Rudy Candles Expanded_
 - Added _IMMERSIVE LORE-FRIENDLY CHEESE_
 - Added _Lore Friendly Goat Cheese HQ REtexture_
