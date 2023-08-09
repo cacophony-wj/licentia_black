@@ -10,7 +10,7 @@ You can find the link to my Discord server at the end of this document.
 
 ### Want to see this modlist in action? Visit Jake's Videos!
 
-https://www.nexusmods.com/skyrimspecialedition/mods/68983
+https://www.youtube.com/@OTRJakeVids
 
 ## Preamble
 
