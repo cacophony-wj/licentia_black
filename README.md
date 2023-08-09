@@ -8,6 +8,10 @@
 
 You can find the link to my Discord server at the end of this document.
 
+### Want to see this modlist in action? Visit Jake's Videos!
+
+https://www.nexusmods.com/skyrimspecialedition/mods/68983
+
 ## Preamble
 
 **This Modlist contains mods with sexual content and you need to be of legal age in your country (most western countries: 18+, some eastern ones: 21+)**.
