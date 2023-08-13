@@ -1,5 +1,38 @@
 # LICENTIA BLACK CHANGELOG
 
+## 8.6.1 - THE KAIDAN EXPANSION
+
+**Only available on my Discord server for now.**
+
+- Added _Kaidan - Extended Edition - All In One - 1.2_
+- Added _Serana Dialogue Addon - CC Umbra Mod Patch_
+- Updated _Caliente's Beautiful Bodies Enhancer - CBBE_ to 2.0
+- Updated _Destination Weddings_ and patches to 1.5
+- Updated _Remiel - Custom Voiced Dwemer Specialist_ to 1.6
+- Updated _Redcap the Riekling_ and patches tp 1.4
+- Updated _Gladys the Corgi_ to 2.0.3.2
+- Updated _Merlin the Corgi_ to 2.0.2.1
+- Updated _Vokriinator Black_ to 6.14.3
+- Updated _Sacrosanct - Vampires of Skyrim_ to 6.0.0
+- Updated _Aetherium Armor and Weapons Compilation_ to 1.1.1
+- Updated _Adamant - A Perk Overhaul_ to 5.8.3
+- Updated _Deadly Dragons SE_ and patches to 6.5.8
+- Updated _Skyrim Revamped Rebalanced and Releveled_ to 2.5.5
+- Updated _Headhunter - Bounties Redone_ to 1.5.=1
+- Updated _Bandit Lines Expansion_ to 1.04
+- Updated _Civil War Lines Expansion_ to 1.07
+- Updated _Open Animation Replacer_ to 1.3
+- Updated _Lux_ and patches to 6.3
+- Updated _Water for ENB_ to 1.79
+- Updated _Embers XD_ to 2.8.3
+- Updated some of _Skyrim 202X Smaller Packages_ to 9.6
+- Updated _Simplicity of Snow_ to 0.12.1
+- Updated _Unoficial Skyrim Modder's Patch - USMP SE_ to 2.6
+- Updated _Grass FPS Booster_ to 6.5
+- Updated _po3's Papyrus Extender_ to 5.6.1
+- Updated _PAPER_ to 2.2.4
+- Updated _SPID - NFF - Add Ignore Token to CustomAI Followers_ to 1.0.15
+
 ## 8.5.0.2
 
 **MOD ADDITIONS, UPDATES, CHANGES and REMOVALS**
