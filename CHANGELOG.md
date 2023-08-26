@@ -1,8 +1,8 @@
 # LICENTIA BLACK CHANGELOG
 
-## 8.6.1 - THE KAIDAN EXPANSION
+## 8.6.1.1 - UI FACING UPDATE
 
-**Only available on my Discord server for now.**
+## 8.6.1 - THE KAIDAN EXPANSION
 
 - Added _Kaidan - Extended Edition - All In One - 1.2_
 - Added _Serana Dialogue Addon - CC Umbra Mod Patch_
