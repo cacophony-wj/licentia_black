@@ -12,7 +12,7 @@ File: `1595608377_BakaFactorySLALAnimation6.01.7z`
 
 ## Billyy's SLAL Animations
 
-URL: https://www.loverslab.com/files/file/3999-billyys-slal-animations-2023-6-4/
+URL: https://www.loverslab.com/files/file/3999-billyys-slal-animations-2023-9-3/
 
 File: `SLAL_Billyy_Animations v7.0 SE.7z`
 
