@@ -4,13 +4,7 @@
 
 ## "All I want to be is a badass comic book hottie who fucks and cuts heads."
 
-### Interested in other NSFW lists? Join my Discord Server!
-
-You can find the link to my Discord server at the end of this document.
-
-### Want to see this modlist in action? Visit Jake's Videos!
-
-https://www.youtube.com/@OTRJakeVids
+## ATTENTION! "Fancy a different flavor of _Licentia_? Alternate versions are available!
 
 ## Preamble
 
