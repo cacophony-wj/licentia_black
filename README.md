@@ -6,7 +6,7 @@
 
 ### ATTENTION! "Fancy a different flavor of _Licentia_?" Alternate versions are available!
 
-Over the summer I got really randy and created my "Summer Profiles" which I no longer have time tp support, but still make available to my users.
+Over the summer I got really randy and created my "Summer Profiles" which I no longer have time to support, but still make available to my users.
 
 **_Licentia SLOOT_** is standard _Licentia_ with sexier outfits on most female NPCs. **_Licentia COMBAT_** adds flashy third-person combat from MCO to _Licentia_. **_Licentia NEEDS_** is a _Licentia_ with old-school, punishing Survival mechanics.
 **_Licentia TOYS_** is a BDSM-themed _Licentia_ with the _Toys & Love_ Adult Framework. **_Licentia PITCH_** is a much more forgiving version of what _Masterstroke_ tries to do. **_Licentia DEAD_** is an ill-advised Grindhouse Horror version of _Licentia_ featuring the _Serana Dead Sexy_ series of mods. **_Licentia SAFE_** is a _Licentia_ with all the nudity and adult scenes removed... for some reason. You can find them at this [MEGA link](https://mega.nz/fm/VKpWHarD). Please remember that these are severely out of date and you will need to manually download all of the files from **KaidanMod.com**'s [Archived Builds](https://kaidanmod.com/archived-builds/) to your _Wabbajack_ Downloads folder. Follow the readme closely and check elsewhere on [Licentia's Github](https://github.com/cacophony-wj/licentia_black/) for additional details on how to install them.
