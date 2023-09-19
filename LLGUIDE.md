@@ -331,7 +331,7 @@ File: `YouDontNeedABreak.7z`
 
 URL: https://www.loverslab.com/files/file/1405-deviously-enchanted-chests/
 
-File: `Deviously Enchanted Chests SE 3.11.7z`
+File: `Deviously Enchanted Chests SE-LE3.20.7z`
 
 # NOW, ON TO BUSINESS
 
