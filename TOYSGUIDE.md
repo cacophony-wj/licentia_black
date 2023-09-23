@@ -1,4 +1,6 @@
-  # READ ME!!! Extremely Important!!!
+# READ ME!!! Extremely Important!!!
+
+## The following guide should only be followed if you are attempting to install LICENTIA TOYS. It is useless for all other versions.
 
 ### The Lover's Lab downloader is broken.
 
