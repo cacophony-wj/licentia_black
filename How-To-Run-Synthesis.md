@@ -2,7 +2,7 @@
 
 ### The keywords for the vast majority of additions are added automatically when you run the game via a new method.
 
-### However, if you wish to ensure complete consistency for these additions, you can still run synthesis to apply certain optional values.
+### However, if you wish to ensure complete consistency for these additions, you can still run Synthesis to apply certain optional values.
 
 Without running _Synthesis_, your added NPCs, armors, and weapons will not have any of the resistances or vulnerabilities that the ones in the rest of the list do. If this is not an issue for you, you probably don't need to run _Synthesis._
 
