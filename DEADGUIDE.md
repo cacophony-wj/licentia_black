@@ -1,5 +1,7 @@
 # READ ME!!! Extremely Important!!!
 
+## The following guide should only be followed if you are attempting to install LICENTIA DEAD. It is useless for all other versions.
+
 ### The Lover's Lab downloader is broken.
 
 If you try to use the _Lover's Lab_ manual downloader in _Wabbajack,_ **I can almost guarantee it will not function properly.** It serves the wrong files, directs you to the wrong links, prints the wrong information in the logs and sometimes even writes the metas after download incorrectly. **As a result, you _MUST_ download _EVERY SINGLE FILE_ on this page** before closing this window. **TRIPLE CHECK IT, _especially if there has been a large update!!_**
