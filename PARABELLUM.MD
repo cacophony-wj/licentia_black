@@ -96,7 +96,7 @@ Launch _ModOrganizer.exe_ from the directory in which you installed the list. La
 
 It may be necessary to press the `Enter` key a few times after you select "New Game" to skip some invisible menu prompts. Then Character Creation will begin.
 
-## WHEN YOU SPAWN IN THE BATHROOM, DO NOT TOUCH ANYTHING!
+### WHEN YOU SPAWN IN THE BATHROOM, DO NOT TOUCH ANYTHING!
 
 Wait until all the messages appear then disappear in the upper left corner of the screen. Then you may continue.
 
