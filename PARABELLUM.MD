@@ -6,7 +6,7 @@
 
 **This Modlist contains mods with sexual content and you need to be of legal age in your country (most western countries: 18+, some eastern ones: 21+)**.
 
-_Parabellum_ was born because I desperately want to play _Sim Settlements 2_ (someday, sigh...), but I don't want to be completely without my beloved **NSFW Content** and everyone always told me it was impossible to mix _SS2_ and **NSFW**. After testimony from users who had done it themselves and completed both two chapters, I resolved to see for myself. I am happy to report that I seem to have succeeded. The key appears to be using only the base chapters for _SS2_ and very few **NSFW** frameworks. Since this is how I want to play the game, maybe someone else does to, and so -- I offer this modlist.
+_Parabellum_ was born because I desperately want to play _Sim Settlements 2_ (someday, sigh...), but I don't want to be completely without my beloved **NSFW Content** and everyone always told me it was impossible to mix _SS2_ and **NSFW**. After testimony from users who had done it themselves and completed the first two chapters, I resolved to see for myself. I am happy to report that I seem to have succeeded. The key appears to be using only the base chapters for _SS2_ and very few **NSFW** frameworks. Since this is how I want to play the game, maybe someone else does to, and so -- I offer this modlist.
 
 I have attempted to make up for the lack of content you might find in something like _Wasteland of Depravity_ by offering a **METRIC FUCKTON** of quests to do. Almost every well-regarded _Fallout 4_ quest mod is here (along with several poorly-regarded ones), so now you can fire and fuck your way across the Wasteland.
 
@@ -27,19 +27,15 @@ The _Microsoft Visual C++_ redistributable package is required for _Mod Organize
 
 **Change Steam's Update Behavior**
 
-To ensure that _Steam_ does not automatically update _Skyrim_ for you and lock you out of playing your _Wabbajack_ modlist(s), open the Properties window of _Skyrim AE_ in _Steam_, navigate to the Updates tab and change Automatic updates to _Only update this game when I launch it_. You should also disable the _Steam Cloud_. It is incompatible with the profile-specific saves of a _Wabbajack_ modlist.
+To ensure that _Steam_ does not automatically update _Fallout 4_ for you and lock you out of playing your _Wabbajack_ modlist(s), open the Properties window of _Fallout 4_ in _Steam_, navigate to the Updates tab and change Automatic updates to _Only update this game when I launch it_. You should also disable the _Steam Cloud_. It is incompatible with the profile-specific saves of a _Wabbajack_ modlist.
 
 **Set the Game language to English**
 
 _Wabbajack_ will check your game files and make sure that your installed version is the same as my installed version. This also means that any other language than English will fail the installation. You can change the game's language in the Properties window as mentioned above. It may be required to verify your files afterward.
 
-**Install Skyrim** 
-
-The _Anniversary Edition_ upgrade is required. No exceptions will be made. If you do not have the game installed, do so and launch the vanilla game to download all _Creation Club_ content available with the upgrade. If for some reason you have problems with your _Steam_ installation, you may need to verify the local content as described in _Steam's_ documentation.
-
 **Do Not Use Any Part of This List in a Protected Folder**
 
-This includes `Program Files,` `Program Files (x86)`, `Downloads`, `Documents`, the `Desktop` or any other folders that _Windows_ considers "Protected" (essential to the operating system). If the _Wabbajack_ folder, the _Skyrim Special Edition_ folder, the _Steam_ folder, the modlist folder or the downloads folder are in any of these directories, the modlist will not function properly. Relocate offending folders to a non-Protected location such as the root directory of one of your drives. (D:\ for example.)
+This includes `Program Files,` `Program Files (x86)`, `Downloads`, `Documents`, the `Desktop` or any other folders that _Windows_ considers "Protected" (essential to the operating system). If the _Wabbajack_ folder, the _Fallout 4_ folder, the _Steam_ folder, the modlist folder or the downloads folder are in any of these directories, the modlist will not function properly. Relocate offending folders to a non-Protected location such as the root directory of one of your drives. (D:\ for example.)
 
 **Do Not Use Any Protected Folders inside of OneDrive**
 
@@ -47,17 +43,17 @@ You will experience unusual behavior if your `My Games` folder (usually in the `
 
 **Make Exceptions for Anti-Malware Programs**
 
-Exclude antivirus and anti-malware programs from monitoring three directories: those containing the _Wabbajack_ app, the _Skyrim Special Edition_ game folder, and the directory in which you wish to install the modlist. _Wabbajack_ and _Mod Organizer 2_ both use low-level file system virtualization which most anti-malware programs falsely detect as malicious. 
+Exclude antivirus and anti-malware programs from monitoring three directories: those containing the _Wabbajack_ app, the _Fallout 4_ game folder, and the directory in which you wish to install the modlist. _Wabbajack_ and _Mod Organizer 2_ both use low-level file system virtualization which most anti-malware programs falsely detect as malicious. 
 
 Particularly intrusive malware solutions such as _Bitdefender_ and _Webroot_ don't propery respect exclusions and cannot be completely disabled -- they must be fully uninstalled. Please consider avoiding third-party anti-malware solutions and relying on _Windows Defender,_ which is more compatible with the applications used to install and play _Wabbajack_ modlists. 
 
 **Set Pagefile to 40GB Or Above**
 
-This can be accomplished in the System Settings for Windows. It is recommended to set the minimum and maximum pagefile size to `40,960` all on one solid state drive as mentioned above. More than one pagefile is not needed so long as it is large enough and located on a fast enough drive.
+This can be accomplished in the System Settings for Windows. It is recommended to set the minimum and maximum pagefile size to `20,480` all on one solid state drive as mentioned above. More than one pagefile is not needed so long as it is large enough and located on a fast enough drive.
 
 **Ensure Enough Free Storage Space**
 
-As of this writing approximately **20GB** is required for the `Steam` folder, **170 GB** for the downloads folder, and **260 GB** for the modlist folder. Approximately **30 GB** of free space is required on your `Windows` drive and **30 GB** additional free space on your `Wabbajack` drive to leave room for temporary files, patches, and caches. Thus the total required space is approximately **510 GB.** These do not all need to be on the same drive.  Finally, never reduce the free space on any drive below **15%** (the bar in _File Manager_ will turn red) or you will suffer severe performance problems.
+As of this writing approximately **170 GB** is required to install this modlist -- **35 GB** for the duplicate _Fallout 4_ folder, *60 GB** for the downloads folder, and **75 GB** for the modlist folder. Approximately **30 GB** of free space is required on your `Windows` drive and **30 GB** additional free space on your `Wabbajack` drive to leave room for temporary files, patches, and caches. Thus the total required space is approximately **230 GB.** These do not all need to be on the same drive.  Finally, never reduce the free space on any drive below **15%** (the bar in _File Manager_ will turn red) or you will suffer severe performance problems.
  
 ##  Using Wabbajack
 
@@ -73,17 +69,13 @@ There are a lot of different scenarios where _Wabbajack_ will produce an error. 
 
 I, cacophony, fully accept any responsibility for difficulties with this list and any conflicts I introduce, so please do not question mod authors on the _Nexus_, _Lover's Lab_, _Vector Plexus_ or any other site about bugs that may result from this lists' use. Direct your questions to me, not the innocent mod authors who should never be expected to support a modlist setup.
 
-**Various files beginning with "cc" and ending with "esl" or "esm" failed to download.**
-
-You did not purchase the $20 upgrade to Skyrim. This is not negotiable. Purchase it, verify it, delete it and re-download it if necessary, and try again.
-
 **Could not download x:**
 
 Some Internet providers have difficulty accessing the servers which host the files comprising the list. Try using a VPN (Virtual Private Network) with a terminus set to the United States. Free options include _ProtonVPN_ and _Cloudflare WARP._ If a download gets interrupted, you may need to delete all corrupt local copies before trying again.
 
 **Wabbajack could not find my game folder:**
 
-_Licentia Black_ will not work with a GOG or pirated version of the game. If you own the game on _Steam,_ go back to the Installation step. If this still doesn't work, ensure that you are not running Wabbajack as an Administrator. **DO NOT ASK FOR HELP WITH PIRATED GAMES.**
+_Parabellum_ will not work with a GOG or pirated version of the game. If you own the game on _Steam,_ go back to the Installation step. If this still doesn't work, ensure that you are not running Wabbajack as an Administrator. **DO NOT ASK FOR HELP WITH PIRATED GAMES.**
 
 **MEGA download cap exceeded.**
 
@@ -93,40 +85,31 @@ This shouldn't happen unless you download the list multiple times or download mu
 
 ### System Specifications
 
-The list's performance requirements have been greatly increased, therefore, the recommended setup for an enjoyable experience is at least
+The system requirements should be just a touch higher than for Vanilla _Fallout 4_. The textures have been significantly upgraded, but no _ENB_ is in use. You won't have performance problems with this list that aren't also in the base game.
 
-- intel i7 or AMD Ryzen 5600 or later
-- NVIDIA RTX 2070 SUPER or AMD Radeon 5700 XT or later
-
-The list is configured for a resolution of `1920x1080` by default, to reduce support questions because the list cannot automatically downscale. It _will_ automatically upscale to higher resolutions at a sacrifice in quality. If you wish to increase your resolution for **BEST** quality, select the "INI Editor" from the _Tools_ menu along the icon bar of MO2 and change it via the `SkyrimPrefs.ini` file. Scroll down until you see the `[Display]` header and look for the `iSize` values. Note that the TYPICAL ORDER IS REVERSED, so for 1440p you would set the first value, `iSize H=` to **1440** and the second value, `iSize W=` to **2560.**
+The list is configured for a resolution of `2560x1440` by default. It _will_ automatically upscale to higher resolutions at a sacrifice in quality. If you wish to adjust your resolution, select the "INI Editor" from the _Tools_ menu along the icon bar of MO2 and change it via the `Fallout4Prefs.ini` file. Scroll down until you see the `[Display]` header and look for the `iSize` values. Note that the TYPICAL ORDER IS REVERSED, so for 1080p you would set the first value, `iSize H=` to **1080** and the second value, `iSize W=` to **1920.**
 
 If you are confident you meet the above target, but still experience severe performance drops, you may need to customize your `BIOS` settings to maximize your hardware. Refer to your motherboard's documentation.
 
 ### Launching the List
 
-Launch _ModOrganizer.exe_ from the directory in which you installed the list. Launch the game from the **SKSE** entry in the drop-down menu.
+Launch _ModOrganizer.exe_ from the directory in which you installed the list. Launch the game from the **F4SE** entry in the drop-down menu.
 
 ## MCM CONFIGURATION
 
-## WHEN YOU SPAWN IN HELGEN'S INN, DO NOT TOUCH ANYTHING!
+It may be necessary to press the `Enter` key a few times after you select "New Game" to skip some invisible menu prompts. Then the opinion movie will play and you can continue.
+
+## WHEN YOU SPAWN IN THE BATHROOM, DO NOT TOUCH ANYTHING!
 
 Wait until all the messages appear then disappear in the upper left corner of the screen. Then you may continue.
 
 ## MCM Recorder
 
-Find the _MCM Recorder_ menu in the _Mod Configuration_ menu accessible via the `ESCAPE` key or the `START` button. Click the "RUN ME" recording, click OK, close the MCM menu, click the "Run Recording" button when it appears, and **TOUCH NOTHING.** Wait for a message to pop up saying playback is finished, then wait for all messages to disappear in the upper-left corner of your screen. There may occasionally be error messages referencing outdated settings. They are unimportant. Skip them.
-
-Everything should now be configured automatically thanks to **NEW** MCM Recordings. Enjoy the modlist!
-
-## FINAL NOTES
-
-When you reach your first exterior world location, you will be prompted to enable _Survival Mode_. With this option enabled, you will not be able to fast travel normally, markers can be placed next to other markers, and you will have to eat food, sleep, and stay warm to survive. (Fast travel can, however, be enabled on _Survival Mode_ by consulting the _Conner's Survival Mode_ MCM.) You will also receive a prompt about which Divine and/or Daedra you wish to worship, depending on your race. Choose according to your preference.
-
 ## Updating the Modlist
 
-Many times newer versions of _Licentia_ will require an updated version of _Wabbajack_. Please ensure that you run _only_ the `Wabbajack.exe` located in the root of the _Wabbajack_ directory. _Wabbajack_ will automatically update to the latest version if necessary. 
+Many times newer versions of _Parabellum_ will require an updated version of _Wabbajack_. Please ensure that you run _only_ the `Wabbajack.exe` located in the root of the _Wabbajack_ directory. _Wabbajack_ will automatically update to the latest version if necessary. 
 
-Download the modlist from the Gallery and specify the same directories. Then check the "Overwrite" box. Never update a list without checking this box. If you have customized the list, you can append `[NoDelete]` to the beginning of your added mods in _Mod Organizer 2_ and they will not be deleted. However, they will be unchecked and relocated to the bottom of the list of installed mods. You will need to return them to their rightful place and re-enable or rewrite any patches you created.
+Download the new _Wabbajack_ file, select the "Install From Disk" option, and specify the same directories. Then check the "Overwrite" box. Never update a list without checking this box. If you have customized the list, you can append `[NoDelete]` to the beginning of your added mods in _Mod Organizer 2_ and they will not be deleted. However, they will be unchecked and relocated to the bottom of the list of installed mods. You will need to return them to their rightful place and re-enable or rewrite any patches you created.
 
 It is rarely recommended to continue a save when you update a modlist.
 
@@ -136,17 +119,7 @@ You can just remove the _Licentia BLACK_ folder.
 
 # IF YOU ENCOUNTER INSTALL PROBLEMS, ERROR MESSAGES, CRASHES, OR OTHER UNEXPECTED BEHAVIOR
 
-Refer to [Troubleshooting](TROUBLESHOOTING.md). If you can't find your answer there, ensure that you have followed **EVERY STEP** of this readme to the letter. Often a reinstall of the list will solve many unusual problems. If your problem involves an inability to continue a mandatory portion of the game, refer to the _Unofficial Elder Scrolls Pages_ and verify that you are not experiencing a vanilla bug. Try loading a save from before the most recent quest stage or dungeon that you started. 
-
-## Guides for modifying the list are available! I will not discipline you for modifications!
-
-- To enable controller support for _Licentia,_ [consult the controller guide available here](controller-guide.md).
-- To use _Skyrim Outfit System_ (the transmog mod) properly, [consult the guide for it here](SoS-OutfitSystem-Guide.md).
-- To add some cool, nifty new animations to your copy of _Licentia_, [be sure to run Nemesis afterward](How-To-Run-Nemesis.md).
-- To add your dream outfits to your copy of _Licentia,_ [consult the BodySlide document available here](How-To-Add-Outfits.md).
-- If you add any mod to the list, you need to [run Synthesis as described here](How-To-Run-Synthesis.md).
-
-For help with your additions, stop by my #black-additions channel and you might just get it!
+Refer to [Troubleshooting](TROUBLESHOOTING.md). If you can't find your answer there, ensure that you have followed **EVERY STEP** of this readme to the letter. Often a reinstall of the list will solve many unusual problems. 
 
 ## Contact
 
@@ -161,12 +134,3 @@ See [Contributing](CONTRIBUTING.md).
 ## Changelog
 
 See [Changelog](CHANGELOG.md).
-
-## Credits
-
-**Menu Theme:**
-```
-Parallel Synthesis by | e s c p | https://escp-music.bandcamp.com
-Music promoted by https://www.free-stock-music.com
-Creative Commons / Attribution 4.0 International (CC BY 4.0)
-https://creativecommons.org/licenses/by/4.0/`
