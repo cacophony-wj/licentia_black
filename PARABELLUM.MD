@@ -1,4 +1,4 @@
-![Parabellum Logo](images/parabellum.png)
+![Parabellum Logo](images/parabellum_banner.png)
 ## Preamble
 
 **This Modlist contains mods with sexual content and you need to be of legal age in your country (most western countries: 18+, some eastern ones: 21+)**.
