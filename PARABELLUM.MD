@@ -1,6 +1,6 @@
 # LICENTIA BLACK
 
-![Licentia Black Logo](images/4k_licentia_logo.webp)
+![Parabellum Logo](images/parabellum.png)
 
 ## Preamble
 
