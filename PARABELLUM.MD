@@ -94,13 +94,19 @@ Launch _ModOrganizer.exe_ from the directory in which you installed the list. La
 
 ## MCM CONFIGURATION
 
-It may be necessary to press the `Enter` key a few times after you select "New Game" to skip some invisible menu prompts. Then the opinion movie will play and you can continue.
+It may be necessary to press the `Enter` key a few times after you select "New Game" to skip some invisible menu prompts. Then Character Creation will begin.
 
 ## WHEN YOU SPAWN IN THE BATHROOM, DO NOT TOUCH ANYTHING!
 
 Wait until all the messages appear then disappear in the upper left corner of the screen. Then you may continue.
 
-## MCM Recorder
+_MCM Configuration_ is easier than with most _Skyrim_ lists. To configure the MCMs, press the `ESC` key and select the top menu option: "MOD CONFIG."
+
+At the top left you will see an option to configure MCM settings. Select it.
+
+There will be something bad and lazy like "My first settings slot" in the large window on the right side. Click "Apply Settings" next to this option, confirm your selection, and wait for a message similar to "35 Settings Applied." Then click the "Reload MCM" option which appears.
+
+That's all there is to it! You're ready to play _Parabellum!_
 
 ## Updating the Modlist
 
