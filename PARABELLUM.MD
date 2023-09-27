@@ -116,7 +116,7 @@ You can just remove the _Licentia BLACK_ folder.
 
 # IF YOU ENCOUNTER INSTALL PROBLEMS, ERROR MESSAGES, CRASHES, OR OTHER UNEXPECTED BEHAVIOR
 
-Refer to [Troubleshooting](TROUBLESHOOTING.md). If you can't find your answer there, ensure that you have followed **EVERY STEP** of this readme to the letter. Often a reinstall of the list will solve many unusual problems. 
+Ensure that you have followed **EVERY STEP** of this readme to the letter. Often a reinstall of the list will solve many unusual problems. 
 
 ## Contact
 
