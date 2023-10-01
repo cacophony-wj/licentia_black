@@ -2,18 +2,18 @@
 
 ## 8.7 - THE OBODY UPDATE
 
-** MOD UPDATES** 
+**MOD UPDATES** 
 
 - Updated _OBody_ to 4.2.0
 - Updated _CBPC_ to 1.5.9 
 - Updated _CBBE_ to 2.0.1
 - Updated _BodySlide_ to 5.6.3
 
-** CONFIGURATION CHANGES **
+**CONFIGURATION CHANGES**
 - Tweaked physics for slightly more jiggliness.
 - Adjusted subsurface for slightly more lifelike skin.
 
-** NOTE ON FUTURE UPDATES**
+**NOTE ON FUTURE UPDATES**
 
 It appears 3P animations will be permanently paywalled by the _OpenSex_ team. I am reluctant to update to the new _OStim Standalone_ for that reason but will probably do so in the next big release.
   
