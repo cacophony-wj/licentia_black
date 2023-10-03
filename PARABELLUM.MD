@@ -118,7 +118,7 @@ It is rarely recommended to continue a save when you update a modlist.
 
 ## Removing the Modlist
 
-You can just remove the _Licentia BLACK_ folder. 
+You can just remove the _Parabellum_ folder. 
 
 # IF YOU ENCOUNTER INSTALL PROBLEMS, ERROR MESSAGES, CRASHES, OR OTHER UNEXPECTED BEHAVIOR
 
