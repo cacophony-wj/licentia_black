@@ -40,5 +40,43 @@
     "dateCreated": "1970-01-01T00:00:00Z",
     "dateUpdated": "2023-10-01T13:36:03.448317Z",
     "repositoryName": ""
+    }
+  {
+    "title": "Parabellum",
+    "description": "Sex, guns, Sim Settlements 2 Complete, and all the Quests you'll never have time for.",
+    "author": "cacophony",
+    "maintainers": [
+      "github/cacophony-wj"
+    ],
+    "game": "fallout4",
+    "official": false,
+    "tags": [
+      "Vanilla+ Mechanics",
+      "Sim Settlements 2 Complete",
+      "Optional Creation Club",
+    ],
+    "nsfw": true,
+    "utility_list": false,
+    "image_contains_title": false,
+    "force_down": false,
+    "links": {
+      "image": "https://raw.githubusercontent.com/cacophony-wj/licentia_black/main/images/parabellum.png",
+      "readme": "https://github.com/cacophony-wj/licentia_black/blob/main/PARABELLUM.MD",
+      "download": "https://authored-files.wabbajack.org/Parabellum.wabbajack_bfb47685-90da-4bb2-b9a0-fe8fe7d853b5",
+      "machineURL": "parabellum",
+      "discordURL": "https://discord.gg/jolly-coop"
+    },
+    "download_metadata": {
+      "Hash": "/sqaZucVBa0=",
+      "Size": 15730137,
+      "NumberOfArchives": 280,
+      "SizeOfArchives": 99984505974,
+      "NumberOfInstalledFiles": 59680,
+      "SizeOfInstalledFiles": 131719566869
+    },
+    "version": "0.6.1",
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "2023-10-01T13:36:03.448317Z",
+    "repositoryName": ""
   }
 ]
