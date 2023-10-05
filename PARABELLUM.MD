@@ -18,7 +18,9 @@ Have a **BLAST!**
 
 You will save yourself a **LOT** of headaches if you download all the _Lover's Lab_ files manually **BEFORE** you begin installing anything with _Wabbajack_. 
 
-First, create a directory for your chosen modlist. I recommend something in the root folder of a fast Solid State Drive, or -- ideally -- an M.2 NVME. (Something like `D:\Parabellum` or `D:\NUKA`). 
+You will first need to wade through the (Lover's Lab website)[https://www.loverslab.com] which features a cringey amount of porn ads. (I recommend an ad blocker.) Create an account with an email you don't care about, then use the registration process to confirm the account via an email you will receive. Then login to _Lover's Lab._
+
+Next, create a directory for your chosen modlist. I recommend something in the root folder of a fast Solid State Drive, or -- ideally -- an M.2 NVME. (Something like `D:\Parabellum` or `D:\NUKA`). 
 
 Within that directory, create another directory called `downloads` -- in all lower case. (`D:\Parabellum\downlods` or D:\NUKA\downloads`)
 
