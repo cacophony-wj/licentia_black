@@ -192,7 +192,7 @@ Refer to [Troubleshooting](TROUBLESHOOTING.md). If you can't find your answer th
 - To use _Skyrim Outfit System_ (the transmog mod) properly, [consult the guide for it here](SoS-OutfitSystem-Guide.md).
 - To add some cool, nifty new animations to your copy of _Licentia_, [be sure to run Nemesis afterward](How-To-Run-Nemesis.md).
 - To add your dream outfits to your copy of _Licentia,_ [consult the BodySlide document available here](How-To-Add-Outfits.md).
-- If you add any mod to the list, you need to [run Synthesis as described here](How-To-Run-Synthesis.md).
+- **NOTE:** _Synthesis_ is no longer mandatory for most additions, but you can run it if you really want to. [Use the guide here.](How-To-Run-Synthesis.md).
 
 For help with your additions, stop by my #black-additions channel and you might just get it!
 
