@@ -26,7 +26,7 @@ After you confirm your account, login to _Lover's Lab._
 
 Next, create a directory for your chosen modlist. I recommend something in the root folder of a fast Solid State Drive, or -- ideally -- an M.2 NVME. (Something like `D:\Parabellum` or `D:\NUKA`). 
 
-Within that directory, create another directory called `downloads` -- in all lower case. (`D:\Parabellum\downlods` or D:\NUKA\downloads`)
+Within that directory, create another directory called `downloads` -- in all lower case. (`D:\Parabellum\downloads` or D:\NUKA\downloads`)
 
 Now consult the below URL corresponding to your version of _Parabellum_. Place all of the files in the `downloads` directory you created above. **DO NOT EXTRACT THEM.** _Wabbajack_ will take care of that.
 
