@@ -132,6 +132,10 @@ There will be something bad and lazy like "My first settings slot" in the large 
 
 That's all there is to it! You're ready to play _Parabellum!_
 
+#### A Bit of a Note about NUKA RIDE
+
+The _Parabellum NUKA_ version of the modlist has very little content aside from the massive _Nuka Ride_ quest mod and a ton of sexy outfits you can create almost for free on the Chemisty Bench. I don't recommend this version of the modlist if you actually want to play _Fallout 4._ You are meant to create a female character and accept the Eyebot's invitation to be a porn star as soon as he talks to you outside of Vault 111. Then you can make all your bimbofication fantasies come true.
+
 ## Updating the Modlist
 
 Many times newer versions of _Parabellum_ will require an updated version of _Wabbajack_. Please ensure that you run _only_ the `Wabbajack.exe` located in the root of the _Wabbajack_ directory. _Wabbajack_ will automatically update to the latest version if necessary. 
