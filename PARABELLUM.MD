@@ -34,6 +34,8 @@ Now consult the below URL corresponding to your version of _Parabellum_. Place a
 
 _Parabellum:_ https://github.com/cacophony-wj/licentia_black/blob/main/PARABELLUMLL.MD
 
+_Parabellum NUKA:_ https://github.com/cacophony-wj/licentia_black/blob/main/NUKALL.md
+
 ## Installation
 
 ###  Installing Microsoft Visual C++ Redistributable Package
