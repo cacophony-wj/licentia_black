@@ -20,7 +20,7 @@ You will save yourself a **LOT** of headaches if you download all the _Lover's L
 
 You will first need to wade through the [Lover's Lab website](https://www.loverslab.com) -- which features a cringey amount of porn ads. (I recommend an ad blocker.) Create an account with an email you don't care about, then use the registration process to confirm the account via an email you will receive. 
 
-**There is no way around this.** If _Lover's Lab_ is blocked in your location, I recommend against going further, but there are ways around it...
+**You cannot avoid creating an account here.** If _Lover's Lab_ is blocked in your location, I recommend against going further, but there are ways around it...
 
 After you confirm your account, login to _Lover's Lab._
 
