@@ -74,7 +74,7 @@ As of this writing approximately **170 GB** is required to install this modlist 
  
 ##  Using Wabbajack
 
-The first step you need to do is login to _The Nexus_ with the **GEAR** icon in the top right of _Wabbajack._ (You have a _Nexus_ account, right?) You will find a login button there, it functions just like the normal _Nexus_ login page does, and the "toggle" will switch over to "logged in" when you are successful.
+The first step you need to do is login to [The Nexus](https://www.nexusmods.com) with the **GEAR** icon in the top right of _Wabbajack._ (You have a _Nexus_ account, right?) You will find a login button there, it functions just like the normal _Nexus_ login page does, and the "toggle" will switch over to "logged in" when you are successful.
 
 If you don't have _Nexus Premium_ you are probably going to wish for death before this process is over. None of the process will be automated, and you will have to click through hundreds of mod links and interstitial ads, all while enduring torturously slow max download speeds. Please, for your sanity and mine, get at least a month of _Premium._ The money you would save with a free account amounts to about three cents per hour of work clicking on links. You wouldn't take a job for three cents an hour would you? Why would you click on links for hours to save that much money?
 
