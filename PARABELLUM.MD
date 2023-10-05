@@ -14,6 +14,12 @@ Have a **BLAST!**
 - [Nexus Premium Account](https://forums.nexusmods.com/index.php?/store/category/1-premium-membership/)
 - [LoversLab Account](https://www.loverslab.com/)
 
+# BEFORE YOU BEGIN! VERY IMPORTANT!
+
+You will save yourself a **LOT** of headaches if you download all the _Lover's Lab_ files manually **BEFORE** you begin installing anything with _Wabbajack_. Please consult the below URL corresponding to your version of _Parabellum_...
+
+licentia_black
+/PARABELLUMLL.MD
 ## Installation
 
 ###  Installing Microsoft Visual C++ Redistributable Package
