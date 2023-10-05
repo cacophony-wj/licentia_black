@@ -18,8 +18,8 @@ Have a **BLAST!**
 
 You will save yourself a **LOT** of headaches if you download all the _Lover's Lab_ files manually **BEFORE** you begin installing anything with _Wabbajack_. Please consult the below URL corresponding to your version of _Parabellum_...
 
-licentia_black
-/PARABELLUMLL.MD
+_Parabellum:_ https://github.com/cacophony-wj/licentia_black/blob/main/PARABELLUMLL.MD
+
 ## Installation
 
 ###  Installing Microsoft Visual C++ Redistributable Package
