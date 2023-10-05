@@ -48,7 +48,7 @@ Now consult the below URL corresponding to your version of _Licentia_. Place all
 
 _Licentia SAFE:_ Ignore this section. No _Lover's Lab_ downloads are necessary.
 
-_Licentia BLACK, SLOOT, NEEDS, COMBAT:_ Soon...
+_Licentia BLACK, SLOOT, NEEDS, COMBAT:_ There are very few _Lover's Lab_ downloads for these versions so you will probably not have problems. I will create a document for them anyway **SOON**(tm)
 
 _Licentia DEAD:_ https://github.com/cacophony-wj/licentia_black/blob/main/DEADGUIDE.md
 
