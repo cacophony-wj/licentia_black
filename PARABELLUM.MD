@@ -3,11 +3,11 @@
 
 **This Modlist contains mods with sexual content and you need to be of legal age in your country (most western countries: 18+, some eastern ones: 21+)**.
 
-_Parabellum_ was born because I desperately want to play _Sim Settlements 2_ (someday, sigh...), but I don't want to be completely without my beloved **NSFW Content** and everyone always told me it was impossible to mix _SS2_ and **NSFW**. After testimony from users who had done it themselves and completed the first two chapters, I resolved to see for myself. I am happy to report that I seem to have succeeded. The key appears to be using only the base chapters for _SS2_ and very few **NSFW** frameworks. Since this is how I want to play the game, maybe someone else does to, and so -- I offer this modlist.
+_Parabellum_ was born because I desperately want to play _Sim Settlements 2_ (someday, sigh...), but I don't want to be completely without my beloved **NSFW Content** and everyone always told me it was impossible to mix _SS2_ and **NSFW**. After testimony from users who had done it themselves and completed the first two chapters, I resolved to see for myself. I am happy to report that I seem to have succeeded. The key appears to be using only the base chapters for _SS2_ and very few **NSFW** frameworks. Since this is how I want to play the game, maybe someone else does too, and so -- I offer this modlist.
 
-I have attempted to make up for the lack of content you might find in something like _Wasteland of Depravity_ by offering a **METRIC FUCKTON** of quests to do. Almost every well-regarded _Fallout 4_ quest mod is here (along with several poorly-regarded ones), so now you can fire and fuck your way across the Wasteland.
+I have attempted to make up for the lack of content you might find in something like _Wasteland of Depravity_ by offering a **TON** of quests to do. Almost every well-regarded _Fallout 4_ quest mod is here (along with several poorly-regarded ones), so now you can kill and screw your way across the Wasteland.
 
-Have a **BLAST!**
+Have fun.
 
 ## Requirements
 
@@ -18,7 +18,7 @@ Have a **BLAST!**
 
 You will save yourself a **LOT** of headaches if you download all the _Lover's Lab_ files manually **BEFORE** you begin installing anything with _Wabbajack_. 
 
-You will first need to wade through the [Lover's Lab website](https://www.loverslab.com) -- which features a cringey amount of porn ads -- to create an account. (I recommend an ad blocker.) Create an account with an email you don't care about, then use the registration process to confirm the account via an email you will receive. 
+You will first need to wade through the [Lover's Lab website](https://www.loverslab.com) -- which features a cringey amount of porn ads. (I recommend an ad blocker.) Create an account with an email you don't care about, then use the registration process to confirm the account via an email you will receive. 
 
 **There is no way around this.** If _Lover's Lab_ is blocked in your location, I recommend against going further, but there are ways around it...
 
@@ -73,6 +73,10 @@ This can be accomplished in the System Settings for Windows. It is recommended t
 As of this writing approximately **170 GB** is required to install this modlist -- **35 GB** for the duplicate _Fallout 4_ folder, *60 GB** for the downloads folder, and **75 GB** for the modlist folder. Approximately **30 GB** of free space is required on your `Windows` drive and **30 GB** additional free space on your `Wabbajack` drive to leave room for temporary files, patches, and caches. Thus the total required space is approximately **230 GB.** These do not all need to be on the same drive.  Finally, never reduce the free space on any drive below **15%** (the bar in _File Manager_ will turn red) or you will suffer severe performance problems.
  
 ##  Using Wabbajack
+
+The first step you need to do is login to _The Nexus_ with the **GEAR** icon in the top right of _Wabbajack._ (You have a _Nexus_ account, right?) You will find a login button there, it functions just like the normal webpage does, and the "toggle" will switch over to "logged in" when you are successful.
+
+If you don't have _Nexus Premium_ you are probably going to wish for death before this process is over. None of the process will be automated, and you will have to click through hundreds of mod links and interstitial ads, all while enduring torturously slow max download speeds. Please, for your sanity and mine, get at least a month of _Premium._ The money you are saving amounts to about three cents per hour of work clicking on links. You wouldn't take a job for three cents an hour would you? Why would you click on links for hours to save that much money?
 
 The download and installation process can take a very long time depending on your system specs. 
 
