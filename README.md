@@ -28,6 +28,35 @@ I'm afraid I can't offer many more details than the above, but you can find a li
 - [Nexus Premium Account](https://forums.nexusmods.com/index.php?/store/category/1-premium-membership/)
 - [LoversLab Account](https://www.loverslab.com/)
 
+# BEFORE YOU BEGIN! VERY IMPORTANT!
+
+You will save yourself a **LOT** of headaches if you download all the _Lover's Lab_ files manually **BEFORE** you begin installing anything with _Wabbajack_. 
+
+You will first need to wade through the [Lover's Lab website](https://www.loverslab.com) -- which features a cringey amount of porn ads. (I recommend an ad blocker.) Create an account with an email you don't care about, then use the registration process to confirm the account via an email you will receive. 
+
+**You cannot avoid creating an account here.** If _Lover's Lab_ is blocked in your location, I recommend against going further, but there are ways around it...
+
+After you confirm your account, login to _Lover's Lab._
+
+Next, create a directory for your chosen modlist. I recommend something in the root folder of a fast Solid State Drive, or -- ideally -- an M.2 NVME. (Something like `D:\Licentia`). 
+
+Within that directory, create another directory called `downloads` -- in all lower case. (`D:\Licentia\downloads`)
+
+Now consult the below URL corresponding to your version of _Licentia_. Place all of the files in the `downloads` directory you created above. **DO NOT EXTRACT THEM.** _Wabbajack_ will take care of that.
+
+**Return to this document when you have downloaded all the necessary files.**
+
+_Licentia SAFE:_ Ignore this section. No _Lover's Lab_ downloads are necessary.
+
+_Licentia BLACK, SLOOT, NEEDS, COMBAT:_ Soon...
+
+_Licentia DEAD:_ https://github.com/cacophony-wj/licentia_black/blob/main/DEADGUIDE.md
+
+_Licentia TOYS:_ https://github.com/cacophony-wj/licentia_black/blob/main/TOYSGUIDE.md
+
+_Licentia PITCH:_ https://github.com/cacophony-wj/licentia_black/blob/main/PITCHGUIDE.md
+
+
 ## Installation
 
 ###  Installing Microsoft Visual C++ Redistributable Package
