@@ -162,6 +162,10 @@ Find the _MCM Recorder_ menu in the _Mod Configuration_ menu accessible via the 
 
 Everything should now be configured automatically thanks to **NEW** MCM Recordings. Enjoy the modlist!
 
+**Please NOTE:** _Licentia NEEDS_ requires a couple more steps for these recordings. Check this URL:
+
+https://github.com/cacophony-wj/licentia_black/blob/main/NEEDSGUIDE.md
+
 ## FINAL NOTES
 
 When you reach your first exterior world location, you will be prompted to enable _Survival Mode_. With this option enabled, you will not be able to fast travel normally, markers can be placed next to other markers, and you will have to eat food, sleep, and stay warm to survive. (Fast travel can, however, be enabled on _Survival Mode_ by consulting the _Conner's Survival Mode_ MCM.) You will also receive a prompt about which Divine and/or Daedra you wish to worship, depending on your race. Choose according to your preference.
