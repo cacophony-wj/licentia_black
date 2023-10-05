@@ -136,6 +136,16 @@ That's all there is to it! You're ready to play _Parabellum!_
 
 The _Parabellum NUKA_ version of the modlist has very little content aside from the massive _Nuka Ride_ quest mod and a ton of sexy outfits you can create almost for free on the Chemisty Bench. I don't recommend this version of the modlist if you actually want to play _Fallout 4._ You are meant to create a female character and accept the Eyebot's invitation to be a porn star as soon as he talks to you outside of Vault 111. Then you can make all your bimbofication fantasies come true.
 
+#### A bit of a Note about CREATION CLUB
+
+Thanks to the extremely sparse nature of both versions of _Parabellum,_ you can safely add any _Creation Club_ content you may have acquired for _Fallout 4_ over the years without impacting the list negatively in any way. 
+
+If you are not aware of what _Creation Club_ content is, it is the failed attempt at "paid mods" that Bethesda attempted to cash in on when the game came out. If you want to purchase some of them, you can do so by launching _Fallout 4_ from _Steam_ and clicking the _Creation Club_ link.
+
+It's too expensive, mostly not worth it, overpowered, and the shop interface and credit system are both terrible, so I totally understand if you have no interest. You'd probably be better off waiting for _Fallout 4 Anniversary Edition_ or something like that.
+
+Anyway, if you love _Creation Club_ like I do (for some reason), you may have collected some of it. To use it in _Parabellum,_ (remember, you can use as much or as little of it as you want), just copy all of the files from your `Fallout 4\Data` folder beginning with the letters `cc` to the `Stock Game\Data` folder inside wherever you installed the modlist (`D:\Parabellum\Stock Game\Data` for example.`) Then press F5 inside of _Mod Organizer 2_ to refresh the list and you are ready to go.
+
 ## Updating the Modlist
 
 Many times newer versions of _Parabellum_ will require an updated version of _Wabbajack_. Please ensure that you run _only_ the `Wabbajack.exe` located in the root of the _Wabbajack_ directory. _Wabbajack_ will automatically update to the latest version if necessary. 
