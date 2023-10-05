@@ -16,7 +16,15 @@ Have a **BLAST!**
 
 # BEFORE YOU BEGIN! VERY IMPORTANT!
 
-You will save yourself a **LOT** of headaches if you download all the _Lover's Lab_ files manually **BEFORE** you begin installing anything with _Wabbajack_. Please consult the below URL corresponding to your version of _Parabellum_...
+You will save yourself a **LOT** of headaches if you download all the _Lover's Lab_ files manually **BEFORE** you begin installing anything with _Wabbajack_. 
+
+First, create a directory for your chosen modlist. I recommend something in the root folder of a fast Solid State Drive, or -- ideally -- an M.2 NVME. (Something like `D:\Parabellum` or `D:\NUKA`). 
+
+Within that directory, create another directory called `downloads` -- in all lower case. (`D:\Parabellum\downlods` or D:\NUKA\downloads`)
+
+Now consult the below URL corresponding to your version of _Parabellum_. Place all of the files in the `downloads` directory you created above. **DO NOT EXTRACT THEM.** _Wabbajack_ will take care of that.
+
+**Return to this document when you have downloaded all the necessary files.**
 
 _Parabellum:_ https://github.com/cacophony-wj/licentia_black/blob/main/PARABELLUMLL.MD
 
