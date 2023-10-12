@@ -40,10 +40,10 @@
     "dateCreated": "1970-01-01T00:00:00Z",
     "dateUpdated": "2023-10-01T13:36:03.448317Z",
     "repositoryName": ""
-    },
+  },
   {
     "title": "Parabellum",
-    "description": "Sex, guns, Sim Settlements 2 Complete, and all the Quests you'll never have time for.",
+    "description": "Sex, guns, Sim Settlements 2 Complete, and all the Quests you\u0027ll never have time for.",
     "author": "cacophony",
     "maintainers": [
       "github/cacophony-wj"
@@ -51,7 +51,7 @@
     "game": "fallout4",
     "official": false,
     "tags": [
-      "Vanilla+ Mechanics",
+      "Vanilla\u002B Mechanics",
       "Sim Settlements 2 Complete",
       "Optional Creation Club"
     ],
@@ -62,21 +62,21 @@
     "links": {
       "image": "https://raw.githubusercontent.com/cacophony-wj/licentia_black/main/images/Ku9Nqihk.png",
       "readme": "https://github.com/cacophony-wj/licentia_black/blob/main/PARABELLUM.MD",
-      "download": "https://authored-files.wabbajack.org/Parabellum.wabbajack_cfa81b77-26b7-4a08-8f60-7a1c7544f3d4",
+      "download": "https://authored-files.wabbajack.org/Parabellum.wabbajack_96166d68-b6fc-477f-8cdd-cb0576c2c8f0",
       "machineURL": "parabellum",
       "discordURL": "https://discord.gg/jolly-coop"
     },
     "download_metadata": {
-      "Hash": "00KtVPsdfy4=",
-      "Size": 15730169,
-      "NumberOfArchives": 280,
-      "SizeOfArchives": 99984505974,
+      "Hash": "XAc7MCVz4Ew=",
+      "Size": 29916707,
+      "NumberOfArchives": 279,
+      "SizeOfArchives": 95812312366,
       "NumberOfInstalledFiles": 59680,
-      "SizeOfInstalledFiles": 131719566873
+      "SizeOfInstalledFiles": 131721303010
     },
-    "version": "0.6.1.1",
+    "version": "0.6.1.2",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2023-10-01T13:36:03.448317Z",
+    "dateUpdated": "2023-10-12T04:49:31.5503633Z",
     "repositoryName": ""
   }
 ]
