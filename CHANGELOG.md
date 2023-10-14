@@ -4,94 +4,94 @@
 
 **MOD ADDITIONS, UPDATES, CHANGES AND REMOVALS**
 
-Added _Community Shaders_ as a High Performance Option (enable then delete `d3dll.dll` in Stock Game)
-Added _Schlongs of Skyrim - PapyrusUtil Patch_
-Added _Serana - Queen of the Damned - Deadlier Serana_
-Added _Attack Dogs - Bone Wolf CC Patch_
-Added _Dynamic Activation Key_
-Added _Disk Cache Enabler_
-Added _DynDOLOD Error Fixes_
-Added _LOD Model Library_
-Added back _Peeno_
-Swapped _Lucien Replacer - Ella's Version_ in for _Cosmos Lucien_
-Swapped _SmoothCam Vanilla Enhanced 2_ preset in for _Modern Camera Preset_
-Swapped _Markarth HD Retexture_ in for _MRF's Markarth_
-Updated _Kaidan Extended Edition AIO_ to 1.6
-Updated _Remiel - Dwemer Specialist_ to 1.7
-Updated _Xelzaz - Custom Fully Voiced Argonian Telvanni Follower_ to 1.10
-Updated _Redcap the Riekling - A Fully Voice-Acted Immersive Follower and Quest_ to 1.4.5
-Updated _Skyrim on Skooma_ to 69.5
-Updated _Take A Peek_ to 1.22
-Updated _Maximum Carnage_ to 8.0
-Updated _Improved Camera_ to 1.0.5
-Updated _Skyrim Revamped - Complete Enemy Overhaul_ to 2.43
-Updated _Deadly Dragons SE_ to 6.5.9
-Updated _Deadly Dragons SE Patches_ to 6.5.6
-Updated _Experience_ to 3.2.0
-Updated _Skyrim Skill Uncapper for SE and AE_ to 2.2.3
-Updated _Know Your Enemy 2 - Armors_ to 1.0.2
-Updated _Custom Skills Framework_ to 2.0.2
-Updated _Nether Follower Framework_ to 2.8.5
-Updated _SPID - NFF - Add Ignore Token to CustomAI Follower_ to 1.0.17
-Updated _VIGILANT SE AE_ to v173
-Updated _VIGILANT Voiced - English Addon_ to v173
-Updated _VIGILANT HiRes Pack_ to v173
-Updated _The Wheels of Lull_ to 5.1.12
-Updated _Legacy of the Dragonborn Patches (Official)_ to 5.6
-Updated _The Choice Is Yours_ to 2.7
-Updated _EVG Animated Traversal_ to 1.02
-Updated _True Directional Movement_ to 2.2.4
-Updated _XP32 Maximum Skeleton Special Extended_ to 5.04
-Updated _Water for ENB_ to 1.83
-Updated _Happy Little Trees LOD_ to 2.0.2
-Updated _Grass FPS Booster_ to 6.9
-Updated _Embers XD_ to 2.8.9
-Updated _Simplicity of Snow_ to 0.15
-Updated _Security Overhaul SKSE - Lock Variations_ to 3.2.0
-Updated _Security Overhaul SKSE - Add-Ons_ to 0.1.8
-Updated _Security Overhaul SKSE - Some More Locks_ to 1.0.4
-Updated _Animated Forge Water_ to 0.8
-Updated _Optimized Scripts for SPERG_ to 1.0.1
-Updated _Unofficial Skyrim Modder's Patch_ to 2.6.2
-Updated _Unofficial Skyrim Creation Club Content Patch_ to 7.7
-Updated _Photo Mode_ to 1.2.0
-Updated _Open Animation Replacer_ to 2.0.2
-Updated _Spell Perk Item Distributor_ to 6.6.2
-Updated _powerofthree's Tweaks_ to 1.8.1
-Updated _Base Object Swapper_ to 2.6.1
-Updated _Crashlogger_ to 1.10
-Updated _DynDOLOD 3.00_ to Alpha-155
-Updated _xLodgen_ to Beta 101
-Updated _Synthesis_ to 0.26
-Removed _Keep the Skeleton Key - Deceive Nocturnal_
-Removed _Genesis Surface_
-Removed _JS Rumpled Rugs_
+- Added _Community Shaders_ as a High Performance Option (enable then delete `d3dll.dll` in Stock Game)
+- Added _Schlongs of Skyrim - PapyrusUtil Patch_
+- Added _Serana - Queen of the Damned - Deadlier Serana_
+- Added _Attack Dogs - Bone Wolf CC Patch_
+- Added _Dynamic Activation Key_
+- Added _Disk Cache Enabler_
+- Added _DynDOLOD Error Fixes_
+- Added _LOD Model Library_
+- Added back _Peeno_
+- Swapped _Lucien Replacer - Ella's Version_ in for _Cosmos Lucien_
+- Swapped _SmoothCam Vanilla Enhanced 2_ preset in for _Modern Camera Preset_
+- Swapped _Markarth HD Retexture_ in for _MRF's Markarth_
+- Updated _Kaidan Extended Edition AIO_ to 1.6
+- Updated _Remiel - Dwemer Specialist_ to 1.7
+- Updated _Xelzaz - Custom Fully Voiced Argonian Telvanni Follower_ to 1.10
+- Updated _Redcap the Riekling - A Fully Voice-Acted Immersive Follower and Quest_ to 1.4.5
+- Updated _Skyrim on Skooma_ to 69.5
+- Updated _Take A Peek_ to 1.22
+- Updated _Maximum Carnage_ to 8.0
+- Updated _Improved Camera_ to 1.0.5
+- Updated _Skyrim Revamped - Complete Enemy Overhaul_ to 2.43
+- Updated _Deadly Dragons SE_ to 6.5.9
+- Updated _Deadly Dragons SE Patches_ to 6.5.6
+- Updated _Experience_ to 3.2.0
+- Updated _Skyrim Skill Uncapper for SE and AE_ to 2.2.3
+- Updated _Know Your Enemy 2 - Armors_ to 1.0.2
+- Updated _Custom Skills Framework_ to 2.0.2
+- Updated _Nether Follower Framework_ to 2.8.5
+- Updated _SPID - NFF - Add Ignore Token to CustomAI Follower_ to 1.0.17
+- Updated _VIGILANT SE AE_ to v173
+- Updated _VIGILANT Voiced - English Addon_ to v173
+- Updated _VIGILANT HiRes Pack_ to v173
+- Updated _The Wheels of Lull_ to 5.1.12
+- Updated _Legacy of the Dragonborn Patches (Official)_ to 5.6
+- Updated _The Choice Is Yours_ to 2.7
+- Updated _EVG Animated Traversal_ to 1.02
+- Updated _True Directional Movement_ to 2.2.4
+- Updated _XP32 Maximum Skeleton Special Extended_ to 5.04
+- Updated _Water for ENB_ to 1.83
+- Updated _Happy Little Trees LOD_ to 2.0.2
+- Updated _Grass FPS Booster_ to 6.9
+- Updated _Embers XD_ to 2.8.9
+- Updated _Simplicity of Snow_ to 0.15
+- Updated _Security Overhaul SKSE - Lock Variations_ to 3.2.0
+- Updated _Security Overhaul SKSE - Add-Ons_ to 0.1.8
+- Updated _Security Overhaul SKSE - Some More Locks_ to 1.0.4
+- Updated _Animated Forge Water_ to 0.8
+- Updated _Optimized Scripts for SPERG_ to 1.0.1
+- Updated _Unofficial Skyrim Modder's Patch_ to 2.6.2
+- Updated _Unofficial Skyrim Creation Club Content Patch_ to 7.7
+- Updated _Photo Mode_ to 1.2.0
+- Updated _Open Animation Replacer_ to 2.0.2
+- Updated _Spell Perk Item Distributor_ to 6.6.2
+- Updated _powerofthree's Tweaks_ to 1.8.1
+- Updated _Base Object Swapper_ to 2.6.1
+- Updated _Crashlogger_ to 1.10
+- Updated _DynDOLOD 3.00_ to Alpha-155
+- Updated _xLodgen_ to Beta 101
+- Updated _Synthesis_ to 0.26
+- Removed _Keep the Skeleton Key - Deceive Nocturnal_
+- Removed _Genesis Surface_
+- Removed _JS Rumpled Rugs_
 
 **BUG SQUASHING AND CONFIGURATION CHANGES**
 
-Reinstalled the proper version of the _L'Amour Rose Animation Pack_
-Resolved a bug in Serana's romance where she wouldn't sexx you
-Corrected a seam on the hips of Argonian females
-Patched weathers to have proper _Audio Overhaul_ sound effects
-Patched Teldryn Sero to have a high-poly replacer
-Made it so more perks can be refunded with the _Ordinator_ potion
-Lowered the `VeryHard` enemy levels to 1.1x Player instead of 1.3x Player
-Fixed a bug with the third-person bow crosshair
-Attempted to fix bad combat AI for Flame Atronachs
-Fixed some bad room markers in the Bard's College (would have caused blank spaces, glitchy objects)
-Fixed a glitched out Pale Pass Cave
-Removed the Boiled Chitin Armor from circulation since it doesn't look like it's going to be fixed
-Removed an redundant _Lux_ patch for _Clockwork_
-Removed individual script fixes which have now been rolled into the _Modder's Patch_
-Reconfigured some INIs for SKSE plugins
+- Reinstalled the proper version of the _L'Amour Rose Animation Pack_
+- Resolved a bug in Serana's romance where she wouldn't sexx you
+- Corrected a seam on the hips of Argonian females
+- Patched weathers to have proper _Audio Overhaul_ sound effects
+- Patched Teldryn Sero to have a high-poly replacer
+- Made it so more perks can be refunded with the _Ordinator_ potion
+- Lowered the `VeryHard` enemy levels to 1.1x Player instead of 1.3x Player
+- Fixed a bug with the third-person bow crosshair
+- Attempted to fix bad combat AI for Flame Atronachs
+- Fixed some bad room markers in the Bard's College (would have caused blank spaces, glitchy objects)
+- Fixed a glitched out Pale Pass Cave
+- Removed the Boiled Chitin Armor from circulation since it doesn't look like it's going to be fixed
+- Removed an redundant _Lux_ patch for _Clockwork_
+- Removed individual script fixes which have now been rolled into the _Modder's Patch_
+- Reconfigured some INIs for SKSE plugins
 
 **OUTPUT GENERATIONS**
 
-Reran _Nemesis_
-Regenerated _BodySlides_
-Reran _Synthesis_
-Regenerated _LODs_
-Rerecorded _MCMs_ **RUN THE DAMN MCM RECORDING!!**
+- Reran _Nemesis_
+- Regenerated _BodySlides_
+- Reran _Synthesis_
+- Regenerated _LODs_
+- Rerecorded _MCMs_ **RUN THE DAMN MCM RECORDING!!**
 
 ## 8.7 - THE OBODY UPDATE
 
