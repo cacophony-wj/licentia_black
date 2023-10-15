@@ -1,7 +1,7 @@
 - [Easy Changes To The List](#easy-changes-to-the-list)
   - [My computer is too wimpy! I need a less demanding version of Licentia.](#my-computer-is-too-wimpy-i-need-a-less-demanding-version-of-licentia)
   - [This list is too modest! I want skimpy armors in my game.](#this-list-is-too-modest-i-want-skimpy-armors-in-my-game)
--[Content](#content)
+- [Content](#content)
   - [I don't have one of those ancient NUMPADs! How am I gonna use OStim?](#i-dont-have-one-of-those-ancient-numpads-how-am-i-gonna-use-ostim)
   - [Leveling up is weird!](#leveling-up-is-weird)
   - [How do I turn off headbob and / or constant subtle camera motion?](#how-do-I-turn-off-headbob-and-or-constant-subtle-camera-motion)
