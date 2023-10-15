@@ -1,5 +1,50 @@
 # LICENTIA BLACK CHANGELOG
 
+## 9.2 - SLOOT RETURNS
+
+**MOD ADDITIONS**
+
+- Added _Rudy HQ - More Lights - Torchbugs and Moths_
+- Added _Rudy HQ - More Lights - Soul Gems_
+- Added _Clockwork - Particle Lights for ENB Addon_
+- Added _Particle Lights for ENB - Light Orbs - Motes
+
+**OPTIONAL SLOOTY LOAD ORDER**
+
+- Added _BD's Armor and Clothes Replacer CBBE 3BA_
+- Added _Skimped Creation Club AIO_
+- Added _DX Black Widow Outfit_
+- Added _DX Cassandra Apocrypha Robes_
+- Added _DX Cassandra Frost Witch Outfit_
+- Added _DX Celes Mercy Outfit_
+- Added _DX Celes Nightingale Outfit_
+- Added _DX Celes Rogue Armor_
+- Added _DX Daedric Reaper Armor_
+- Added _DX Dark Knight Armor_
+- Added _DX Daughter of the Sea Armor_
+- Added _DX Demon Armor_
+- Added _DX Druid Armor_
+- Added _DX Emfy Cleric Outfit_
+- Added _DX Gwelda Red Riding Hood Outfit_
+- Added _DX Merta Assassin Outfit_
+- Added _DX Morenn Outfit_
+- Added _DX Necromancer Robes_
+- Added _DX Spartan Bard Outfit_
+- Added _DX Stella Mithril Armor_
+- Added _DX Succubus Armor_
+- Added _DX Tembtra Thief Outfit_
+- Added _DX Ursine Armor Pack_
+- Added _DX Wild Huntress Outfit_
+- Added _DX Witch Hunter Armor_
+- Added _DX Witcher Armor_
+- Added _DX Armors and Clothing 3BA BodySlide Emporium_ (Modular)
+- Added _Skyrim Vixens - Adult LOTD Paintings_
+- Disabled the _Book of UUNP Non-Skimpy Patch_
+- Added a random piece of the _DeserterX_ outfits above to each Boss Chest.
+- Boss Chests are large chests that can typically found next to ... well ... Bosses.
+- Patched all Leveled List and Outfit Records for the changes above.
+- Re-ran _BodySlides_
+
 ## 9.1.1 - Integrates Odin into the List
 
 **MOD ADDITIONS & UPDATES**
