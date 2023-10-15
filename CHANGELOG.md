@@ -1,5 +1,105 @@
 # LICENTIA BLACK CHANGELOG
 
+## 9.3 - FINALLY... QUESTS
+
+**OPTIONAL QUESTS PROFILE**
+
+- Added _Legacy of the Dragonborn - Hall of Forgotten Patches_
+- Added _Hall of Forgotten Painting Replacer_
+- Adedd _LOTD - Lost Wonders of Mzark Unofficial Patch_ and TCC Patch
+- Added _LOTD - Unofficial Unslaad Patch_
+- Added _Away, Come Away_ with optional _BodySlide_ support
+- Added _Baba Yaga and the Labyrinth_
+- Added _Carved Brink_
+- Added _Unofficial Carved Brink Patch_
+- Added _Darkend_
+- Added _Caught Red Handed - Quest Expansion_ and OStim Patch
+- Added _GLENMORIL SE_
+- Added _GLENMORIL High Resolution Textures Pack_
+- Added _GLENMORIL NPC Overhaul_
+- Added _GLENMORIL - Book Covers_
+- Added _GLENMORIL - Delayed Start_
+- Added _Custom Skills - GLENMORIL_
+- Added _Glenmoril CBBE BodySlide_
+- Added _Glenmoril Gun Replacer 4k_
+- Added _Glenmoril Boss TDM Patch_
+- Added _GLENMORIL - English Translation_
+- Added _Hel Rising - Norse Quest and Follower Mod_ with PoS Patch
+- Added _Ilieh - Cry of the Damned_
+- Added _Jiub's Opus_
+- Added _Land of Vomenheim SE_
+- Added _High Poly NPC conversion - Vomenheim_
+- Added _The Legend of Slender Man_
+- Added _The Lost Wonders of Mzark_ and _Boats Addon_
+- Added _Love & Expectations_
+- Added _Maids II Deception_ and Mod Patches
+- Added _Maids II Deception Textures_
+- Added _Maids II Euphoria Palace Music Replacer_
+- Added _Magicians Judge - Critical Role Mod_
+- Added _Midwood Isle_
+- Added _Midwood Isle SE Survival Mode Patch_
+- Added _Midwood Isle Beyond Skyrim Bruma patch fix_
+- Added _Midwood Isle Wyrmstooth Spell Consistency Patch_
+- Added _Northern Encounters_
+- Added _Northpoint SE_
+- Added _Relics of Hyrule SE - A DLC Scale Zelda Mod_
+- Added _Hyrule Visuals - 4K Master Sword Textures_
+- Added _Relics of Hyrule Unofficial Add-on - Magic Crafting at Terminian Forge SE_
+- Added _Relics of Hyrule - Zora Equipment Protects against Cold Water_
+- Added _ROH Skeleton Replacer Patch_
+- Added _Skyrim Extended Cut - Saints and Seducers_
+- Added _SEC Saints and Seducers 4K - Cleaned and Upscaled Textures_
+- Added _SEC Saints and Seducers High Poly NPCS_
+- Added _SEC Saints and Seducers - Undeath Bruma Patch_
+- Added _The Someguy Series - SSE_
+- Added _Spooky Philter of the Phantom_
+- Added _There Is No Umbra - Chapter III_ and _High Poly Overhaul_
+- Added _There Is No (CC) Umbra_
+- Added _Wild Witch_
+- Added _Quest Markers Restored_
+- Added _More Quest Markers_
+- Added _Unmarked Locations Pack_ and Fixes
+- Added _Unslaad SE_
+- Added _Unslaad CBBE (3BA) BodySlide_
+- Added _UNSLAAD Voiced - English Addon_
+- Added _UNSLAAD Music Extended_
+- Added _UNSLAAD Music Remastered_
+- Added _Unslaad Delayed Start_
+- Added _Unslaad Weapons and ARmors Retexture
+- Added _Unslaad Dragon Priest Mask Fix
+- Added _TrueHUD - Unslaad Boss Bars ini_
+- Added _Warden of the Coast_ and 3BA HIMBO Patch
+- Added _WotC - The Cause CC - Consistency Patch
+- Added _Armors of the Velothi Pt. I_ and _HIMBO_ Refit
+- Added _Armors of the Velothi Pt. II_ and _HIMBO_ Refit
+- Added _Armors of the Velothi Pt. II - FaceGen Files_
+- Added _Armors of the Velothi Pr2 Crash Fixes_
+- Added _Ayleid Crystal Saber
+- Added _Colovian Prince Set_ and _3BA BodySlides_
+- Added _Dwueth'Var - The Star Razor_
+- Added _Ebony Warrior Re-Imagined_ and Update 2.5
+- Added _Ebony Warrior Woman_
+- Added _Female Armors and Accessories Collection_ and _CBBE BodySlides_
+- Added _Ferrum Nibenis_
+- Added _Kvetchi Mercenary Set_ and _3BA and HIMBO BodySlides_
+- Added _Lunar Guard Armor_ and _3BA and HIMBO BodySlides_
+- Added _Occiglacies - Ancient Falmer Blade_
+- Added _Regal Paladin Armor_
+- Added _The Bow of Florin Replacer (Midwood Isle)_3BA
+- Added _Titus Mede I's Armor_
+- Added _Viridian Knight Armor_ with 4K textures
+- Added -Yol'Kreh - The Infernal Scythes_
+- Added _Your Orb to Ponder_
+- Added _Webmetz's More Growable Plants - GLENMORIL_
+- Added _Webmetz's More Growable Plants - Relics of Hyrule_
+- Added _Webmetz's More Mining Tools - Relics of Hyrule_
+- Removed the makeups and overlays to make room for **QUESTS**
+- Reinstalled _Lux_ suite for additional patches
+- Re-ran _BodySlide_ for the QUESTS Armors
+- Re-ran LODs for the QUESTS Additions
+- Re-ran _Synthesis for *ALL** profiles
+- Corrected a bad link for _zEdit_
+  
 ## 9.2 - SLOOT RETURNS
 
 **MOD ADDITIONS**
