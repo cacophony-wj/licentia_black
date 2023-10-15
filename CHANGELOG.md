@@ -45,7 +45,7 @@
 - Patched all Leveled List and Outfit Records for the changes above.
 - Re-ran _BodySlides_
 
-**Consult the `TROUBLESHOOTING.md` document (elsewhere in this _Github_ Repository) for instructions on how to enable the **Slooty Load Order.**
+**Consult the `TROUBLESHOOTING.md` document** (elsewhere in this _Github_ Repository) for instructions on how to enable the **Slooty Load Order.**
 
 ## 9.1.1 - Integrates Odin into the List
 
