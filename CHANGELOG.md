@@ -60,7 +60,7 @@
 - Added _Vokriinator Black - Odin Patch_
 - Added _Wyrmstooth - Odin - Patch_
 - Reinstalled the correct version of _Ice Spike Crash Fix_ for _Odin_ **AND** _Vokrii_
-- 
+
 ## 9.0.1
 
 **TOOL UPDATES**
