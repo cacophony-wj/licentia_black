@@ -9,6 +9,10 @@
 - Added _Clockwork - Particle Lights for ENB Addon_
 - Added _Particle Lights for ENB - Light Orbs - Motes
 
+**BUG FIXES**
+
+- Forgot to enable my _NPC Patches._ Oops. Should be fixed now.
+
 **OPTIONAL SLOOTY LOAD ORDER**
 
 - Added _BD's Armor and Clothes Replacer CBBE 3BA_
