@@ -1,6 +1,15 @@
 # LICENTIA BLACK CHANGELOG
 
+## 9.1.1 - Integrates Odin into the List
 
+**MOD ADDITIONS & UPDATES**
+
+- Added _Odin - Skyrim Magic Overhaul_ v2.0.1
+- Added _Odin - Vokrii Compatibility Patch_
+- Added _Vokriinator Black - Odin Patch_
+- Added _Wyrmstooth - Odin - Patch_
+- Reinstalled the correct version of _Ice Spike Crash Fix_ for _Odin_ **AND** _Vokrii_
+- 
 ## 9.0.1
 
 **TOOL UPDATES**
