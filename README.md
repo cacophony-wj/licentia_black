@@ -182,9 +182,11 @@ It is rarely recommended to continue a save when you update a modlist.
 
 You can just remove the _Licentia BLACK_ folder. 
 
-# IF YOU ENCOUNTER INSTALL PROBLEMS, ERROR MESSAGES, CRASHES, OR OTHER UNEXPECTED BEHAVIOR
+## IF YOU HAVE ANY FURTHER PROBLEMS, PLEASE CONSULT THE TROUBLESHOOTING DOCUMENT.
 
 Refer to [Troubleshooting](TROUBLESHOOTING.md). If you can't find your answer there, ensure that you have followed **EVERY STEP** of this readme to the letter. Often a reinstall of the list will solve many unusual problems. If your problem involves an inability to continue a mandatory portion of the game, refer to the _Unofficial Elder Scrolls Pages_ and verify that you are not experiencing a vanilla bug. Try loading a save from before the most recent quest stage or dungeon that you started. 
+
+Also at the `TROUBLESHOOTING.md` document above, you can find tips for improving performance on weaker systems, as well as a quick and easy way to deck all the ladies of _Tamriel_ out in some sexy sloot and barely-there bikinis. Bonus topless art included!
 
 ## Guides for modifying the list are available! I will not discipline you for modifications!
 
