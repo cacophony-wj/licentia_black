@@ -10,7 +10,7 @@
 **CONFIGURATION CHANGES**
 
 - Re-merged and re-patched NPCs, including _SRCEO_ and _Real Bosses_ values
-- 
+
 ## 9.0 - THE UPDATED BASELINE
 
 **MOD ADDITIONS, UPDATES, CHANGES AND REMOVALS**
