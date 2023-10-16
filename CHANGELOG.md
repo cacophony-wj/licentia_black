@@ -98,6 +98,7 @@
 - Re-ran _BodySlide_ for the QUESTS Armors
 - Re-ran LODs for the QUESTS Additions
 - Re-ran _Synthesis for *ALL** profiles
+- Fixed a BFB for Kaidan on **ALL** profiles
 - Corrected a bad link for _zEdit_
   
 ## 9.2 - SLOOT RETURNS
