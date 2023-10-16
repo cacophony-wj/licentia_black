@@ -150,29 +150,15 @@ It may be necessary to press the `Enter` key a few times after you select "New G
 
 ### WHEN YOU SPAWN IN THE BATHROOM, DO NOT TOUCH ANYTHING!
 
-Wait until all the messages appear then disappear in the upper left corner of the screen. Then you may continue.
+It may not seem so, but this bathroom is one of the most heavily-scripted, system-intensive parts of the whole game, because not only are all of _Fallout 4's_ Quests and Scripts initializing, so are all of _Parabellum's_ Mods, Quests, and NSFW Scripts. This is especially bad with _Sim Settlements 2,_ one of the most heavily scripted, automated _Bethesda_ mods ever, so I **STRONGLY RECOMMEND** just chilling out in here for about five minutes. Maybe make yourself a cup of tea, or a sandwich. Hopefully all of the mods will Initialize and you will get a bunch of messages appearing and disappearing in the top left of the screen. If so, great. If not, I recommend continuing on with the intro (Yes, you need to play the Pre-War Sequence) until you see the messages. (For me, they pop up right when I open the door for the Vault-Tec Representative.) Once all those messages have processed, you can continue with the below configuration.
 
-_MCM Configuration_ is easier than with most _Skyrim_ lists. To configure the MCMs, press the `ESC` key and select the top menu option: "MOD CONFIG."
+This part is easier than with most _Skyrim_ lists. To configure the MCMs, press the `ESC` key and select the top menu option: "MOD CONFIG." At the top left you will see an option to configure MCM settings. Select it. There will be something bad and lazy like "My first settings slot" in the large window on the right side. Click "Apply Settings" next to this option, confirm your selection, and wait for a message similar to "30 Settings Applied." Then click the "Reload MCM" option which appears.
 
-At the top left you will see an option to configure MCM settings. Select it.
-
-There will be something bad and lazy like "My first settings slot" in the large window on the right side. Click "Apply Settings" next to this option, confirm your selection, and wait for a message similar to "35 Settings Applied." Then click the "Reload MCM" option which appears.
-
-That's all there is to it! You're ready to play _Parabellum!_
+That's all there is to it! You're ready to play _Parabellum!_ As a final note, though, I would probably give the list another 5 minutes to finish Initialization after you emerge from Vault 111. Just to be safe. (Seriously, the scripting in this list is absurd, it was strongly recommended that I avoid creating it at all.)
 
 #### A Bit of a Note about NUKA RIDE
 
-The _Parabellum NUKA_ version of the modlist has very little content aside from the massive _Nuka Ride_ quest mod and a ton of sexy outfits you can create almost for free on the Chemisty Bench. I don't recommend this version of the modlist if you actually want to play _Fallout 4._ You are meant to create a female character and accept the Eyebot's invitation to be a porn star as soon as he talks to you outside of Vault 111. Then you can make all your bimbofication fantasies come true.
-
-#### A bit of a Note about CREATION CLUB
-
-Thanks to the extremely sparse nature of both versions of _Parabellum,_ you can safely add any _Creation Club_ content you may have acquired for _Fallout 4_ over the years without impacting the list negatively in any way. 
-
-If you are not aware of what _Creation Club_ content is, it is the failed attempt at "paid mods" that Bethesda attempted to cash in on when the game came out. If you want to purchase some of them, you can do so by launching _Fallout 4_ from _Steam_ and clicking the _Creation Club_ link.
-
-It's too expensive, mostly not worth it, overpowered, and the shop interface and credit system are both terrible, so I totally understand if you have no interest. You'd probably be better off waiting for _Fallout 4 Anniversary Edition_ or something like that.
-
-Anyway, if you love _Creation Club_ like I do (for some reason), you may have collected some of it. To use it in _Parabellum,_ (remember, you can use as much or as little of it as you want), just copy all of the files from your `Fallout 4\Data` folder beginning with the letters `cc` to the `Stock Game\Data` folder inside wherever you installed the modlist (`D:\Parabellum\Stock Game\Data` for example.`) Then press F5 inside of _Mod Organizer 2_ to refresh the list and you are ready to go.
+The _Parabellum NUKA_ version of the modlist has very little content aside from the massive _Nuka Ride_ quest mod and a ton of sexy outfits you can create almost for free on the Chemistry Bench. I don't recommend this version of the modlist if you actually want to play _Fallout 4._ You are meant to create a female character and accept the Eyebot's invitation to be a porn star as soon as he talks to you outside of Vault 111. Then you can make all your **Bimbofication Fantasies** come true.
 
 ## Updating the Modlist
 
