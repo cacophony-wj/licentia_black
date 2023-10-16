@@ -1,6 +1,3 @@
-- [Easy Changes To The List](#easy-changes-to-the-list)
-  - [My computer is too wimpy! I need a less demanding version of Licentia.](#my-computer-is-too-wimpy-i-need-a-less-demanding-version-of-licentia)
-  - [This list is too modest! I want skimpy armors in my game.](#this-list-is-too-modest-i-want-skimpy-armors-in-my-game)
 - [Content](#content)
   - [I don't have one of those ancient NUMPADs! How am I gonna use OStim?](#i-dont-have-one-of-those-ancient-numpads-how-am-i-gonna-use-ostim)
   - [Leveling up is weird!](#leveling-up-is-weird)
@@ -34,28 +31,6 @@
   - [I crash in Project AHO when I complete a certain quest!](#i-crash-in-project-aho-when-i-complete-a-certain-quest)
   - [My quests have started to disappear from my Quest Log.](#my-quests-have-started-to-disappear-from-my-quest-log)
 - [For More Information](#for-more-information)
-
-## Easy Changes To The List
-
-### My computer is too wimpy! I need a less demanding version of Licentia.
-
-The biggest hit to your computer system is definitely **ENB.** Now there's another way! To switch to a much less demanding version of the list, find the header in the list of mods on the left entitled **VAST PERFORMANCE IMPROVEMENT.** (You can search for it from a box at the bottom of the list.) 
-
-Just beneath this header you will find a mod called "Community Shaders." Click the small "bubble" to the left until a checkmark appears inside. Now strike the `F5` key to **Refresh Mod Organizer 2.**
-
-**One more step.** Now you need to find the `Stock Game` folder -- this is usually within the modlist folder (something like `D:\Licentia\Stock Game\` -- and delete the file named `d3d11.dll` inside. **If you do not do this, your game will CRASH!** Then you can enjoy the list on a laptop or much more inexpensive gaming rig.
-
-**PLEASE BE AWARE,** while the graphics card requirement may be greatly reduced, the amount of Papyrus scripting in the list may still demand a rather strong CPU. If you notice unusual problems like system freezes, sex scenes failing to start, or especially actions taking a long time to be performed... your system may still be too weak.
-
-## This list is too modest! I want skimpy armors in my game.
-
-**Simply load the _Slooty Load Order._** 
-
-Above the list of mods on the left you will see a small icon that looks like a swirling arrow. Click it and you will be presented with two **Load Orders** -- the one from 2001 is the **Modest Load Order** with sane outfits. The list from **2006** is the **Slooty Load Order** with sexy outfits. Simply click the one you want. 
-
-**One more step.** Now you need to look above the list of plugins on the right ("plugins" are files ending with `ESM`, `ESL`, `ESP`, and so on) and find a similar swirling arrow. Click it and you will see the same options -- the 2001 list is the **Modest Load Order** and the 2006 list is the **Slooty Load Order.** Click whichever one you want.
-
-Switching between the two outfit setups is as easy as that, **BUT IT CAN ONLY BE DONE ON A NEW GAME.** That means you have to select **NEW** from the _Main Menu;_ you can't even load a game from the Starting Room after the MCM Recordings are complete -- or the vast majority of people in _Tamriel_ will be naked. 
 
 ## Content
 
