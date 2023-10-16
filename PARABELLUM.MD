@@ -38,6 +38,16 @@ _Parabellum NUKA:_ https://github.com/cacophony-wj/licentia_black/blob/main/NUKA
 
 ## Installation
 
+### Getting Rid of the High Resolution DLC
+
+This document assumes you are already familiar with installing games via _Steam._ However, another step is required for this list to ensure maximum compatibility. You need to verify that the _Fallout 4_ "High Resolution DLC" is disabled.
+
+To do so, click on the _Fallout 4_ game entry in your _Steam_ Library. Over on the right, about one or two scrolls down, you will see a collection of banners representing the DLC you have installed. You need **ALL** of the DLC to install this list, but some of it is incompatible. 
+
+In the bottom right corner of the "DLC" Panel, click "Manage My DLC." Listed there you may or may not find "Fallout 4 - High Resolution Texture Pack." This particular DLC is a half-finished, slipshod abomination of poorly optimized, ugly textures that will cause "Rusty Face" bugs among other problems. It is also an utter waste of almost 60GB of storage space, as the vast majority of included textures have been replaced by better ones. 
+
+Uncheck this DLC from the list and wait for any _Steam_ configuration changes to finish (the "Play" icon will turn green for the game) and you are set.
+
 ###  Installing Microsoft Visual C++ Redistributable Package
 
 The _Microsoft Visual C++_ redistributable package is required for _Mod Organizer 2_ and you can download it from _Microsoft._ Download the x64 version under "Visual Studio 2015, 2017 and 2019" [here](https://aka.ms/vs/16/release/vc_redist.x64.exe).
@@ -113,6 +123,22 @@ The system requirements should be just a touch higher than for Vanilla _Fallout 
 The list is configured for a resolution of `2560x1440` by default. It _will_ automatically upscale to higher resolutions at a sacrifice in quality. If you wish to adjust your resolution, select the "INI Editor" from the _Tools_ menu along the icon bar of MO2 and change it via the `Fallout4Prefs.ini` file. Scroll down until you see the `[Display]` header and look for the `iSize` values. Note that the TYPICAL ORDER IS REVERSED, so for 1080p you would set the first value, `iSize H=` to **1080** and the second value, `iSize W=` to **1920.**
 
 If you are confident you meet the above target, but still experience severe performance drops, you may need to customize your `BIOS` settings to maximize your hardware. Refer to your motherboard's documentation.
+
+### OPTIONAL UPGRADE: "Paid Mods"
+
+You might be unaware of _Fallout 4's Creation Shop._ This is a system of "Paid Mods" similar what can be found in the _Skyrim Anniversary Edition Upgrade_, only sold individually, mod by mod, at an incredibly inflated price. (The modders who created them were paid well, though.) With the _Parabellum_ modlist, you can choose to purchase and install any number of these "Paid Mods" if you so choose and they will be completely compatible with the list with no further effort on your part.
+
+To do so, launch Vanilla _Fallout 4_ from the "Play" icon in _Steam._ On the Main Menu, after the intros, you will find an entry that reads "Creation Club." Click it, and the "Creation Shop" will appear.
+
+Sadly, the only way to buy "Paid Mods" from this shop is to purchase "Creation Club Credits" from _Steam_ itself. And the "Paid Mods" are priced in such a way that you can never use all of the credits you purchase, effectively wasting your money. I am surprised if anyone wishes to continue with this now, but anyway...
+
+Browse the "Creation Shop" and check out what's available. Of particular note: every few weeks _Bethesda_ offers certain "Paid Mods" for free as part of a Promotion, so you may be able to grab one or two of these while you're in here. This is **OBVIOUSLY** not the most popular Feature of _Fallout 4_, so they are often heavily discounted as well. Find out which ones you want to purchase, grab the appropriate number of "Creation Club Credits" from the "Purchase Credits" link, and buy them in the "Creation Shop". The "Paid Mods" are often bundled in little extra collections so it is **VERY EASY TO PURCHASE DUPLICATES** if you are not careful.
+
+Once you have purchased some mods, exit out of the shop, and _Fallout 4_ will prompt you to reload the Load Order. Do so and exit the game. You now need to copy these "Paid Mods" to the appropriate location for _Parabellum._
+
+This final step involves opening your _Fallout 4_ directory (something like `C:\Steam\steamapps\common\Fallout 4\Data\") and selecting all of the files that begin with the two letters `cc.` Once selected, press `CTRL+C` to copy them, and navigate to _Parabellum's_ "Creation Club" folder (this will be something like `D:\Parabellum\mods\Creation Club Content`). Use `CTRL+V` to paste all of the files in here, then open _Mod Organizer 2_ for the list, strike the `F5` key to refresh, and the "Paid Mods" should automatically be ready to go.
+
+That's it! Revel in your own decadence.
 
 ### Launching the List
 
