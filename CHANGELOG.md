@@ -1,4 +1,37 @@
-# LICENTIA BLACK CHANGELOG
+- # LICENTIA BLACK CHANGELOG
+
+## 9.4 - COMBAT ADDED
+
+**OPTIONAL COMBAT PROFILE**
+
+- Added _AC DW Dagger Moveset MCO_
+- Added _DesertRace Combat Animations for Player No Locomotions_
+- Added _Elder Creed - Axe Moveset AIO_
+- Added _Elder Creed - Blade_
+- Added _ER Moveset collection (MCO)_AC
+- Added _For Honor in Skyrim I Conqueror_
+- Added _For Honor in Skyrim I Warden_
+- Added _For Honor in Skyrim I Warlord_
+- Added _Imperium Combat Animations for Player No Locomotions_
+- Added _Nordic Combat Animations for Player No Locomotions_
+- Added _Comprehensive First Person Animation Overhaul - CFPAO_
+- Added _Sneak. Animations_
+- Added _Walk - Running Animations_
+- Added _Leviathan ANimations II - Male Idle Walk And Run_
+- Added _Sexy Random Idles_
+- Added _EVG Conditional Idles_
+- Added _Pretty Sit Idles 1.41F Dar - Player Only_
+- Added _Vokriinator Black - CombatForCaco Cut_
+- Added _Payload Interpreter_
+- Added _Attack+MCO-DXP_
+- Added _MCO Universal Support_
+- Added _SCAR - Skyrim Combos AI Revolution_
+- Added _SCAR AE Support_
+- Added _Precision_
+- Added _One Click Power Attack NG_
+- Added _Dual Wield Parrying SKSE_
+- Added _Attack Speed to Damage Conversion for MCO-ADXP_
+- Went through the **HELL** of re-running _Nemesis_ for all the Profiles.
 
 ## 9.3 - FINALLY... QUESTS
 
