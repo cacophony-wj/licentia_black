@@ -82,7 +82,7 @@ This can be accomplished in the System Settings for Windows. It is recommended t
 
 **Ensure Enough Free Storage Space**
 
-As of this writing approximately **170 GB** is required to install this modlist -- **35 GB** for the duplicate _Fallout 4_ folder, *60 GB** for the downloads folder, and **75 GB** for the modlist folder. Approximately **30 GB** of free space is required on your `Windows` drive and **30 GB** additional free space on your `Wabbajack` drive to leave room for temporary files, patches, and caches. Thus the total required space is approximately **230 GB.** These do not all need to be on the same drive.  Finally, never reduce the free space on any drive below **15%** (the bar in _File Manager_ will turn red) or you will suffer severe performance problems.
+As of this writing approximately **170 GB** is required to install this modlist -- **35 GB** for the duplicate _Fallout 4_ folder, **60 GB** for the downloads folder, and **75 GB** for the modlist folder. Approximately **30 GB** of free space is required on your `Windows` drive and **30 GB** additional free space on your `Wabbajack` drive to leave room for temporary files, patches, and caches. Thus the total required space is approximately **230 GB.** These do not all need to be on the same drive.  Finally, never reduce the free space on any drive below **15%** (the bar in _File Manager_ will turn red) or you will suffer severe performance problems.
  
 ##  Using Wabbajack
 
