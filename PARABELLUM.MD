@@ -136,7 +136,7 @@ Browse the "Creation Shop" and check out what's available. Of particular note: e
 
 Once you have purchased some mods, exit out of the shop, and _Fallout 4_ will prompt you to reload the Load Order. Do so and exit the game. You now need to copy these "Paid Mods" to the appropriate location for _Parabellum._
 
-This final step involves opening your _Fallout 4_ directory (something like `C:\Steam\steamapps\common\Fallout 4\Data\") and selecting all of the files that begin with the two letters `cc.` Once selected, press `CTRL+C` to copy them, and navigate to _Parabellum's_ "Creation Club" folder (this will be something like `D:\Parabellum\mods\Creation Club Content`). Use `CTRL+V` to paste all of the files in here, then open _Mod Organizer 2_ for the list, strike the `F5` key to refresh, and the "Paid Mods" should automatically be ready to go.
+This final step involves opening your _Fallout 4_ directory (something like `C:\Steam\steamapps\common\Fallout 4\Data\`) and selecting all of the files that begin with the two letters `cc.` Once selected, press `CTRL+C` to copy them, and navigate to _Parabellum's_ "Creation Club" folder (this will be something like `D:\Parabellum\mods\Creation Club Content`). Use `CTRL+V` to paste all of the files in here, then open _Mod Organizer 2_ for the list, strike the `F5` key to refresh, and the "Paid Mods" should automatically be ready to go.
 
 That's it! Revel in your own decadence.
 
