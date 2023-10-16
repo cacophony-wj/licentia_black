@@ -1,5 +1,26 @@
 - # LICENTIA BLACK CHANGELOG
 
+## 9.5 - NEEDS ADDED
+
+- Added _Frostfall 3.4.1 SE Release_
+- Added _Frostfall Vampire Fix_
+- Added _Campfire 1.12.1SEVR Release
+- Added _Campfire 1.12.1 and Frostfall 3.4SE_
+- Added _Campfire Skillrate Alternative_
+- Added _Campfire Hunter's Arsenal_
+- Added _CC Fishing Campfire Patch)
+- Added _ElSopa Campfire_
+- Added _Hunterborn_
+- Added _Hunterborn Extended_
+- Added _iNeed v1.94 AE_
+- Added _iNeedy_
+- Added _KaiNeedy_
+- Added _Keep it Clean - A Bathing Mod - Extended_
+- Added -iWant Widgets_
+- Added _iWant Frostfall Widgets_
+- Added _Truly Hot Flame Atronach_
+- Added _Survival Mode - Disable Permanently_
+- 
 ## 9.4 - COMBAT ADDED
 
 **OPTIONAL COMBAT PROFILE**
