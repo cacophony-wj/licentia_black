@@ -27,7 +27,7 @@
 - Added _iWant Frostfall Widgets_
 - Added _Truly Hot Flame Atronach_
 - Added _Survival Mode - Disable Permanently_
-- 
+  
 ## 9.4 - COMBAT ADDED
 
 **OPTIONAL COMBAT PROFILE**
