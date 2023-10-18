@@ -62,21 +62,21 @@
     "links": {
       "image": "https://raw.githubusercontent.com/cacophony-wj/licentia_black/main/images/Ku9Nqihk.png",
       "readme": "https://github.com/cacophony-wj/licentia_black/blob/main/PARABELLUM.MD",
-      "download": "https://authored-files.wabbajack.org/Parabellum.wabbajack_766edc36-d509-4929-a7e5-3fb6dbfb718b",
+      "download": "https://authored-files.wabbajack.org/Parabellum.wabbajack_21c38d52-478f-452e-a760-e2c58912b407",
       "machineURL": "parabellum",
       "discordURL": "https://discord.gg/jolly-coop"
     },
     "download_metadata": {
-      "Hash": "h4P6UE+zP0Q=",
-      "Size": 27869926,
+      "Hash": "r7Sc12bkni4=",
+      "Size": 27668506,
       "NumberOfArchives": 277,
-      "SizeOfArchives": 95766664782,
-      "NumberOfInstalledFiles": 59682,
-      "SizeOfInstalledFiles": 131718565157
+      "SizeOfArchives": 95768076904,
+      "NumberOfInstalledFiles": 59679,
+      "SizeOfInstalledFiles": 131717552277
     },
-    "version": "0.6.2.1",
+    "version": "0.7",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2023-10-18T05:24:56.9431475Z",
+    "dateUpdated": "2023-10-18T12:02:08.5951304Z",
     "repositoryName": ""
   }
 ]
