@@ -1,6 +1,6 @@
 - # LICENTIA BLACK CHANGELOG
 
-## 9.5.2 - BUFIXES FOR ALL PROFILES
+## 9.5.2 - BUGFIXES FOR ALL PROFILES
 
 - Downgraded _Improved Camera SE_ v1.0.5 to _Improved Camera SE_ v1.0.3
 - Implemented a fix for Boiled Chitin armor by one of my users. Thanks @BalmundSM!
