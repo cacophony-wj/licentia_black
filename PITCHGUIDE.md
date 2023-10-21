@@ -1,6 +1,6 @@
 # READ ME!!! Extremely Important!!!
 
-## The following guide should only be followed if you are attempting to install LICENTIA PITCH. It is useless for all other versions.
+## The following guide should only be used if you are installing the Licentia BETA. It is useless for the main profile.**
 
 ### The Lover's Lab downloader is broken.
 
@@ -14,9 +14,9 @@ File: `1595608377_BakaFactorySLALAnimation6.01.7z`
 
 ## Billyy's SLAL Animations
 
-URL: https://www.loverslab.com/files/file/3999-billyys-slal-animations-2023-9-3/
+URL: https://www.loverslab.com/files/file/3999-billyys-slal-animations-2023-10-6/
 
-File: `SLAL_Billyy_Animations v7.0 SE.7z`
+File: `SLAL_Billyy_Animations v7.1 SE.7z`
 
 ## The Book of Sex
 
@@ -90,19 +90,9 @@ File: `SLAX-ASA3.rar`
 
 URL: https://www.loverslab.com/files/file/10316-osmelmc-mod-tweaks/
 
-File: `SexLab Utility Plus v20230603.7z`
+File: `SexLab Utility Plus v20231003.7z`
 
 **NOTE:** This file is displayed in a massive list of similar versions and unrelated mods. Be sure to only download the one with the exact filename above.
-
-## SexLab Cum Overlays
-
-URL: https://www.loverslab.com/files/file/14676-sexlab-cum-overlays/
-
-File: `Sexlab - Cum Overlays V2.8 (20-Oct-2020).7z`
-
-File: `SlaveTats CumTextures Remake v1.2.5 By Vacaliga - Complete Set Modification.7z`
-
-**NOTE:** The second file above is not with the other downloads. It is listed in the description of the mod itself (the main text) about 2/3 of the way down the page, on an almost impossible to see dark gray link. Search carefully.
 
 ## Gender Bender
 
@@ -138,7 +128,7 @@ File: `SexLab Confabulation V1.7.4 Hotfix.zip`
 
 URL: https://www.loverslab.com/files/file/23123-yamete-kudasai/
 
-File: `YameteKudasai - 2.1.2.5.zip`
+File: `YameteKudasai - 2.1.3.zip`
 
 ## Alternate Perspective - Sold Out
 
@@ -204,13 +194,6 @@ URL: https://www.loverslab.com/files/file/16160-m2m-animations-for-slal/
 
 File: `SLAL_M2MAnimations_SE_v20210222.7z`
 
-## Monoman's Mod Tweaks
-
-URL: https://www.loverslab.com/files/file/6942-monomans-mod-tweaks/
-
-File: `Hydra Slave Girls Tweak v1.0.7z`
-
-**NOTE:** This file is displayed in a massive list of similar versions and unrelated mods. Be sure to only download the one with the exact filename above.
 ## Public Whore
 
 URL: https://www.loverslab.com/files/file/17026-public-whore/
@@ -265,18 +248,6 @@ File: `MiasLair71Textures.7z`
 
 File: `Labia Exciter BodySlide SSE.7z`
 
-## SexLab Solutions - Revisited SE
-
-URL: https://www.loverslab.com/files/file/10742-sexlab-solutions-revisited-se/
-
-File: `SexLab Solutions v3 - Revisited SE v1.1.5.7z`
-
-## SexLab TDF Prostitution and Pimping
-
-URL: https://www.loverslab.com/files/file/5827-sexlab-tdf-prostitution-and-pimping-the-former-aggressive-prostitution-2023/
-
-File: `TDF2023.7z`
-
 ## Simple Slavery Plus Plus
 
 URL: https://www.loverslab.com/files/file/13531-simple-slavery-plus-plus/
@@ -307,7 +278,7 @@ File: `Spank That Ass SE v4.8 BETA (27-Apr-2021).7z`
 
 URL: https://www.loverslab.com/files/file/15346-submissive-lola-the-resubmission-lese/
 
-File: `SubmissiveLolaResubmission 2.1.1.7z`
+File: `SubmissiveLolaResubmission 2.1.2.7z`
 
 File: `SubmissiveLolaResubmission -Optional - RidingCrop SE.7z`
 
