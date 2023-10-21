@@ -19,7 +19,7 @@
 ## 9.8 - A FEW ADDITIONS
 
 - Added _Zombies - Mihail's Monsters & Animals AE-SE_
-- Added _Gelatinous Cude and Voriplasms - Mihail's Monsters & Animals AE-SE_
+- Added _Gelatinous Cube and Voriplasms - Mihail's Monsters & Animals AE-SE_
 - Added _Mimics - Mihail's Monsters & Animals SE-AE_
 - Added _JS Torture Tools SE_
 - Added _JS Unique Utopia SE - Rings_
