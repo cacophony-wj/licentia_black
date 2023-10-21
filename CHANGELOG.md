@@ -1,5 +1,50 @@
 # LICENTIA BLACK CHANGELOG
 
+## 9.9 - PITCH ADDED
+
+- Incoporated the old _PITCH_ Profile into the list. Consult previous CHANGELOGs for details.
+- Updated _SexLab Utility Plus_ to v20231003
+- Updated _Billyy's SLAL Animations SE_ to v7.1
+- Updated _Submissive Lola Resubmission_ to 2.1.2
+- Updated _Simple Slavery Plus SE_ to 6.3.20
+- Updated _Acheron_ to 1.4
+- Updated _Acheron Extension Library_ to 1.1.1.1
+- Updated _Yamete Kudasai_ to 2.1.3
+- Removed _SexLab Cum Overlays_ (taken down)
+- Re-ran _Nemesis_ for the PITCH Profile
+- Generated _BodySlides_ specific to the PITCH Profile
+- Re-ran _Synthesis_ for the PITCH profile
+- Generated _LODs_ for the PITCH profile
+
+## 9.8 - A FEW ADDITIONS
+
+- Added _Zombies - Mihail's Monsters & Animals AE-SE_
+- Added _Gelatinous Cude and Voriplasms - Mihail's Monsters & Animals AE-SE_
+- Added _Mimics - Mihail's Monsters & Animals SE-AE_
+- Added _JS Torture Tools SE_
+- Added _JS Unique Utopia SE - Rings_
+- Added _JS Knapsacks SE_
+- Added _JS Initiate's Ewer SE_
+- Added _JS Essense Extractor SE_
+- Added _JS Bloodstone Chalice SE_
+- Re-ran _Synthesis_ for the New Content.
+
+## 9.7 - MAELSTROM TO THE QUESTS PROFILE
+
+- Added _Maelstrom_
+- Added _OregonPete's Maelstrom Jocelyn Makeover_
+- Added _Maelstrom Daughter Replacer_
+- Added _Hall of Forgotten_ and _HoF TCC Patches_ for the above
+- Corrected a link for the _REALORE FUTA_ texture
+- Re-ran _Synthesis_ for the new content.
+
+## 9.6
+
+- Added _LOTD Hall of Forgotten Displays_ for _Beyond Skyrim - Bruma_
+- Added _Curator's Companion Notifications_ for all of the displays in QUESTS
+- Added SLOOT for COMBAT and non-SLOOT for QUESTS.
+- Will not do SLOOT for NEEDs.
+
 ## 9.5.2 - BUGFIXES FOR ALL PROFILES
 
 - Downgraded _Improved Camera SE_ v1.0.5 to _Improved Camera SE_ v1.0.3
