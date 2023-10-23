@@ -151,7 +151,7 @@ Wait until all the messages appear then disappear in the upper left corner of th
 
 ## MCM Recorder
 
-**_Licentia PITCH_** and **_Licentia DEAD_** _require very specific, more complex configurations_ as well as a whole host of additional instructions and warnings. If you are playing one of these profiles in _Licentia MAX_, ignore the below paragraphs (until "Final Notes") and instead read this.
+**_Licentia PITCH_** and **_Licentia DEAD_** _require very specific, more complex configurations_ as well as a whole host of additional instructions and warnings. If you are playing one of these profiles in _Licentia MAX_, ignore the below paragraphs (until "Final Notes") and instead [read this](https://github.com/cacophony-wj/licentia_black/blob/main/Running-MCMs-For-Pitch-&-Dead.md).
 
 Find the _MCM Recorder_ menu in the _Mod Configuration_ menu accessible via the `ESCAPE` key or the `START` button. Click the **"READ README THEN RUN ME"** recording, click OK, close the MCM menu, click the "Run Recording" button when it appears, and **TOUCH NOTHING.** Wait for a message to pop up saying playback is finished, then wait for all messages to disappear in the upper-left corner of your screen. There may occasionally be error messages referencing outdated settings. They are unimportant. Skip them.
 
