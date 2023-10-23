@@ -183,7 +183,7 @@ Also at the `TROUBLESHOOTING.md` document above, you can find tips for improving
 
 ## Guides for modifying the list are available! I will not discipline you for modifications!
 
-- Experience stutters and low FPS on a system you assumed would be fine? [Check out the Performance Improvement Guide!](https://github.com/cacophony-wj/licentia_black/blob/main/Vast-Performance-Improvement.MD)
+- Experiencing stutters and low FPS on a system you assumed would be fine? [Check out the Performance Improvement Guide!](https://github.com/cacophony-wj/licentia_black/blob/main/Vast-Performance-Improvement.MD)
 - To enable controller support for _Licentia,_ [consult the controller guide available here](controller-guide.md).
 - To use _Skyrim Outfit System_ (the transmog mod) properly, [consult the guide for it here](SoS-OutfitSystem-Guide.md).
 - To add some cool, nifty new animations to your copy of _Licentia_, [be sure to run Nemesis afterward](How-To-Run-Nemesis.md).
