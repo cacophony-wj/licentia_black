@@ -1,4 +1,4 @@
-## I do not like SexLab, no sir.##
+## I do not like SexLab, no sir.
 
 Scenes take forever to start. Sometimes it bugs out. Most of the mods for it are badly designed. I don't even really want to offer this option.
 
