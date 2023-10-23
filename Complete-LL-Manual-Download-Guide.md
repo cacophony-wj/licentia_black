@@ -68,14 +68,6 @@ URL: https://www.loverslab.com/files/file/6561-deviously-helpless-se/
 
 File: `Please download Deviously Helpless SE v1.17a.001 (converted by Roggvir).zip`
 
-## Dibella Sisterhood BodySlides 3BA
-
-URL: https://www.loverslab.com/topic/120107-skyrimlldeepbluefrog-mods-conversion-to-sse/?do=findComment&comment=3302461
-
-File: `Dibella Sisterhood bodyslides 3BA.7z`
-
-Note: Not a normal download. This is a file attachment in a forum thread, which is located about 1/3 down the page in a post by @arshesney
-
 ## Devious Cidhna
 
 URL: https://www.loverslab.com/files/file/1052-devious-cidhna-may-5-2018/
@@ -99,6 +91,14 @@ URL: https://www.loverslab.com/topic/194570-request-prison-torture-mod/?do=findC
 File: `zdd_s_SE.7z`
 
 Note: Not a normal download. This is a file attachment in a forum thread, which is located just a little way the page in a post by @Destynova99
+
+## Dibella Sisterhood BodySlides 3BA
+
+URL: https://www.loverslab.com/topic/120107-skyrimlldeepbluefrog-mods-conversion-to-sse/?do=findComment&comment=3302461
+
+File: `Dibella Sisterhood bodyslides 3BA.7z`
+
+Note: Not a normal download. This is a file attachment in a forum thread, which is located about 1/3 down the page in a post by @arshesney
 
 ## Gender Bender
 
