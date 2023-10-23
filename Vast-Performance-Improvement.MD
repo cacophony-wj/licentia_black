@@ -1,6 +1,6 @@
 # HOW TO VASTLY IMPROVE PERFORMANCE IN LICENTIA 
 
-If your performance is struggling with _Licentia,_ there is a very effective way to dramatically increase performance for the whole list and every mod in it, and it doesn't require a lot of effort. At least compared to previous methods. Let me introduce you to _Community Shaders,_ an alternative to ENB which is **much** less demanding on GPUs and CPUs. With my 4090 and the correct installation of _Community Shaders,_ I was able to get almost 120fps in almost all exterior areas of _Licentia_ (but I have a 4090).
+If your performance is struggling with _Licentia,_ there is a very effective way to dramatically increase performance for the whole list and every mod in it, and it doesn't require a lot of effort. At least compared to previous methods. Let me introduce you to _Community Shaders,_ an alternative to ENB which is **much** less demanding on GPUs and CPUs. With the correct installation of _Community Shaders,_ I was able to maintain over 50fps in almost all exterior areas of _Licentia_ (but I have a 3090).
 
 First off, _Community Shaders_ is not compatible with ENB. You need to delete all remnants of it. Navigate to your "Stock Game" subfolder inside of the directory where you installed "Licentia." Blow away the two files called `d3d11.dll` and `d3dcompiler_46e.dll`. 
 
