@@ -56,18 +56,6 @@ URL: https://www.loverslab.com/files/file/10091-the-book-of-sex-se/
 
 File: `The Book of Sex SE v1.1.7z`
 
-## Deviously Enchanted Chests
-
-URL: https://www.loverslab.com/files/file/1405-deviously-enchanted-chests/
-
-File: `Deviously Enchanted Chests SE-LE3.20.7z`
-
-## Deviously Helpless
-
-URL: https://www.loverslab.com/files/file/6561-deviously-helpless-se/
-
-File: `Please download Deviously Helpless SE v1.17a.001 (converted by Roggvir).zip`
-
 ## Devious Cidhna
 
 URL: https://www.loverslab.com/files/file/1052-devious-cidhna-may-5-2018/
@@ -83,6 +71,18 @@ URL: https://www.loverslab.com/files/file/16231-devious-lore-se/
 File: `Devious Lore SE-AE 3.0.2.7z`
 
 File: `Devious Lore Dwarven Gilded Oil Suit 3BA.7z`
+
+## Deviously Enchanted Chests
+
+URL: https://www.loverslab.com/files/file/1405-deviously-enchanted-chests/
+
+File: `Deviously Enchanted Chests SE-LE3.20.7z`
+
+## Deviously Helpless
+
+URL: https://www.loverslab.com/files/file/6561-deviously-helpless-se/
+
+File: `Please download Deviously Helpless SE v1.17a.001 (converted by Roggvir).zip`
 
 ## Diabloesque Decorations
 
