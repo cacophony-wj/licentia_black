@@ -42,23 +42,15 @@ The _OStim_ controls can be remapped in the MCM for that mod. It may be difficul
 
 ### Leveling up is weird!
 
-The prompt to level up your skills will appear after you level up. I recommend choosing your new stat (Magicka, Health, Stamina), then closing the menu, assigning your points, only to return to the perk menu and make your choices with the upgraded skills.
+The prompt to level up your skills will appear after you level up. 
 
-Still not working? The uncapper preset prevents skills from leveling beyond your level +18, to a maximum of twice your level. If your skill won't go up any further, try gaining a level!
+Not working? The uncapper preset prevents skills from leveling beyond your level +18, to a maximum of twice your level. If your skill won't go up any further, try gaining a level!
 
 Skill not leveling up upon reading a skill book? Make sure you're not at the cap, then check for any debuffs to skill gain on your magic effects tab. Take care of those, then try again.
 
 ### How do I turn off headbob and / or constant subtle camera motion?
 
 You didn't run the MCM recording because it disables the headbob effect. The list is horribly broken without that recording, so start over and actually read the Readme document.
-
-### My weapons are swinging super fast or super slow!
-
-You didn't run the MCM recording because it disables weapon speed effects. They are temporarily unsupported due to mod incompatibilities, which will likely be resolved in the future. The list is horribly broken without that recording, so start over and actually read the Readme document.
-
-### My buff spells are not working on my followers, allies, or summons!
-
-Many of these effects are regarded as hostile by the _Simple No Internal Friendly Fire_ mod and are thus rendered ineffective by that mod at the engine level. If you create a build based around buffs and debuffs, I recommend enabling player on ally Spell Damage in the _SNIFF_ MCM. Obviously this will make it so that your damaging spells harm your allies. Your spells always damaged allies in vanilla, so I do not wish to offer other solutions.
 
 ### I can't level up my skills!
 
@@ -86,11 +78,7 @@ Known bug I'm afraid, I guess it doesn't always perfectly detect the landing eve
 
 ### The tuning gloves in Winterhold seem to be acting up.
 
-Try removing them and equipping them in between atempts. I dunno either, man.
-
-### I can't cast the proper conjuring spell for Tolfdir.
-
-You need to cast it some distance from him to give him room to cast his own. If this does not work, try learning another conjuration spell besides _Unstable Canid,_ then casting it for him.
+Try removing them and equipping them in between attempts. I dunno either, man.
 
 ### The Civil War questline is horribly messed up. I can't complete the Battle(s) of Whiterun / Solitude / Windhelm. People are inverting backwards off the ground. Enemies don't stop spawning. There's no Ulfric/Tullius!
 
@@ -104,7 +92,7 @@ The Civil War questline is incredibly broken even in vanilla Skyrim partially du
 
 ### I can't complete the bandit raid quest for Whiterun (or another city)
 
-The Quest Objective to keep the Guard Captain alive is optional and he is extremely weak. Most likely he will die. You can still complete the quest if he does, you will just not receive any reward from the city (which is rather meager considering the effort required).
+The Quest Objective to keep the Guard Captain alive is optional and he is extremely weak. Most likely he will die. You can still complete the quest if he does, you will just not receive any reward from the city (which is a shit reward not worth the work IMO).
 
 ### I'm trying to kill the Necromancers for Undeath and the quest won't complete.
 
@@ -138,7 +126,7 @@ These are all caused by the extremely janky customization that makes first perso
 
 ### My performance is really terrible, low FPS, input lag during combat!
 
-Refer to the primary readme and ensure you meet all the system specification requirements and that your performance settings are correct on your motherboard.
+Refer to the primary readme and ensure you meet all the system specification requirements and that your performance settings are correct on your motherboard. If you still have bad performance, try the performance improvement suggestions at the end of the primary readme.
 
 ### I can't start an OStim scene or receive errors when attempting to do so!
 
@@ -154,9 +142,7 @@ Ensure that you do not have "Freecam At Start" enabled. Sometimes this stops fun
 
 ### I have a bug that's not in this list.
 
-The best way to get it looked at is to submit it to [Issues](https://github.com/cacophony-wj/LeS/issues). It's a list, I remember lists, I don't remember or sometimes even notice other things.
-
-If you don't want to do that, I'm not going to be particularly strict about this since people have many reasons to avoid creating yet another account somewhere. So just drop by Discord. If I see it and it's not a known issue I'll try to help.
+I'm afraid you're going to have to brave the Realm of the Discord Mods. I know. It's a bit like visiting the Swamp of Sadness in _Neverending Story_ which has also just been invaded by an infestation of Rodents of Unusual Size.
 
 ### I added a mod (or mods) and something weird happened.
 
