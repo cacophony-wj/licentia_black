@@ -82,7 +82,7 @@ File: `Deviously Enchanted Chests SE-LE3.20.7z`
 
 URL: https://www.loverslab.com/files/file/6561-deviously-helpless-se/
 
-File: `Please download Deviously Helpless SE v1.17a.001 (converted by Roggvir).zip`
+File: `Deviously Helpless SE v1.17a.001 (converted by Roggvir).zip`
 
 ## Diabloesque Decorations
 
