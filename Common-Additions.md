@@ -10,6 +10,24 @@
 
 Occasionally I get requests to make simple additions to the list, and even more occasionally I accept a small tip to do this on behalf of someone. _Wabbajack_ Terms of Use require me to make all such "work" publicly available to anyone who utilizes the app, so here you will find the below guides that I made for my most generous Users. If you have a handful of mods to add, why not stop by https://discord.gg/jolly-coop and ask to make use of my services? I can't guarantee that I'll accept your request, but if I do, I can guarantee you would likely spend more for a shitty almost-food meal at _Taco Bell._
 
+## CONVERTING TO "MINISLOOT"
+
+Some users might like the idea of sexy armors available in boss chests, primarily to use on their character or followers, but feel a bit skeeved out by the idea of every lady in the game walking around with their meat hanging out. For those people, I offer the following guide on how to convert a **SLOOT** profile to **MINISLOOT.** (A commission for @DigitalTravis.)
+
+Begin by enabling the "Non-Skimpy Book of UUNP Patch" in the load order, under the **Merges & Patches** header. If you're having trouble finding it, you can search for it in the box near the bottom of MO2. Just put a check in it and Refresh with `F5`.
+
+Now find the **Optional SLOOT** section of mods and disable the following:
+
+- _Skimped Creation Club AIO_
+- _BDs Armor and Clothes Replacer CBBE 3BA_
+- _Skyrim Vixens - LOTD Paintings_
+
+This may generate an error for Missing Masters in some of the `Synthesis` ESPs. If so you will need to run _Synthesis_ with the guide available here.
+
+The last step is to get rid of the SLOOTY replacer BodySlides. Find the mod that reads "SLOOT BodySlide Output" and double-click it. In here you need to click the "Filetree" tab at the top. Expand the `meshes` folder and **RIGHT CLICK -> HIDE** on everything except the one named "DX." Sometimes you will receive a permissions error doing this because of bugs in MO2 so you mey need to just go into this folder and delete these directories.
+
+That should take care of it. Enjoy **MINISLOOT.**
+
 ## ADDING SOFIA BACK
 
 **Another Commission for @MinuKaizer#7953!** I know some of you enjoy Sofia for some damn reason (probably because she gets so catty with Serana). I removed her to make room for more LOTD mods, as well due to a host of complaints about her annoying-ness, but here is a guide on adding her back to _Licentia 6_ if you would like to have her.
