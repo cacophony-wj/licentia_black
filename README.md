@@ -10,18 +10,18 @@
 
 _Licentia BLACK_ is one of _Wabbajack's_ oldest and most well-regarded adult modlists, featuring optional non-fetish content with the _OSuite_ series of _OSA / OStim_ mods and an emphasis on build variety, backed up by an accessible Power Fantasy design philosophy. It also includes a host of displayable collectibles in the form of the _Legacy of the Dragonborn_ museum, with patches to incorporate **every** LOTD Quest Mod and all but one of the "Super Follower" mods. In addition to all this, the author places great weight on ensuring the list is as stable as it can possibly be and aggressively removes mods which cause regular crashes, and recent improvements to the NSFW framework ensure that it is much more viable for a long-term playthrough. As the final bonus, additions and customizations are welcomed via the author's Discord server, so if you don't like the list, **MAKE IT YOUR OWN!!**
 
-**NEW! SUMMER-ONLY VERSIONS OF THE MODLIST!!** Summer of 2023 I decided to focus more heavily on list customizations to suit different types of users who enjoy the core of "Licentia" but would prefer a slightly different style. Please bear in mind that each of these are _entirely separate lists_ and each requires a _separate, full installation of Licentia._ Managing multiple profiles in the same list is nightmarish and I don't want to attempt it again. However, if you keep all downloads from all the versions, you can switch between them very quickly using _Wabbajack._ Also note that saves from one version cannot be used on any other, and I will not make it a habit to mix and match these into more alternate combinations.
+**NEW! ANNOUNCING _LICENTIA MAX!_** If you choose to brave the wilds of my server to find the _MEGA_ download link for _Licentia MAX_, you will receive one massive bohoemoth of a modlist that incorporates alternate versions for almost any style of play. Those include:
 
 - **LICENTIA SLOOT:** This version of Licentia features skimpy outfits for most females in the game, as well as custom overpowered sexy armors that can be found only randomly, piece by piece, in the "boss chests" of dungeons.
-- **LICENTIA COMBAT:** The long-demanded [MCO](https://www.skyrim-guild.com/mods/attack) version of _Licentia_. A request from users, this list removes the ability to wield a greatweapon one-handed in favor of flashy combat animations that can only be used in third person camera mode.
-- **LICENTIA NEEDS:** A throwback to the old way of doing things. This version of _Licentia_ features a rather archaic Survival and Needs mods setup to make the environment as much your enemy as the combatants. 
+- **LICENTIA COMBAT:** The long-demanded [MCO](https://www.skyrim-guild.com/mods/attack) version of _Licentia_. A request from users, this list removes the ability to wield a greatweapon one-handed in favor of flashy combat animations that can only be used in third person camera mode. There are Sloot and non-Sloot versions of this profile.
+- **LICENTIA NEEDS:** A throwback to the old way of doing things. This version of _Licentia_ features a rather outdated Survival and Needs mods setup to make the environment as much your enemy as the combatants. 
 - **LICENTIA PITCH:** Another request from users, this list tries to offer a much more forgiving version of what [Masterstroke](https://www.fgsmodlists.com/docs/masterstroke/) and [NEFARAM](https://github.com/ConsolidatedSky/NEFARAM) are going for, with lightly configured bondage and submission roleplay.
 - **LICENTIA TOYS:** Similar to _PITCH_ except using the much more stable [Toys & Love Adult Framework](https://virginmarie1.wixsite.com/toys). Fight your way back from a naked bondage nightmare to dominate all who cross your path.
 - **LICENTIA DEAD:** Schlock 60's vampire gore sex goddess grindhouse cult film. The mod is called [Serana Dead Sexy](https://www.nexusmods.com/skyrimspecialedition/mods/73589). Check it out. You're likely to either love it or hate it; this pile is almost entirely a terrible idea.
 - **LICENTIA SAFE:** Basic _LICENTIA BLACK_ with all nudity and porn removed. Really only useful for prudes or streamers.
-- **LICENTIA QUESTS:** _Coming soon!_ An almost insane soul-sucking number of huge quest mods courtesy of the [Hall of the Forgotten](https://www.nexusmods.com/skyrimspecialedition/mods/64117) expansion to _Legacy of the Dragonborn._
+- **LICENTIA QUESTS:** An almost insane soul-sucking number of huge quest mods courtesy of the [Hall of the Forgotten](https://www.nexusmods.com/skyrimspecialedition/mods/64117) expansion to _Legacy of the Dragonborn._ There are Sloot, non-Sloot, and Safe versions of this profile.
 
-I'm afraid I can't offer many more details than the above, but you can find a list of all the mods included in each one if you visit [Load Order Library](https://loadorderlibrary.com/) and run a search for "Licentia." Please keep in mind that all of these are severely outdated and require that most of the files from _KaidanMod.com's_ [Archived Builds](https://kaidanmod.com/archived-builds/) to be manually downloaded to the _Wabbajack_ downloads directory beforehand. Some of these Profiles require additional steps described elswhere on [Licentia's Github](https://github.com/cacophony-wj/licentia_black/) so be diligent. You can find all alternate versions of _Licentia_ at the [MEGA HOME](https://mega.nz/folder/RawGxSQC#18F3HuX5i5MvXzsMb6ARGg). Your contributions motivate me to continue with these. **Please consider a small gratuity via the links at the bottom of this document.**
+I'm afraid I can't offer many more details than the above, but you can find a list of all the mods included in each one if you visit [Load Order Library](https://loadorderlibrary.com/) and run a search for "Licentia." **The Alternate MEGA Summer Versions are Retired and No Support will be provided, questions will likely be ignored**
 
 ## Requirements
 
@@ -46,16 +46,9 @@ Now consult the below URL corresponding to your version of _Licentia_. Place all
 
 **Return to this document when you have downloaded all the necessary files.**
 
-_Licentia SAFE:_ Ignore this section. No _Lover's Lab_ downloads are necessary.
+_Licentia BLACK:_ There are very few _Lover's Lab_ downloads for these versions so you will probably not have problems. I will create a document for them anyway **SOON**(tm)
 
-_Licentia BLACK, SLOOT, NEEDS, COMBAT:_ There are very few _Lover's Lab_ downloads for these versions so you will probably not have problems. I will create a document for them anyway **SOON**(tm)
-
-_Licentia DEAD:_ https://github.com/cacophony-wj/licentia_black/blob/main/DEADGUIDE.md
-
-_Licentia TOYS:_ https://github.com/cacophony-wj/licentia_black/blob/main/TOYSGUIDE.md
-
-_Licentia PITCH:_ https://github.com/cacophony-wj/licentia_black/blob/main/PITCHGUIDE.md
-
+_Licentia MAX:_ Refer to the [Complete Alphabetical Lover's Lab Download Guide for Licentia Max.](https://github.com/cacophony-wj/licentia_black/blob/main/Complete-LL-Manual-Download-Guide.md)
 
 ## Installation
 
