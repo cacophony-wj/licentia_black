@@ -41,15 +41,13 @@ Keep in mind you will need at least **ONE FULL ESP SLOT** for the primary mod, s
 https://www.nexusmods.com/skyrimspecialedition/mods/38473?tab=files&file_id=377102
 https://www.nexusmods.com/skyrimspecialedition/mods/53432?tab=files&file_id=219517
 
-Place the first one right above the second one right under _Cosmos Lucien Replacer_, which is at the bottom of the black _Personalties_ header under the purple _FOLLOWERS_ in the **left pane** of _Mod Organizer 2._ As of BLACK 6.10.4, _Cosmos Lucien_ is at **Priority 464.** Be sure to enable them by placing a checkmark in the round bubble to the left, and **refresh MO2** by pressing the `F5` key.
+Place the first one right above the second one right under _Lucien Replacer - Ella's Version_, which is at the bottom of the black _Personalties_ header under the purple _FOLLOWERS_ in the **left pane** of _Mod Organizer 2._ Be sure to enable them by placing a checkmark in the round bubble to the left, and **refresh MO2** by pressing the `F5` key.
 
-Next you need to move the `ImprovedFollowersBoogalo.esp` to is proper location. It needs to go just above `Schlongs of Skyrim.esp` at **Priority 633** in the **right pane** of MO2. Don't put it anywhere else.
+Next you need to move the `ImprovedFollowersBoogalo.esp` to is proper location. It needs to go just above `Schlongs of Skyrim.esp`. Don't put it anywhere else.
 
-Next, copy the attached `ESP` into your _Shared Patches_ mod in MO2, as of 6.10.4 this is located at **Priority 1040** under the _Merges & Patches_ header.  You can right-click on it, select "Open in Explorer," and paste the `ESP` anywhere in there. Close out that window and **refresh MO2** by pressing `F5`. The ESP will appear at the **bottom of your Load Order** in the **right pane** of MO2. _Leave it there and place a checkmark next to it to enable it._
+Next, copy the attached `ESP` into your _Shared Patches_ mod in MO2. You can right-click on it, select "Open in Explorer," and paste the `ESP` anywhere in there. Close out that window and **refresh MO2** by pressing `F5`. The ESP will appear at the **bottom of your Load Order** in the **right pane** of MO2. _Leave it there and place a checkmark next to it to enable it._
 
 This should only be done on a new game, but you should be good to go!
-
-If you like what I do, please consider leaving me a small tip via https://cacophony.me
 
 [Lydia Patch](/esps/quesoturtles_lydia.esp)
 
