@@ -1,11 +1,4 @@
-**I want to use a controller!**
-
-**OR**
-
-**I want to use a controller!**
-
 *A guide by Cacophony - and ported to Licentia Black by Katiefraggle42*
-
 
 **Using A Controller - New and improved and updated for Licentia Black**
 
