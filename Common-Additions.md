@@ -22,7 +22,7 @@ Now find the **Optional SLOOT** section of mods and disable the following:
 - _BDs Armor and Clothes Replacer CBBE 3BA_
 - _Skyrim Vixens - LOTD Paintings_
 
-This may generate an error for Missing Masters in some of the `Synthesis` ESPs. If so you will need to run _Synthesis_ with the guide available here.
+This may generate an error for Missing Masters in some of the `Synthesis` ESPs. If so you will need to run _Synthesis_ with the guide available [here](https://github.com/cacophony-wj/licentia_black/blob/main/How-To-Run-Synthesis.md).
 
 The last step is to get rid of the SLOOTY replacer BodySlides. Find the mod that reads "SLOOT BodySlide Output" and double-click it. In here you need to click the "Filetree" tab at the top. Expand the `meshes` folder and **RIGHT CLICK -> HIDE** on everything except the one named "DX." Sometimes you will receive a permissions error doing this because of bugs in MO2 so you mey need to just go into this folder and delete these directories.
 
