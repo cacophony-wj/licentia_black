@@ -32,11 +32,11 @@ Keep in mind you will need at least **ONE FULL ESP SLOT** for the primary mod, s
 ![Sofia Install Order](/images/sofia.load.order.png)
 ![Sofia Load Ordder](/images/sofia.install.order.png)
 
-[Sofia Patch](/esps/Minus_Sofia.esp)
+[Sofia Patch](/esps/Minus_Sofia.esp) **(Click the RAW link in the upper right)**
 
 ## ADDING IMPROVED LYDIA BACK
 
-**If you are missing the awesome _Improved Lydia_ mod from your _BLACK SIX_ playthrough,** I have a patch here to help you out, at the request of @quesoturtle#4588. First, you need to install the following two mods:
+**If you are missing the awesome _Improved Lydia_ mod from your _BLACK_ playthrough,** I have a patch here to help you out, at the request of @quesoturtle#4588. First, you need to install the following two mods:
 
 https://www.nexusmods.com/skyrimspecialedition/mods/38473?tab=files&file_id=377102
 https://www.nexusmods.com/skyrimspecialedition/mods/53432?tab=files&file_id=219517
@@ -49,7 +49,7 @@ Next, copy the attached `ESP` into your _Shared Patches_ mod in MO2. You can rig
 
 This should only be done on a new game, but you should be good to go!
 
-[Lydia Patch](/esps/quesoturtles_lydia.esp)
+[Lydia Patch](/esps/quesoturtles_lydia.esp) **(Click the RAW link in the upper right)**
 
 ## ADDING TAINTED BLOOD OF THE DRAGONBORN
 
@@ -77,12 +77,16 @@ Finally a couple of notes from the comments for the mod. It may be rather buggy 
 
 And hey, if it works great and you have a blast with it _without_ turning the whole game into a laughable cakewalk, report back, yeah?
 
-[Tainted Blood Patch](/esps/clminatas_taint.esp)
+[Tainted Blood Patch](/esps/clminatas_taint.esp) **(Click the RAW link in the upper right)**
 
 ## ADDING YURIANA, BUXOM WENCH
 
-**To include _Yuriana, Buxom Wench_ into _Licentia BLACK SIX,_** install the mod just as you did the others, under _Cosmos Lucien_, and place the attached ESP at the end of your Load Order. You can select any hairstyle you want because no patches are necessary to include them. She does have custom "tied up" poses, so you will also need to run _Nemesis._ To do so, please check the pins and server history for details. The commands !pins and !usesearch can provide screenshots on how. You should also consult the readme which is constantly under revision, and you should know where it can be found already.
+**To include _Yuriana, Buxom Wench_ into _Licentia BLACK_** install the mod just as you did the others, under _Lucien Replacer._
+
+https://www.nexusmods.com/skyrimspecialedition/mods/598
+
+Place the attached ESP below at the end of your Load Order. You can select any hairstyle you want because no patches are necessary to include them. She does have custom "tied up" poses, so you will also need to run _Nemesis._ To do so, find the guide for adding animations in the primary readme.
 
 **Warning:** I have received scattered user reports that this mod is damaging to long-term saves, particularly due to Yuriana and other followers' heavily-scripted AoE spells and especially in combination with other _Wenches_ series of mods. If you notice spells being cast repeatedly on you even in the absence of the triggers that are supposed to proc them, you have encountered this bug, which reports suggest only begins to occur after about 50 hours of play. Use with caution.
 
-[Yuriana Patch](/esps/traces_yuriana.esp)
+[Yuriana Patch](/esps/traces_yuriana.esp) **(Click the RAW link in the upper right)**
