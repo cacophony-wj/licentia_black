@@ -61,9 +61,9 @@ https://www.nexusmods.com/skyrimspecialedition/mods/9312?tab=files&file_id=15588
 https://www.nexusmods.com/skyrimspecialedition/mods/9312?tab=files&file_id=130548
 https://www.nexusmods.com/skyrimspecialedition/mods/9312?tab=files&file_id=151431
 
-Place them at the bottom of the "Transformations" header in order just below _Growl - Werebeasts of Skyrim_ at or around **Priority 517. Refresh MO2.** 
+Place them at the bottom of the "Transformations" header in order just below _Growl - Werebeasts of Skyrim_. **Refresh MO2.** 
 
-Then you will need to relocate the two `ESP`s which appeared at the bottom of your Load Order (in the right pane of MO2) just above `CACO's FORMLISTS.ESP` at **Priority 1181.** **Refresh MO2.** 
+Then you will need to relocate the two `ESP`s which appeared at the bottom of your Load Order (in the right pane of MO2) just above `CACO's FORMLISTS.ESP` **Refresh MO2.** 
 
 Next you will need to extract the `BSA` archive within the main _Tainted Blood_ mod folder. To do so, click the "Archives" tab of MO2 in the **right pane** and find `Tainted_Blood.bsa.` You can't filter or search this list in anyway so just scroll down and hunt for it. After it is found, **right click** on it and select "Extract..." You need to point the dialog box that appears to the directory that the **MAIN** _Tainted Blood_ mod is installed, which will be something like `D:\Licentia\mods\Tainted Blood.` Allow it to extract all the files, then go to this directory and delete the `Tainted_Blood.bsa` that is located there. **Refresh MO2.**
 
