@@ -336,12 +336,6 @@ URL: https://www.loverslab.com/files/file/619-slavetats/
 
 File: `SlaveTatsSE-1.3.9.7z`
 
-## Spank That Ass
-
-URL: https://www.loverslab.com/files/file/9385-spank-that-ass-se/
-
-File: `Spank That Ass SE v4.8 BETA (27-Apr-2021).7z`
-
 ## Submissive Lola - Coffee Task Extension
 
 URL: https://www.loverslab.com/files/file/27451-submissive-lola-coffees-task-extension/
