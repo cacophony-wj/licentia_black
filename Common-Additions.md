@@ -6,6 +6,10 @@
 
 #### These additions are only supported on the main UI profile, _Licentia BLACK_ (not _Licentia MAX_). Functionality on other profiles is NOT guaranteed.
 
+#### Hey there!
+
+Occasionally I get requests to make simple additions to the list, and even more occasionally I accept a small tip to do this on behalf of someone. _Wabbajack_ Terms of Use require me to make all such "work" publicly available to anyone who utilizes the app, so here you will find the below guides that I made for my most generous Users. If you have a handful of mods to add, why not stop by https://discord.gg/jolly-coop? I guarantee you'll spend more for a shitty almost-food meal at _Taco Bell._
+
 ## ADDING SOFIA BACK
 
 **Another Commission for @MinuKaizer#7953!** I know some of you enjoy Sofia for some damn reason (probably because she gets so catty with Serana). I removed her to make room for more LOTD mods, as well due to a host of complaints about her annoying-ness, but here is a guide on adding her back to _Licentia 6_ if you would like to have her.
