@@ -2,6 +2,10 @@
 
 ### Or: Commonly Requested Additions to LICENTIA BLACK, An ever-evolving document
 
+## UPDATED 10/23/2023.
+
+#### These additions are only supported on the main UI profile, _Licentia BLACK_ (not _Licentia MAX_). Functionality on other profiles is NOT guaranteed.
+
 ## ADDING SOFIA BACK
 
 **Another Commission for @MinuKaizer#7953!** I know some of you enjoy Sofia for some damn reason (probably because she gets so catty with Serana). I removed her to make room for more LOTD mods, as well due to a host of complaints about her annoying-ness, but here is a guide on adding her back to _Licentia 6_ if you would like to have her.
