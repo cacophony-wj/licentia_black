@@ -8,13 +8,13 @@
 
 First install all of the following mods, in the order they are listed below. For the _Sofia Bug & Patch Hub,_ be sure to install patches for the mods I use, including "Sofia - USSEP and Hearthfires Patch", "Sofia - RDO Patch," and "Sofia - GDO Patch" _in that order._ It would probably be best if you just "merged" them into the same "mod". For the sex option, be sure to choose the "Flower Girls Add-On", otherwise known as "Shadowman_Sofia_FG"
 
-https://www.nexusmods.com/skyrimspecialedition/mods/2180
-https://www.nexusmods.com/skyrimspecialedition/mods/38952
-https://www.nexusmods.com/skyrimspecialedition/mods/47383
-https://www.nexusmods.com/skyrimspecialedition/mods/64063
-https://www.nexusmods.com/skyrimspecialedition/mods/71288
-https://www.nexusmods.com/skyrimspecialedition/mods/74656
-https://www.nexusmods.com/skyrimspecialedition/mods/78367
+- https://www.nexusmods.com/skyrimspecialedition/mods/2180
+- https://www.nexusmods.com/skyrimspecialedition/mods/38952
+- https://www.nexusmods.com/skyrimspecialedition/mods/47383
+- https://www.nexusmods.com/skyrimspecialedition/mods/64063
+- https://www.nexusmods.com/skyrimspecialedition/mods/71288
+- https://www.nexusmods.com/skyrimspecialedition/mods/74656
+- https://www.nexusmods.com/skyrimspecialedition/mods/78367
 
 Locate them at the bottom of the PERSONALITIES header underneath the FOLLOWERS header in the **LEFT PANE OF MOD ORGANIZER** as shown in the first attached image. Enable them by placing a check in the bubble to the left. _Do it slowly, one at a time, or MO2 may crash and screw up your load order._ Then **refresh MO2** by striking the `F5` key.
 
