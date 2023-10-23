@@ -14,7 +14,6 @@ First install all of the following mods, in the order they are listed below. For
 - https://www.nexusmods.com/skyrimspecialedition/mods/64063
 - https://www.nexusmods.com/skyrimspecialedition/mods/71288
 - https://www.nexusmods.com/skyrimspecialedition/mods/74656
-- https://www.nexusmods.com/skyrimspecialedition/mods/78367
 
 Locate them at the bottom of the PERSONALITIES header underneath the FOLLOWERS header in the **LEFT PANE OF MOD ORGANIZER** as shown in the first attached image. Enable them by placing a check in the bubble to the left. _Do it slowly, one at a time, or MO2 may crash and screw up your load order._ Then **refresh MO2** by striking the `F5` key.
 
