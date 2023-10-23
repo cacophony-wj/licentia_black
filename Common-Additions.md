@@ -8,7 +8,7 @@
 
 #### Hey there!
 
-Occasionally I get requests to make simple additions to the list, and even more occasionally I accept a small tip to do this on behalf of someone. _Wabbajack_ Terms of Use require me to make all such "work" publicly available to anyone who utilizes the app, so here you will find the below guides that I made for my most generous Users. If you have a handful of mods to add, why not stop by https://discord.gg/jolly-coop? I guarantee you'll spend more for a shitty almost-food meal at _Taco Bell._
+Occasionally I get requests to make simple additions to the list, and even more occasionally I accept a small tip to do this on behalf of someone. _Wabbajack_ Terms of Use require me to make all such "work" publicly available to anyone who utilizes the app, so here you will find the below guides that I made for my most generous Users. If you have a handful of mods to add, why not stop by https://discord.gg/jolly-coop and ask to make use of my services? I can't guarantee that I'll accept your request, but if I do, I can guarantee you would likely spend more for a shitty almost-food meal at _Taco Bell._
 
 ## ADDING SOFIA BACK
 
