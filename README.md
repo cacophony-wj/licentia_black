@@ -151,13 +151,13 @@ Wait until all the messages appear then disappear in the upper left corner of th
 
 ## MCM Recorder
 
-Find the _MCM Recorder_ menu in the _Mod Configuration_ menu accessible via the `ESCAPE` key or the `START` button. Click the "RUN ME" recording, click OK, close the MCM menu, click the "Run Recording" button when it appears, and **TOUCH NOTHING.** Wait for a message to pop up saying playback is finished, then wait for all messages to disappear in the upper-left corner of your screen. There may occasionally be error messages referencing outdated settings. They are unimportant. Skip them.
+**_Licentia MAX_ requires a different configuration from _Licentia BLACK.** If you are playing one of the alternate profiles in _Licentia MAX_, ignore the below paragraphs (until "Final Notes") and instead read this.
+
+Find the _MCM Recorder_ menu in the _Mod Configuration_ menu accessible via the `ESCAPE` key or the `START` button. Click the **"READ README THEN RUN ME"** recording, click OK, close the MCM menu, click the "Run Recording" button when it appears, and **TOUCH NOTHING.** Wait for a message to pop up saying playback is finished, then wait for all messages to disappear in the upper-left corner of your screen. There may occasionally be error messages referencing outdated settings. They are unimportant. Skip them.
+
+**OPTIONAL** If you prefer _futanari_ style content (look it up, I'm not describing it on _Github_), run the optional **"RUN TO ADD FUTA**" MCM Recording. This will give all females in the game a 10% chance to randomly get _The Touch._ This chance applies to the player as well. If you want to force _The Touch_ on yourself, you'll need to consult the _SOS_ MCM. I can't really go into details here.
 
 Everything should now be configured automatically thanks to **NEW** MCM Recordings. Enjoy the modlist!
-
-**Please NOTE:** _Licentia NEEDS_ requires a couple more steps for these recordings. Check this URL:
-
-https://github.com/cacophony-wj/licentia_black/blob/main/NEEDSGUIDE.md
 
 ## FINAL NOTES
 
