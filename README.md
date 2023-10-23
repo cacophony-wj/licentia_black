@@ -137,7 +137,7 @@ The list's performance requirements have been greatly increased, therefore, the 
 
 If you wish to change your game's resolution for **BEST** quality, select the "INI Editor" from the _Tools_ menu along the icon bar of MO2 and change it via the `SkyrimPrefs.ini` file. Scroll down until you see the `[Display]` header and look for the `iSize` values. Note that the TYPICAL ORDER IS REVERSED, so for 1440p you would set the first value, `iSize H=` to **1440** and the second value, `iSize W=` to **2560.**
 
-If you are confident you meet the above target, but still experience severe performance drops, you may need to customize your `BIOS` settings to maximize your hardware. Refer to your motherboard's documentation. You're generally looking to enable something called the "XMP" or "ACMOS" profiles, depending on your motherboard. If that still doesn't help, there is a guide to replace a few of the more demanding mods at the endof this document, under the "Modifying" header.
+If you are confident you meet the above target, but still experience severe performance drops, you may need to customize your `BIOS` settings to maximize your hardware. Refer to your motherboard's documentation. You're generally looking to enable something called the "XMP" or "ACMOS" profiles, depending on your motherboard. If that still doesn't help, there is a guide to replace a few of the more demanding mods at the end of this document, under the "Modifying" header.
 
 ### Launching the List
 
