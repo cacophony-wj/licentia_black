@@ -28,13 +28,11 @@ Next, create a directory for your chosen modlist. I recommend something in the r
 
 Within that directory, create another directory called `downloads` -- in all lower case. (`D:\Parabellum\downloads` or `D:\NUKA\downloads`)
 
-Now consult the below URL corresponding to your version of _Parabellum_. Place all of the files in the `downloads` directory you created above. **DO NOT EXTRACT THEM.** _Wabbajack_ will take care of that.
+Now consult the below URL. Place all of the files in the `downloads` directory you created above. **DO NOT EXTRACT THEM.** _Wabbajack_ will take care of that.
 
 **Return to this document when you have downloaded all the necessary files.**
 
-_Parabellum:_ https://github.com/cacophony-wj/licentia_black/blob/main/PARABELLUMLL.MD
-
-_Parabellum NUKA:_ https://github.com/cacophony-wj/licentia_black/blob/main/NUKALL.md
+_Parabellum Complete Download Guide:_ https://github.com/cacophony-wj/licentia_black/blob/main/PARABELLUM-Complete-Download-Guide.md
 
 ## Installation
 
