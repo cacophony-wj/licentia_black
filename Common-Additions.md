@@ -28,7 +28,7 @@ The last step is to get rid of the SLOOTY replacer BodySlides. Find the mod that
 
 **EDIT:** One final step that I forgot when I initially made this guide. Some of the outfit records and leveled lists need to be changed. Drop this `ESP` into your `overwrite` folder (something like `D:\Licentia\overwrite`) and press `F5` to Refresh MO2. The ESP will appear at the bottom of your Load Order in the right pane. Place a check mark in the bubble next to it and you should be good to go.
 
-[MINISLOOT patch](/esps/Travis_MINISLOOT.esp)
+[MINISLOOT patch](/esps/Travis_MINISLOOT.esp) **(Click the RAW link in the upper right)**
 
 That should take care of it. Please be aware that all of this can only be done on a **full new game with the New Game option from the Main Menu.**
 
