@@ -26,7 +26,13 @@ This may generate an error for Missing Masters in some of the `Synthesis` ESPs. 
 
 The last step is to get rid of the SLOOTY replacer BodySlides. Find the mod that reads "SLOOT BodySlide Output" and double-click it. In here you need to click the "Filetree" tab at the top. Expand the `meshes` folder and **RIGHT CLICK -> HIDE** on everything except the one named "DX." Sometimes you will receive a permissions error doing this because of bugs in MO2 so you mey need to just go into this folder and delete these directories.
 
-That should take care of it. Enjoy **MINISLOOT.**
+**EDIT:** One final step that I forgot when I initially made this guide. Some of the outfit records and leveled lists need to be changed. Drop this `ESP` into your `overwrite` folder (something like `D:\Licentia\overwrite`) and press `F5` to Refresh MO2. The ESP will appear at the bottom of your Load Order in the right pane. Place a check mark in the bubble next to it and you should be good to go.
+
+[MINISLOOT patch](/esps/Travis_MINISLOOT.esp)
+
+That should take care of it. Please be aware that all of this can only be done on a **full new game with the New Game option from the Main Menu.**
+
+Enjoy **MINISLOOT.**
 
 ## ADDING SOFIA BACK
 
