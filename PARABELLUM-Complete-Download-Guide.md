@@ -2,7 +2,7 @@
 
 # COMPLETE ALPHABETICAL DOWNLOAD GUIDE TO ALL PARABELLUM MODS HOSTED ON LOVER'S LAB
 
-## The following guide includes all mods for the PARABELLUM and PARABELLUM NUKA modlists. There aren't many so I combined them into one.**
+## The following guide includes all mods for the PARABELLUM and PARABELLUM NUKA modlists. There aren't many so I combined them into one.
 
 It is vastly preferable to download all of these manually before you even attempt installation. Refer to the primary readme for specific steps on how to do so.
 
