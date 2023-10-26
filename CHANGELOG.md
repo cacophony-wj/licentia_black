@@ -1,5 +1,55 @@
 # LICENTIA BLACK CHANGELOG
 
+## 9.13 
+
+**CHANGES AND FIXES**
+
+- Implemented _Landscape Fixes for Grass Mods_.
+- Made grass a bit more dense since it's not clipping as badly now.
+- Found a way to ESL the overlays.
+- Disabled a stupid powerful cluster of Thalmor around Xelzaz.
+- Fixed the Maids strippers not dancing.
+
+## 9.12.4.2 
+
+- Fixed TPoses on PITCH.
+
+## 9.12.4.1
+
+- Removed a redundant ESP.
+
+## 9.12.4
+
+- Fixed a crash after CharGen caused by _Book of UUNP._
+
+## 9.12.2
+
+- Removed _Spank That Ass_ so the list can be installed again.
+- Relocated a _Hall of Forgotten_ ESP so one of the stairways is no longer blocked.
+
+## 9.12.1.2
+
+- Fixed TPose for non-humanoids on DEAD.
+
+## 9.12.1.1
+
+- Removed some redundant _Lover's Lab_ mods from the downloads directory.
+
+## 9.12.1
+
+- Fixed some darkfaces in _Dawnguard_ due to a missing ESP in a merge.
+
+## 9.11 - LICENTIA MAX
+
+- Christened the list _Licentia MAX._ Added the TOYS profile.
+- Converted some large quest mods to ESM to lower the reference max.
+
+## 9.10 - DEAD ADDED
+
+- Returned and updated the DEAD profile.
+- Created a SAFE profile for BLACK
+- Created a SAFE profile for QUESTS
+
 ## 9.9 - PITCH ADDED
 
 - Incoporated the old _PITCH_ Profile into the list. Consult previous CHANGELOGs for details.
