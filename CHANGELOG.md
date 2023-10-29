@@ -1,5 +1,12 @@
 # LICENTIA BLACK CHANGELOG
 
+## 9.14 - BLACK COMPILED FOR THE UI
+
+This version is equivalent to baseline BLACK from 9.0 without any of the additional profiles.
+
+- Updated `enbseries` to the latest silent release.
+- Fixed a problem with SOS sliders not showing up.
+- 
 ## 9.13 
 
 **CHANGES AND FIXES**
