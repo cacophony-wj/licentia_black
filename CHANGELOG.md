@@ -1,5 +1,15 @@
 # LICENTIA BLACK CHANGELOG
 
+## 9.15
+
+- Removed _Inferno._ It behaved badly with my ENB.
+- Removed _ELECTRIFY._ NAT's lightning effects are shinier.
+- Removed _ARCTIC._ Might as well.
+- Reinstalled _Embers XD_ for the new Elemental setup.
+- Updated _Lux_ to 6.4.1
+- Reinstalled the _Lux_ Suite with better configurations.
+- Patched _Spellsiphon_ to hide that damn ball of electricity that appears when you try to do anything.
+  
 ## 9.14.1
 
 - Fixed the weird snowy treasure chests.
