@@ -1,5 +1,11 @@
 # LICENTIA BLACK CHANGELOG
 
+## 9.14.1
+
+- Fixed the weird snowy treasure chests.
+- Fixed weird fires in the Markarth area.
+- Fixed weird eyes on some of the Khajiit Caravaneers.
+  
 ## 9.14 - BLACK COMPILED FOR THE UI
 
 This version is equivalent to baseline BLACK from 9.0 without any of the additional profiles.
