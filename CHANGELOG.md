@@ -2,6 +2,8 @@
 
 ## 9.15
 
+**NOTE:** If you wish to fix your wonky install without this potentially save-breaking Update, simply open the "ENB Light" mod and un-hide all the files inside.
+
 - Removed _Inferno._ It behaved badly with my ENB.
 - Removed _ELECTRIFY._ NAT's lightning effects are shinier.
 - Removed _ARCTIC._ Might as well.
