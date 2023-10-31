@@ -20,6 +20,7 @@
     "nsfw": true,
     "utility_list": false,
     "image_contains_title": false,
+    "DisplayVersionOnlyInInstallerView": false,
     "force_down": false,
     "links": {
       "image": "https://raw.githubusercontent.com/cacophony-wj/licentia_black/main/images/GZeIMK8U.png",
@@ -58,25 +59,26 @@
     "nsfw": true,
     "utility_list": false,
     "image_contains_title": false,
+    "DisplayVersionOnlyInInstallerView": false,
     "force_down": false,
     "links": {
       "image": "https://raw.githubusercontent.com/cacophony-wj/licentia_black/main/images/Ku9Nqihk.png",
       "readme": "https://github.com/cacophony-wj/licentia_black/blob/main/PARABELLUM.MD",
-      "download": "https://authored-files.wabbajack.org/Parabellum.wabbajack_44b7da77-d459-4de4-9794-70e6e57a977d",
+      "download": "https://authored-files.wabbajack.org/Parabellum.wabbajack_108c781b-7c73-44e4-a8e8-668795656337",
       "machineURL": "parabellum",
       "discordURL": "https://discord.gg/jolly-coop"
     },
     "download_metadata": {
-      "Hash": "FalPStiCPy4=",
-      "Size": 27772192,
-      "NumberOfArchives": 276,
-      "SizeOfArchives": 95272568591,
-      "NumberOfInstalledFiles": 58656,
-      "SizeOfInstalledFiles": 130804134277
+      "Hash": "5CIWD8U07rk=",
+      "Size": 27773837,
+      "NumberOfArchives": 275,
+      "SizeOfArchives": 95272307520,
+      "NumberOfInstalledFiles": 58657,
+      "SizeOfInstalledFiles": 130803467457
     },
-    "version": "0.8.1",
+    "version": "0.9",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2023-10-26T09:09:31.6887703Z",
+    "dateUpdated": "2023-10-31T03:52:56.5737644Z",
     "repositoryName": ""
   }
 ]
