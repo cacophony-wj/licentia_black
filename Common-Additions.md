@@ -2,7 +2,7 @@
 
 ### Or: Commonly Requested Additions to LICENTIA BLACK, An ever-evolving document
 
-## UPDATED 10/23/2023.
+## UPDATED 11/1/2023.
 
 #### These additions are only supported on the main UI profile, _Licentia BLACK_ (not _Licentia MAX_). Functionality on other profiles is NOT guaranteed.
 
@@ -118,3 +118,36 @@ Place the attached ESP below at the end of your Load Order. You can select any h
 **Warning:** I have received scattered user reports that this mod is damaging to long-term saves, particularly due to Yuriana and other followers' heavily-scripted AoE spells and especially in combination with other _Wenches_ series of mods. If you notice spells being cast repeatedly on you even in the absence of the triggers that are supposed to proc them, you have encountered this bug, which reports suggest only begins to occur after about 50 hours of play. Use with caution.
 
 [Yuriana Patch](/esps/traces_yuriana.esp) **(Click the RAW link in the upper right)**
+
+## ADDING COLDHAVEN
+
+_Coldhaven_, the Vampire City, is currently only available in the **_Licentia DEAD_** profile. This commission -- at the request of @Bistrus -- allows you to add it to **any** of the profiles.
+
+The three mods you'll need are here:
+
+https://www.nexusmods.com/skyrimspecialedition/mods/22379
+https://www.nexusmods.com/skyrimspecialedition/mods/56193
+https://www.nexusmods.com/skyrimspecialedition/mods/22379
+
+You'll want the **Main Files** from each page and **nothing else.** Install them into _MO2_ in the order listed above and drag them under "Added Mods."
+
+For the Load Order in the Right Pane, you'll want `Coldhaven.esm` below the **last major Quest mod** (for me that's `Undeath.esp). `ColdhavenOcclusionCulling.esp` goes just above `Dyndolod.esm` **NOT THE ESP.** This is near the top. 
+
+For the xEdit conflicts, attach the following patch at the end of your Load Order. Remember, the easiest way to do this is to drop the `ESP` into "overwrite" and **REFRESH MO2** (strike the `F5` key). Then you can enable it by placing a check in it.
+
+[Coldhaven Patch](/esps/Bistrus_Coldhaven.esp) **Click the RAW link in the upper right)**
+
+## BETTER VAMPIRES NPCs & WEAPONS
+
+This Commission (again for @Bistrus) is a combo. You need both mods:
+
+https://www.nexusmods.com/skyrimspecialedition/mods/9510
+https://www.nexusmods.com/skyrimspecialedition/mods/34466
+
+Again you'll want the **Main Files Only.** Install them into _MO2_ (any order will do) and drag them under "Added Mods."
+
+They can really go almost anywhere in your Load Order, but for consistency's sake, I recommend just above `Schlongs of Skyrim.esp` **NOT THE ESM.** Follow the same procedure as above to enable them.
+
+This patch goes at the end of your Load Order.
+
+[Better Vampire Patch](/esps/Bistrus_BetterVampires.esp) **Click the RAW link in the upper right)**
