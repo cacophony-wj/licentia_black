@@ -131,7 +131,7 @@ The three mods you'll need are here:
 
 You'll want the **Main Files** from each page and **nothing else.** Install them into _MO2_ in the order listed above and drag them under "Added Mods."
 
-For the Load Order in the Right Pane, you'll want `Coldhaven.esm` below the **last major Quest mod** (for me that's `Undeath.esp). `ColdhavenOcclusionCulling.esp` goes just above `Dyndolod.esm` **NOT THE ESP.** This is near the top. 
+For the Load Order in the Right Pane, you'll want `Coldhaven.esm` below the **last major Quest mod** (for me that's `Undeath.esp`). `ColdhavenOcclusionCulling.esp` goes just above `Dyndolod.esm` **NOT THE ESP.** This is near the top. 
 
 For the xEdit conflicts, attach the following patch at the end of your Load Order. Remember, the easiest way to do this is to drop the `ESP` into "overwrite" and **REFRESH MO2** (strike the `F5` key). Then you can enable it by placing a check in it.
 
