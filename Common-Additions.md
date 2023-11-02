@@ -125,9 +125,9 @@ _Coldhaven_, the Vampire City, is currently only available in the **_Licentia DE
 
 The three mods you'll need are here:
 
-https://www.nexusmods.com/skyrimspecialedition/mods/22379
-https://www.nexusmods.com/skyrimspecialedition/mods/56193
-https://www.nexusmods.com/skyrimspecialedition/mods/22379
+- https://www.nexusmods.com/skyrimspecialedition/mods/22379
+- https://www.nexusmods.com/skyrimspecialedition/mods/56193
+- https://www.nexusmods.com/skyrimspecialedition/mods/22379
 
 You'll want the **Main Files** from each page and **nothing else.** Install them into _MO2_ in the order listed above and drag them under "Added Mods."
 
@@ -141,8 +141,8 @@ For the xEdit conflicts, attach the following patch at the end of your Load Orde
 
 This Commission (again for @Bistrus) is a combo. You need both mods:
 
-https://www.nexusmods.com/skyrimspecialedition/mods/9510
-https://www.nexusmods.com/skyrimspecialedition/mods/34466
+- https://www.nexusmods.com/skyrimspecialedition/mods/9510
+- https://www.nexusmods.com/skyrimspecialedition/mods/34466
 
 Again you'll want the **Main Files Only.** Install them into _MO2_ (any order will do) and drag them under "Added Mods."
 
