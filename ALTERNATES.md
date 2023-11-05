@@ -92,6 +92,6 @@ All three methods of outfits are available (normal outfits, lootable sexy gear f
 
 ## "OLD VERSIONS" directory of MEGA
 
-### These are only backups for those lookihg for previous versions of the list.
+### These are only backups for those looking for previous versions of the list.
 
 The only purpose is Archival. **Do not install them unless you know what you're looking for.** Questions about them will be ignored.
