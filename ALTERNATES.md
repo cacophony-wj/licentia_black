@@ -22,14 +22,6 @@ This is a backup version of the one on the Gallery, available in case something 
 This is a massive, **700GB** profile featuring all of the available versions so far, with the exception of **EXPANSION.** You can swap between them from a dropdown so long as you choose a _New Game._ You can't continue from the starting room or anywhere else, it has to be a **FULLY NEW GAME** selected from the Main Menu. For information
 on the Profiles within, continue reading.
 
-### Parabellum.7z
-
-This is a backup version of **PARABELLUM**, my **NSFW** _Fallout 4_ modlist, from the _Wabbajack_ Gallery. It is one of the earliest lists to feature **all three chapters** of _Sim Settlements 2_ and also distinguishes itself with attractive NPCs, curvaceous and muscular bodies, and a hotkey method to have immersive romance with whomever you want.
-
-### Parabellum NUKA.7z
-
-This is an alternate version of **PARABELLUM** almost entirely centered on the giant _Lover's Lab_ mod **NUKA RIDE.** You can read about it [here](https://www.loverslab.com/files/file/18178-aaf-nuka-ride-a-porn-studio-mod/). There is little point to playing this Version unless you go straight into **NUKA RIDE.**
-
 ## "SUMMER VERSIONS" directory of MEGA
 
 This directory contains alternate Versions of _Licentia_ based on _Licentia 9_ which was maintained in the Summer of 2023. They are abandoned and no longer supported, but you can still install them if you want, and I will try to help you if I can. They are all in the process of being revised to match the latest version.
