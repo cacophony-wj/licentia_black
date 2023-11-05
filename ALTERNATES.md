@@ -36,7 +36,7 @@ This directory contains alternate Versions of _Licentia_ based on _Licentia 9_ w
 
 ### Licentia BLACK.7z
 
-This is *Version 9** of _Licentia_ from a few weeks ago. Extremely similar to the one on the Gallery, so no real reason to install it.
+This is **Version 9** of _Licentia_ from a few weeks ago. Extremely similar to the one on the Gallery, so no real reason to install it.
 
 ### Licentia COMBAT.7z
 
