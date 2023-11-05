@@ -4,7 +4,7 @@
 
 This is likely where you discovered the list, inside the _Wabbajack_ app under the **NSFW** checkbox for _Skyrim_. This is usually the stablest, most-tested version, suitable for long playthroughs. I have multiple reports of saves lasting to 400 hours with over 3,000 collected _LOTD_ Displays. When in doubt, choose the UI version.
 
-However, if you wish to indulge a different form of light **NSFW* gameplay, alternate versions of the list are available. You can find them all at _Licentia's_ home on **MEGA* [here](https://mega.nz/folder/RawGxSQC#18F3HuX5i5MvXzsMb6ARGg).
+However, if you wish to indulge a different form of **NSFW** gameplay, alternate versions of the list are available. You can find them all at _Licentia's_ home on **MEGA* [here](https://mega.nz/folder/RawGxSQC#18F3HuX5i5MvXzsMb6ARGg).
 
 To install one of these files, you must extract them with an archive app such as _7zip_ or _WinRAR_ to a directory of your choice, then open the _Wabbajack_ app. Click the "Install From Disk" icon in the middle, and in the top box, browse to the location of the extracted `.wabbajack` file (such as `Licentia QUESTS.wabbajack`).
 Ignore the `json` files, all they are is a list of all the mods for each Profile.
