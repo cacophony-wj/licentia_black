@@ -86,7 +86,7 @@ There are also **COMBAT** versions of all of the above (focus on flashy 3rd pers
 
 ### Licentia EXPANSION.7z
 
-This is basically _Licentia QUESTS_ packed out to the brim with thousands of more collectibles for _LOTD_. It is the most **UNSTABLE AND UNTESTED PROFILE.** Excpect problems if you play it.
+This is basically _Licentia QUESTS_ packed out to the brim with thousands of more collectibles for _LOTD_. It is the most **UNSTABLE AND UNTESTED PROFILE.** Expect problems if you play it.
 
 All three methods of outfits are available (normal outfits, lootable sexy gear from boss chests, and everyone in skimpy outfits), but there is no **COMBAT** support.
 
