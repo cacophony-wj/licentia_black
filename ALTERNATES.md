@@ -82,7 +82,7 @@ This version of _Licentia_ is updated to **10** and adds almost all of the _Hall
 
 Under the dropdown you will find "Licentia QUESTS," which features normal outfits, "Licentia QUESTS w. lootable SLOOT" which features normal outfits but sexy endgame boss gear in chests, and "Licentia QUESTS w. SLOOTY REPLACERS" which has everyone wearing skimpy clothing.
 
-There are also COMBAT versions of all of the above, with the third person focus of the previously mentioned **Licentia COMBAT.**
+There are also COMBAT versions of all of the above (focus on flashy 3rd person melee animations), with the third person focus of the previously mentioned **Licentia COMBAT.**
 
 ### Licentia EXPANSION.7z
 
