@@ -2,7 +2,7 @@
 
 ### It is generally recommended to play the version of Licentia available on the Wabbajack Gallery.
 
-This is likely where you discovered the list, inside the _Wabbajack_ app under the **NSFW* checkbox for _Skyrim_. This is usually the stablest, most-tested version, suitable for long playthroughs. I have multiple reports of saves lasting to 400 hours with over 3,000 collected _LOTD_ Displays. When in doubt, choose the UI version.
+This is likely where you discovered the list, inside the _Wabbajack_ app under the **NSFW** checkbox for _Skyrim_. This is usually the stablest, most-tested version, suitable for long playthroughs. I have multiple reports of saves lasting to 400 hours with over 3,000 collected _LOTD_ Displays. When in doubt, choose the UI version.
 
 However, if you wish to indulge a different form of light **NSFW* gameplay, alternate versions of the list are available. You can find them all at _Licentia's_ home on **MEGA* [here](https://mega.nz/folder/RawGxSQC#18F3HuX5i5MvXzsMb6ARGg).
 
