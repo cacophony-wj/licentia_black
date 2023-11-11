@@ -6,6 +6,7 @@ Been a bit distracted lately so haven't been keeping up with the `CHANGELOG.md`.
 
 ### ALL
 
+- Upgraded _Mod Organizer 2_ to v2.5rc1
 - Added _Katana - Journey in the Shadows_
 - Added _Chooey's Choice Requirements_
 - Added _Katana - Chooey's Choice_
