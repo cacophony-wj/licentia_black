@@ -82,6 +82,8 @@ This is basically _Licentia QUESTS_ packed out to the brim with thousands of mor
 
 All three methods of outfits are available (normal outfits, lootable sexy gear from boss chests, and everyone in skimpy outfits), but there is no **COMBAT** support.
 
+**AS OF 11/11/2023 EXPANSION IS NOW AVAILABLE AS A DROPDOWN FROM QUESTS**
+
 ## "OLD VERSIONS" directory of MEGA
 
 ### These are only backups for those looking for previous versions of the list.
