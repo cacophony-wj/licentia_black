@@ -1,5 +1,81 @@
 # LICENTIA BLACK CHANGELOG
 
+## LICENTIA QUESTS VERSIONS THROUGH 10.5
+
+Been a bit distracted lately so haven't been keeping up with the `CHANGELOG.md`. So, here's an AIO.
+
+### ALL
+
+- Added _Katana - Journey in the Shadows_
+- Added _Chooey's Choice Requirements_
+- Added _Katana - Chooey's Choice_
+- Added _Megara - Chooey's Choice_
+- Added _DeserterX All in One for CBBE_
+- Added _Paraphernalia - Snow Color Fixes_ (didn't work)
+- Added _Sunstarved - Tanlines for CBBE_
+- Added _Shep's Tattoo Collection_
+- Added _Bitchcraft Tattoos_
+- Added _THeHaG's and BladeSinger's Private Facial Tattoos_
+- Added _TheHaG's and BladeSinger's Private Body Tattoos_
+- Added _ZMD's Gothic Makeup Suite SE_
+- Added _ZMD's Gothing Arcane Tattoos SE_
+- Added _TRX Spider Web Tattoo Pack_
+- Added _Havok's Racemenu Makeup Overlays_
+- Swapped _Vominheim SE_ for _New Vominheim SE_
+- Swapped _Immersive Armors Replacer & Patches_ out for _Immersive Armors Refitted & Reinforced_
+- Installed a few more _Clear Maps_
+- Downgraded _Spell Perk Item Distributor_ to 6.0.3 (for compatibility)
+- Fixed an incompatibility in Skyhaven Temple that caused a system freeze.
+- Finally solved the Vampiric Drain problem. Does not work on Undead, Ghosts, Daedra and Automatons until you get the perk for it.
+
+### COMBAT
+
+- Added. In line with other _COMBAT_ versions.
+
+### EXPANSION
+
+- Profile Added, includes:
+- Added _Collectible Dragonling Eggs_
+- Added _Golden Egg Treasure Hunt_
+- Added _More Colorful Collectibles_
+- Added _Narrative Loot_
+- Added _PSBoss Statuettes_
+- Added _Hall of Forgotten LOTD & TCC Patches_ (note that Narrative Loot doesn't have a TCC patch yet)
+- Reran _BodySlides_ for the _DX_ armors
+
+### PYJAMAS
+
+- Profile commission by ANONYMOUS
+- Added _COCO 2B Wedding Outfit_
+- Added _COCO Battle Angels_
+- Added _COCO Caress of Venus_
+- Added _COCO Chaos Sorceror_
+- Added _COCO Deliciously Bride_
+- Added _COCO Fairy Queen_
+- Added _COCO Flyin' Dance_
+- Added _COCO Goddess of War_
+- Added _COCO Goddess of War V2_
+- Added _COCO Mulan_
+- Added _COCO Mysterious Mage_
+- Added _COCO Pinup Cheongsam_
+- Added _COCO Scarlet Rose_
+- Added _COCO Shadow Assassin_
+- Added _COCO Snow Queen_
+- Added _COCO Succubus_
+- Added _COCO Twilight Sorceress_
+- Added _COCO Witchiness_
+- Added _Dint999 Mysterious Knight_
+- Added _MELODIC Chloe_
+- Added _MELODIC Olga Discordia_
+- Added _RB Barbarian Set_
+- Added these armors a piece at a time to "Boss Chests"
+- Removed crafting options (they were trivial)
+- Generated _PYJAMAS BodySlide Output_
+
+### SAFE
+
+- Added. In line with previous SAFE versions. Based on plain QUESTS for now.
+  
 ## 9.15
 
 **NOTE:** If you wish to fix your wonky install without this potentially save-breaking Update, simply open the "ENB Light" mod and un-hide all the files inside.
