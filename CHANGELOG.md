@@ -76,6 +76,17 @@ Been a bit distracted lately so haven't been keeping up with the `CHANGELOG.md`.
 ### SAFE
 
 - Added. In line with previous SAFE versions. Based on plain QUESTS for now.
+
+### FIXES
+
+- Attempted a different installation method so forges would stop turning purple after Wabbajack runs.
+- Minor nerfs to _Kitchen Knife_ from _Slenderman_ and _Argonian Blade_ from _JaySus swords_
+- Tried a fix for pink snow in the morning that didn't work.
+- Removed the square of pubes around Kaidan's manhood.
+- Tried to blend the futa texture better. Maybe a little, I'm no artist.
+- Ran _Nemesis_ for all profiles.
+- Ran _Synthesis_ for all profiles.
+- Ran _Lods_ for all profiles.
   
 ## 9.15
 
