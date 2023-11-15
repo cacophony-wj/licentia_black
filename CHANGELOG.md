@@ -1,5 +1,9 @@
 # LICENTIA BLACK CHANGELOG
 
+## LICENTIA BLACK 10.6.2
+
+- Brought the list in line with the changes listed below, for those labeled BLACK or ALL.
+  
 ## LICENTIA QUESTS VERSIONS THROUGH 10.5
 
 Been a bit distracted lately so haven't been keeping up with the `CHANGELOG.md`. So, here's an AIO.
