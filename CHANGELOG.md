@@ -1,5 +1,28 @@
 # LICENTIA BLACK CHANGELOG
 
+## LICENTIA QUESTS 10.7
+
+- Added _KR2's Kaidan NPC Overhaul_
+- Added _GLENMORIL - NPC Overhaul - Salt and Wind_
+- Added _Falskaar - Survival Mode Warmth Fixes_
+- Added _Auri VIGILANT Commentary Patch ESLified_
+- Added _Toggle Compass Hotkey_
+- Updated _New Vominheim SE_ to 2.20
+- Updated _Legacy of the Dragonborn - The Curator's Companion_ to 6.2.4
+- Updated _Water for ENB_ to 1.8.4
+- Updated _Embers XD_ to 2.9.1
+- Updated _Chooey's Choice Requirements_ to 4.0.0
+- Updated _Security Overhaul SKSE - Add-ons_ to 1.9.1
+- Updated _Security Overhaul SKSE - Some More Locks_ to 1.0.5
+- Updated _Crashlogger AE_ to 1.11.1
+- Replaced _Skygazer Moons GLOW_ with _Skygazer Moons NO GLOW_
+- Reinstalled _I'm Talkin Here_ to add _Wheel of Time_ silence
+- Removed _Ultimate Immersion Toggle_
+
+#### NOTE
+
+The addition of the NO GLOW moon mod fixes the skies at night from being floodlamp bright.
+
 ## LICENTIA BLACK 10.6.2
 
 - Brought the list in line with the changes listed below, for those labeled BLACK or ALL.
