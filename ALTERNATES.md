@@ -18,8 +18,7 @@ Below I will briefly describe each of the lists.
 
 This is a backup version of the one on the Gallery, available in case something happens to the original. If you have already used _Wabbajack's_ Main Menu to download _Licentia,_ there is no purpose to this version. It is identical.
 
-## "NEW! ALTERNATES" directory of MEGA
-
+### Licentia MAX is no longer available due to mod deletions.
 
 ## "SUMMER VERSIONS" directory of MEGA
 
