@@ -47,7 +47,7 @@ This modlist will not function without purchasing the additional _Anniversary Ed
 
 First, ensure that you have purchased the _Anniversary Edition_ DLC from _Steam._ MSRP on it is about $20. Then you will want to use your _Steam_ interface to verify all of your local files and ensure you have the most up-to-date versions. 
 
-After that the process gets more involved. You will need to launch _Skyrim_ **FROM STEAM** without any mods or by utilizing _Vortex_ or _Mod Organizer 2_ to reach the Main Menu. If you have just purchased the CC, the game may prompt you to download them automatically. If not, Click the **Creations** menu option along the bottom right. You will see _Skyrim's_ new interface for downloading mods directly from Bethesda.
+After that the process gets more involved. You will need to launch _Skyrim_ **FROM STEAM** without any mods to reach the Main Menu. If you have just purchased the CC, the game may prompt you to download them automatically. If not, Click the **Creations** menu option along the bottom right. You will see _Skyrim's_ new interface for downloading mods directly from Bethesda.
 
 Click the **[O] OPTIONS** button at the bottom of the screen. A menu will appear from which you need to select **Download all owned Creation Club Creations.** The process will begin after this and takes about five minutes, you **CANNOT** ALT-TAB out of this or minimize or the downloads won't complete, so just be patient. Once all files are downloaded, you can close Vanilla Skyrim and continue the installation as described below.
 
@@ -64,10 +64,6 @@ To ensure that _Steam_ does not automatically update _Skyrim_ for you and lock y
 **Set the Game language to English**
 
 _Wabbajack_ will check your game files and make sure that your installed version is the same as my installed version. This also means that any other language than English will fail the installation. You can change the game's language in the Properties window as mentioned above. It may be required to verify your files afterward.
-
-**Install Skyrim** 
-
-The _Anniversary Edition_ upgrade is required. No exceptions will be made. If you do not have the game installed, do so and launch the vanilla game to download all _Creation Club_ content available with the upgrade. If for some reason you have problems with your _Steam_ installation, you may need to verify the local content as described in _Steam's_ documentation.
 
 **Do Not Use Any Part of This List in a Protected Folder**
 
@@ -89,7 +85,7 @@ This can be accomplished in the System Settings for Windows. It is recommended t
 
 **Ensure Enough Free Storage Space**
 
-As of this writing approximately **20GB** is required for the `Steam` folder, **170 GB** for the downloads folder, and **260 GB** for the modlist folder. Approximately **30 GB** of free space is required on your `Windows` drive and **30 GB** additional free space on your `Wabbajack` drive to leave room for temporary files, patches, and caches. Thus the total required space is approximately **510 GB.** These do not all need to be on the same drive.  Finally, never reduce the free space on any drive below **15%** (the bar in _File Manager_ will turn red) or you will suffer severe performance problems.
+As of this writing approximately **20GB** is required for the `Steam` folder, **180 GB** for the downloads folder, and **260 GB** for the modlist folder. Approximately **30 GB** of free space is required on your `Windows` drive and **30 GB** additional free space on your `Wabbajack` drive to leave room for temporary files, patches, and caches. Thus the total required space is approximately **520 GB.** These do not all need to be on the same drive.  Finally, never reduce the free space on any drive below **15%** (the bar in _File Manager_ will turn red) or you will suffer severe performance problems.
  
 ##  Using Wabbajack
 
@@ -107,7 +103,7 @@ There are a lot of different scenarios where _Wabbajack_ will produce an error. 
 
 **DO NOT CONTACT MOD AUTHORS DIRECTLY.**
 
-I, cacophony, fully accept any responsibility for difficulties with this list and any conflicts I introduce, so please do not question mod authors on the _Nexus_, _Lover's Lab_, _Vector Plexus_ or any other site about bugs that may result from this lists' use. Direct your questions to me, not the innocent mod authors who should never be expected to support a modlist setup.
+I, cacophony, fully accept any responsibility for difficulties with this list and any conflicts I introduce, so please do not question mod authors on the _Nexus_, _Lover's Lab_, or any other site about bugs that may result from this lists' use. Direct your questions to me, not the innocent mod authors who should never be expected to support a modlist setup.
 
 **Various files beginning with "cc" and ending with "esl" or "esm" failed to download.**
 
@@ -150,9 +146,11 @@ Wait until all the messages appear then disappear in the upper left corner of th
 
 ## MCM Recorder
 
-**_Licentia PITCH_** and **_Licentia DEAD_** _require very specific, more complex configurations_ as well as a whole host of additional instructions and warnings. If you are playing one of these profiles in _Licentia MAX_, ignore the below paragraphs (until "Final Notes") and instead [read this](https://github.com/cacophony-wj/licentia_black/blob/main/Running-MCMs-For-Pitch-&-Dead.md).
+**_SERVITIUM_** _requires very specific, more complex configurations_ as well as a whole host of additional instructions and warnings. If you are playing one of these profiles in _Licentia MAX_, ignore the below paragraphs (until "Final Notes") and instead [read this](https://github.com/cacophony-wj/licentia_black/blob/main/Running-MCMs-For-Pitch-&-Dead.md).
 
 Find the _MCM Recorder_ menu in the _Mod Configuration_ menu accessible via the `ESCAPE` key or the `START` button. Click the **"READ README THEN RUN ME"** recording, click OK, close the MCM menu, click the "Run Recording" button when it appears, and **TOUCH NOTHING.** Wait for a message to pop up saying playback is finished, then wait for all messages to disappear in the upper-left corner of your screen. There may occasionally be error messages referencing outdated settings. They are unimportant. Skip them.
+
+Some users with weak CPU configurations may experience the MCM Recording "sticking" at about the "Genesis Unleashed" step. If this happens to you and no movement occurs after approximately 60 seconds, try exiting the starting room there before you run the recording. **NOTE:** This suggests to me that your CPU is rather weak for the VM load so you may have a bad time later on.
 
 **OPTIONAL** If you prefer _futanari_ style content (look it up, I'm not describing it on _Github_), run the optional **"RUN TO ADD FUTA**" MCM Recording. This will give all females in the game a 10% chance to randomly get _The Touch._ This chance applies to the player as well. If you want to force _The Touch_ on yourself, you'll need to consult the _SOS_ MCM. I can't really go into details here.
 
@@ -166,7 +164,7 @@ When you reach your first exterior world location, you will be prompted to enabl
 
 Many times newer versions of _Licentia_ will require an updated version of _Wabbajack_. Please ensure that you run _only_ the `Wabbajack.exe` located in the root of the _Wabbajack_ directory. _Wabbajack_ will automatically update to the latest version if necessary. 
 
-Download the modlist from the Gallery and specify the same directories. Then check the "Overwrite" box. Never update a list without checking this box. If you have customized the list, you can append `[NoDelete]` to the beginning of your added mods in _Mod Organizer 2_ and they will not be deleted. However, they will be unchecked and relocated to the bottom of the list of installed mods. You will need to return them to their rightful place and re-enable or rewrite any patches you created.
+Download the modlist from the Gallery and specify the same directories. If you have customized the list, you can append `[NoDelete]` to the beginning of your added mods in _Mod Organizer 2_ and they will not be deleted. However, they will be unchecked and relocated to the bottom of the list of installed mods. You will need to return them to their rightful place and re-enable or rewrite any patches you created.
 
 It is rarely recommended to continue a save when you update a modlist.
 
