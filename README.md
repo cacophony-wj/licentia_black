@@ -41,6 +41,16 @@ _Licentia MAX:_ Refer to the [Complete Alphabetical Lover's Lab Download Guide f
 
 ## Installation
 
+### Downloading the Creation Club Content
+
+This modlist will not function without purchasing the additional _Anniversary Edition_ Creation Club Content available from Bethesda. I enjoy the CC Content and I have no desire to maintain double the number of Profiles so in order to play _Licentia_ you must purchase and install it **before you begin.** 
+
+First, ensure that you have purchased the _Anniversary Edition_ DLC from _Steam._ MSRP on it is about $20. Then you will want to use your _Steam_ interface to verify all of your local files and ensure you have the most up-to-date versions. 
+
+After that the process gets more involved. You will need to launch _Skyrim_ **FROM STEAM** without any mods or by utilizing _Vortex_ or _Mod Organizer 2_ to reach the Main Menu. If you have just purchased the CC, the game may prompt you to download them automatically. If not, Click the **Creations** menu option along the bottom right. You will see _Skyrim's_ new interface for downloading mods directly from Bethesda.
+
+Click the **[O] OPTIONS** button at the bottom of the screen. A menu will appear from which you need to select **Download all owned Creation Club Creations.** The process will begin after this and takes about five minutes, you **CANNOT** ALT-TAB out of this or minimize or the downloads won't complete, so just be patient. Once all files are downloaded, you can close Vanilla Skyrim and continue the installation as described below.
+
 ###  Installing Microsoft Visual C++ Redistributable Package
 
 The _Microsoft Visual C++_ redistributable package is required for _Mod Organizer 2_ and you can download it from _Microsoft._ Download the x64 version under "Visual Studio 2015, 2017 and 2019" [here](https://aka.ms/vs/16/release/vc_redist.x64.exe).
