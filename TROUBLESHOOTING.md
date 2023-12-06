@@ -167,4 +167,4 @@ Skyrim uses a very tiny variable to keep track of these. The maximum number of q
 
 So you've had a taste of the caco experience and want more, you say? To get specific help with this modlist or modding in general (NSFW or SFW) feel free to join my discord server located at the link below. Depending on the phases of the moon you may find alphas of lists in progress, betas of lists being tested, tips for lewding lists and games yourself, or other strange projects. I'm also one of the few WJ modders who welcome additions to his list (or any list) and offer my services as support. 
 
-https://discord.gg/VVRWPJmgf7
+https://discord.gg/jolly-coop
