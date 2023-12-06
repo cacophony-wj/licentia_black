@@ -1,5 +1,60 @@
 # LICENTIA BLACK CHANGELOG
 
+## BLACK 11
+
+- Return of all the Summer Profiles. Check docs on Github.
+- Brought all versions in equivalence for those mods which are shared.
+- Added _Tools of Kagrenac - EVG Animated Traversal Add-On_
+- Added _Tools of Kagrenac - Immersive College of Winterhold Compatibility_
+- Added _Real Wildlife Skyrim - USMP Patch_
+- Added _Real Wildlife Skyrim - Bruma Patch_
+- Added _OnMagicApply Replacer_
+- Updated _Kaiden Extended Edition AIO_ to 1.7.6
+- Updated _Smooches of Skyrim_ to 1.8
+- Updated _Tools of Kagrenac_ to 1.6.0a
+- Updated _Skyrim Revamped Rebalanced and Releveled_ to 2.56
+- Updated _Real Wildlife Improved SE_ to 4.2
+- Updated _Embers XD_ to 2.9.1
+- Updated _Water for ENB_ to 1.85
+- Updated _Unaggressive Dragon Priests Fix_ to 1.3
+- Updated _SPID - NFF - Add Ignore Token to Custom AI Followers_ to 1.0.19
+- Updated _Crashlogger AE_ to 1.11.1
+- Requested a custom fix be made for _Ordinator's_ MagicApply spam
+
+## SERVITIUM 1.1.1
+
+- Added SL Tools
+- Updated Billyy's SLAL Animations to 7.2
+- Updated HIMBO to 5.3
+- Updated Immersive Armours SSE CBBE BodySlide to 3.0
+- Updated Chooey's Choice Requirements to 4.0
+- Updated New Vominheim SE to 2.21
+- Updated Baba Yaga and the Labyrinth to 0.4.1
+- Updated SDA Patch Hub to 2.8 (works with SexLab!)
+- Updated Security Overhaul SKSE - Some More Locks to 1.0.5
+- Updated Landscape Fixes for Grass Mods to 5.2
+- Updated Simplicity of Snow to 0.18
+- Updated The Curator's Companion to 6.2.4
+- Removed Deviously Helpless. I do not like this mod.
+- Fixed the link for Skyrim Vixens - LOTD Paintings
+- Deleted some leftover OStim files
+
+## LICENTIA QUESTS 10.9
+
+- Updated Immersive Armors SSE CBBE BodySlide to 3.0
+- Updated Highly Improved Male Body Overhaul to 5.3
+- Updated SDA Patch Hub SE to 2.8
+- Updated Baba Yaga and the Labyrinth to 0.4.1
+- Updated Landscape Fixes For Grass Mods to 5.2
+- Updated Simplicity of Snow to 0.18
+
+## LICENTIA QUESTS 10.8
+
+- Updated _Kaidan Extended Edition AIO_ to 1.7.5
+- Updated _New Vominheim SE_ to 2.21
+- Updated _Skyland AIO_ to 4.32
+- Updated _Simplicity of Snow_ to 0.17
+
 ## LICENTIA QUESTS 10.7
 
 - Added _KR2's Kaidan NPC Overhaul_
