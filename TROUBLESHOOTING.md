@@ -89,7 +89,7 @@ The Civil War questline is incredibly broken even in vanilla Skyrim partially du
 
 ### I can't complete the bandit raid quest for Whiterun (or another city)
 
-The Quest Objective to keep the Guard Captain alive is optional and he is extremely weak. Most likely he will die. You can still complete the quest if he does, you will just not receive any reward from the city (which is a shit reward not worth the work IMO).
+The Quest Objective to keep the Guard Captain alive is optional and he is extremely weak. Most likely he will die. You can still complete the quest if he does, you will just not receive any reward from the city (which is a worthless reward not worth the work IMO).
 
 ### I'm trying to kill the Necromancers for Undeath and the quest won't complete.
 
