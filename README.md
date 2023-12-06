@@ -138,10 +138,6 @@ If you are confident you meet the above target, but still experience severe perf
 
 Launch _ModOrganizer.exe_ from the directory in which you installed the list. Launch the game from the **SKSE** entry in the drop-down menu.
 
-### NEW! Confused about where to begin?
-
-(Try a helpful _Licentia_ starting guide)[https://www.canva.com/design/DAF1LecdP9M/zve9MIfRDE2D50dxXsBEWA/edit] by my friend @Charlistic!
-
 ## MCM CONFIGURATION
 
 ## WHEN YOU SPAWN IN HELGEN'S INN, DO NOT TOUCH ANYTHING!
@@ -163,6 +159,10 @@ Everything should now be configured automatically thanks to **NEW** MCM Recordin
 ## FINAL NOTES
 
 When you reach your first exterior world location, you will be prompted to enable _Survival Mode_. With this option enabled, you will not be able to fast travel normally, markers can be placed next to other markers, and you will have to eat food, sleep, and stay warm to survive. (Fast travel can, however, be enabled on _Survival Mode_ by consulting the _Conner's Survival Mode_ MCM.) You will also receive a prompt about which Divine and/or Daedra you wish to worship, depending on your race. Choose according to your preference.
+
+### NEW! Confused about where to begin?
+
+[Try a helpful _Licentia_ starting guide](https://www.canva.com/design/DAF1LecdP9M/zve9MIfRDE2D50dxXsBEWA/edit) by my friend @Charlistic!
 
 ## Updating the Modlist
 
