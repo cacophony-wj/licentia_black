@@ -138,6 +138,10 @@ If you are confident you meet the above target, but still experience severe perf
 
 Launch _ModOrganizer.exe_ from the directory in which you installed the list. Launch the game from the **SKSE** entry in the drop-down menu.
 
+### NEW! Confused about where to begin?
+
+(Try a helpful _Licentia_ starting guide)[https://www.canva.com/design/DAF1LecdP9M/zve9MIfRDE2D50dxXsBEWA/edit] by my friend @Charlistic!
+
 ## MCM CONFIGURATION
 
 ## WHEN YOU SPAWN IN HELGEN'S INN, DO NOT TOUCH ANYTHING!
