@@ -4,7 +4,7 @@ Scenes take forever to start. Sometimes it bugs out. Most of the mods for it are
 
 But, it does have a ton of options for roleplay. It's popular. It's sexy. And several of my most dedicated users prefer it.
 
-If you insist on using the _PITCH_ or _DEAD_ profiles, please be aware that often times your "scenes" will not play, you will get stuck in them, sometimes you will be unable to move, you may be defeated and go into bleedout with no way to come out of it, and other really inexplicable bugs that seem to be different for each person that experiences them. If this doesn't bother you and you **STILL** want to mess around with _PITCH_ or _DEAD_, you are going to have to perform the following instructions carefully.
+If you insist on using the _SERVITIUM_ profiles, please be aware that often times your "scenes" will not play, you will get stuck in them, sometimes you will be unable to move, you may be defeated and go into bleedout with no way to come out of it, and other really inexplicable bugs that seem to be different for each person that experiences them. If this doesn't bother you and you **STILL** want to mess around with it, you are going to have to perform the following instructions carefully.
 
 Begin this document just after Character Creation with _RaceMenu._
 
@@ -22,15 +22,17 @@ Open the MCM and find the _ZAZ_ entry at the bottom. Select the "SexLab" option 
 
 Close the menu. Save and reload your game. **Wait for the messages.**
 
-Open the MCM and find the _SLAL Anim Loader_ entry. Click the "Enable all animations" option. Wait a couple seconds. Cllck the "Register all animations" option. **Now you are just going to have to sit here and wait for a long time.** The process of registering the animations takes about two minutes. (I warned you, didn't I?) You should receive a message that some 300+ animations are enabled if it completes successfully.
+Open the MCM and find the _SLAL Anim Loader_ entry. Click the "Enable all animations" option. Wait a couple seconds. Cllck the "Register all animations" option. **Now you are just going to have to sit here and wait for a long time.** The process of registering the animations takes about two minutes. (I warned you, didn't I?) You should receive a message that some 800+ animations are enabled if it completes successfully.
 
 Close the menu. Save and reload your game. **Wait for the messages.**
 
 Now you can actually run the _MCM Recordings._ Open the MCM again and find the _MCM Recorder_ entry. Click the option that says **"READ README THEN RUN ME FIRST."** Click OK. Close the menu. Click Run Recording. Wait. You may receive messages that certain options are unavailable or that you need to Exit the MCM. **Click OK on these and ignore them, they aren't important, options only available in other profiles will be skipped.** Finally you will receive a message that the MCM Recording played back successfully. Click OK. **Continue to wait until all messages appear and disappear in the upper left corner.**
 
+**NEW** Now available! The @Unpause cuts of MCM recordings from a user who actually enjoys _SexLab_ and plays it a LOT. I recommend these if the primary settings aren't to your liking. There are EASY and HARD variants and they are probably balanced more for the Lola mod. **ONLY CHOOSE ONE** of these recordings, "RUN ME FIRST," "Unpause Easy" or "Unpause Hard." If you run more than one you will need to start over.
+
 Save and reload your game. **Wait for the messages.**
 
-Open the MCM yet again and find the _MCM Recorder_ entry. Click the option "RUN ME SECOND." Do the same stuff you did for the first recording.
+Open the MCM yet again and find the _MCM Recorder_ entry. Click the option "RUN ME SECOND." Do the same stuff you did for the first recording. **NEW**
 
 Save and reload your game. **Wait for the messages.**
 
