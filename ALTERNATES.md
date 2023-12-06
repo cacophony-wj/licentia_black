@@ -12,51 +12,13 @@ Ignore the `json` files, all they are is a list of all the mods for each Profile
 
 Below I will briefly describe each of the lists.
 
-## ROOT directory of MEGA
-
 ### Licentia BLACK.7z
 
 This is a backup version of the one on the Gallery, available in case something happens to the original. If you have already used _Wabbajack's_ Main Menu to download _Licentia,_ there is no purpose to this version. It is identical.
 
-### Licentia MAX is no longer available due to mod deletions.
-
-## "SUMMER VERSIONS" directory of MEGA
-
-This directory contains alternate Versions of _Licentia_ based on _Licentia 9_ which was maintained in the Summer of 2023. They are abandoned and no longer supported, but you can still install them if you want, and I will try to help you if I can. They are all in the process of being revised to match the latest version.
-
-### Licentia BLACK.7z
-
-This is **Version 9** of _Licentia_ from a few weeks ago. Extremely similar to the one on the Gallery, so no real reason to install it.
-
-### Licentia COMBAT.7z
-
-This version of _Licentia_ is focused on 3rd person combat with the _MCO-ADXP_ mod by Distar. It is not recommended to play this version in first person. All the outfits have been replaced with revealing clothes, you can loot powerful sexy armors from boss chests, and there are extremely over-the-top slutty movement animations for the Player Character.
-
-### Licentia NEEDS.7z
-
-This is _Licentia 9_ as described above, but includes _Frostfall, Campfire, iNeed, Keep it Clean,_ and _Hunterborn_ for punishing survival gameplay. Everyone is in modest outfits.
-
-### Licentia SAFE.7z
-
-This is _Licentia BLACK 9_ as described above, but with all adult mods and nudity removed. There are no sex scenes, no nipples, and no junk. It is primarily intended to be played in mixed company or for streaming and promotional purposes.
-
-### Licentia SLOOT.7z
-
-_Licentia BLACK 9_ except everyone is wearing revealing outfits and you can loot endgame sexy gear from Boss Chests, just as in **COMBAT.**
-
-### Licentia TOYS.7z
-
-A much more stable and accessible bondage oriented version of the list which focuses around the _TOYS_ Family of Mods which you can read about [here](https://virginmarie1.wixsite.com/toys). The primary idea behind it was to be able to fight yourself up from being stripped naked and locked down tight with your powerful spells and abilities. Revealing outfits and sexy boss gear in chests.
-
-### The Summer Version of Licentias DEAD and PITCH are no longer available due to mod deletions.
-
-## "NEW! ALTERNATES" directory of MEGA
-
-This is where current development of _Licentia_ is taking place. These are _HIGHLY EXPERIMENTAL VERSIONS_ so it is _NOT_ recommended to try them unless you are bound and determined and willing to put up with potentially _EXTENSIVE_ bugs. That said, this is what they contain.
-
 ### Licentia QUESTS.7z
 
-This version of _Licentia_ is updated to **10** and adds almost all of the _Hall of Forgotten_ Patches for _Legacy of the Dragonborn._ This mod creates a small portal in the _Dragonborn Museum_ which features hundreds more _LOTD_ Diplays. You can read about it [here](https://www.nexusmods.com/skyrimspecialedition/mods/64117).
+This version of _Licentia_ adds almost all of the _Hall of Forgotten_ Patches for _Legacy of the Dragonborn._ This mod creates a small portal in the _Dragonborn Museum_ which features hundreds more _LOTD_ Diplays. You can read about it [here](https://www.nexusmods.com/skyrimspecialedition/mods/64117).
 
 Under the dropdown you will find "Licentia QUESTS," which features normal outfits, "Licentia QUESTS w. lootable SLOOT" which features normal outfits but sexy endgame boss gear in chests, and "Licentia QUESTS w. SLOOTY REPLACERS" which has everyone wearing skimpy clothing.
 
@@ -66,12 +28,12 @@ Slightly larger **EXPANSION** Profiles are available which add a significant num
 
 The **PYJAMAS** Profile is a paid commission of EXPANSION which adds a limited number of _COCO_ armor sets that I am temporarily offering to the Public.
 
-### SERVITIUM
+### SERVITIUM.7z
 
 This is basically a different list due to a switch to _SexLab_ for the Adult Framework. The gameplay is based around getting locked down in BDSM gear and taken advantage of, but it is keyed to be a lot more forgiving than other modlist of the type. Limited creature content is available. Most of the difficulty and encounter mods have been removed for compatibility reasons, including _OBIS,_ _Deadly Dragons,_ _Genesis,_ among others.
 
-## "OLD VERSIONS" directory of MEGA
+**NEW!** Servitium TOYS is a better SERVITIUM. It uses the Toys and Love framework for a better scripted version of the BDSM approach and has more of a wacky "fun-loving LOTR porn parody feel" than most of SERVITIUM's "abandon all hope in my nerd dungeon you worthless thot" feel. You can read about this series of mods [on their website.](https://virginmarie1.wixsite.com/toys)
 
-### These are only backups for those looking for previous versions of the list.
+**NEW!** Servitium DEAD is a profile based on the _Serana Dead Sexy_ series of mods by @funguyscott. It's a schlock grindhouse bloody gore and vampire screwfest of doom. Play at your own risk. You can read about it more [here.](https://www.nexusmods.com/skyrimspecialedition/mods/73589)
 
-The only purpose is Archival. **Do not install them unless you know what you're looking for.** Questions about them will be ignored.
+### ALL OTHER VERSIONS are no longer available due to the Skyrim Update.
