@@ -41,15 +41,21 @@ _Licentia MAX:_ Refer to the [Complete Alphabetical Lover's Lab Download Guide f
 
 ## Installation
 
-### Downloading the Creation Club Content
+# DELETE SKYRIM.
 
-This modlist will not function without purchasing the additional _Anniversary Edition_ Creation Club Content available from Bethesda. I enjoy the CC Content and I have no desire to maintain double the number of Profiles so in order to play _Licentia_ you must purchase and install it **before you begin.** 
+**No, I'm not joking.** As of **12/6/2023** _Bethesda_ is in the process of updating almost every file included in the game on a piecemeal basis, and the methods I have been using for the past 24 hours to acquire the most updated versions have almost continously failed spectacularly. Rather than save yourself the headache of dozens of mismatching files, Steam verifications and re-downloads of the _Creation Club_ Content, I **STRONGLY RECOMMEND** you completely delete your copy of _Skyrim Special Edition_ before installing my list. Just delete the directory where it is located in your Game Folder.
 
-First, ensure that you have purchased the _Anniversary Edition_ DLC from _Steam._ MSRP on it is about $20. Then you will want to use your _Steam_ interface to verify all of your local files and ensure you have the most up-to-date versions. 
+**Afterward,** you need to reacquire the most recent files from _Steam._ Right-click on the _Steam_ listing for "The Elder Scrolls V: Skyrim," select "Properties" and then the menu option on the left labeled "Installed files." In the middle somewhere will be a button that reads "Verify integrity of game files," click this and **wait for the verification process to complete in its entirety.**
 
-After that the process gets more involved. You will need to launch _Skyrim_ **FROM STEAM** without any mods to reach the Main Menu. If you have just purchased the CC, the game may prompt you to download them automatically. If not, Click the **Creations** menu option along the bottom right. You will see _Skyrim's_ new interface for downloading mods directly from Bethesda.
+Once that is done, you will need to purchase the _Skyrim Anniversary Edition Upgrade_ from _Steam_ if you have not done so already. **This is not optional.** This modlist will not function without it. I enjoy the CC Content and I have no desire to maintain double the number of Profiles so in order to play _Licentia_ you **must purchase it.**
 
-Click the **[O] OPTIONS** button at the bottom of the screen. A menu will appear from which you need to select **Download all owned Creation Club Creations.** The process will begin after this and takes about five minutes, you **CANNOT** ALT-TAB out of this or minimize or the downloads won't complete, so just be patient. Once all files are downloaded, you can close Vanilla Skyrim and continue the installation as described below.
+First, ensure that you have purchased the _Anniversary Edition_ DLC from _Steam._ The cost is around $20 but you may be able to find it discounted elswhere. Once you have purchased it and it is showing up in your list of DLC for _Skyrim,_ (near the right hand side of the Library Page for the game) you can continue.
+
+After that the process gets more involved. You will need to launch _Skyrim_ **FROM STEAM** without any mods to reach the Main Menu. The launcher will prompt you to detect settings, just click okay and go with whatever it suggests. Then click "PLAY." The game **SHOULD** thank you for purchasing the _Anniversary Edition Upgrade_ and prompt you to download it. **Do so.** 
+
+If it does not, Click the **Creations** menu option along the bottom right. You will see _Skyrim's_ new interface for downloading mods directly from Bethesda. Click the **[O] OPTIONS** button at the bottom of the screen. A menu will appear from which you need to select **Download all owned Creation Club Creations.**
+
+The download process for the _Anniversary Edition Upgrade Content_ will begin after this and takes about five minutes, you **CANNOT** ALT-TAB out of this or minimize or the downloads won't complete, so just be patient. Once all files are downloaded, the game will briefly reload to organize and activate them, and then you can close Vanilla Skyrim and continue the installation as described below.
 
 ###  Installing Microsoft Visual C++ Redistributable Package
 
