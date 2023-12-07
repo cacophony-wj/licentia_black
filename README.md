@@ -37,7 +37,7 @@ Now consult the below URL corresponding to your version of _Licentia_. Place all
 
 _Licentia BLACK:_ There are very few _Lover's Lab_ downloads for these versions so you will probably not have problems. I will create a document for them anyway **SOON**(tm)
 
-_Licentia MAX:_ Refer to the [Complete Alphabetical Lover's Lab Download Guide for Licentia Max.](https://github.com/cacophony-wj/licentia_black/blob/main/Complete-LL-Manual-Download-Guide.md)
+_Servitium:_ Refer to the [Complete Alphabetical Lover's Lab Download Guide for Servitium.](https://github.com/cacophony-wj/licentia_black/blob/main/Complete-LL-Manual-Download-Guide.md)
 
 ## Installation
 
