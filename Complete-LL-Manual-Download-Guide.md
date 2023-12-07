@@ -1,8 +1,8 @@
 # READ ME!!! Extremely Important!!!
 
-# COMPLETE ALPHABETICAL DOWNLOAD GUIDE TO ALL LICENTIA MAX MODS HOSTED ON LOVER'S LAB
+# COMPLETE ALPHABETICAL DOWNLOAD GUIDE TO ALL SERVITIUM MODS HOSTED ON LOVER'S LAB
 
-## The following guide should only be used if you are installing the Licentia MAX Beta. It is useless for the UI version.**
+## The following guide should only be used if you are installing my SERVITIUM Variant. It is useless for Licentias BLACK or QUESTS.**
 
 It is vastly preferable to download all of these manually before you even attempt installation. Refer to the primary readme for specific steps on how to do so.
 
@@ -46,15 +46,21 @@ Note: Not a normal download. This is a file attachment in the top post by @shado
 
 ## Billyy's SLAL Animations
 
-URL: https://www.loverslab.com/files/file/3999-billyys-slal-animations-2023-10-6/
+URL: https://www.loverslab.com/files/file/3999-billyys-slal-animations-2023-11-1/
 
-File: `SLAL_Billyy_Animations v7.1 SE.7z`
+File: `SLAL_Billyy_Animations v7.2 SE.7z`
 
 ## The Book of Sex
 
-URL: https://www.loverslab.com/files/file/10091-the-book-of-sex-se/
+URL: https://www.loverslab.com/files/file/10091-the-book-of--se/
 
-File: `The Book of Sex SE v1.1.7z`
+File: `The Book Of Sex SE v1.1.7z`
+
+## Creature Framework
+
+URL: https://www.loverslab.com/files/file/5462-creature-framework-se/
+
+File: `Creature Framework 1.1.0-pre2A-SE.7z`
 
 ## Devious Cidhna
 
@@ -106,11 +112,21 @@ URL: https://www.loverslab.com/files/file/6976-gender-bender-se/
 
 File: `GenderBender_SE.7z`
 
+## Hel Rising - Quest & Follower Mod
+
+URL: https://www.loverslab.com/files/file/18745-hel-rising-norse-dungeon-quest-and-follower-mod-se/
+
+File: `Hel Rising v1.10SE.7z`
+
+File: `xPATCHx - Hel Rising - Path of Sorcery.7z`
+
 ## Hydragorgon's Slave Girls
 
 URL: https://www.loverslab.com/files/file/9414-slave-girls-by-hydragorgon-se/
 
 File: `Hydra_Slavegirls_SSE_v1.0.7z`
+
+File: `Hydra Slavegirls facegen.7z`
 
 ## Immersive Daedra Worship: Temple of Molag Bal
 
@@ -149,6 +165,12 @@ File: `Laura's Bondage Shop v3.42 SE version - By aurreth.7z`
 URL: https://www.loverslab.com/files/file/16160-m2m-animations-for-slal/
 
 File: `SLAL_M2MAnimations_SE_v20210222.7z`
+
+## Maelstrom - A Norse Dungeon Quest Mod
+
+URL: https://www.loverslab.com/files/file/18500-maelstrom-norse-dungeon-quest-mod-se/
+
+File: `Maelstrom.7z`
 
 ## Namira's Goat Reborn
 
@@ -232,6 +254,12 @@ URL: https://www.loverslab.com/files/file/23737-sexlab-animation-loader/
 
 File: `SLAL v1.6 SE.7z`
 
+## SexLab Animation Framework
+
+URL: https://www.loverslab.com/files/file/20058-sexlab-se-sex-animation-framework-v166-12052023/
+
+File: `SexLabFrameworkAE_v166.7z`
+
 ## SexLab Aroused Extended
 
 URL: https://www.loverslab.com/topic/130406-sexlab-aroused-extended/?do=findComment&comment=3871553
@@ -257,12 +285,6 @@ File: `SexLab Confabulation V1.7.4 Hotfix.zip`
 URL: https://www.loverslab.com/files/file/7309-sexlab-eager-npcs-se-slen/
 
 File: `SexLab EagerNPCSERev2.7z`
-
-## SexLab Framework AE v1.65
-
-URL: https://www.loverslab.com/files/file/20058-sexlab-se-sex-animation-framework-v165-110822/
-
-File: `SexLabFrameworkAE_v165.7z`
 
 ## SexLab Separate Orgasm SE:
 
@@ -294,6 +316,12 @@ URL: https://www.loverslab.com/files/file/5827-sexlab-tdf-prostitution-and-pimpi
 
 File: `TDF2023.7z`
 
+## SexLab Tools
+
+URL: https://www.loverslab.com/files/file/10660-sexlab-tools-for-se-patched/
+
+File: `Patched SE SL TOOLS Updated.zip`
+
 ## SexLab Utility Plus
 
 URL: https://www.loverslab.com/files/file/10316-osmelmc-mod-tweaks/
@@ -321,6 +349,12 @@ File: `Simple Slavery Plus Plus 6.3.20 [SE].zip`
 URL: https://www.loverslab.com/files/file/26037-the-sisterhood-of-dibella-se-february-2023/
 
 File: `SisterhoodOfDibellaSE20230226.7z`
+
+## Skyrim Vixens - Legacy of the Dragonborn Painting Replacer
+
+URL: https://www.loverslab.com/files/file/27064-skyrim-vixens-legacy-of-the-dragonborn-painting-replacer-v11/
+
+File: `548469150_SkyrimVixens-LegacyoftheDragonbornPaintingReplacerV1.1.7z`
 
 ## S.L.U.T.S. Resume
 
