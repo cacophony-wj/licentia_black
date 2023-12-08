@@ -127,6 +127,10 @@ _Licentia Black_ will not work with a GOG or pirated version of the game. If you
 
 This shouldn't happen unless you download the list multiple times or download multiple _Wabbajack_ lists. I can't support circumventing MEGA's bandwith restrictions so either sign up for an account or wait for the timeout to expire.
 
+**Unable to Download Archives.**
+
+If _Wabbajack_ terminates without a green "COMPLETE" success box and instead gives you this message, refer to the manual download links at the top of this document. Almost all of the files that commonly fail are listed there. If for some reason you can't find it, inside the Wabbajack directory is a logs folder (similar to `D:\Wabbajack\3.X\logs`). If you take a look at the VERY BOTTOM of the log named `current` you should see manual download links for your failed files. Paste those into a browser and try downloading them manually just as you did at the beginning of this guide.
+
 ## Post-Installation
 
 ### System Specifications
