@@ -1,6 +1,6 @@
 # COMMONLY FAILING LICENTIA DOWNLOADS
 
-## The following guide should only be used if you are installing any of my LICENTIA Variants. It is overkill for SERVITIUM.
+## The following guide should only be used if you are installing any of my LICENTIA Variants. You need MANY more external downloads for SERVITIUM.
 
 It is vastly preferable to download all of these manually before you even attempt installation. Refer to the primary readme for specific steps on how to do so.
 
