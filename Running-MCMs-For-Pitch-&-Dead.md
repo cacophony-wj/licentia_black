@@ -28,11 +28,7 @@ Close the menu. Save and reload your game. **Wait for the messages.**
 
 Now you can actually run the _MCM Recordings._ Open the MCM again and find the _MCM Recorder_ entry. Click the option that says **"READ README THEN RUN ME FIRST."** Click OK. Close the menu. Click Run Recording. Wait. You may receive messages that certain options are unavailable or that you need to Exit the MCM. **Click OK on these and ignore them, they aren't important, options only available in other profiles will be skipped.** Finally you will receive a message that the MCM Recording played back successfully. Click OK. **Continue to wait until all messages appear and disappear in the upper left corner.**
 
-**NEW** Now available! The @Unpause cuts of MCM recordings from a user who actually enjoys _SexLab_ and plays it a LOT. I recommend these if the primary settings aren't to your liking. There are EASY and HARD variants and they are probably balanced more for the Lola mod. **ONLY CHOOSE ONE** of these recordings, "RUN ME FIRST," "Unpause Easy" or "Unpause Hard." If you run more than one you will need to start over.
-
-Save and reload your game. **Wait for the messages.**
-
-Open the MCM yet again and find the _MCM Recorder_ entry. Click the option "RUN ME SECOND." Do the same stuff you did for the first recording. **NEW**
+**NEW** Now available! The @Unpause cuts of MCM recordings from a user who actually enjoys _SexLab_ and plays it a LOT. I recommend these if the primary settings aren't to your liking. There are EASY and HARD variants and they are probably balanced more for the Lola mod. **ONLY CHOOSE ONE** of these recordings, "RUN ME SECOND," "Unpause Easy" or "Unpause Hard." If you run more than one you will need to start over.
 
 Save and reload your game. **Wait for the messages.**
 
