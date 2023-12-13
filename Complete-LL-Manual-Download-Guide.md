@@ -156,9 +156,9 @@ File: `KSHairForVirginSE-1.zip`
 
 ### Laura's Bondage Shop
 
-URL: https://www.loverslab.com/files/file/6949-devious-devices-lauras-bondage-shop-13-jan-2023-v342/
+URL: https://www.loverslab.com/files/file/6949-devious-devices-lauras-bondage-shop-11-dec-2023-v343/
 
-File: `Laura's Bondage Shop v3.42 SE version - By aurreth.7z`
+File: `Laura's Bondage Shop v3.43 SSE version - by tznvlw.7z`
 
 ### M2M Animations
 
