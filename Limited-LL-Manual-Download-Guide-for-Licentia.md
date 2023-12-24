@@ -60,6 +60,10 @@ File: `SOS - No Futanari Schlong - Addon.7z`
 
 ## HOSTED SITE: MEGA
 
+URL: https://mega.nz/file/RQ113BKT#qoYV6zZQsugesTYIFXqFv4_64MixzwRzH4Hk1jZqTGM
+
+File: `Kaidan Extended All-In-One 1.8.5.7z`
+
 URL: https://mega.nz/file/1Q1igILL#LC48moa78K_TsM4DDYFR90nOmeeqkde0e4SsFzzlldg
 
 File: `Kaidan Extended All-In-One 1.7.6.7z`
