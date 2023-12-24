@@ -1,8 +1,46 @@
 # LICENTIA BLACK CHANGELOG
 
+## Licentia DECK now available!
+
+- Based on **BLACK**
+- List custom made for _Steam Deck_ and low-end machines and laptops.
+- ENB, Weather, and lighting downgraded.
+- SFW profile as default to suit a broader audience.
+- All other content still available.
+  
+## SERVITIUM 2.2.3
+
+- Updates _Acheron_ to 1.4.1.0 so the list will be installable.
+  
+## BLACK 11.4
+
+- Bring in line with previous **QUESTS** updates.
+- Further attempts at installation fixes.
+  
+## QUESTS 11.4
+
+- Added _Fantaze - HIMBO Body Preset Collection_
+- Added _HIMBO V5 Creation Club - Patches and Addons_
+- Added _Modular Armory - HIMBO Bodyslide Patches_
+- Updated _Kaidan Extended Edition AIO_ to 1.8.5
+  
+## QUESTS 11.2.1.1
+
+- Added _INI Tweaks for RaceMenu_ to try to resolve _OBody_ crashes
+- Updated _Tools of Kagrenac_
+- _Ebony Warrior Woman_ is now actually a woman.
+  
+## SERVITIUM 2.3
+
+- Update with changes made since 2.2.1 to **QUESTS.**
+  
+## QUESTS 11.2.1
+
+- Recompile with _Kaidan Extended Edition AIO 1.8.4_
+  
 ## QUESTS 11.2
 
-- Failed a full update to 1130
+- Failed a full update to **1130**
 - Added back _Amorous Adventures CLEAN_ to the **SAFE** Profiles
 - Updated _Kaidan Extended Edition AIO_ to 1.8.2
 - Updated _Xelzaz - Custom Fully Voiced Argonian Telvanni Follower_ to 1.10.2
