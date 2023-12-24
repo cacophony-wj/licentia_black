@@ -58,6 +58,14 @@ URL: https://www.loverslab.com/files/file/13011-sos-no-futanari-schlong-addon/
 
 File: `SOS - No Futanari Schlong - Addon.7z`
 
+### SOS - PapyrusUtil Version
+
+URL: https://www.loverslab.com/topic/95031-schlongs-of-skyrim-se/page/123/
+
+File: `SOS PapyrusUtil version Beta 4 (UPDATE).7z`
+
+Note: This file is not a traditional download. It is an attachment to a forum post by @Erstam, about halfway down the page.
+
 ## HOSTED SITE: MEGA
 
 URL: https://mega.nz/file/RQ113BKT#qoYV6zZQsugesTYIFXqFv4_64MixzwRzH4Hk1jZqTGM
