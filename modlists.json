@@ -14,8 +14,7 @@
       "Vokriinator",
       "CGO",
       "Creation Club",
-      "LotD",
-      "Performance"
+      "LotD"
     ],
     "nsfw": true,
     "utility_list": false,
@@ -77,6 +76,48 @@
       "SizeOfInstalledFiles": 144086059781
     },
     "version": "1.2.2",
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "2023-12-15T06:02:47.797442Z",
+    "repositoryName": ""
+  },
+  {
+    "title": "Licentia DECK",
+    "description": "For STEAM DECK or POTATO. For DISCRETION. The NUT and BOLT.",
+    "author": "cacophony",
+    "maintainers": [
+      "github/cacophony-wj"
+    ],
+    "game": "skyrimspecialedition",
+    "official": false,
+    "tags": [
+      "Power Fantasy",
+      "Vokriinator",
+      "CGO",
+      "LotD", 
+      "Performance",
+      "Steam Deck"
+    ],
+    "nsfw": true,
+    "utility_list": false,
+    "image_contains_title": false,
+    "DisplayVersionOnlyInInstallerView": false,
+    "force_down": false,
+    "links": {
+      "image": "https://raw.githubusercontent.com/cacophony-wj/LeS/main/images/LicentiaCompile3.png",
+      "readme": "https://github.com/cacophony-wj/licentia_black",
+      "download": "https://authored-files.wabbajack.org/Licentia%20DECK.wabbajack_e53eee8a-2717-464e-89d1-49358fe012c7",
+      "machineURL": "licentia_deck",
+      "discordURL": "https://discord.gg/jolly-coop"
+    },
+    "download_metadata": {
+      "Hash": "KRNv82Kn574=",
+      "Size": 593684443,
+      "NumberOfArchives": 1294,
+      "SizeOfArchives": 122765782498,
+      "NumberOfInstalledFiles": 397793,
+      "SizeOfInstalledFiles": 204165397704
+    },
+    "version": "1.0.1",
     "dateCreated": "1970-01-01T00:00:00Z",
     "dateUpdated": "2023-12-15T06:02:47.797442Z",
     "repositoryName": ""
