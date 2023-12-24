@@ -1,5 +1,33 @@
 # LICENTIA BLACK CHANGELOG
 
+## Licentia FERTILITY now available on MEGA!
+
+- A commission, this just adds _Fertility Mode_ and the stable patches back to **BLACK** so you don't have to.
+  
+## BLACK 11.4.1
+
+- Added _Ancient Falmer Armors and Weapons Retexture SE_
+- Added _Ancient Nord Armors and Weapons Retexture SE_
+- Added _Bonemold Armors and Weapons Retexture SE_
+- Added _Chitin Armors Retexture SE_
+- Added _Dark Brotherhood Armors Retexture SE_
+- Added _Dawnguard Armors and Weapons Retexture SE_
+- Added _Dragon Armors and Weapons Retexture SE_
+- Added _Dwemer Armors and Weapons Retexture SE_
+- Added _Falmer Armors and Weapons Retexture SE_
+- Added _Forsworn Armors and Weapons Retexture SE_
+- Added _Guards and Stormcloaks Armors Retexture SE_
+- Added _Leather Armors Retexture SE_
+- Added _Nightingale Armor and Weapons Retexture SE_
+- Added _Stalhrim Armors and Weapons Retexture SE_
+- Added _Thieves Guild Armors Retexture SE_
+- Added _Unique Armors and Weapons Retexture SE_
+- Added _Vampire Armors and Weapons Retexture SE_
+- Updated _DynDOLOD Resources SE 3.00_ to Alpha-47
+- Regenerated _Bodyslides_ with the CACOPHONY-VARIED preset for use without _OBody.
+- Reran _Synthesis_
+- Regenerated LODs.
+  
 ## Licentia DECK now available!
 
 - Based on **BLACK**
