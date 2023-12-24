@@ -103,7 +103,7 @@
     "DisplayVersionOnlyInInstallerView": false,
     "force_down": false,
     "links": {
-      "image": "https://raw.githubusercontent.com/cacophony-wj/licentia_black/main/images/LicentiaCompile3.png",
+      "image": "https://raw.githubusercontent.com/cacophony-wj/licentia_black/main/images/LicentiaCompile3sm.png",
       "readme": "https://github.com/cacophony-wj/licentia_black",
       "download": "https://authored-files.wabbajack.org/Licentia%20DECK.wabbajack_e53eee8a-2717-464e-89d1-49358fe012c7",
       "machineURL": "licentia_deck",
