@@ -1,5 +1,49 @@
 # LICENTIA BLACK CHANGELOG
 
+## QUESTS 11.2
+
+- Failed a full update to 1130
+- Added back _Amorous Adventures CLEAN_ to the **SAFE** Profiles
+- Updated _Kaidan Extended Edition AIO_ to 1.8.2
+- Updated _Xelzaz - Custom Fully Voiced Argonian Telvanni Follower_ to 1.10.2
+- Updated _HIMBO_ to 5.3.1
+- Updated _Immersive Armors CBBE BodySlide_ to 3.1
+- Updated _Immersive Armor HIMBO Refit_ to 2.3
+- Updated _Wyrmstooth_ to 1.20.1
+- Updated _Sidequests of Skyrim_ to 0.8.3
+- Updated _Leaps of Faith_ to 1.05
+- Updated _Landscape Fixes for Grass Mods_ to 5.2
+- Updated _Wheels of Lull Retexture_ SE to 1.02
+- Updated _Lux Orbis_ to 4.0
+- Updated _Lux Via_ to 2.1
+- Updated _Water for ENB_ to 1.86
+- Updated _DynDOLOD Resources SE 3.00_ to Alpha-46
+- Updated _XP32 Maximum Skeleton Special Extended_ to 5.05 (minimal)
+- Corrected problems with LOD Water and the map framework
+- Fixed a hollowed out clipping windmill in Solitude
+- Fixed a setting which caused 1st person adult scenes to be misaligned (requires new game)
+- Flagged a plantables ESP differently so it's no longer ESM, adjusted load order
+- Reinstalled physics to be a bit more modest
+- Regenerated BodySlides
+- Regenerated LODs
+- Reran Synthesis (only on EXPANSION NEEDS)
+- Deleted files clogging up downloads
+
+## BLACK 11.0.0.1
+
+- Recompile to attempt to fix installation difficulties.
+  
+## SERVITIUM 2.2.2
+
+- Compiled with a new version of _SexLab._ **Some install corruption may occur with this version**
+- Recompiled with _Laura's Bondage Shop 3.43 SSE_ so the list would be installable
+- Fixed a link for _Diabloesque Decorations_ (the "zdd" file)
+  
+## QUESTS 11.1
+
+- Return of the **NEEDS** Profile
+- Refer to previous CHANGELOG to see what's included.
+  
 ## BLACK 11
 
 - Return of all the Summer Profiles. Check docs on Github.
@@ -21,6 +65,24 @@
 - Updated _Crashlogger AE_ to 1.11.1
 - Requested a custom fix be made for _Ordinator's_ MagicApply spam
 
+## SERVITIUM 2.0
+
+- Return of the **DEAD** Profile.
+- Refer to earlier CHANGELOG to see what's included.
+
+**ALSO AVAILABLE**
+
+Three ENB Profiles:
+- _Rudy ENB_ for _NAT III_
+- _Pi-Cho ENB_ for _NAT III_
+- _GRIM ENB_ for _NAT III_
+
+  
+## SERVITIUM 1.2
+
+- Return of the **TOYS** Profile.
+- Refer to earlier CHANGELOG to see what's included.
+  
 ## SERVITIUM 1.1.1
 
 - Added SL Tools
