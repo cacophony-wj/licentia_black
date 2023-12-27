@@ -424,6 +424,12 @@ URL: https://mega.nz/folder/YGwzCDYR#cZ686f1BwjmB4bErUzlOiw/file/waw1EKiR
 
 File: `BakaFactory ABC LE SE.7z`
 
+### Succubus Twins SE SexLab Edition
+
+URL: https://mega.nz/file/x7BE3aLY#UfBp2PdATkHcNET4bIDUHwwyVA4r8zTS8_misjkWA1o
+
+File: `Succubus Twins SE SexLab Edition.7z`
+
 ## HOSTED SITE: GOOGLE DRIVE
 
 ### Pubic Hair Overlays SE
