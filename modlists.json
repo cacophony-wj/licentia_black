@@ -24,21 +24,21 @@
     "links": {
       "image": "https://raw.githubusercontent.com/cacophony-wj/licentia_black/main/images/GZeIMK8U.png",
       "readme": "https://github.com/cacophony-wj/licentia_black",
-      "download": "https://authored-files.wabbajack.org/Licentia BLACK.wabbajack_a82bf2e8-5683-4b99-970f-e55e21a73316",
+      "download": "https://authored-files.wabbajack.org/Licentia BLACK.wabbajack_4eacefee-d3a6-439d-a0ef-fc8cf2af4dcd",
       "machineURL": "licentia_black",
       "discordURL": "https://discord.gg/jolly-coop"
     },
     "download_metadata": {
-      "Hash": "BO7l8Dsc0mI=",
-      "Size": 369127501,
-      "NumberOfArchives": 1496,
-      "SizeOfArchives": 194270192650,
-      "NumberOfInstalledFiles": 395350,
-      "SizeOfInstalledFiles": 284755500733
+      "Hash": "LJ4EhIec72o=",
+      "Size": 435854461,
+      "NumberOfArchives": 1499,
+      "SizeOfArchives": 204241492537,
+      "NumberOfInstalledFiles": 406316,
+      "SizeOfInstalledFiles": 309046894332
     },
-    "version": "11.0.1",
+    "version": "11.5.0.1",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2023-12-20T05:33:50.7371445Z",
+    "dateUpdated": "2023-12-27T19:24:15.5917638Z",
     "repositoryName": ""
   },
   {
@@ -93,7 +93,7 @@
       "Power Fantasy",
       "Vokriinator",
       "CGO",
-      "LotD", 
+      "LotD",
       "Performance",
       "Steam Deck"
     ],
