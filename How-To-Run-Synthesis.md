@@ -4,8 +4,6 @@
 
 ### However, if you wish to ensure complete consistency for these additions, you can still run Synthesis to apply certain optional values.
 
-Without running _Synthesis_, your added NPCs, armors, and weapons will not have any of the resistances or vulnerabilities that the ones in the rest of the list do. If this is not an issue for you, you probably don't need to run _Synthesis._
-
 To even use the tool at all, you must have the _.NET v 7.0 SDK_ installed on your system. Find it [here.](https://dotnet.microsoft.com/en-us/download/dotnet/7.0) (You want the latest version of the SDK.) You must restart your system completely after installation. **Be aware that other versions of .NET may conflict with Synthesis' function.** If you run into strange error messages with the patchers, you may need to remove them. **I am uncertain how this will affect any applications you have installed that rely on these other runtimes.** It is also recommended to get it right the first time, because I believe uninstalling and reinstalling multiple versions of the SDK can cause it to jank up in certain situations. As a note, I currently have _6.0, 7.0 and 8.0_ installed on my system, and have no issues with _Synthesis_ or any of my other apps.
 
 Before you begin the patching process, I recommend deleting old _Synthesis_ ESPs. They can be found by right-clicking on one of them in _MO2_ and selecting "Open Origin in Explorer." Just delete all of them, return to _MO2,_ and strike the F5 key to refresh the Virtual Files System.
