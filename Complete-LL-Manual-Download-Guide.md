@@ -194,7 +194,9 @@ File: `PamaPrisonAlternative_V1.3_ForSpecialEdition.zip`
 
 URL: https://www.loverslab.com/files/file/17026-public-whore/
 
-File: `Public Whore v1.2.5 SE.zip`
+File: `Public Whore v1.2.4 SE.zip`
+
+File: `PWPatchv1.0forPWv1.2.4.7z`
 
 ### Public Whore SE/VR hotfix
 
