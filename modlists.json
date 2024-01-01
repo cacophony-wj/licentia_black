@@ -49,8 +49,9 @@
       "github/cacophony-wj"
     ],
     "game": "fallout4",
-    "official": false,
+    "official": true,
     "tags": [
+      "Official",
       "Vanilla\u002B Mechanics",
       "Sim Settlements 2 Complete",
       "Optional Creation Club"
