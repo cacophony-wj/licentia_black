@@ -106,6 +106,12 @@ File: `Dibella Sisterhood bodyslides 3BA.7z`
 
 Note: Not a normal download. This is a file attachment in a forum thread, which is located about 1/3 down the page in a post by @arshesney
 
+## Futanari Textures for REALORE SKIN ULTIMA
+
+URL: https://www.loverslab.com/files/file/28632-futanari-textures-for-realore-skin-ultima
+
+File='REALORE SKIN ULTIMA - ERF patch.rar`
+
 ### Gender Bender
 
 URL: https://www.loverslab.com/files/file/6976-gender-bender-se/
