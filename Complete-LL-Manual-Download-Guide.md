@@ -236,12 +236,6 @@ URL: https://www.loverslab.com/files/file/11344-sos-addon-futanari-cbbe-sse/
 
 File: `SOS - Futanari CBBE SSE V1.1b.7z`
 
-### Schlongs of Skyrim - Futanari - Patch for REALORE SKIN ULTIMA
-
-URL: https://www.loverslab.com/topic/137830-easy-way-to-make-seamless-sos-textures/?do=findComment&comment=3875963
-
-File: `SOS - Futanari - Patch for REALORE SKIN ULTIMA.7z`
-
 ### Schlongs of Skyrim - Empty Schlong for Females
 
 URL: https://www.loverslab.com/files/file/13011-sos-no-futanari-schlong-addon/
