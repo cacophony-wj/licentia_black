@@ -12,13 +12,11 @@ URL: https://www.loverslab.com/files/file/11344-sos-addon-futanari-cbbe-sse/
 
 File: `SOS - Futanari CBBE SSE V1.1b.7z`
 
-### Futanari - Patch for REALORE SKIN ULTIMA
+## Futanari Textures for REALORE SKIN ULTIMA
 
-URL: https://www.loverslab.com/topic/137830-easy-way-to-make-seamless-sos-textures/page/7/
+URL: https://www.loverslab.com/files/file/28632-futanari-textures-for-realore-skin-ultima
 
-File: `SOS - Futanari - Patch for REALORE SKIN ULTIMA.7z`
-
-Note: This file is not a traditional download. It is an attachment to a forum post by @aeaeae6, about halfway down the page.
+File='REALORE SKIN ULTIMA - ERF patch.rar`
 
 ### Hel Rising - Norse Dungeon, Quest, and Follower Mod SE
 
