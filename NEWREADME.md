@@ -156,6 +156,22 @@ If you prefer _futanari_ style content, run the optional **"RUN TO ADD FUTA**" M
 
 Everything should now be configured automatically. Enjoy the modlist!
 
+## TROUBLESHOOTING
+
+Refer to [Troubleshooting](TROUBLESHOOTING.md) for answers to common problems with the modlist.
+
+## COMMON MODIFICATIONS
+
+- To improve performance on low end or midrange systems, [consult the Performance Improvement Guide.](https://github.com/cacophony-wj/licentia_black/blob/main/Vast-Performance-Improvement.MD)
+- To enable controller support for _Licentia,_ [consult the controller guide](controller-guide.md).
+- To use _Skyrim Outfit System_ (the transmog mod) properly, [consult the guide for it here](SoS-OutfitSystem-Guide.md).
+- To add new animations to your copy of _Licentia_, [be sure to run Nemesis afterward](How-To-Run-Nemesis.md).
+- To add outfits to your copy of _Licentia,_ [consult the BodySlide document](How-To-Add-Outfits.md).
+- To add a few mods that are commonly requested, [consult the Common Additions document.](https://github.com/cacophony-wj/licentia_black/blob/main/Common-Additions.md) You can request your own!
+- **NOTE:** _Synthesis_ is no longer mandatory for most additions, but you can run it if you really want to. [Use the guide here.](How-To-Run-Synthesis.md).
+
+For help with your additions, stop by my #black-additions channel and you might just get it!
+
 ## FINAL NOTES
 
 When you reach your first exterior world location, you will be prompted to enable _Survival Mode_. This mod disables fast travel and requires eating, drinking, and staying warm to survive. The option can be changed later in the default "Gameplay" settings of _Skyrim_.
