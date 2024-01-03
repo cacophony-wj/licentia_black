@@ -142,19 +142,19 @@ If you are confident you meet the above target, but still experience severe perf
 
 Launch _ModOrganizer.exe_ from the directory in which you installed the list. Launch the game from the **SKSE** entry in the drop-down menu.
 
-### MCM CONFIGURATION
+### Configuring MCMs for the Modlist
 
-### WHEN YOU SPAWN IN HELGEN'S INN, DO NOT TOUCH ANYTHING!
+## WHEN YOU SPAWN IN HELGEN'S INN, DO NOT TOUCH ANYTHING!
 
 Wait until all the messages appear then disappear in the upper left corner of the screen. Then you may continue.
 
-### MCM Recorder
+## MCM Recorder
 
 Find the _MCM Recorder_ menu in the _Mod Configuration_ menu accessible via the `ESCAPE` key or the `START` button. 
 
 Execute the **"READ README THEN RUN ME"** recording. Confirmation requires that you close the MCM Menu and select "Run Recording." Do not touch anything until all messages disappear in the Upper Left.
 
-If you prefer _futanari_ style content, run the optional **"RUN TO ADD FUTA**" MCM Recording. This will give all females in the game a 10% chance for futanari "enhancement." To add this enhancment to the player, check the "Player/NPC" settings in the _Schlongs of Skyrim_ MCM.
+If you prefer _futanari_ style content, run the optional **"RUN TO ADD FUTA**" MCM Recording. This will give all females in the game a 10% chance for futanari "enhancement." To add this enhancement to the player, check the "Player/NPC" settings in the _Schlongs of Skyrim_ MCM.
 
 Everything should now be configured automatically. Enjoy the modlist!
 
