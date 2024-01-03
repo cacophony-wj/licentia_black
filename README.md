@@ -122,7 +122,9 @@ If _Wabbajack_ terminates without a green "COMPLETE" success box and instead giv
 
 _Licentia_ is over 500GB in size. To install the list, _Wabbajack_ downloads and patches hundreds of thousands of files. During the installation process several of these files are likely to have failed or corrupted in some way. Before finishing up with the _Wabbajack_ app, it is **strongly recommended** to run a file verification step or the modlist may be nearly unplayable.
 
-To verify the modlist, click the Gear icon in the upper right once again. Click the button along the middle-left that reads "Launch Wabbajack CLI." Type the following command:
+To verify the modlist, click the Gear icon in the upper right once again. Click the button along the middle-left that reads "Launch Wabbajack CLI." Type the following commands:
+
+`cd cli`
 
 `wabbajack-cli verify-modlist-install -m "path to the Licentia.wabbajack file" -i "Licentia install folder path"`
 
