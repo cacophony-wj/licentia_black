@@ -12,7 +12,7 @@
 
 **This Modlist contains mods with sexual content and you need to be of legal age in your country (most western countries: 18+, some eastern ones: 21+)**.
 
-_Licentia QUESTS_ is variant of _Licentia_, one of _Wabbajack's_ oldest and most well-regarded adult modlists, featuring optional non-fetish content with the _OSuite_ series of _OSA / OStim_ mods and an emphasis on build variety, backed up by an accessible Power Fantasy design philosophy. It _greatly expands_ the default _Licentia_ Content with over a dozen alternate Profiles to suit multiple playstyles. You can read about all the available Profiles for _Licentia QUESTS_ [here](PROFILES.md).
+_Licentia_ is one of _Wabbajack's_ oldest and most well-regarded adult modlists, featuring optional non-fetish content with the _OSuite_ series of _OSA / OStim_ mods and an emphasis on build variety, backed up by an accessible Power Fantasy design philosophy. 
 
 ### System Specifications
 
