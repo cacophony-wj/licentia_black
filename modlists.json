@@ -147,26 +147,26 @@
     "links": {
       "image": "https://raw.githubusercontent.com/cacophony-wj/licentia_black/main/images/Servitium_Splash_2.png",
       "readme": "https://github.com/cacophony-wj/licentia_black",
-      "download": "https://authored-files.wabbajack.org/SERVITIUM.wabbajack_045f8c16-1ae4-41ba-9229-c49281b88a5d",
+      "download": "https://authored-files.wabbajack.org/SERVITIUM.wabbajack_78e7ee3f-f83a-4260-9c46-d60016e76fab",
       "machineURL": "licentia_servitium",
       "discordURL": "https://discord.gg/jolly-coop"
     },
     "download_metadata": {
-      "Hash": "3RpoUWi1aUo=",
-      "Size": 510794281,
-      "NumberOfArchives": 1707,
-      "SizeOfArchives": 250885663398,
-      "NumberOfInstalledFiles": 504939,
-      "SizeOfInstalledFiles": 418982698270
+      "Hash": "o3xZsLGzoVw=",
+      "Size": 510822076,
+      "NumberOfArchives": 1717,
+      "SizeOfArchives": 251773051914,
+      "NumberOfInstalledFiles": 503473,
+      "SizeOfInstalledFiles": 420299645302
     },
-    "version": "3.3.1.2",
+    "version": "3.3.2",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2024-01-04T03:23:37.474102Z",
+    "dateUpdated": "2024-01-06T09:33:23.5156749Z",
     "repositoryName": ""
   },
   {
     "title": "CLOUD MACHINE",
-    "description": "I'm selling these fine leather jackets.",
+    "description": "I\u0027m selling these fine leather jackets.",
     "author": "cacophony",
     "maintainers": [
       "github/cacophony-wj"
