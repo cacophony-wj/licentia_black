@@ -48,6 +48,10 @@ URL: https://mega.nz/file/RQ113BKT#qoYV6zZQsugesTYIFXqFv4_64MixzwRzH4Hk1jZqTGM
 
 File: `Kaidan Extended All-In-One 1.8.5.7z`
 
+URL: https://mega.nz/file/QEJHyaaC#b9lTNnl-WnN_YJqYRBYHIptG5DQ0RqHREtkG7rJYKTA
+
+File: `xLODGen.106.7z`
+
 ## HOSTED SITE: GOOGLE DRIVE
 
 ### Pubic Hair Overlays SE
