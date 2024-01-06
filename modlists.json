@@ -185,7 +185,7 @@
     "DisplayVersionOnlyInInstallerView": false,
     "force_down": false,
     "links": {
-      "image": "https://raw.githubusercontent.com/cacophony-wj/licentia_black/main/images/Tifa.png",
+      "image": "https://raw.githubusercontent.com/cacophony-wj/cloud_machine/main/images/Tifa.png",
       "readme": "https://github.com/cacophony-wj/cloud_machine/blob/main/README.md",
       "download": "https://authored-files.wabbajack.org/Cloud Machine.wabbajack_ed6d859e-e549-474d-be65-125365286757",
       "machineURL": "cloud_machine",
