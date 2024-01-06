@@ -1,78 +1,78 @@
 # LICENTIA BLACK CHANGELOG
 
-# ALL LISTS
+## ALL LISTS
 
 - Added Charlie's _Alternate Alternate Perspective Letter_
 
-# SERVITIUM 3.2.2
+## SERVITIUM 3.2.2
 
 - Actual final fixes for missing textures on the _GLAM_ series
 - Actual final fixes for dark faces on the _Hydra Slavegirls_
 
-# SERVITUM 3.3.1.1
+## SERVITUM 3.3.1.1
 
 - Facegen fixes for GLAM series and _Sisters of Dibella_
 
-# COMMISSION SERVITIUM UNSLOOT RELEASED
+## COMMISSION SERVITIUM UNSLOOT RELEASED
 
 - Removes slutty outfits in _Servitium_
 - Original _Skyrim_ music.
 - May have bugs which will never be fixed.
 
-# QUESTS, DECK
+## QUESTS, DECK
 
 - Fix for purple underwear on females.
 
-# SERVITIUM
+## SERVITIUM
 
 - Added a seamless futa texture.
 
-# SERVITIUM 3.2
+## SERVITIUM 3.2
 
 - Reverts _Public Whore 1.2.5_ (removed from LL) to 1.2.4 with patch
 - Removed _Better Telekinesis_. No longer functional.
 - Removed _Better Stealing_. No longer functional.
 
-# VENTURE FORTH
+## VENTURE FORTH
 
 - Added _Larger Penis with Flopping Physics_
 - Updated _SBBF Stylized Beautiful Body for Female_ to 1.12
 - Updated _Scantily Camp Outfit_ to 2.0.10
 - Updated _ImprovedUI_ to 3.16.1
 
-# SERVITIUM NOW ON THE UI FOR WJ!
+## SERVITIUM NOW ON THE UI FOR WJ!
 
-# PARABELLUM NOW FEATURED ON WJ!
+## PARABELLUM NOW FEATURED ON WJ!
 
-# BLACK, QUESTS, DECK
+## BLACK, QUESTS, DECK
 
 - Reverted to _HIMBO v4_ due to disproportionate male pectorals on vanilla outfits.
 
-# BLACK, QUESTS, DECK (minor)
+## BLACK, QUESTS, DECK (minor)
 
 - Finally a fix for my custom _OStim_ settings not loading properly.
 
-# VENTURE FORTH RELEASED!
+## VENTURE FORTH RELEASED!
 
-# PARABELLUM, and NUKA 1.3.1
+## PARABELLUM, and NUKA 1.3.1
 
 - Updated _Workshop Framework_
 
-# SERVITIUM 2.4
+## SERVITIUM 2.4
 
 - Added _Practical Defeat_
 - Removed _Yamete Kudasai_
 
-# BLACK 11.5.0.1
+## BLACK 11.5.0.1
 
 - Fixed an issue where the player could not turn in Bounty Quests.
 
-# PARABELLUM, NUKA
+## PARABELLUM, NUKA
 
 - Updated _Workshop Framework_
 - Updated _Sim Settlements 2_
 
-# BLACK, QUESTS, DECK, SERVITIUM, FERTILITY
+## BLACK, QUESTS, DECK, SERVITIUM, FERTILITY
 
 - Removed _OBody_ from the public-facing versions due to crashes.
 - To use _OBody_ install one of my MEGA versions.
@@ -80,9 +80,9 @@
 - Added the remainder of _Xvabio's Armor Retextures_
 - Fire-and-forget _FERTILITY_ version with _Fertility Mode_ added on MEGA.
 
-# LICENTIA DECK RELEASED!
+## LICENTIA DECK RELEASED!
 
-# SERVITIUM 2.3.3
+## SERVITIUM 2.3.3
 
 - Recompile so the list will be installable again.
 - Updated _Acheron_
