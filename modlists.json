@@ -203,5 +203,45 @@
     "dateCreated": "1970-01-01T00:00:00Z",
     "dateUpdated": "2024-01-06T18:52:36.0651212Z",
     "repositoryName": ""
+  },
+  {
+    "title": "Venture Forth",
+    "description": "The Essentials, plus Sloot.",
+    "author": "cacophony",
+    "maintainers": [
+      "github/cacophony-wj"
+    ],
+    "game": "baldursgate3",
+    "official": false,
+    "tags": [
+      "NSFW",
+      "Nudity",
+      "Qaulity of Life",
+      "Revamped Items"
+    ],
+    "nsfw": true,
+    "utility_list": false,
+    "image_contains_title": false,
+    "DisplayVersionOnlyInInstallerView": false,
+    "force_down": false,
+    "links": {
+      "image": "https://raw.githubusercontent.com/cacophony-wj/ventureforth/main/images/Venture_Forth.png",
+      "readme": "https://github.com/cacophony-wj/ventureforth/blob/main/README.md",
+      "download": "https://authored-files.wabbajack.org/Venture%20Forth.wabbajack_1eda6710-7491-44dd-8773-27de4027d0d9",
+      "machineURL": "ventureforth",
+      "discordURL": "https://discord.gg/jolly-coop"
+    },
+    "download_metadata": {
+      "Hash": "IUE+54zWdsw=",
+      "Size": 3972971,
+      "NumberOfArchives": 19,
+      "SizeOfArchives": 574974003,
+      "NumberOfInstalledFiles": 2496,
+      "SizeOfInstalledFiles": 929964304
+    },
+    "version": "0.1",
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "2024-01-06T18:52:36.0651212Z",
+    "repositoryName": ""
   }
 ]
