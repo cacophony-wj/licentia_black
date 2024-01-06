@@ -192,6 +192,14 @@ Download the modlist's `.wabbajack` file again and specify the same directories.
 
 You can just remove the _Licentia_ folder. 
 
+## Alternate Versions, Additions, and Commissions
+
+Alternate Versions of the modlist are also available. _SERVITIUM,_ in the "Unofficial NSFW" section of the _Wabbajack_ UI, features a SexLab setup with a traditional Devious emphasis for those more accustomed to that content. _Licentia QUESTS_, available only on the **MEGA** link from my Discord server, has 14 profiles with slightly varied configurations to suit different styles of play. There is also a **MEGA** version of _SERVITIUM_ available that has a couple of alternate profiles. Check the #list-updates channel when you get there.
+
+Unlike many modlists, _Licentia_ was designed for ease of customization. You are welcome to make whatever additions desired provided the understanding is reached that support for them is not guaranteed. You can find guides for commonly-made customizations by browsing this Github repository.
+
+Don't feel like doing the work yourself? I am available to make your own customizations to my modlist for a small gratuity if you just can't figure out how to work it in. I can also build a customized version of the list for you provided it's not too extensive and compensation is appropriate. Meet me on my Discord server to discuss details.
+
 ## Contact
 
 I am regularly available on [my discord server](https://discord.gg/jolly-coop).
