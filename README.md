@@ -162,7 +162,13 @@ Everything should now be configured automatically. Enjoy the modlist!
 
 Refer to [Troubleshooting](TROUBLESHOOTING.md) for answers to common problems with the modlist.
 
-## COMMON MODIFICATIONS
+## Alternate Versions
+
+Alternate Versions of the modlist are also available. _SERVITIUM,_ in the "Unofficial NSFW" section of the _Wabbajack_ UI, features a SexLab setup with a traditional Devious emphasis for those more accustomed to that content. _Licentia QUESTS_, available only on the **MEGA** link from my Discord server, has 14 profiles with slightly varied configurations to suit different styles of play. There is also a **MEGA** version of _SERVITIUM_ available that has a couple of alternate profiles. Check the #list-updates channel when you get there.
+
+## Modifications
+
+Unlike many modlists, _Licentia_ was designed for ease of customization. You are welcome to make whatever additions desired provided the understanding is reached that support for them is not guaranteed. You can find guides for commonly-made customizations below.
 
 - To improve performance on low end or midrange systems, [consult the Performance Improvement Guide.](https://github.com/cacophony-wj/licentia_black/blob/main/Vast-Performance-Improvement.MD)
 - To enable controller support for _Licentia,_ [consult the controller guide](controller-guide.md).
@@ -172,7 +178,11 @@ Refer to [Troubleshooting](TROUBLESHOOTING.md) for answers to common problems wi
 - To add a few mods that are commonly requested, [consult the Common Additions document.](https://github.com/cacophony-wj/licentia_black/blob/main/Common-Additions.md) You can request your own!
 - **NOTE:** _Synthesis_ is no longer mandatory for most additions, but you can run it if you really want to. [Use the guide here.](How-To-Run-Synthesis.md).
 
-For help with your additions, stop by my #black-additions channel and you might just get it!
+For help with your additions, stop by my Discord server and you might just get it!
+
+## Commissions
+
+Don't feel like doing the work yourself? I am available to make your own customizations to my modlist for a small gratuity if you just can't figure out how to work it in. I can also build a customized version of the list for you provided it's not too extensive and compensation is appropriate. Meet me on my Discord server to discuss details.
 
 ## FINAL NOTES
 
@@ -191,14 +201,6 @@ Download the modlist's `.wabbajack` file again and specify the same directories.
 ## Removing the Modlist
 
 You can just remove the _Licentia_ folder. 
-
-## Alternate Versions, Additions, and Commissions
-
-Alternate Versions of the modlist are also available. _SERVITIUM,_ in the "Unofficial NSFW" section of the _Wabbajack_ UI, features a SexLab setup with a traditional Devious emphasis for those more accustomed to that content. _Licentia QUESTS_, available only on the **MEGA** link from my Discord server, has 14 profiles with slightly varied configurations to suit different styles of play. There is also a **MEGA** version of _SERVITIUM_ available that has a couple of alternate profiles. Check the #list-updates channel when you get there.
-
-Unlike many modlists, _Licentia_ was designed for ease of customization. You are welcome to make whatever additions desired provided the understanding is reached that support for them is not guaranteed. You can find guides for commonly-made customizations by browsing this Github repository.
-
-Don't feel like doing the work yourself? I am available to make your own customizations to my modlist for a small gratuity if you just can't figure out how to work it in. I can also build a customized version of the list for you provided it's not too extensive and compensation is appropriate. Meet me on my Discord server to discuss details.
 
 ## Contact
 
