@@ -9,6 +9,12 @@ I have attempted to make up for the lack of content you might find in something 
 
 Have fun.
 
+#### More Information
+
+If you are interested in examining a complete list of the mods in this modlist, [go here.](https://loadorderlibrary.com/lists/parabellum-1)
+
+For a complete list of the mods included with _Parabellum NUKA_, [visit this link instead.](https://loadorderlibrary.com/lists/parabellum-nuka)
+
 ## Requirements
 
 - [Nexus Premium Account](https://forums.nexusmods.com/index.php?/store/category/1-premium-membership/)
