@@ -14,6 +14,10 @@
 
 _Licentia_ is one of _Wabbajack's_ oldest and most well-regarded adult modlists, featuring optional non-fetish content with the _OSuite_ series of _OSA / OStim_ mods and an emphasis on build variety, backed up by an accessible Power Fantasy design philosophy. 
 
+#### More Information
+
+If you are interested in examining a complete list of the mods in this modlist, [go here.](https://loadorderlibrary.com/lists/licentia-black-2)
+
 ### System Specifications
 
 The recommended setup for an enjoyable experience **at 1080p** is at least
