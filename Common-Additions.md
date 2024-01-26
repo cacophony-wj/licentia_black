@@ -12,27 +12,7 @@ Occasionally I get requests to make simple additions to the list, and even more 
 
 ## CONVERTING TO "MINISLOOT"
 
-Some users might like the idea of sexy armors available in boss chests, primarily to use on their character or followers, but feel a bit skeeved out by the idea of every lady in the game walking around with their meat hanging out. For those people, I offer the following guide on how to convert a **SLOOT** profile to **MINISLOOT.** (A commission for @DigitalTravis.)
-
-Begin by enabling the "Non-Skimpy Book of UUNP Patch" in the load order, under the **Merges & Patches** header. If you're having trouble finding it, you can search for it in the box near the bottom of MO2. Just put a check in it and Refresh with `F5`.
-
-Now find the **Optional SLOOT** section of mods and disable the following:
-
-- _Skimped Creation Club AIO_
-- _BDs Armor and Clothes Replacer CBBE 3BA_
-- _Skyrim Vixens - LOTD Paintings_
-
-This may generate an error for Missing Masters in some of the `Synthesis` ESPs. If so you will need to run _Synthesis_ with the guide available [here](https://github.com/cacophony-wj/licentia_black/blob/main/How-To-Run-Synthesis.md).
-
-The last step is to get rid of the SLOOTY replacer BodySlides. Find the mod that reads "SLOOT BodySlide Output" and double-click it. In here you need to click the "Filetree" tab at the top. Expand the `meshes` folder and **RIGHT CLICK -> HIDE** on everything except the one named "DX." Sometimes you will receive a permissions error doing this because of bugs in MO2 so you mey need to just go into this folder and delete these directories.
-
-**EDIT:** One final step that I forgot when I initially made this guide. Some of the outfit records and leveled lists need to be changed. Drop this `ESP` into your `overwrite` folder (something like `D:\Licentia\overwrite`) and press `F5` to Refresh MO2. The ESP will appear at the bottom of your Load Order in the right pane. Place a check mark in the bubble next to it and you should be good to go.
-
-[MINISLOOT patch](/esps/Travis_MINISLOOT.esp) **(Click the RAW link in the upper right)**
-
-That should take care of it. Please be aware that all of this can only be done on a **full new game with the New Game option from the Main Menu.**
-
-Enjoy **MINISLOOT.**
+**OUT OF DATE, USE MINISLOOT PROFILE in Licentia QUESTS**
 
 ## ADDING SOFIA BACK
 
