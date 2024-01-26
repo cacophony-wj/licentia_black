@@ -64,18 +64,7 @@ Keep in mind you will need at least **ONE FULL ESP SLOT** for the primary mod, s
 
 ## ADDING IMPROVED LYDIA BACK
 
-**If you are missing the awesome _Improved Lydia_ mod from your _BLACK_ playthrough,** I have a patch here to help you out, at the request of @quesoturtle#4588. First, you need to install the following two mods:
-
-https://www.nexusmods.com/skyrimspecialedition/mods/38473?tab=files&file_id=377102
-https://www.nexusmods.com/skyrimspecialedition/mods/53432?tab=files&file_id=219517
-
-Place the first one right above the second one right under _Lucien Replacer - Ella's Version_, which is at the bottom of the black _Personalties_ header under the purple _FOLLOWERS_ in the **left pane** of _Mod Organizer 2._ Be sure to enable them by placing a checkmark in the round bubble to the left, and **refresh MO2** by pressing the `F5` key.
-
-Next you need to move the `ImprovedFollowersBoogalo.esp` to is proper location. It needs to go just above `Schlongs of Skyrim.esp`. Don't put it anywhere else.
-
-Next, copy the attached `ESP` into your _Shared Patches_ mod in MO2. You can right-click on it, select "Open in Explorer," and paste the `ESP` anywhere in there. Close out that window and **refresh MO2** by pressing `F5`. The ESP will appear at the **bottom of your Load Order** in the **right pane** of MO2. _Leave it there and place a checkmark next to it to enable it._
-
-This should only be done on a new game, but you should be good to go!
+**OUT OF DATE, REMOVED**
 
 [Lydia Patch](/esps/quesoturtles_lydia.esp) **(Click the RAW link in the upper right)**
 
