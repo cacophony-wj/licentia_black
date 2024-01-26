@@ -36,37 +36,11 @@ Enjoy **MINISLOOT.**
 
 ## ADDING SOFIA BACK
 
-**Another Commission for @MinuKaizer#7953!** I know some of you enjoy Sofia for some damn reason (probably because she gets so catty with Serana). I removed her to make room for more LOTD mods, as well due to a host of complaints about her annoying-ness, but here is a guide on adding her back to _Licentia 6_ if you would like to have her.
-
-First install all of the following mods, in the order they are listed below. For the _Sofia Bug & Patch Hub,_ be sure to install patches for the mods I use, including "Sofia - USSEP and Hearthfires Patch", "Sofia - RDO Patch," and "Sofia - GDO Patch" _in that order._ It would probably be best if you just "merged" them into the same "mod". For the sex option, be sure to choose the "Flower Girls Add-On", otherwise known as "Shadowman_Sofia_FG"
-
-- https://www.nexusmods.com/skyrimspecialedition/mods/2180
-- https://www.nexusmods.com/skyrimspecialedition/mods/38952
-- https://www.nexusmods.com/skyrimspecialedition/mods/47383
-- https://www.nexusmods.com/skyrimspecialedition/mods/64063
-- https://www.nexusmods.com/skyrimspecialedition/mods/71288
-- https://www.nexusmods.com/skyrimspecialedition/mods/74656
-
-Locate them at the bottom of the PERSONALITIES header underneath the FOLLOWERS header in the **LEFT PANE OF MOD ORGANIZER** as shown in the first attached image. Enable them by placing a check in the bubble to the left. _Do it slowly, one at a time, or MO2 may crash and screw up your load order._ Then **refresh MO2** by striking the `F5` key.
-
-Multiple `ESP`s will appear at the bottom of your Load order in the **RIGHT PANE OF MO2.** Relocate them just above `018Auri.esp`, the first follower in the list, as shown in the second attached image. Enable them in a similar fashion and **refresh MO2.**
-
-Then all you need to do is copy the attached `ESP` to your "Shared Patches" folder and enable it just above `Schlongs of Skyrim.esp.` 
-
-Keep in mind you will need at least **ONE FULL ESP SLOT** for the primary mod, so if your other additions are at **255** you will need to remove something. (I suggest removing a low-content mod with no patches such as _Smooches of Skyrim_ or _Community Overlays._)
-
-**That should be it,** but if you desire a different appearance for Sofia, or that she wear underwear instead of stripping naked all the time, or other customizations, ping me on my Discord server and I'll see what I can do!
-
-![Sofia Install Order](/images/sofia.load.order.png)
-![Sofia Load Ordder](/images/sofia.install.order.png)
-
-[Sofia Patch](/esps/Minus_Sofia.esp) **(Click the RAW link in the upper right)**
+**OUT OF DATE, REMOVED**
 
 ## ADDING IMPROVED LYDIA BACK
 
 **OUT OF DATE, REMOVED**
-
-[Lydia Patch](/esps/quesoturtles_lydia.esp) **(Click the RAW link in the upper right)**
 
 ## ADDING TAINTED BLOOD OF THE DRAGONBORN
 
