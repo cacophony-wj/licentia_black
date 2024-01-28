@@ -1,5 +1,12 @@
 # LICENTIA BLACK CHANGELOG
 
+## BLACK 11.9.1
+
+- Added back _OVirginity Reflowered_ as it's actually a requirement for _ORomance._ Oops.
+- Added back _OTrainers._ I think I just don't understand how the skill caps work.
+- Updated _OStim NG_ to 6.8f (Final, but I thought I had that already...)
+- Updated _OCum Ascended_ to 3.0.0
+  
 ## BLACK 11.9
 
 - Tweaks to body physics to make them just a touch jigglier.
