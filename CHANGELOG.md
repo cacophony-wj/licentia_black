@@ -1,5 +1,23 @@
 # LICENTIA BLACK CHANGELOG
 
+## BLACK 11.9
+
+- Tweaks to body physics to make them just a touch jigglier.
+- Updated to V.2.0.2 of _Open Animation Replacer._
+- FIXED _Animated Traversal!!_ All I had to do was reinstall _Animation Motion Revolution._ D'oh.
+- Reverted to V.2.2.3 of _True Directional Movement_ to reduce conflicts (lock on should work now)
+- Disabled random unprompted Smooches from Followers.
+- Ensured male body is proportioned properly.
+- Ensured Player Gore is disabled. (No more skull poking out...)
+- Reduced spawns in _Wolfskull Cave_ to reduce crashes with Followers.
+- Ensured _Myrwatch_ door points to the duplicate, uncorrupted cell.
+- Updated to latest "Stealth" Version of _enbseries 0.499_
+- Replaced _Food Remover_ Synthesis Patcher with _Food Remover Plus_.
+- Removed _OTrainers_ (doesn't seem to do anything anymore...)
+- Removed disabled test mods due to potential corruption.
+- Reran _Nemesis_ with TDM patches disabled to prevent divergent horse archery.
+- Tested FPS @ 4K with the _Skyrim Upscaler._ Stuttery, but mostly 60FPS. (I have a 3090.)
+  
 ## ALL LISTS
 
 - Added Charlie's _Alternate Alternate Perspective Letter_
