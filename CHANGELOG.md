@@ -1,5 +1,14 @@
 # LICENTIA BLACK CHANGELOG
 
+## BLACK 11.9.2
+
+- Got rid of the "burst of lightning" hand effect from _Spellsiphon._
+- Reactivated some _ENB Light_ lightning effects.
+- Removed all "edge glow" effects from active spells.
+- Attempted to fix pink snow on rocks, still working on it.
+- Hid the player head for first person _OStim_ scenes.
+- Fixed a lighting bug causing the Palace of Kings to be too bright.
+  
 ## BLACK 11.9.1
 
 - Added back _OVirginity Reflowered_ as it's actually a requirement for _ORomance._ Oops.
