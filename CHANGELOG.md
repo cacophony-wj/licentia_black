@@ -1,5 +1,14 @@
 # LICENTIA BLACK CHANGELOG
 
+## BLACK 11.10
+
+- Removed _Katana - Journey In Shadow_ pending resolution of a couple issues.
+- Removed _Chooey's Choice Requirements_
+- Removed _Katana - Chooey's Choice_
+- Removed _Megara - Chooey's Choice_
+- Resized the _Better Third Person Selection_ widget to better fit the screen.
+- Unhid the _Skyrim Paragliding_ DLL so the mod will function.
+   
 ## BLACK 11.9.2
 
 - Got rid of the "burst of lightning" hand effect from _Spellsiphon._
