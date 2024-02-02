@@ -1,5 +1,37 @@
 # LICENTIA BLACK CHANGELOG
 
+## SERVITIUM 3.6
+
+- Added _Anub's Animations_
+- Added _Devious Devices NG_
+- Added _Spank That Ass_
+- Added _Impact Play_
+- Added _SexLab Cum Overlays Extended_
+- Added _Another RaceMenu Rotation Mod_
+- Added _Creature Comforts_
+- Added _Simple Outcomes_ for _Acheron_
+- Updated _Practical Defeat_ to v0.4.5
+- Updated _Open Animation Replacer_ to v2.0.2
+- Replaced _SexLab Aroused Extended_ with _OSL Aroused_
+- Removed _Katana - Journey In Shadow_ pending resolution of a couple issues.
+- Removed _Chooey's Choice Requirements_
+- Removed _Katana - Chooey's Choice_
+- Removed _Megara - Chooey's Choice_
+- Tweaks to body physics to make them MUCH jigglier.
+- FIXED _Animated Traversal!!_
+- Removed all "edge glow" effects from active spells.
+- Got rid of the "burst of lightning" hand effect from _Spellsiphon._
+- Reactivated some _ENB Light_ lightning effects.
+- Resized the _Better Third Person Selection_ widget to better fit the screen.
+- Attempted to fix pink snow on rocks, still working on it.
+- Reverted to V.2.2.3 of _True Directional Movement_ to reduce conflicts (lock on should work now)
+- Updated to latest "Stealth" Version of _enbseries 0.499_
+- Removed disabled test mods due to potential corruption.
+- Reran _Nemesis_ with TDM patches disabled to prevent divergent horse archery.
+- Replaced _Food Remover_ Synthesis Patcher with _Food Remover Plus_.
+- Rearranged and regenerated _Synthesis_ Patches.
+- Deleted redundant downloaded files.
+
 ## BLACK 11.10
 
 - Removed _Katana - Journey In Shadow_ pending resolution of a couple issues.
