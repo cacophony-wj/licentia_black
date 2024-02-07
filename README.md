@@ -162,13 +162,19 @@ If you prefer _futanari_ style content, run the optional **"RUN TO ADD FUTA**" M
 
 Everything should now be configured automatically. Enjoy the modlist!
 
+## FINAL NOTES
+
+When you reach your first exterior world location, you will be prompted to enable _Survival Mode_. This mod disables fast travel and requires eating, drinking, and staying warm to survive. The option can be changed later in the default "Gameplay" settings of _Skyrim_.
+
+You will also receive a prompt about which Divine and/or Daedra you wish to worship, depending on your race. Choose according to your preference.
+
+### Confused about where to begin?
+
+[Try a helpful _Licentia_ starting guide](https://www.canva.com/design/DAF1LecdP9M/zve9MIfRDE2D50dxXsBEWA/edit) by my friend @Charlistic!
+
 ## TROUBLESHOOTING
 
 Refer to [Troubleshooting](TROUBLESHOOTING.md) for answers to common problems with the modlist.
-
-## Alternate Versions
-
-Alternate Versions of the modlist are also available. _SERVITIUM,_ in the "Unofficial NSFW" section of the _Wabbajack_ UI, features a SexLab setup with a traditional Devious emphasis for those more accustomed to that content. _Licentia QUESTS_, available only on the **MEGA** link from my Discord server, has 14 profiles with slightly varied configurations to suit different styles of play. There is also a **MEGA** version of _SERVITIUM_ available that has a couple of alternate profiles. Check the #list-updates channel when you get there.
 
 ## Modifications
 
@@ -183,20 +189,6 @@ Unlike many modlists, _Licentia_ was designed for ease of customization. You are
 - **NOTE:** _Synthesis_ is no longer mandatory for most additions, but you can run it if you really want to. [Use the guide here.](How-To-Run-Synthesis.md).
 
 For help with your additions, stop by my Discord server and you might just get it!
-
-## Commissions
-
-Don't feel like doing the work yourself? I am available to make your own customizations to my modlist for a small gratuity if you just can't figure out how to work it in. I can also build a customized version of the list for you provided it's not too extensive and compensation is appropriate. Meet me on my Discord server to discuss details.
-
-## FINAL NOTES
-
-When you reach your first exterior world location, you will be prompted to enable _Survival Mode_. This mod disables fast travel and requires eating, drinking, and staying warm to survive. The option can be changed later in the default "Gameplay" settings of _Skyrim_.
-
-You will also receive a prompt about which Divine and/or Daedra you wish to worship, depending on your race. Choose according to your preference.
-
-### Confused about where to begin?
-
-[Try a helpful _Licentia_ starting guide](https://www.canva.com/design/DAF1LecdP9M/zve9MIfRDE2D50dxXsBEWA/edit) by my friend @Charlistic!
 
 ## Updating the Modlist
 
