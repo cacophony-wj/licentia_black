@@ -83,6 +83,7 @@
 - Reran _Nemesis_
 - Reran _Synthesis_
 - Regenerated LODs with the new _DynDOLOD DLL NG_ (here we go again)
+- Made the _MCM Recording_ autorun.
 
 ## LICENTIA 12
 
