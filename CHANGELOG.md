@@ -1,5 +1,19 @@
 # LICENTIA BLACK CHANGELOG
 
+## LICENTIA 12.2
+
+- Added _Completionist - Skyrim Completion Tracker NG_
+- Removed _Skyrim Priority_ as it appears to be nagatively impacting my framerate
+- Removed _QuickLoot EE_ because some users cannot load the DLL for inexplicable reasons
+- **Note:** _Curator's Companion_ icons are not working in inventory for now, and will not work until _MoreHUD_ is updated.
+- **Note:** To check _Curator_ status for items, hover over them and look at the description card.
+- Certain other SKSE mods may load properly but have no function. Be aware of bugs
+
+## LICENTIA 12.1.0.1
+
+- Deleted an included _Creation Kit_ `Scripts.zip` file so the list can be installed.
+- Corrected missing textures for _Glorious Doors of Skyrim_
+  
 ## LICENTIA 12.1
 
 
