@@ -1,5 +1,127 @@
 # LICENTIA BLACK CHANGELOG
 
+## LICENTIA 12.1
+
+
+- Added _Billyy's Animations for OStim Standalone_
+- Added _BakaFactory's Animations for OStim Standalone_
+- Added _Anub's Animations for OStim Standalone_
+- Added _Leito's Animations for OStim Standalone_
+- Added _Nibbles' Animations for OStim Standalone_
+- Added _Milky's Animations for OStim Standalone_
+- Added _NCK30's Animations for OStim Standalone_
+- Added _Ayasato Animations for OStim Standalone_
+- Added _Dogma Animations for OStim Standalone_
+- Added _OStim Community Resource_
+- Added _OStim Community Resource 3BA Textures_
+- Added _Improved Follower Dialogue - Lydia_
+- Added _Skyrim Extended Cut - Saints & Seducers_ and patches
+- Added _Dementia Mushroom - Player Home for Skyrim Extended Cut_
+- Added _Warden of the Coast_ and patches
+- Added _Caught Red Handed - Quest Expansion_
+- Added _Spooky Philter of the Phantom_
+- Added _More To Do in Hammerfell_
+- Added _Hand-Placed Enemies_
+- Added _Dynamic Economy_
+- Added _Underwear.dll_
+- Added _Underwear.dll 3BA & HIMBO Conversion_
+- Added _The New Gentleman - Underwear.dll Patch_
+- Added _Locational Damage SKSE_
+- Added _Archery Locational Damage SKSE_
+- Added _Just Blood_
+- Added _Death Animations from Underdog Animations_
+- Added _female death animation_
+- Added _Absolutely play death animation_
+- Added _Death Expressions DX_
+- Added _More Painful Death Sounds_
+- Added _QuickLootEE_
+- Added _QuickLootEE 1170_ (DLL only)
+- Added _QuickLootEE - Nordic UI_
+- Added _Civil War Lines Expansion_
+- Added _Brawl Lines Expansion_
+- Added _Carriage and Stables Dialogue Bundle_ and patch
+- Added _NPCs React to Invisibility_
+- Added _NPCs React to Necromancy_
+- Added _Full Screen MCM Menu_
+- Added _Illustrious Whiterun 4K Update_
+- Added _Robes Retexture_
+- Added _Dragon Priests Retexture_
+- Added _Vampire Lord Retexture_
+- Added _Night Mother Retexture_
+- Added _JS Dwemer Artifacts_
+- Added _Rainbows Remade 4K_
+- Added _Shooting Stars SE_
+- Added _Realistic HD Mushrooms Remastered_
+- Added _Pets of Skyrim (CC) Collision Patch_
+- Added a bunch of little bug fix and consistency patches.
+- Added _Nether Dragon Breath Optimization_ for _Deadly Dragons_
+- Replaced _Schlongs of Skyrim SE_ with _The New Gentleman_
+- Replaced _Vanilla Hair SMP_ with just _Vanilla Hair Remake_ (prevents rare crashes)
+- Replaced _Clean Skyrim Textures_ with _Project Clarity_ for base and anniversary textures
+- Replaced _Hyperborean Snow_ with _Cathedral Snow and Glaciers_
+- Replaced _Trainwreck - A Crash Logger_ with _Crashlogger SE_ (more accurate)
+- Updated _Legacy of the Dragonborn - Curator's Companion_ to 6.2.5
+- Updated _Xelzaz Argonian Telvanni Follower_ to 1.11.0
+- Updated _Merlin the Corgi_ to 2.0.3.1
+- Updated _Deadly Dragons SE_ to 6.6.1
+- Updated _Beast HHBB_ to 3.8 (with patches)
+- Updated _iBeasts - 3DNPCs_ to 1.2
+- Updated _Nether Follower Framework_ to 2.8.6
+- Updated _The Tools of Kagrenac_ to 1.62
+- Updated _The Wheels of Lull_ to 5.1.13
+- Updated _Open Animation Replacer_ to 2.1.0
+- Updated _Honed Metal SE_ to 1.23
+- Updated _Water for ENB_ to 1.89
+- Updated _Embers XD_ to 2.9.4
+- Updated _Unofficial Skyrim Special Edition Patch_ to 4.3.0a
+- Updated a host of SKSE plugins to v1170
+- Updated _enbseries_ to the latest Stealth 0.499 Update by Boris
+- Removed _Dave's UFHD Mountains_ and _Dave's Darker Mountains_
+- Removed _No Spinning Death Animation_
+- Removed lid animation from barrels (annoying...)
+- Regenerated _BodySlides_
+- Reran _Nemesis_
+- Reran _Synthesis_
+- Regenerated LODs with the new _DynDOLOD DLL NG_ (here we go again)
+
+## LICENTIA 12
+
+- Updated _OStim NG_ to _OStim Standalone_ with all available current mods
+- Updated all available _OStim_ animations to _OStim Standalone_ format
+- Added _Indecent Exposure - Immersive Naked Reactions_
+- Added _Positive Undressed Reactions ESL_
+- Added _NPCs Wear Amulets of Mara_
+- Added _Immersive Rejections_
+- Added a collection of _Modocalypse NPC Overhauls_ for mod-added _NPCs_
+- Added _NVICO - Bandits_ with new patches for _NVICO_
+- Added _GLAM Astrid_
+- Added _GLAM Haelga_
+- Added _GLAM Svana_
+- Added _Elisif as Toccata_
+- Added _KR2's Malevolent Miraak_
+- Added _KR2's Sinful Sam Guevenne_
+- Added _KR2's Moody Mercer_
+- Added _KR2's Mighty Madanach_
+- Used more of _eeekie's NPCs_
+- Added _Pandorables Males 3_
+- Added _Dwemer Spectres Special Edition_ and CC and LOTD Integration
+- Added _Return to Pelagius' Mind_
+- Added _Penitus Oculatus_
+- Added _Legacy of the Dragonborn Collectors_
+- Added _Shouting Obliterates Skeletons_
+- Added _Sweeping Organizes Stuff_
+- Added _Shovels Bury Bodies_
+- Added _JS Rumpled Rugs_ (without tripping)
+- Added _Sensible Bribes_
+- Added _Pickpocket Everyone_
+- Added _Pickpocket Reset_
+- Added _Buy and Sell Torches_
+- Added _Whiterun Watchtower Doesn't Start Broken_
+- Added _Difficulty MCM_ (for your own tweaks)
+- Updated _Serana Dialogue Addon SE_ to 4.1.0.1
+- Updated _SDA Patch Hub SE_ to 2.9.2
+- Updated _Kaidan Extended All-In-One_ to 1.9.2
+  
 ## SERVITIUM 3.6
 
 - Added _Anub's Animations_
