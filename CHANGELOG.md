@@ -3,7 +3,7 @@
 ## LICENTIA 12.2
 
 - Added _Completionist - Skyrim Completion Tracker NG_
-- Removed _Skyrim Priority_ as it appears to be nagatively impacting my framerate
+- Removed _Skyrim Priority_ as it appears to be negatively impacting my framerate
 - Removed _QuickLoot EE_ because some users cannot load the DLL for inexplicable reasons
 - **Note:** _Curator's Companion_ icons are not working in inventory for now, and will not work until _MoreHUD_ is updated.
 - **Note:** To check _Curator_ status for items, hover over them and look at the description card.
