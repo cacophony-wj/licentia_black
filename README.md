@@ -1,6 +1,6 @@
-# PLEASE DO NOT CLOSE THIS WINDOW. 
+# THIS MODLIST IS TEMPORARILY NON-FUNCTIONAL DUE TO A VERY LARGE, GAME-CHANGING PATCH FOR _Baldur's Gate III._
 
-### THIS DOCUMENT MUST BE FOLLOWED FOR LICENTIA TO WORK PROPERLY.
+We are just going to have to wait for the mods to be updated.
 
 ![Licentia Black Logo](images/4k_licentia_logo.webp)
 
