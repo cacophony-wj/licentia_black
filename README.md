@@ -71,10 +71,6 @@ _Licentia Black_ will not work with a GOG or pirated version of the game. If you
 
 This shouldn't happen unless you download the list multiple times or download multiple _Wabbajack_ lists. Sign up for an account or wait for the timeout to expire.
 
-**Unable to Download Archives.**
-
-If _Wabbajack_ terminates without a green "COMPLETE" success box and instead gives you this message, refer to the manual download links at the top of this document. Almost all of the files that commonly fail are listed there. 
-
 ## Post-Installation
 
 ### Verifying the Modlist
