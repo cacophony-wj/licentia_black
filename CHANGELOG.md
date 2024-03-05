@@ -1,5 +1,44 @@
 # LICENTIA BLACK CHANGELOG
 
+## LICENTIA 12.5
+
+- Updated _Vanilla Hair Remake_ to 0.11
+- Updated _Xelzaz - Custom Fully Voiced Argonian Telvanni Follower_ to 1.11.2
+- Updated _Pandorables Males 3_ to 1.02
+- Updated _Glass Armors and Weapons Retexture SE_ to 2.1
+- Updated _Completionist - Skyrim Completion Tracker_ to 4.0.0.1
+- Updated _Honed Metal - NPC Crafting and Enchanting Services_ to 1.26
+- Updated _Guard Dialogue Overhaul SE_ to 3.0 ESL
+- Updated _Comprehensive Attack Speed Patch - SKSE_ to 1.1.2.7
+- Updated _OnMagicEffectApply Replacer Effective_ to 1.8.2
+- Updated _MoreHUD Inventory Edition AE_ to 2.1.3
+- Updated _Scaleform Translation Plus Plus NG_ to 1.8
+- Updated _LOD Model Library for DynDOLOD_ to 1.4.4
+
+## LICENTIA 12.4
+
+- Toned down bandit and monster spawns to a more reasonable amount.
+- Added winedave's new parallax Whiterun roof fixes
+- Added _Rogue's Gallery_ (missing Papyrus dependency)
+- Updated _Night-blooming Violets for OStim Standalone_ to 1.3
+- Updated _Pandorables Males 3_ to 1.0.1
+- Updated _iBeasts - 3DNPCs_ to 1.2
+- Updated _Beards of Power_ to the _High-Poly Head_ version
+- Updated _Honed Metal_ to 1.25.2
+- Updated _Storm Lightning for SSE and VR_ to 1.4.21
+- Updated _JS Unique Utopia - Rings_ to 1.2
+- Updated _Address Library_ (Anniversary Edition) to 11
+- Updated _OStim Community Resource_ to 1.16.2
+- Updated _3DNPC Script Fixes_ to 2.1
+- Updated _CBPC - Body Physics and Collisions_ to 1.6.4
+- Updated _po3's Tweaks_ to 1.8.2
+- Updated _Scaleform Translation Plus Plus NG_ to the _Updated_ version
+- Verified physics settings are correct
+- Replaced the failing _xLODGen.106_ download with _xLODGen.109_
+- Removed _CBPC 3-Bone Breast Body Bounce Configs_ (outdated)
+- Included _xEdit_ 4.1.5c
+- Re-ran _Nemesis._
+
 ## LICENTIA 12.2
 
 - Added _Completionist - Skyrim Completion Tracker NG_
@@ -15,7 +54,6 @@
 - Corrected missing textures for _Glorious Doors of Skyrim_
   
 ## LICENTIA 12.1
-
 
 - Added _Billyy's Animations for OStim Standalone_
 - Added _BakaFactory's Animations for OStim Standalone_
