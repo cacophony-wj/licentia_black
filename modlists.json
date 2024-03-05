@@ -83,7 +83,7 @@
   },
   {
     "title": "Licentia DECK",
-    "description": "A low-impact version of Licentia suitable for laptops or mobile PCs such as the Steam DECK.",
+    "description": "A low-impact version of Licentia suitable for laptops or mobile PCs.",
     "author": "cacophony",
     "maintainers": [
       "github/cacophony-wj"
@@ -125,7 +125,7 @@
   },
   {
     "title": "SERVITIUM",
-    "description": "A lightly configured SexLab variant of Licentia where questing and degeneracy go hand-in-hand.",
+    "description": "Just because you're a little bit subby doesn't mean you shouldn't be able to kick some ass.",
     "author": "cacophony",
     "maintainers": [
       "github/cacophony-wj"
