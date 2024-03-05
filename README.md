@@ -1,7 +1,3 @@
-# THIS MODLIST IS TEMPORARILY NON-FUNCTIONAL DUE TO A VERY LARGE, GAME-CHANGING PATCH FOR _Baldur's Gate III._
-
-We are just going to have to wait for the mods to be updated.
-
 ![Licentia Black Logo](images/4k_licentia_logo.webp)
 
 # Licentia
@@ -28,73 +24,32 @@ The recommended setup for an enjoyable experience **at 1080p** is at least
 ### Requirements
 
 - [Nexus Account](https://nexusmods.com/)
-- [LoversLab Account](https://www.loverslab.com/)
 
-These accounts are mandatory, they must be created before continuing. _Nexus Premium_ is strongly recommended or the installation time will take many more hours (possibly days).
-
-## Pre-Installation
-
-The _Lover's Lab API_ (automatic download interface) is no longer available due to technical considerations, so it is recommended to download all mods from there in a normal web browser _before launching Wabbajack._ In addition, several files from other third-party hosts such as _MEGA_ and _Google Drive_ often have difficulty, so those must be downloaded as well. To do so, take the following steps.
-
-Create a directory for your chosen modlist. Something in the root folder of a fast Solid State Drive, or -- ideally -- an M.2 NVME. (Something like `D:\Licentia`). 
-
-Within that directory, create another directory called `downloads` -- in all lower case. (`D:\Licentia\downloads`)
-
-Refer to [this document](DOWNLOADS.md) for links to all of the External Mods you need to download. Place all of the files in the `downloads` directory you created above. **DO NOT EXTRACT THEM,** they need to be _exactly_ as downloaded from the website.
+This accounts is mandatory, it must be created before continuing. _Nexus Premium_ is strongly recommended or the installation time will take many more hours (possibly days).
 
 ## Installation
 
-The _Skyrim Special Edition 1.6.1130 Update_ appears to have various technical problems with its release that make it difficult to acquire and verify the proper base game files. It is recommended to delete your copy of _Skyrim_ locally before continuing. While not ideal, the process will involve multiple manual file deletions, downloads and verifications if you don't.
+Before you do anything with _Wabbajack,_ ensure that _Skyrim_ is installed to a non-Protected folder (such as the root of your drive, like `C:\`). It **cannot** be located in _Program Files_ or the list will not function. Relocate the game as necessary.
 
-Reinstall _Skyrim_ via _Steam,_ then use the internal tool to "Verify Integrity of Game Files." 
+_Skyrim_ needs to be set to the English language for _Wabbajack_ to match its files. Other languages will not work.
 
-This modlist requires the _Skyrim Anniversary Edition Upgrade_ or it cannot be installed. You must ensure that you have purchased this DLC and that it is enabled on your _Steam_ Account. You can verify this information from the game's Store Page. 
+_Licentia_ requires the additional _Creation Club Content_ from the _Skyrim Anniversary Edition Upgrade_ or the modlist will not install. The price is about $20. Some of the files are a bit wonky so it is recommended to delete the free ones that come with the game and download them again from the internal _Creation Shop._
 
-Next launch the Vanilla Game from Steam (it doesn't matter what options are chosen in the Launcher), and the game should prompt you to download the _Anniversary Edition Content._ If it does not, click the **Creations** menu option along the bottom right. Click the **[O] OPTIONS** button at the bottom of the screen. From the menu that appears, select **Download all owned Creation Club Creations.**
+Create a directory on the root of one of your Solid State drives (such as `D:\Licentia`) where you wish the modlist to be installed. You need at least **600GB** free for this modlist, as well as a few GBs in the _Wabbajack_ and _OS_ drives for caches. About half of these GBs are mod downloads; the downloads folder can be deleted or relocated after installation.
 
-The download process for the _Anniversary Edition Upgrade Content_ will begin after this and takes about five minutes. _Skyrim_ must remain in the foreground or it will be interrupted.
+Ensure that you have set antivirus exceptions for this folder, the _Skyrim_ vanilla game folder, and the _Wabbajack_ folder, or the installation will fail. Certain antivirus packages do not properly respect exceptions and cannot be fully disabled (_Webroot_ and _Bitdefender_ are examples of these). These tools must be uninstalled from your system.
 
-###  Installing Microsoft Visual C++ Redistributable Package
+Ensure that _OneDrive_ is **uninstalled** or **completely disabled.** This program locks some of _Skyrim_'s configuration files when in use and will cause the modlist to experience errors.
 
 The _Microsoft Visual C++_ redistributable package is required for _Mod Organizer 2_ and you can download it from _Microsoft._ Download the x64 version under "Visual Studio 2015, 2017 and 2019" [here](https://aka.ms/vs/16/release/vc_redist.x64.exe).
 
-###  Steam Config
-
-**Change Steam's Update Behavior**
-
-To ensure that _Steam_ does not automatically update, open the Properties window of _Skyrim Special Edition_ in _Steam_, navigate to the Updates tab and change Automatic updates to _Only update this game when I launch it_. You should also disable the _Steam Cloud_. It is incompatible with the profile-specific saves of a _Wabbajack_ modlist.
-
-**Set the Game language to English**
-
-The modlist will not install unless it can verify that _Skyrim_ is in English. If you change the language, you may need to Verify Local Files again.
-
-**Do Not Use Any Part of This List in a Protected Folder**
-
-This includes `Program Files,` `Program Files (x86)`, `Downloads`, `Documents`, the `Desktop` or any other folders that _Windows_ considers "Protected" (essential to the operating system). If the _Wabbajack_ folder, the _Skyrim Special Edition_ folder, the _Steam_ folder, the modlist folder or the downloads folder are in any of these directories, the modlist will not function properly. Relocate offending folders to a non-Protected location such as the root directory. (D:\ for example.)
-
-**Do Not Use Any Protected Folders inside of OneDrive**
-
-You will experience unusual behavior if the `My Games` folder (usually in the `Documents` folder) is part of a _OneDrive_ Cloud Folder. Relocate it or disable _OneDrive._ 
-
-**Make Exceptions for Anti-Malware Programs**
-
-Exclude antivirus and anti-malware programs from monitoring three directories: those containing the _Wabbajack_ app, the _Skyrim Special Edition_ game folder, and the directory in which you wish to install the modlist. The list will not install or run properly otherwise. Particularly intrusive malware solutions such as _Bitdefender_ and _Webroot_ must be fully uninstalled due to technical limitations. Unfortunately, _Windows Defender_ is the only recommended antimalware solution one should use with _Wabbajack._
-
-**Set Pagefile to 40GB Or Above**
-
-On _Windows 11_ you can find this setting in the About page for your PC. [Here](https://www.windowscentral.com/software-apps/windows-11/how-to-manage-virtual-memory-on-windows-11) is a document to find the specific option; other versions of Windows are similar. It is recommended to set the minimum and maximum pagefile size to `40,960` all on one Solid State Drive as mentioned above. 
-
-**Ensure Enough Free Storage Space**
-
-As of this writing approximately **20GB** is required for the `Steam` folder, **228 GB** for the downloads folder, and **386 GB** for the modlist folder. Approximately **30 GB** of free space is required on your `Windows` drive and **30 GB** additional free space on your `Wabbajack` drive to leave room for temporary files, patches, and caches. Thus the total required space is approximately **694 GB.** These do not all need to be on the same drive. 
+You must set your Advanced Memory Pagefile to at least 40GB or the modlist will constantly crash. On _Windows 11_ you can find this setting in the About page for your PC. [Here](https://www.windowscentral.com/software-apps/windows-11/how-to-manage-virtual-memory-on-windows-11) is a document to find the specific option; other versions of Windows are similar. It is recommended to set the minimum and maximum pagefile size to `40,960` all on one Solid State Drive. 
  
 ##  Using Wabbajack
 
 Login to _Nexus_ with the _Wabbajack_ app. This login can be found by clicking the **GEAR** icon in the top right. It will toggle over to "logged in" when successful.
 
 The download and installation process can take a very long time depending on your system specs. 
-
-It is advised to have ALL relevant folders (for `Wabbajack.exe`, `Steam`, the modlist folder, and the downloads folder) on a solid state drive. Do not place any of these folders on a hard disk drive, flash drive, or external drive of any kind. After the list is installed, you can relocate **only** the downloads folder to such a drive (or delete it, but that may make updating difficult).
 
 ##  Problems with Wabbajack
 
@@ -124,9 +79,9 @@ If _Wabbajack_ terminates without a green "COMPLETE" success box and instead giv
 
 ### Verifying the Modlist
 
-_Licentia_ is over 500GB in size. To install the list, _Wabbajack_ downloads and patches hundreds of thousands of files. During the installation process several of these files are likely to have failed or corrupted in some way. Before finishing up with the _Wabbajack_ app, it is **strongly recommended** to run a file verification step or the modlist may be nearly unplayable.
+_Licentia_ is over 500GB in size. Given the likelihood of corrupted files during installation, it is strongly recommended to check the files after they have been installed.
 
-To verify the modlist, click the Gear icon in the upper right once again. Click the button along the middle-left that reads "Launch Wabbajack CLI." Type the following commands:
+To verify the modlist, click the Gear icon in the upper right. Click the button along the middle-left that reads "Launch Wabbajack CLI." Type the following commands:
 
 `cd cli`
 
@@ -134,7 +89,7 @@ To verify the modlist, click the Gear icon in the upper right once again. Click 
 
 Obviously you will need to replace the portions in quotations with the specific file locations on your system. The Command Line Interface will hash and verify every file in the list against a known signature.
 
-You must keep reinstalling the list until every file returns as a 100% match. This may be much more difficult if your Internet connection is poor, or the _Wabbajack_ app is frequently interrupted.
+You must keep reinstalling the list until every file returns as a 100% match. This may be much more difficult if your Internet connection is poor, or the _Wabbajack_ app is frequently interrupted. Do note that if you launch _Mod Organizer 2_ you just changed some of the files so they will not verify. Do not touch anything before verifying.
 
 ### Tweaking the Modlist
 
@@ -150,17 +105,9 @@ Launch _ModOrganizer.exe_ from the directory in which you installed the list. La
 
 ## WHEN YOU SPAWN IN HELGEN'S INN, DO NOT TOUCH ANYTHING!
 
-Wait until all the messages appear then disappear in the upper left corner of the screen. Then you may continue.
+This modlist now configures itself! Sadly it takes a long time to accomodate for slow CPU's and lower-end systems. After creating your character, just sit tight and wait about five minutes. Fix yourself a cup of tea, sip and relax, and wait until you see the Command Word: **QUELISH**
 
-## MCM Recorder
-
-Find the _MCM Recorder_ menu in the _Mod Configuration_ menu accessible via the `ESCAPE` key or the `START` button. 
-
-Execute the **"READ README THEN RUN ME"** recording. Confirmation requires that you close the MCM Menu and select "Run Recording." Do not touch anything until all messages disappear in the Upper Left.
-
-If you prefer _futanari_ style content, run the optional **"RUN TO ADD FUTA**" MCM Recording. This will give all females in the game a 10% chance for futanari "enhancement." To add this enhancement to the player, check the "Player/NPC" settings in the _Schlongs of Skyrim_ MCM.
-
-Everything should now be configured automatically. Enjoy the modlist!
+Ignore anything that happens beforehand.
 
 ## FINAL NOTES
 
@@ -168,27 +115,9 @@ When you reach your first exterior world location, you will be prompted to enabl
 
 You will also receive a prompt about which Divine and/or Daedra you wish to worship, depending on your race. Choose according to your preference.
 
-### Confused about where to begin?
-
-[Try a helpful _Licentia_ starting guide](https://www.canva.com/design/DAF1LecdP9M/zve9MIfRDE2D50dxXsBEWA/edit) by my friend @Charlistic!
-
 ## TROUBLESHOOTING
 
 Refer to [Troubleshooting](TROUBLESHOOTING.md) for answers to common problems with the modlist.
-
-## Modifications
-
-Unlike many modlists, _Licentia_ was designed for ease of customization. You are welcome to make whatever additions desired provided the understanding is reached that support for them is not guaranteed. You can find guides for commonly-made customizations below.
-
-- To improve performance on low end or midrange systems, [consult the Performance Improvement Guide.](https://github.com/cacophony-wj/licentia_black/blob/main/Vast-Performance-Improvement.MD)
-- To enable controller support for _Licentia,_ [consult the controller guide](controller-guide.md).
-- To use _Skyrim Outfit System_ (the transmog mod) properly, [consult the guide for it here](SoS-OutfitSystem-Guide.md).
-- To add new animations to your copy of _Licentia_, [be sure to run Nemesis afterward](How-To-Run-Nemesis.md).
-- To add outfits to your copy of _Licentia,_ [consult the BodySlide document](How-To-Add-Outfits.md).
-- To add a few mods that are commonly requested, [consult the Common Additions document.](https://github.com/cacophony-wj/licentia_black/blob/main/Common-Additions.md) You can request your own!
-- **NOTE:** _Synthesis_ is no longer mandatory for most additions, but you can run it if you really want to. [Use the guide here.](How-To-Run-Synthesis.md).
-
-For help with your additions, stop by my Discord server and you might just get it!
 
 ## Updating the Modlist
 
