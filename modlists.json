@@ -125,7 +125,7 @@
   },
   {
     "title": "SERVITIUM",
-    "description": "Just because you're a little bit subby doesn't mean you shouldn't be able to kick some ass.",
+    "description": "Just because you\u0027re a little bit subby doesn\u0027t mean you shouldn\u0027t be able to kick some ass.",
     "author": "cacophony",
     "maintainers": [
       "github/cacophony-wj"
@@ -147,21 +147,21 @@
     "links": {
       "image": "https://raw.githubusercontent.com/cacophony-wj/licentia_black/main/images/Servitium_Splash_2.png",
       "readme": "https://github.com/cacophony-wj/licentia_black",
-      "download": "https://authored-files.wabbajack.org/SERVITIUM.wabbajack_c0ccda5c-fe80-4101-8291-c200518f1d98",
+      "download": "https://authored-files.wabbajack.org/SERVITIUM.wabbajack_06cc8932-a1df-49e1-be21-4d1cf0c69712",
       "machineURL": "licentia_servitium",
       "discordURL": "https://discord.gg/jolly-coop"
     },
     "download_metadata": {
-      "Hash": "IjFE251wvQA=",
-      "Size": 398442934,
-      "NumberOfArchives": 1694,
-      "SizeOfArchives": 247916665390,
-      "NumberOfInstalledFiles": 513589,
-      "SizeOfInstalledFiles": 419479469184
+      "Hash": "16FnCeEE1Wo=",
+      "Size": 411476701,
+      "NumberOfArchives": 1688,
+      "SizeOfArchives": 239000925873,
+      "NumberOfInstalledFiles": 377087,
+      "SizeOfInstalledFiles": 356245446784
     },
-    "version": "3.6.1",
+    "version": "4.4",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2024-02-07T07:16:28.6552104Z",
+    "dateUpdated": "2024-03-05T10:15:40.8317482Z",
     "repositoryName": ""
   },
   {
