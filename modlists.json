@@ -20,7 +20,7 @@
     "utility_list": false,
     "image_contains_title": false,
     "DisplayVersionOnlyInInstallerView": false,
-    "force_down": true,
+    "force_down": false,
     "links": {
       "image": "https://raw.githubusercontent.com/cacophony-wj/licentia_black/main/images/classic.babe.2.png",
       "readme": "https://github.com/cacophony-wj/licentia_black",
@@ -60,7 +60,7 @@
     "utility_list": false,
     "image_contains_title": false,
     "DisplayVersionOnlyInInstallerView": false,
-    "force_down": true,
+    "force_down": false,
     "links": {
       "image": "https://raw.githubusercontent.com/cacophony-wj/licentia_black/main/images/Ku9Nqihk.png",
       "readme": "https://github.com/cacophony-wj/licentia_black/blob/main/PARABELLUM.MD",
@@ -102,7 +102,7 @@
     "utility_list": false,
     "image_contains_title": false,
     "DisplayVersionOnlyInInstallerView": false,
-    "force_down": true,
+    "force_down": false,
     "links": {
       "image": "https://raw.githubusercontent.com/cacophony-wj/licentia_black/main/images/LicentiaCompile3sm.png",
       "readme": "https://github.com/cacophony-wj/licentia_black",
@@ -143,7 +143,7 @@
     "utility_list": false,
     "image_contains_title": false,
     "DisplayVersionOnlyInInstallerView": false,
-    "force_down": true,
+    "force_down": false,
     "links": {
       "image": "https://raw.githubusercontent.com/cacophony-wj/licentia_black/main/images/Servitium_Splash_2.png",
       "readme": "https://github.com/cacophony-wj/licentia_black",
@@ -184,7 +184,7 @@
     "utility_list": false,
     "image_contains_title": false,
     "DisplayVersionOnlyInInstallerView": false,
-    "force_down": true,
+    "force_down": false,
     "links": {
       "image": "https://raw.githubusercontent.com/cacophony-wj/cloud_machine/main/images/Tifa.png",
       "readme": "https://github.com/cacophony-wj/cloud_machine/blob/main/README.md",
@@ -224,7 +224,7 @@
     "utility_list": false,
     "image_contains_title": false,
     "DisplayVersionOnlyInInstallerView": false,
-    "force_down": true,
+    "force_down": false,
     "links": {
       "image": "https://raw.githubusercontent.com/cacophony-wj/ventureforth/main/images/Venture_Forth.png",
       "readme": "https://github.com/cacophony-wj/ventureforth/blob/main/README.md",
