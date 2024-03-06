@@ -1,5 +1,9 @@
 # LICENTIA BLACK CHANGELOG
 
+## LICENTIA 12.6.1
+
+- Updated _po3's Tweaks_ to 1.9.2 to prevent crashes
+  
 ## LICENTIA 12.5
 
 - Updated _Vanilla Hair Remake_ to 0.11
