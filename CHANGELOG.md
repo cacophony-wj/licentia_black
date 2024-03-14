@@ -1,5 +1,40 @@
 # LICENTIA BLACK CHANGELOG
 
+## LICENTIA 12.7
+
+- Added _BD's Armor and Clothing Replacer_
+- Added _Kreise's Skimpy Outfits for HIMBO_
+- Added _TRX Futanari addon NG_
+- Added _Binibini Skin for CBBE 3BA COCO_
+- Added _TRX Binibini Patch_
+- Updated _OStim Standaline_ to 7.3c
+- Updated _The New Gentleman_ to 2.2.2
+- Reinstalled _Auto Input Switch_ (disabled) 
+- Reinstalled _Essential Favorites_ (disabled)
+- Reinstalled _Favorite Misc Items_ (disabled)
+- Removed _REALORE SKIN ULTIMA 8K for CBBE 3BA_
+- Removed _RELORE SKIN for SOS_
+- Enabled male physics for the male sloot profiles
+- Fixed TUCS configurations so controllers no longer crash the menu
+- Fixed LOTD perk menus being inaccessible
+- Fixed rightward list of schlongs caused by CPBC configuration
+- Fixed a `debug.log` erroring installation without _Creation Kit_ 
+- Regenerated _BodySlides_
+- Reran _Nemesis_
+
+## LICENTIA 12.6.2
+
+- Added Boreal Boats
+- Added Tremendous Helm of Yngol
+- Added wd - Taproot
+- Added a few small Illustrious Whiterun upgrades
+- Updated Lovemaking Compendium for OStim Standalone to 1.5
+- Updated Kaidan Extended All-In-One to 1.9.9.1
+- Updated Extended Encounters 1.6.6
+- Updated Vanilla hair remake to 0.15
+- Updated Blended Roads Redone to 2.1
+- Hopefully a resolution for xLODGen download errors
+
 ## LICENTIA 12.6.1
 
 - Updated _po3's Tweaks_ to 1.9.2 to prevent crashes
