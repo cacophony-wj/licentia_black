@@ -1,5 +1,12 @@
 # LICENTIA BLACK CHANGELOG
 
+## LICENTIA 12.7.0.1
+
+- Fixed the revealing keywords on outfits so Male Sloot displays properly.
+- Adjusted the "recent loot" item card upward a bit so as not to overlap the ammunition readout.
+- Enabled the SmoothCam 3D Ranged Crosshair by default because the Default Crosshair is a bit useless for 3rd Person Archery.
+- Ensured that FUTA is disabled by Default.
+  
 ## LICENTIA 12.7
 
 - Added _BD's Armor and Clothing Replacer_
