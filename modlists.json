@@ -228,21 +228,21 @@
     "links": {
       "image": "https://raw.githubusercontent.com/cacophony-wj/ventureforth/main/images/Venture_Forth.png",
       "readme": "https://github.com/cacophony-wj/ventureforth/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Venture Forth.wabbajack_c7b924b5-83f5-4dc0-bacc-77f3ca6e2008",
+      "download": "https://authored-files.wabbajack.org/Venture Forth.wabbajack_b595a6b6-7305-4252-8a1f-ceb017e30dde",
       "machineURL": "ventureforth",
       "discordURL": "https://discord.gg/jolly-coop"
     },
     "download_metadata": {
-      "Hash": "6S38BL615m8=",
-      "Size": 4042633,
+      "Hash": "uCfmsCsbCZ4=",
+      "Size": 4040790,
       "NumberOfArchives": 32,
-      "SizeOfArchives": 1029764477,
-      "NumberOfInstalledFiles": 3219,
-      "SizeOfInstalledFiles": 1573051945
+      "SizeOfArchives": 1029742723,
+      "NumberOfInstalledFiles": 3193,
+      "SizeOfInstalledFiles": 1533146007
     },
-    "version": "1.2.3",
+    "version": "1.3",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2024-03-13T05:58:27.7808491Z",
+    "dateUpdated": "2024-03-15T20:26:20.5525708Z",
     "repositoryName": ""
   }
 ]
