@@ -1,5 +1,18 @@
 # LICENTIA BLACK CHANGELOG
 
+## SERVITIUM 4.4.3
+
+- Reinstalled _Auto Input Switch_
+- Reinstalled _Essential Favorites_
+- Reinstalled _Favorite Misc Items_
+- Fixed a purple texture on bear trophy heads
+- Fixed _Ultimate Control Scheme_ configurations so controllers no longer crash the menu
+- Fixed _LOTD Perk Menus_ being inaccessible
+- Fixed rightward list of schlongs caused by CBPC configuration
+- Fixed a `debug.log` erroring installation without _Creation Kit_
+- Enabled _SmoothCam_ 3D Ranged Crosshair
+- Adjusted "Recent Loot" Item Card upward a bit
+
 ## LICENTIA 12.7.0.1
 
 - Fixed the revealing keywords on outfits so Male Sloot displays properly.
