@@ -16,7 +16,7 @@ Play _Licentia._ (This modlist.)
 
 **Do you like kicking ass in a high-powered RPG but also sometimes roleplaying as a sex slave?**
 
-Play _Servitium._
+Play [_Servitium._](https://github.com/cacophony-wj/servitium)
 
 #### More Information
 
