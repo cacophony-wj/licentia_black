@@ -1,5 +1,12 @@
 # LICENTIA BLACK CHANGELOG
 
+## LICENTIA 12.8
+
+- Added _QuickLoot EE_
+- Added _QuickLoot EE_ patch for 1170
+- Updated _Open Animation Replacer_ to 2.2.2
+- Updated _Ordinator Perks for NPCs_ to 2.5
+
 ## SERVITIUM 4.4.3
 
 - Reinstalled _Auto Input Switch_
