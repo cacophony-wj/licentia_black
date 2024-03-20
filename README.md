@@ -85,22 +85,6 @@ This shouldn't happen unless you download the list multiple times or download mu
 
 ## Post-Installation
 
-### Verifying the Modlist
-
-_Licentia_ is over 500GB in size. Given the likelihood of corrupted files during installation, it is strongly recommended that files be checked after installation.
-
-To verify the modlist, click the Gear icon in the upper right. Click the button along the middle left that reads "Launch Wabbajack CLI." Type the following commands:
-
-`cd cli`
-
-`wabbajack-cli verify-modlist-install -m "path to the Licentia.wabbajack file" -i "Licentia install folder path"`
-
-Obviously, you will need to replace the portions in quotations with the specific file locations on your system. The Command Line Interface will hash and verify every file in the list against a known signature.
-
-I recognize that many people are unfamiliar with file paths and how to type in command-line commands. Most modern devices never require such knowledge. [Here](https://www.digitalcitizen.life/command-prompt-how-use-basic-commands/) is a comprehensive guide on how to use the command line. I realize this solution is not ideal, but until a Verify button is added to _Wabbajack_, this step will remain necessary for larger modlists. Note the location of your `Licentia.wabbajack` file and your `X:\Licentia` directory and do the best you can.
-
-You must reinstall the list until every file returns as a 100% match. This may be much more difficult if your Internet connection is poor, or the _Wabbajack_ app is frequently interrupted. Do note that if you launch _Mod Organizer 2_, you just changed some of the files, so they will not verify. Do not touch anything before verifying.
-
 ### Tweaking the Modlist
 
 If you wish to change your game's resolution, select the "INI Editor" from the _Tools_ menu along the icon bar of MO2 and change it via the `SkyrimPrefs.ini` file. Scroll down until you see the `[Display]` header and look for the `iSize` values. Note that the TYPICAL ORDER IS REVERSED, the HEIGHT is listed BEFORE the WIDTH.
