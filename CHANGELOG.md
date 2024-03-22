@@ -1,5 +1,11 @@
 # LICENTIA BLACK CHANGELOG
 
+## LICENTIA 12.9
+
+- Removed _QuickLoot EE_ and 1170 patch
+- Removed _Hoth_
+- Fixed a neckseam on all Bosmer (wood elves)
+  
 ## LICENTIA 12.8
 
 - Added _QuickLoot EE_
