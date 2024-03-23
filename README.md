@@ -6,7 +6,7 @@
 
 # Shameless Shill Interrupt!
 
-Remember the _Servitium DEAD_ profile from a few months ago, with that hot rockin' _Serana Dead Sexy_ mod? ([THIS](https://www.nexusmods.com/skyrimspecialedition/mods/73589) is the **PSYCHOTIC** mod I'm talking about... you can't... not... look...) 
+Remember the _Servitium DEAD_ profile from a few months ago, with that hot rockin' horny grindhouse murderdeath _Serana Dead Sexy_ mod? ([THIS](https://www.nexusmods.com/skyrimspecialedition/mods/73589) is the **PSYCHOTIC** mod I'm talking about... you can't... not... look...) 
 
 Well, it's back... sorta. The mod author of _Serana Dead Sexy_ thankfully took the opportunity to use my list's down time as impetus to create a _Nexus_ Collection according to his vision of how the mod should **TRULY** be played! Check it out for a **RADICALLY** different way of playing _Skyrim._ 
 
