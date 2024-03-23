@@ -1,5 +1,23 @@
 # LICENTIA BLACK CHANGELOG
 
+## SERVITIUM 4.5
+
+- Performed the changes from the _Licentia_ Update, below.
+- Updated _BakaFactory ABC SE_ without version change.
+- Removed _Hoth_
+
+## LICENTIA 12.10
+
+- Added _T.I.T.S. - Thistlefoot Is Totally Stable_
+- Added _JS Attunement Sphere LOTD Display Patch_
+- Updated _The New Gentleman_ to 2.3
+- Updated _Vanilla Hair Remake_ to 0.24
+- Updated _Comprehensive Attack Speed Patch_ to 1.1.2.8
+- Updated _Immersive Patrols SE_ to 3.0beta
+- Removed _Kaidan - LOTD Patch_ (testing crash fix)
+- Removed _Auri Dismount Fix_
+- Removed _Thistlefoot Should Stay Indoors_
+  
 ## LICENTIA 12.9
 
 - Removed _QuickLoot EE_ and 1170 patch
