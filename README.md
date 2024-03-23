@@ -99,7 +99,7 @@ Launch _ModOrganizer.exe_ from the directory in which you installed the list. La
 
 ## WHEN YOU SPAWN IN HELGEN'S INN, DO NOT TOUCH ANYTHING!
 
-This modlist now configures itself! Sadly, it takes a long time to accommodate slow CPUs and lower-end systems. After creating your character, sit tight and wait about five minutes. Fix yourself a cup of tea, sip and relax, and wait until you see the Command Word: **QUELISH**
+This modlist now configures itself! Sadly, it takes a long time to accommodate slow CPUs and lower-end systems. After creating your character, sit tight and wait about five minutes. Fix yourself a cup of tea, sip and relax, and wait until you see the completion message with my nickname.
 
 Ignore anything that happens beforehand.
 
