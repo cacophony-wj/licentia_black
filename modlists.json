@@ -188,21 +188,21 @@
     "links": {
       "image": "https://raw.githubusercontent.com/cacophony-wj/cloud_machine/main/images/Tifa.png",
       "readme": "https://github.com/cacophony-wj/cloud_machine/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Cloud Machine.wabbajack_f95c9138-02f5-4de2-9dab-c4a19ae3ac68",
+      "download": "https://authored-files.wabbajack.org/Cloud Machine.wabbajack_1b1714a7-de26-476f-a070-0b5b1b805c4b",
       "machineURL": "cloud_machine",
       "discordURL": "https://discord.gg/jolly-coop"
     },
     "download_metadata": {
-      "Hash": "/XW8iQZH1x0=",
-      "Size": 1951582,
+      "Hash": "hpLCigW5D+Y=",
+      "Size": 123387,
       "NumberOfArchives": 33,
       "SizeOfArchives": 7401165705,
       "NumberOfInstalledFiles": 2152,
-      "SizeOfInstalledFiles": 11927526311
+      "SizeOfInstalledFiles": 11927527212
     },
     "version": "0.5",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2024-01-17T09:33:17.1374936Z",
+    "dateUpdated": "2024-03-24T15:59:33.6405655Z",
     "repositoryName": ""
   },
   {
