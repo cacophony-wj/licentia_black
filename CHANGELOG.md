@@ -1,5 +1,46 @@
 # LICENTIA BLACK CHANGELOG
 
+## LICENTIA 12.10.3
+
+- Added _Honed Metal - Ordinator Skill Boost Disable_
+- Added _Inigo - Triple Triad Patch_
+- Added _ImGui Icons_
+- Updated _Drago's Love Those Neighbors for OStim Standalone_ to 1.4
+- Updated _Vanilla Hair Remake_ to 0.26
+- Updated _Photo Mode_ to 1.4.0
+- Updated _The Wheels of Lull Retexture_ to 1.02
+
+## LICENTIA 12.10.2 and SERVITIUM 4.8.1
+
+- Added _ZMD's Hand Nails Art Texture Overlays for RaceMenu_ as ESL. (user request)
+- Added _ZMD's Feet and Nails Art Texture Overlays for RaceMenu_ as ESL. (user request)
+- Added _Improved Dialogue Lydia Amorous Adventures Patch_
+- Updated _EEOS - Enemy (R)Evolution of Skyrim_ to version 2.02.
+
+## SERVITIUM 4.8
+
+- Added _Submissive Lola ReSubmission - Runic Collar_
+- Updated _SLUTS Resume_ to 3.2
+- Updated _Pama Prison Alternative_ to 2.0.3
+
+## LICENTIA 12.10.1
+
+- Reinstalled _The New Gentlemen_ with proper addon support (futa animations)
+
+## SERVITIUM 4.6
+
+- Updated _Submissive Lola, The Resubmission_ to 2.1.4
+- Updated _Coffee's Submissive Lola Task Extension_ to 1.0.9
+
+## SERVITIUM 4.7 - 4.7.1
+
+Had a lot of trouble with _SubScribeStar_ these Updates.
+
+- Added a fix for Defeat crashes in large combats
+- Replaced _BakaFactory's SLAL Animations 6.4.0_ with 6.0.1 (Lover's Lab Source)
+- Replaced _Baka Motion Pack_ with a _Wabbajack_ source
+- Replaced _BakaFactory's ABC_ with a _Wabbajack_ source
+
 ## SERVITIUM 4.5
 
 - Performed the changes from the _Licentia_ Update, below.
