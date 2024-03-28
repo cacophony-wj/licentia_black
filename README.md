@@ -66,6 +66,8 @@ You must set your Advanced Memory Pagefile to at least 40GB or the modlist will 
 ## The One File
 
 The most common support question is a report that the _Kaidan_ file failed to download. Save yourself a lot of trouble and download it in a web browser, outside of _Wabbajack._ You can find this file [here.](https://mega.nz/file/0dcilQ6Y#LZbAPMNQmKdd2ZCOOaJesRi15v6n-9wuT37KM6FiwEA) Save it somewhere you'll remember it; if you receive an error that it failed, copy it into your _Licentia_ Downloads folder and restart the app.
+
+**NEW** Another troublesome file has been added to the list. This one is at [Github](https://github.com/Exit-9B/MapMarkerFramework/actions/runs/7952458224) and to download it you must create a Github account. It's the "MapMarkerFramework" link at the bottom.
  
 ##  Using Wabbajack
 
