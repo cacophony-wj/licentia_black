@@ -8,17 +8,7 @@ It is vastly preferable to download all of these manually before you even attemp
 
 ## Advanced Animation Framework
 
-**There is one mod on a non-LL site called _Moddingham._**
-
-It is probably best to download it manually too. The author is very particular about Collections and Wabbajack lists. You can find the link here:
-
-https://www.moddingham.com/download/file.php?id=59
-
-It requires that you create an account with _Moddingham_, verify your email, and log in. Then the link above should work. If it doesn't you should be able to search around in the downloads section for the following file:
-
-File: `AAF_V171-0_beta.7z`
-
-The remaining _Lover's Lab_ files are below.
+**External file no longer necessary as Nexus version is used.**
 
 ## AAF Bad End Animation Pack
 
