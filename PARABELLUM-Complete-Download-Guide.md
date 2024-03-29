@@ -42,6 +42,12 @@ URL: https://www.loverslab.com/files/file/7720-fo4-aaf-themes-vanillasexanimatio
 
 File: `AAF_VanillaKinkyCreatureAnimations_Themes_V210819.0.7z`
 
+## The Bridge (AAF to NAF)
+
+URL: https://www.loverslab.com/files/file/32544-the-bridge-aaf-to-naf/
+
+File: `The Bridge (AAF to NAF) 0.40.7z`
+
 ## Captive Tattoos
 
 URL: https://www.loverslab.com/files/file/10004-captive-tattoos-looksmenu-overlays-facial-tattoos-males-females/
