@@ -1,5 +1,105 @@
 # LICENTIA BLACK CHANGELOG
 
+## LICENTIA 12.12
+
+- Added _Quick Light SE_
+- Added _Quick Light SE - ESL Flagged_
+- Added _ENB Light - Patch for Quick Light SE_
+- Added _ENB Light - Patch for Quick Light Nordic Lanterns_
+- Added _ENB Light - Patch for Quick Light SMIM Mesh_
+- Added _Cumulative Fix for Eye Meshes_
+- Updated _The New Gentleman_ to 2.4.0
+- Updated _OStim Community Resource_ to 1.17.1
+- Updated _Vanilla Hair Remake_ to 0.30
+- Updated _Improved Follower Dialogue - Lydia_ to 4.0.3
+- Updated _CC Farming - Tweaks, Enhancements and Quest Expansion_ to 1.4.1
+- Updated _Ignoble Beds - A Noble and Upper Class Bed Replacer_ to 1.0.3
+- Updated _Landscape Fixes For Grass Mods_ to 5.3
+- Updated _SPID - NFF - Add Ignore Token to CustomAI Followers_ to 1.0.21
+- Updated _Crash Logger SSE_ to 1.13.1
+- Please visit the Discord Server for Locational Damage Changes
+
+## SERVITIUM 4.11
+
+- Incorporated the changes from _Licentia SLEEP_
+
+## Licentia 12.11 (briefly known as Licentia SLEEP)
+
+- Added _Go To Bed_
+- Added _Sleep Tight SE_
+- Added _Use Those Blankets_ and _Your Own Textures_ patch
+- Added _OSMP for CBBE 3BA_
+- Added _ESO SkyShards_ end _ENB Light_ patch
+- Added _CC Farming - Tweaks and Enhancements_
+- Added _Fancy Fishing_ and _Sneaky Looking HUD_
+- Added _Moonlight Talss Mini_
+- Added _Immersive Equipment Displays_ and _Missile's Preset_
+- Added _Weapon Styles for IED_
+- Added _Dynamic Things Altenrative - Base Object Swapper Version_
+- Added back _iHarvest_ (from a LONG time ago...)
+- Added _Vanity Mirror 2_
+- Added _Faster Book Animations SE_
+- Added _Leviathan Animations - Male Idle Walk & Run_
+- Added _Pretty Sit Idles_
+- Added _Sexy Random Idles_
+- Added _Walk - Running Animations_
+- Added _Sneak._ Animations
+
+## LICENTIA 12.10.8
+
+- Updated _Smooches of Skyrim_ to 1.8.1 and disabled NPC-initiated Smooches
+- Updated _Improved Follower Dialogue - Lydia_ to 4.0.2
+- Fixed undiscovered icons not showing in _Compass Navigation Overhaul_
+
+## LICENTIA 12.10.7
+
+- Updated _OStim Community Resource_ to 1.17
+- Updated _Dwemer Spectres Special Edition_ to 4.1.2alpha
+- Updated _Heavy Armory - New Weapons_ to 6.05
+- Updated _Vanilla Hair Remake_ to 0.28
+- Updated _Ebony Armor and Weapons Retexture SE_ to 2.0.1
+- Updated _Glass Armor and Weapons Retexture SE_ to 2.1.1
+- Updated _Unofficial Skyrim Modder's Patch - USMP SE_ to 2.6.2beta
+- Updated _DynDOLOD Resources SE 3.00_ to Alpha-49
+- Removed _CritterSpawn Congestion Fix_ (now available in _Modder's Patch_)
+
+## SERVITIUM 4.9
+
+- Updated **SLUTS Resume** to Version **3.3 PATREON ONLY**
+- Added _Pamatronic's Deadly Furnitures_
+- Added _Death Alternative - Your Money or your Life_ and _Acheron_ interpretation
+- Added a **SPECIAL** "Custom Made for Caco" version of _Yamete Kudasai_
+- Added _Practical Defeat - Creature Comforts_ Addon
+- Added _Practical Defeat - Bad Ends_ Addon
+- Added _SexLab Dangerously Nude_
+- Added _Radiant Prostitution RCMW_
+- Updated _Improved Follower Dialogue - Lydia_ to 4.0.2
+- Removed _Immersive Patrols - Heavy_ (crashes with _Acheron_)
+- Fixed Undiscovered icons not showing in _Compass Navigation Overhaul_
+- Fixed the squished Blacksmithing menu
+- Extensively tested the Defeat scenarios -- buggy but workable
+- Re-ran _Synthesis_
+
+## LICENTIA 12.10.6
+
+- Simple recompile so the list can be installed.
+  
+## LICENTIA 12.10.5
+
+- Added _Infinity UI_
+- Added _Compass Navigation Overhaul_ and _CoMAP_ patch
+- Added _Compass Navigation Overhaul - Nordic UI Skin_
+- Added _Unread Books Glow SSE_
+- Added _Ignoble Beds - A Noble and Upper Class Bed Replacer_
+
+## LICENTIA 12.10.4
+
+- Added _winedave - Barrels_
+- Added _MFG Fix NG_
+- Updated _Remiel - Custom Voiced Dwemer Specialist and Companion_ to 1.7.1
+- Updated _CritterSpawn Congestion Fix_
+- **MANY** fixes for _Remiel's_ dialogue.
+
 ## LICENTIA 12.10.3
 
 - Added _Honed Metal - Ordinator Skill Boost Disable_
