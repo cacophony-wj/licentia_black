@@ -1,4 +1,4 @@
-![Licentia Black Logo](images/4k_licentia_logo.webp)
+![Licentia Black Logo](images/licentia_logo.webp)
 
 # Licentia
 
