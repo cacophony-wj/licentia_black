@@ -111,9 +111,15 @@ Launch _ModOrganizer.exe_ from the directory in which you installed the list. La
 
 ## WHEN YOU SPAWN IN HELGEN'S INN, DO NOT TOUCH ANYTHING!
 
-This modlist now configures itself! Sadly, it takes a long time to accommodate slow CPUs and lower-end systems. After creating your character, sit tight and wait about five minutes. Fix yourself a cup of tea, sip and relax, and wait until you see the completion message with my nickname.
+Wait for all of the messages in the upper left corner of the screen to appear and disappear. A warning will be issued that this readme is mandatory for proper installation. Click through and continue to wait.
 
-Ignore anything that happens beforehand.
+**NEW!!** The first handful of levels in this modlist can be rough. I have included a small note in your starting inventory that grants you a little boost at the start of your adventure. If you wish to boost yourself to level 5, read the note that says, "Read Me for 1,000 Starting XP!" Once you have received the "Level Up" notification, open the stats menu and choose your skills and perks. You must choose your skills for each level followed by a primary stat (such as Health, Magicka, or Stamina). CHOOSING THE PRIMARY STAT COMPLETES THE LEVEL UP. Pick the skills FIRST. Then close the level up menu, wait for all the skill notifications to complete, and open it again to choose your Perks. As a little bonus, you can sell the note to a general goods vendor (like Lucan or Belethor) to clean them out of gold and grant yourself a little nest egg for buying gear.
+
+When all of the messages have disappeared, open the Main Menu with the `ESC` key and find the entry labeled "MCM Recorder." (They are in alphabetical order.) Here, you will find an MCM "Recording" labeled simply "MCM Recording." Click on it, answer "Yes," and use `ESC` to back out of all menus. You will receive a popup asking if you wish to play the recording; please do so.
+
+Once again, please wait for all of the messages in the upper left corner of the screen to appear and disappear. 
+
+That's it! Your modlist is configured.
 
 ## FINAL NOTES
 
