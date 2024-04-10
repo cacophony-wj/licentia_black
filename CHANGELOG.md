@@ -1,5 +1,32 @@
 # LICENTIA BLACK CHANGELOG
 
+## SERVITIUM 4.13
+
+- Updated _Billyy's SLAL Animations SE_ to 7.7
+- Added the changes from _Licentia_ 12.12
+- (No _High Level Enemies_ for this one)
+- Added an optional Note to give 1,000 XP at Game Start
+- Emphasized the NSFW art of _ArdisFoxx_ in the list's Media
+- Packaged many of the larger textures into BSA Archives
+- Fixed download for _BethINI Pie_
+- Re-ran _FNIS_ & _Nemesis_
+
+## LICENTIA 12.13.1
+
+- Added an optional Note to give 1,000 XP at Game Start
+
+## LICENTIA 12.13
+
+- Emphasized the NSFW art of _ArdisFoxx_ in the list's Media
+- Packaged many of the larger textures into BSA Archives
+- Fixed download for _BethINI Pie_
+  
+## LICENTIA 12.12.1
+
+- Added _High Level Enemies_
+- Added _High Level Enemies - Fixed FaceGen_
+- Patched most humans and draugr to scale with the player
+  
 ## LICENTIA 12.12
 
 - Added _Quick Light SE_
