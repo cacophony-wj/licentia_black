@@ -145,5 +145,11 @@ I am regularly available on [my discord server](https://discord.gg/jolly-coop).
 
 For more information about me, as well as ways to show your appreciation for my work, visit https://cacophony.me
 
+**cacophony's SubscribeStar:** [https://subscribestar.adult/cacophony](https://subscribestar.adult/cacophony)
+
+**cacophony1979's Patreon:** [https://patreon.com/cacophony1979](https://patreon.com/cacophony1979)
+
+**cacophony1979's Ko-Fi:** [https://ko-fi.com/cacophony1979](https://ko-fi.com/cacophony1979)
+
 My _Licentia_ related email is cacophony-wj@outlook.com.
 
