@@ -6,7 +6,7 @@
 
 **This Modlist contains mods with sexual content and you need to be of legal age in your country (most western countries: 18+, some eastern ones: 21+)**.
 
-_Parabellum_ was born because I desperately want to play _Sim Settlements 2_ (someday, sigh...), but I don't want to be completely without my beloved **NSFW Content** and everyone always told me it was impossible to mix _SS2_ and **NSFW**. After testimony from users who had done it themselves and completed the first two chapters, I resolved to see for myself. I am happy to report that I seem to have succeeded. The key appears to be using only the base chapters for _SS2_ and very few **NSFW** frameworks. Since this is how I want to play the game, maybe someone else does too, and so -- I offer this modlist.
+_Parabellum_ was born because I desperately want to play _Sim Settlements 2_ (someday, sigh...), but I don't want to be completely without my beloved **NSFW Content** and everyone always told me it was impossible to mix _SS2_ and **NSFW**. After testimony from users who had done it themselves and completed the first two chapters, I resolved to see for myself. I am happy to report that I have succeeded. The key appears to be using only the base chapters for _SS2_ and very few **NSFW** frameworks. Since this is how I want to play the game, maybe someone else does too, and so -- I offer this modlist.
 
 I have attempted to make up for the lack of content you might find in something like _Wasteland of Depravity_ by offering a **TON** of quests to do. Almost every well-regarded _Fallout 4_ quest mod is here (along with several poorly-regarded ones), so now you can kill and screw your way across the Wasteland.
 
@@ -31,13 +31,13 @@ You will first need to wade through the [Lover's Lab website](https://www.lovers
 
 **You cannot avoid creating an account here.** If _Lover's Lab_ is blocked in your location, I recommend against going further, but there are ways around it...
 
-After you confirm your account, login to _Lover's Lab._
+After you confirm your account, log in to _Lover's Lab._
 
 Next, create a directory for your chosen modlist. I recommend something in the root folder of a fast Solid State Drive, or -- ideally -- an M.2 NVME. (Something like `D:\Parabellum` or `D:\NUKA`). 
 
 Within that directory, create another directory called `downloads` -- in all lower case. (`D:\Parabellum\downloads` or `D:\NUKA\downloads`)
 
-Now consult the below URL. Place all of the files in the `downloads` directory you created above. **DO NOT EXTRACT THEM.** _Wabbajack_ will take care of that.
+Now consult the below URL. Place all the files in the `downloads` directory you created above. **DO NOT EXTRACT THEM.** _Wabbajack_ will take care of that.
 
 **Return to this document when you have downloaded all the necessary files.**
 
@@ -45,15 +45,15 @@ _Parabellum Complete Download Guide:_ https://github.com/cacophony-wj/licentia_b
 
 ## Installation
 
-### Getting Rid of the High Resolution DLC
+### Getting Rid of the High-Resolution DLC
 
-This document assumes you are already familiar with installing games via _Steam._ However, another step is required for this list to ensure maximum compatibility. You need to verify that the _Fallout 4_ "High Resolution DLC" is disabled.
+This document assumes you are already familiar with installing games via _Steam._ However, another step is required for this list to ensure maximum compatibility. You must verify that the _Fallout 4_ "High-Resolution DLC" is disabled.
 
 To do so, click on the _Fallout 4_ game entry in your _Steam_ Library. Over on the right, about one or two scrolls down, you will see a collection of banners representing the DLC you have installed. You need **ALL** of the DLC to install this list, but some of it is incompatible. 
 
-In the bottom right corner of the "DLC" Panel, click "Manage My DLC." Listed there you may or may not find "Fallout 4 - High Resolution Texture Pack." This particular DLC is a half-finished, slipshod abomination of poorly optimized, ugly textures that will cause "Rusty Face" bugs among other problems. It is also an utter waste of almost 60GB of storage space, as the vast majority of included textures have been replaced by better ones. 
+In the bottom right corner of the "DLC" Panel, click "Manage My DLC." Listed here, you may or may not find "Fallout 4 - High-Resolution Texture Pack." This particular DLC is a half-finished, slipshod abomination of poorly optimized, ugly textures that will cause "Rusty Face" bugs among other problems. It is also an utter waste of almost 60GB of storage space, as the vast majority of included textures have been replaced by better ones. 
 
-Uncheck this DLC from the list and wait for any _Steam_ configuration changes to finish (the "Play" icon will turn green for the game) and you are set.
+Uncheck this DLC from the list and wait for any _Steam_ configuration changes to finish (the "Play" icon will turn green for the game), and you will be set.
 
 ###  Installing Microsoft Visual C++ Redistributable Package
 
@@ -67,7 +67,7 @@ To ensure that _Steam_ does not automatically update _Fallout 4_ for you and loc
 
 **Set the Game language to English**
 
-_Wabbajack_ will check your game files and make sure that your installed version is the same as my installed version. This also means that any other language than English will fail the installation. You can change the game's language in the Properties window as mentioned above. It may be required to verify your files afterward.
+_Wabbajack_ will check your game files and ensure that your installed version is the same as my installed version. This also means that any language other than English will fail the installation. You can change the game's language in the Properties window, as mentioned above. You may be required to verify your files afterward.
 
 **Do Not Use Any Part of This List in a Protected Folder**
 
@@ -75,17 +75,17 @@ This includes `Program Files,` `Program Files (x86)`, `Downloads`, `Documents`, 
 
 **Do Not Use Any Protected Folders inside of OneDrive**
 
-You will experience unusual behavior if your `My Games` folder (usually in the `Documents` folder) is part of a _OneDrive_ Cloud Folder. You will need to relocate it or disable _OneDrive._ There are no exceptions.
+If your `My Games` folder (usually in the `Documents` folder) is part of a _OneDrive_ Cloud Folder, you will experience unusual behavior. You will need to relocate it or disable OneDrive. There are no exceptions.
 
 **Make Exceptions for Anti-Malware Programs**
 
-Exclude antivirus and anti-malware programs from monitoring three directories: those containing the _Wabbajack_ app, the _Fallout 4_ game folder, and the directory in which you wish to install the modlist. _Wabbajack_ and _Mod Organizer 2_ both use low-level file system virtualization which most anti-malware programs falsely detect as malicious. 
+Exclude antivirus and anti-malware programs from monitoring three directories: those containing the _Wabbajack_ app, the _Fallout 4_ game folder, and the directory you wish to install the modlist. _Wabbajack_ and _Mod Organizer 2_ both use low-level file system virtualization which most anti-malware programs falsely detect as malicious. 
 
 Particularly intrusive malware solutions such as _Bitdefender_ and _Webroot_ don't propery respect exclusions and cannot be completely disabled -- they must be fully uninstalled. Please consider avoiding third-party anti-malware solutions and relying on _Windows Defender,_ which is more compatible with the applications used to install and play _Wabbajack_ modlists. 
 
 **Set Pagefile to 40GB Or Above**
 
-This can be accomplished in the System Settings for Windows. It is recommended to set the minimum and maximum pagefile size to `20,480` all on one solid state drive as mentioned above. More than one pagefile is not needed so long as it is large enough and located on a fast enough drive.
+This can be accomplished in the System Settings for Windows. It is recommended to set the minimum and maximum pagefile size to `20,480` all on one solid state drive as mentioned above. More than one pagefile is unnecessary as long as it is large enough and located on a fast enough drive.
 
 **Ensure Enough Free Storage Space**
 
@@ -93,9 +93,9 @@ As of this writing approximately **170 GB** is required to install this modlist 
  
 ##  Using Wabbajack
 
-The first step you need to do is login to [The Nexus](https://www.nexusmods.com) with the **GEAR** icon in the top right of _Wabbajack._ (You have a _Nexus_ account, right?) You will find a login button there, it functions just like the normal _Nexus_ login page does, and the "toggle" will switch over to "logged in" when you are successful.
+The first step is to log in to [The Nexus](https://www.nexusmods.com) with the **GEAR** icon at the top right of _Wabbajack. _ (You have a Nexus account, right?) You will find a login button there. It functions just like the normal Nexus login page, and the "toggle" will switch to "logged in" when you are successful.
 
-If you don't have _Nexus Premium_ you are probably going to wish for death before this process is over. None of the process will be automated, and you will have to click through hundreds of mod links and interstitial ads, all while enduring torturously slow max download speeds. Please, for your sanity and mine, get at least a month of _Premium._ The money you would save with a free account amounts to about three cents per hour of work clicking on links. You wouldn't take a job for three cents an hour would you? Why would you click on links for hours to save that much money?
+If you don't have _Nexus Premium_ you will probably wish for death before this process is over. None of the process will be automated, and you will have to click through hundreds of mod links and interstitial ads, all while enduring torturously slow max download speeds. Please, for your sanity and mine, get at least a month of _Premium._ The money you would save with a free account amounts to about three cents per hour of work clicking on links. You wouldn't take a job for three cents an hour would you? Why would you click on links for hours to save that much money?
 
 The download and installation process can take a very long time depending on your system specs. 
 
@@ -103,7 +103,7 @@ It is advised to have ALL relevant folders (for `Wabbajack.exe`, `Steam`, the mo
 
 ##  Problems with Wabbajack
 
-There are a lot of different scenarios where _Wabbajack_ will produce an error. Re-run _Wabbajack_ before seeking assistance. _Wabbajack_ will only download and reinstall the bare minimum necessary to get the modlist working. 
+There are many different scenarios where _Wabbajack_ will produce an error. Re-run _Wabbajack_ before seeking assistance. _Wabbajack_ will only download and reinstall the minimum necessary to get the modlist working. 
 
 **DO NOT CONTACT MOD AUTHORS DIRECTLY.**
 
@@ -115,11 +115,11 @@ Some Internet providers have difficulty accessing the servers which host the fil
 
 **Wabbajack could not find my game folder:**
 
-_Parabellum_ will not work with a GOG or pirated version of the game. If you own the game on _Steam,_ go back to the Installation step. If this still doesn't work, ensure that you are not running Wabbajack as an Administrator. **DO NOT ASK FOR HELP WITH PIRATED GAMES.**
+_Parabellum_ will not work with a GOG or pirated game version. If you own the game on _Steam,_ return to the Installation step. If this still doesn't work, ensure you are not running Wabbajack as an Administrator. **DO NOT ASK FOR HELP WITH PIRATED GAMES.**
 
 **MEGA download cap exceeded.**
 
-This shouldn't happen unless you download the list multiple times or download multiple _Wabbajack_ lists. I can't support circumventing MEGA's bandwith restrictions so either sign up for an account or wait for the timeout to expire.
+This shouldn't happen unless you download the list multiple times or download multiple _Wabbajack_ lists. I can't support circumventing MEGA's bandwidth restrictions, so either sign up for an account or wait for the timeout to expire.
 
 ## Post-Installation
 
@@ -133,15 +133,15 @@ If you are confident you meet the above target, but still experience severe perf
 
 ### OPTIONAL UPGRADE: "Paid Mods"
 
-You might be unaware of _Fallout 4's Creation Shop._ This is a system of "Paid Mods" similar what can be found in the _Skyrim Anniversary Edition Upgrade_, only sold individually, mod by mod, at an incredibly inflated price. (The modders who created them were paid well, though.) With the _Parabellum_ modlist, you can choose to purchase and install any number of these "Paid Mods" if you so choose and they will be completely compatible with the list with no further effort on your part.
+You might be unaware of _Fallout 4's Creation Shop._ This is a system of "Paid Mods" similar what can be found in the _Skyrim Anniversary Edition Upgrade_, only sold individually, mod by mod, at an incredibly inflated price. (The modders who created them were paid well, though.) With the _Parabellum_ modlist, you can purchase and install any number of these "Paid Mods" if you so choose and they will be completely compatible with the list with no further effort on your part.
 
 To do so, launch Vanilla _Fallout 4_ from the "Play" icon in _Steam._ On the Main Menu, after the intros, you will find an entry that reads "Creation Club." Click it, and the "Creation Shop" will appear.
 
-Sadly, the only way to buy "Paid Mods" from this shop is to purchase "Creation Club Credits" from _Steam_ itself. And the "Paid Mods" are priced in such a way that you can never use all of the credits you purchase, effectively wasting your money. I am surprised if anyone wishes to continue with this now, but anyway...
+Sadly, the only way to buy "Paid Mods" from this shop is to purchase "Creation Club Credits" from _Steam_ itself. And the "Paid Mods" are priced so that you can never use all of the credits you purchase, effectively wasting your money. I am surprised if anyone wishes to continue with this now, but anyway...
 
-Browse the "Creation Shop" and check out what's available. Of particular note: every few weeks _Bethesda_ offers certain "Paid Mods" for free as part of a Promotion, so you may be able to grab one or two of these while you're in here. This is **OBVIOUSLY** not the most popular Feature of _Fallout 4_, so they are often heavily discounted as well. Find out which ones you want to purchase, grab the appropriate number of "Creation Club Credits" from the "Purchase Credits" link, and buy them in the "Creation Shop". The "Paid Mods" are often bundled in little extra collections so it is **VERY EASY TO PURCHASE DUPLICATES** if you are not careful. If you want to make certain you haven't already purchased a Creation (or "Paid Mod") you can browse the ones you own from the "Purchased" menu in the top right of the Shop.
+Browse the "Creation Shop" and check out what's available. Of particular note: every few weeks _Bethesda_ offers certain "Paid Mods" for free as part of a Promotion, so you can grab one or two of these while you're in here. This is **OBVIOUSLY** not the most popular Feature of _Fallout 4_, so they are often heavily discounted as well. Find out which ones you want to purchase, grab the appropriate number of "Creation Club Credits" from the "Purchase Credits" link, and buy them in the "Creation Shop". The "Paid Mods" are often bundled in little extra collections so it is **VERY EASY TO PURCHASE DUPLICATES** if you are not careful. If you want to make certain you haven't already purchased a Creation (or "Paid Mod") you can browse the ones you own from the "Purchased" menu in the top right of the Shop.
 
-Once you have purchased some mods, exit out of the shop, and _Fallout 4_ will prompt you to reload the Load Order. Do so and exit the game. You now need to copy these "Paid Mods" to the appropriate location for _Parabellum._
+Once you have purchased some mods, exit the shop, and _Fallout 4_ will prompt you to reload the Load Order. Do so and exit the game. You now need to copy these "Paid Mods" to the appropriate location for _Parabellum._
 
 This final step involves opening your _Fallout 4_ directory (something like `C:\Steam\steamapps\common\Fallout 4\Data\`) and selecting all of the files that begin with the two letters `cc.` Once selected, press `CTRL+C` to copy them, and navigate to _Parabellum's_ "Creation Club" folder (this will be something like `D:\Parabellum\mods\Creation Club Content`). Use `CTRL+V` to paste all of the files in here, then open _Mod Organizer 2_ for the list, strike the `F5` key to refresh, and the "Paid Mods" should automatically be ready to go.
 
@@ -157,11 +157,23 @@ It may be necessary to press the `Enter` key a few times after you select "New G
 
 ### WHEN YOU SPAWN IN THE BATHROOM, DO NOT TOUCH ANYTHING!
 
-It may not seem so, but this bathroom is one of the most heavily-scripted, system-intensive parts of the whole game, because not only are all of _Fallout 4's_ Quests and Scripts initializing, so are all of _Parabellum's_ Mods, Quests, and NSFW Scripts. This is especially bad with _Sim Settlements 2,_ one of the most heavily scripted, automated _Bethesda_ mods ever, so I **STRONGLY RECOMMEND** just chilling out in here for about five minutes. Maybe make yourself a cup of tea, or a sandwich. Hopefully all of the mods will Initialize and you will get a bunch of messages appearing and disappearing in the top left of the screen. If so, great. If not, I recommend continuing on with the intro (Yes, you need to play the Pre-War Sequence) until you see the messages. (For me, they pop up right when I open the door for the Vault-Tec Representative.) Once all those messages have processed, you can continue with the below configuration.
+It may not seem so, but this bathroom is one of the most heavily scripted, system-intensive parts of the whole game because not only are all of _Fallout 4's_ Quests and Scripts initializing, but so are all of _Parabellum's_ Mods, Quests, and NSFW Scripts. This is especially bad with _Sim Settlements 2,_ one of the most heavily scripted, automated _Bethesda_ mods ever, so I **STRONGLY RECOMMEND** just chilling out here for about five minutes. Maybe make yourself a cup of tea, or a sandwich. Hopefully, all of the mods will Initialize, and you will get a bunch of messages appearing and disappearing in the top left of the screen.
 
-This part is easier than with most _Skyrim_ lists. To configure the MCMs, press the `ESC` key and select the top menu option: "MOD CONFIG." At the top left you will see an option to configure MCM settings. Select it. There will be something bad and lazy like "My first settings slot" in the large window on the right side. Click "Apply Settings" next to this option, confirm your selection, and wait for a message similar to "30 Settings Applied." Then click the "Reload MCM" option which appears.
+This part is easier than with most _Skyrim_ lists. To configure the MCMs, press the `ESC` key and select the top menu option: "MOD CONFIG." At the top left you will see an option to configure MCM settings. Select it. There will be something bad and lazy like "Parabellum Settings" in the large window on the right side. Click "Apply Settings" next to this option, confirm your selection, and wait for a message similar to "30 Settings Applied." Then click the "Reload MCM" option that appears.
 
 That's all there is to it! You're ready to play _Parabellum!_ As a final note, though, I would probably give the list another 5 minutes to finish Initialization after you emerge from Vault 111. Just to be safe. (Seriously, the scripting in this list is absurd, it was strongly recommended that I avoid creating it at all.)
+
+#### A bit of a Note on how to Engage with the NSFW Content
+
+_Parabellum_ uses a new method of playing NSFW animations called _Native Animation Framework_ because it is far less script-heavy than the old method. As a result, many of the mods that allow you to immersively start adult scenes -- such as Persuading people or completing Quests -- don't work with it. The primary way you prompt an adult scene in this modlist is via Hotkeys. 
+
+If you want to proposition someone for sex, hover over them with the crosshair and press `F6.` This will begin a "flirt" dialogue for which success is based on your Charisma and other modifiers. With a small success, you can convince them to remove clothing, which will persist until you re-equip it in their inventory. With a larger success, you can convince them to "get down."
+
+If you want to offer your services to someone as a sex worker, hover over the potential customer with the crosshair and press `F7.` This will begin a negotiation, again based on Charisma, for the price of your services and the customer's willingness to accept your offer.
+
+If you are about to get beat down by **human** enemies (there is no non-human sex in this modlist), you can surrender to them, but you need to do it early. When you are reduced to about half health but remain quite confident you are going to lose, press the `F7` hotkey. This will stop all combat and begin a negotiation with your attacker for "other methods" of getting out of your predicament. Be warned, they may not always go well for you...
+
+If you prefer a much more in-depth, "nasty" take on adult _Fallout 4_, please consider stopping by the _Discord_ server at the bottom of this document and seeking out the _Wasteland of Depravity_ modlist.
 
 #### A Bit of a Note about NUKA RIDE
 
