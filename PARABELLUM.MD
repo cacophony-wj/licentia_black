@@ -201,6 +201,12 @@ I am regularly available on [my discord server](https://discord.gg/jolly-coop).
 
 If you enjoyed playing this modlist and feel that your time spent with it was worth any amount of money, consider giving me a tip. There are donation options ranging from $1 to $35 (with a merch bonus) to extravagant gifts from an Amazon wishlist. Consult my webpage at [cacophony.me](https://cacophony.me) for details. The donation links are at the bottom of the main page.
 
+**cacophony's SubscribeStar:** [https://subscribestar.adult/cacophony](https://subscribestar.adult/cacophony)
+
+**cacophony1979's Patreon:** [https://patreon.com/cacophony1979](https://patreon.com/cacophony1979)
+
+**cacophony1979's Ko-Fi:** [https://ko-fi.com/cacophony1979](https://ko-fi.com/cacophony1979)
+
 ## Contributing
 
 See [Contributing](CONTRIBUTING.md).
