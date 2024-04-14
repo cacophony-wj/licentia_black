@@ -16,17 +16,35 @@ File: `AAF_SEU_V1.19.7z`
 
 File: `AAF_SEU_XML_Addon.7z`
 
+## AAF Sex Education
+
+URL: https://www.loverslab.com/files/file/17248-sex-education
+
+File: `Sex Education 1.22.zip`
+
 ## AAF Themes - Vanilla, Kinky, & Creature Animations
 
 URL: https://www.loverslab.com/files/file/7720-fo4-aaf-themes-vanillasexanimations-kinkyaggressive-and-creaturesexanimations/
 
 File: `AAF_VanillaKinkyCreatureAnimations_Themes_V210819.0.7z`
 
+## bp70's Fallout 4 Sex Animations
+
+URL: https://www.loverslab.com/files/file/5205-aaf-bp70s-fallout-4-sex-anims-28-20-9-2021/
+
+File: `bp70FO4sexanimations_2.8.zip`
+
 ## The Bridge (AAF to NAF)
 
 URL: https://www.loverslab.com/files/file/32544-the-bridge-aaf-to-naf/
 
 File: `The Bridge (AAF to NAF) 0.40.7z`
+
+## Commonwealth Moisturizer
+
+URL: https://www.loverslab.com/files/file/25514-commonwealth-moisturizer/
+
+File: `ComMoisturizer_v1_05.zip`
 
 ## FO4 Animations by Leito
 
@@ -45,6 +63,12 @@ File: `HoTC Lite AAF patch V1.02.7z`
 URL: https://www.loverslab.com/files/file/18605-ocbpc-for-fallout-4/
 
 File: `OCBPC-0.3-CBBE.zip`
+
+## SavageCabbage's Animation Pack
+
+URL: https://www.loverslab.com/files/file/5983-my-animation-pack-updated-150423/
+
+File: `849639123_SavageCabbagesAnimationPackV1.3.0.7z`
 
 ## UAP - Ultimate AAF Patch
 
