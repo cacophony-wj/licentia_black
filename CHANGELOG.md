@@ -1,5 +1,39 @@
 # LICENTIA BLACK CHANGELOG
 
+## SERVITIUM 4.14
+
+- **ADDED BACK OBODY NEXT GENERATION**
+- Added a collection of male and female _BodySlide_ Presets for _OBody_
+- Added _ScandaNordic Mountains 8K - Majestic Mountains Retexture_ 
+- Added _DynDOLOD DLL NG 1.6.11xx and Scripts_
+- Updated _Acheron_
+- Updated _Caliente's Beautiful Bodies Enhancer CBBE_
+- Updated _Vanilla Hair Remake_
+- Updated _Improved Follower Dialogue - Lydia_
+- Updated _Nether's Follower Framework_
+- Updated _Skyrim 202X - Dungeons & Mines_
+- Updated _SSE Engine Fixes_
+- Updated _More Informative Console_
+- Updated _LOD Model Library_
+- Updated _enbseries_ 0.499 without version change
+- Added the _Choose Your Sign_ book to the starting End Table
+- Adjusted a couple _Eager NPCs_ settings
+- Regenerated _LODs_
+- Attempted a fix for load times that didn't work
+
+## SERVITIUM 4.13.2
+
+- Reverted _SexLab Utility Plus_ v20240407 to v20231230
+- Added _Choose Your Sign_
+- Added _Alternate Perspective - Choose Your Sign_ Add-On
+- Added _Stacks of Septims - 3D Coin Piles_ and _JS Patch_
+- Added _Subtitles_
+- Fixed it so the player head does not disappear
+- Reworked inn food lists to be significantly more sparse
+- Configured books and notes to zoom in further
+- Increased size of text in some areas
+- Deleted a shit-ton of leftover downloads from QUESTS (long overdue)
+
 ## SERVITIUM 4.13
 
 - Updated _Billyy's SLAL Animations SE_ to 7.7
