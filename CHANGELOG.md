@@ -54,6 +54,19 @@
 - Emphasized the NSFW art of _ArdisFoxx_ in the list's Media
 - Packaged many of the larger textures into BSA Archives
 - Fixed download for _BethINI Pie_
+
+## LICENTIA 12.12.2
+
+- Added _Choose Your Sign_
+- Added _Alternate Perspective - Choose Your Sign Add-On_
+- Added _Stacks of Septims - 3D Coin Piles_ and _JS Patch_
+- Added _Subtitles_
+- Added _General Stores Sell Salt and Flour_
+- Reinstalled _SDA Patch Hub_ with the _IFD Lydia_ dialogue
+- Fixed it so the player head does not disappear
+- Reworked inn food lists to be a little more generous
+- Configured books and notes to zoom in further
+- Increased the size of text in some areas
   
 ## LICENTIA 12.12.1
 
