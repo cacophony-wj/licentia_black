@@ -1,5 +1,31 @@
 # LICENTIA BLACK CHANGELOG
 
+## LICENTIA 12.15
+
+- **CHANGE OF PLANS. OBODY WILL NOT RETURN TO THIS VERSION. STILL CAUSING CRASHES**
+- Added _Open Animations 3P Plus_
+- Added _Sole Purpose Animations for OStim Standalone_
+- Added _OSTEM Animation Pack for OStim Standalone_
+- Added _Billyy MFF Pack for OStim Standalone_
+- Added _M2M Animations for OStim Standalone - Main, Group_ and _SOLO_
+- Added _No Thieves' Guild Grind Fixed_
+- Added _DynDOLOD LL NG 1.6.1130 and Scripts_
+- Updated _OStim Community Resource 3BA_ to 1.17.2
+- Updated _Night-blooming Violets for OStim Standalone_ to 1.4
+- Updated _Headhunter - Bounties Redone_ to 1.52
+- Updated _Sidequests of Skyrim_ to 0.8.3
+- Updated _Security Overhaul SKSE - Some More Locks_ to 1.0.7
+- Updated _I'm Talkin' Here_ to 1.2
+- Updated _Skyrim 202X - Dungeons Mines_ to 9.6
+- Updated _LOD Model Library for DynDOLOD_ to 1.6
+- Updated _More Informative Console_ to 1.10 AE
+- Updated _Console Commands Extender_ to 1.6.1130 version 1.12
+- Updated _Help Extender_ to 1.3.0
+- Updated _MCM Helper_ to 1.5.0
+- Re-ran DynDOLOD using the Next Generation Method for lower script load
+- Regenerated _BodySlides_ with a bit more variance between 0 weight and 100 weight
+- Re-ran _Nemesis_
+  
 ## SERVITIUM 4.14
 
 - **ADDED BACK OBODY NEXT GENERATION**
