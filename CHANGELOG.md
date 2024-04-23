@@ -12,19 +12,40 @@
 - Added _DynDOLOD LL NG 1.6.1130 and Scripts_
 - Updated _OStim Community Resource 3BA_ to 1.17.2
 - Updated _Night-blooming Violets for OStim Standalone_ to 1.4
+- Updated _Caliente's Beautiful Bodies Enhancer - CBBE_ to 2.0.3
+- Updated _Improved Follower Dialogue - Lydia_ to 4.0.4
+- Updated _Nether's Follower Framework_ to 2.8.6beta
 - Updated _Headhunter - Bounties Redone_ to 1.52
 - Updated _Sidequests of Skyrim_ to 0.8.3
 - Updated _Security Overhaul SKSE - Some More Locks_ to 1.0.7
 - Updated _I'm Talkin' Here_ to 1.2
 - Updated _Skyrim 202X - Dungeons Mines_ to 9.6
 - Updated _LOD Model Library for DynDOLOD_ to 1.6
+- Updated _SSE ENGINE FIXES_ to 1.6.1170, version 6.2
 - Updated _More Informative Console_ to 1.10 AE
 - Updated _Console Commands Extender_ to 1.6.1130 version 1.12
 - Updated _Help Extender_ to 1.3.0
 - Updated _MCM Helper_ to 1.5.0
+- Updated _enbseries_ 0.499 without version change
+- Patched _Choose Your Sign_ so the book will properly show up in the starting endtable_
 - Re-ran DynDOLOD using the Next Generation Method for lower script load
 - Regenerated _BodySlides_ with a bit more variance between 0 weight and 100 weight
 - Re-ran _Nemesis_
+
+## SERVITIUM 4.15 
+
+- Updated _Unofficial Skyrim Special Edition Patch_ to 4.31
+- Updated _Pandorables Males 3_ to 1.04
+- Updated _Vanilla hair remake_ to 0.36
+- Re-Enabled the _OSL Aroused_ plugin (list was playable without it, but crippled)
+- Applied `ESL` flag to _Sunstarved Tanlines_
+
+## SERVITIUM 4.14.2
+
+- Adjusted game settings so _Spank That Ass_ will work as intended
+- Adjusted SKSE settings so defeat sequences will work better
+- Patched _Choose Your Sign_ so the book will properly show up in the starting endtable
+- Fixed _Compass Navigation Overhaul_ to display undiscovered markers
   
 ## SERVITIUM 4.14
 
