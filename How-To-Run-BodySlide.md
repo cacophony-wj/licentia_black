@@ -37,6 +37,6 @@ For Final Confirmation, you can double click your "My BodySlide Output" "mod" in
 
 That's all you need to know. Please remember that if you get impossibly lost or your list becomes horribly messed up, one of the greatest advantages of _Wabbajack_ is that you can simply install over your copy of the list and return to a fully working setup.
 
-For all other questions or problems, stop by my #black-additions channel!
+For all other questions or problems, stop by my #les-modified forum available at https://discord.gg/jolly-coop!!
 
 ### ENJOY!
