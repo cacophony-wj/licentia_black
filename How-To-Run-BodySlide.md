@@ -33,6 +33,8 @@ Lastly, if you are wanting to make your PCs and NPCs wear slooty outfits you wil
 
 That is all you need to do to get them working, but you may wish to verify that they were placed in the proper folder before you finish up. To do so, find the directory you built the BodySlides to with Windows File Explorer and check it. There should be a `meshes` folder inside with no other directories, and inside that `meshes` folder **there must not be a second meshes folder.** If there is, the BodySlide building process glitched out and you will not see them in game. You need to delete any errored meshes folders and do the process all over again, ensuring that you have chosen the proper "BodySlide Output" directory.
 
+For Final Confirmation, you can double click your "My BodySlide Output" "mod" in _MO2_ and check the "Conflicts" tab. Ensure that all of your outfits in this folder are overwriting the versions already in the list, and **Are not overwritten themselves.** If they are overwritten, you will need to move the "My BodySlide Output" "mod" lower down in the list of mods (higher priority.)
+
 That's all you need to know. Please remember that if you get impossibly lost or your list becomes horribly messed up, one of the greatest advantages of _Wabbajack_ is that you can simply install over your copy of the list and return to a fully working setup.
 
 For all other questions or problems, stop by my #black-additions channel!
