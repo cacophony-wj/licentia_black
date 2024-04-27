@@ -1,5 +1,23 @@
 # LICENTIA BLACK CHANGELOG
 
+## LICENTIA 12.15.3
+
+- Updated _Vanilla hair remake_ to 0.38
+- Updated _Underwear.dll_ to 1.1.1 
+- Updated _Improved Follower Dialogue - Lydia_ to 4.0.5
+- Updated _CoMAP_ to 4.1.0 
+- Updated _Custom Skills Framework_ to 3.0.1 
+- Updated _Improved Camera SE_ to 1.1.0
+- Updated _DynDOLOD DLL NG 1.6.11xx and Scripts_ to Alpha 23
+- Fixed the problem where _Triple Triad_ would teleport you to some house
+
+## LICENTIA 12.15.1
+
+- Fixed sexy outfits.
+- Sexy outfit male dongs while clothed were invisible. Fixed.
+- Female clothes missing textures. Fixed.
+- Some females dressed modestly on the immodest profiles. Fixed.
+  
 ## LICENTIA 12.15
 
 - **CHANGE OF PLANS. OBODY WILL NOT RETURN TO THIS VERSION. STILL CAUSING CRASHES**
