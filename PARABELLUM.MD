@@ -138,10 +138,15 @@ _Parabellum_ once supported **all** _Creation Club_ content in a modular way, wh
 **HOWEVER!** A few of the older versions are compatible, and now that they are included with the game, I can downgrade them to working versions for you. **NEW** to the list, and available without the End User having to take any extra steps, are the following "PAID MODS"...
 
 > Hellfire Power Armor - Kill a psychotic Pyromaniac hiding out in the wilderness to secure this unique, flame-resistant Power Armor.
+
 > X-02 Power Armor - This unique Enclave Power Armor gets co-opted for vigilante justice by a Wasteland Hero known as Black Devil.
+
 > Heavy Incinerator - Brave the Saugus Ironworks to discover this unique Flamer that explodes in a giant fireball to consume clusters of enemies.
+
 > Tesla Cannon - Designed by the US Government pre-war as a lightweight anti-tank weapon, this powerful energy emitter can wreak havoc on armor.
+
 > Modular Military Backpack - Carry more stuff. 'Nuff said. No, the bedroll doesn't actually do anything.
+
 > Enclave Weapon and Armor Skins - I don't know what Sociopath would actually want to use these but I guess they're a good teaser for other Skins.
 
 Unfortunately _Parabellum_ **will not support** any further _Creation Club_ additions until the modlist can be Updated to the most recent version of _Fallout 4._
