@@ -70,6 +70,12 @@ URL: https://www.loverslab.com/files/file/5983-my-animation-pack-updated-150423/
 
 File: `849639123_SavageCabbagesAnimationPackV1.3.0.7z`
 
+## Sex Education
+
+URL: https://www.loverslab.com/files/file/17248-sex-education/
+
+File: `Sex Education 1.22.zip`
+
 ## UAP - Ultimate AAF Patch
 
 URL: https://www.loverslab.com/files/file/11033-uap-ultimate-aaf-patch/
@@ -81,3 +87,57 @@ File: `1387286231_UAPv2.6.64-1.7z`
 URL: https://www.loverslab.com/files/file/11729-vioxsis-strap-ons-of-fallout-4/?do=download
 
 File: `Vioxsis' Strap-On's of Fallout 4`
+
+# If you are downloading _Parabellum NUKA,_ you will also need the following files.
+
+## CH5 Body Kit
+
+URL: https://drive.google.com/file/d/19p27tl0P2FHMR0KAXVWgkB3LaapqWsuB/view
+
+## AAF Bad End Animation Pack
+
+URL: https://www.loverslab.com/files/file/8183-aaf-bad-end-animation-pack/
+
+File: `Release_BadEnd_v01_05.zip`
+
+## AAF Spectators
+
+URL: https://www.loverslab.com/files/file/11703-aaf-spectators/
+
+File: `AAF Spectators v1.4.7z`
+
+## Autonomy Enhanced Redux
+
+URL: https://www.loverslab.com/files/file/17954-aaf-autonomy-enhanced-redux/
+
+File: `AAF_AutonomyEnhanced_v3.000c_beta.7z`
+
+## Captive Tattoos
+
+URL: https://www.loverslab.com/files/file/10004-captive-tattoos-looksmenu-overlays-facial-tattoos-males-females/
+
+File: `CaptiveTattoos3.3.7z`
+
+## Daily Life of Hookers
+
+URL: https://www.loverslab.com/files/file/19613-daily-life-of-hookers/
+
+File: `Daily Life Of Hookers.rar`
+
+## Plugs of the Commonwealth
+
+URL: https://www.loverslab.com/files/file/2664-plugs-of-the-commonwealth/
+
+File: `ddc-potc-v112-slot56.zip`
+
+## Real Handcuffs
+
+URL: https://www.loverslab.com/files/file/8485-real-handcuffs/
+
+File: `RealHandcuffs.0.4.17.7z`
+
+## Torture Devices
+
+URL: https://www.loverslab.com/files/file/3341-torturedevices/
+
+File: `TortureDevices 2.21.7z`
