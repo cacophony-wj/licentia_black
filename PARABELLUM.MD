@@ -6,11 +6,7 @@
 
 **This Modlist contains mods with sexual content and you need to be of legal age in your country (most western countries: 18+, some eastern ones: 21+)**.
 
-_Parabellum_ was born because I desperately want to play _Sim Settlements 2_ (someday, sigh...), but I don't want to be completely without my beloved **NSFW Content** and everyone always told me it was impossible to mix _SS2_ and **NSFW**. After testimony from users who had done it themselves and completed the first two chapters, I resolved to see for myself. I am happy to report that I have succeeded. The key appears to be using only the base chapters for _SS2_ and very few **NSFW** frameworks. Since this is how I want to play the game, maybe someone else does too, and so -- I offer this modlist.
-
-I have attempted to make up for the lack of content you might find in something like _Wasteland of Depravity_ by offering a **TON** of quests to do. Almost every well-regarded _Fallout 4_ quest mod is here (along with several poorly-regarded ones), so now you can kill and screw your way across the Wasteland.
-
-Have fun.
+_Parabellum_ was born because I desperately enjoy _Sim Settlements 2_, but I don't want to be completely without my beloved **NSFW Content**. The key to making this work appears to be using only the base chapters for _SS2_ and very few **NSFW** frameworks. 
 
 #### More Information
 
@@ -161,9 +157,9 @@ It may be necessary to press the `Enter` key a few times after you select "New G
 
 It may not seem so, but this bathroom is one of the most heavily scripted, system-intensive parts of the whole game because not only are all of _Fallout 4's_ Quests and Scripts initializing, but so are all of _Parabellum's_ Mods, Quests, and NSFW Scripts. This is especially bad with _Sim Settlements 2,_ one of the most heavily scripted, automated _Bethesda_ mods ever, so I **STRONGLY RECOMMEND** just chilling out here for about five minutes. Maybe make yourself a cup of tea, or a sandwich. Hopefully, all of the mods will Initialize, and you will get a bunch of messages appearing and disappearing in the top left of the screen.
 
-This part is easier than with most _Skyrim_ lists. To configure the MCMs, press the `ESC` key and select the top menu option: "MOD CONFIG." At the top left you will see an option to configure MCM settings. Select it. There will be something bad and lazy like "Parabellum Settings" in the large window on the right side. Click "Apply Settings" next to this option, confirm your selection, and wait for a message similar to "30 Settings Applied." Then click the "Reload MCM" option that appears.
+This part is easier than with most _Skyrim_ lists. To configure the MCMs, press the `ESC` key and select the top menu option: "MOD CONFIG." At the top left you will see an option to configure MCM settings. Select it. There will be something bad and lazy like "Parabellum Settings" in the large window on the right side. Click "Apply Settings" next to this option, confirm your selection, and wait for a message. Then click the "Reload MCM" option that appears.
 
-That's all there is to it! You're ready to play _Parabellum!_ As a final note, though, I would probably give the list another 5 minutes to finish Initialization after you emerge from Vault 111. Just to be safe. (Seriously, the scripting in this list is absurd, it was strongly recommended that I avoid creating it at all.)
+That's all there is to it! You're ready to play _Parabellum!_ As a final note, though, I would probably give the list another 5 minutes to finish Initialization after you emerge from Vault 111. Just to be safe.
 
 #### A bit of a Note on how to Engage with the NSFW Content
 
