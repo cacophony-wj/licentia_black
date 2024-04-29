@@ -145,8 +145,6 @@ _Parabellum_ once supported **all** _Creation Club_ content in a modular way, wh
 
 > Tesla Cannon - Designed by the US Government pre-war as a lightweight anti-tank weapon, this powerful energy emitter can wreak havoc on armor.
 
-> Modular Military Backpack - Carry more stuff. 'Nuff said. No, the bedroll doesn't actually do anything.
-
 > Enclave Weapon and Armor Skins - I don't know what Sociopath would actually want to use these but I guess they're a good teaser for other Skins.
 
 Unfortunately _Parabellum_ **will not support** any further _Creation Club_ additions until the modlist can be Updated to the most recent version of _Fallout 4._
