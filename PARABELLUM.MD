@@ -131,21 +131,20 @@ The list is configured for a resolution of `2560x1440` by default. It _will_ aut
 
 If you are confident you meet the above target, but still experience severe performance drops, you may need to customize your `BIOS` settings to maximize your hardware. Refer to your motherboard's documentation.
 
-### OPTIONAL UPGRADE: "Paid Mods"
+## NEXT GEN UPDATE
 
-You might be unaware of _Fallout 4's Creation Shop._ This is a system of "Paid Mods" similar what can be found in the _Skyrim Anniversary Edition Upgrade_, only sold individually, mod by mod, at an incredibly inflated price. (The modders who created them were paid well, though.) With the _Parabellum_ modlist, you can purchase and install any number of these "Paid Mods" if you so choose and they will be completely compatible with the list with no further effort on your part.
+_Parabellum_ once supported **all** _Creation Club_ content in a modular way, where the End User could add as much or as little of it as they wished with no hassles, but unfortunately that has changed with the "Next Gen Update." Most of the _Creation Club Content_ is now incompatible with the version of _Fallout 4_ that I use.
 
-To do so, launch Vanilla _Fallout 4_ from the "Play" icon in _Steam._ On the Main Menu, after the intros, you will find an entry that reads "Creation Club." Click it, and the "Creation Shop" will appear.
+**HOWEVER!** A few of the older versions are compatible, and now that they are included with the game, I can downgrade them to working versions for you. **NEW** to the list, and available without the End User having to take any extra steps, are the following "PAID MODS"...
 
-Sadly, the only way to buy "Paid Mods" from this shop is to purchase "Creation Club Credits" from _Steam_ itself. And the "Paid Mods" are priced so that you can never use all of the credits you purchase, effectively wasting your money. I am surprised if anyone wishes to continue with this now, but anyway...
+> Hellfire Power Armor - Kill a psychotic Pyromaniac hiding out in the wilderness to secure this unique, flame-resistant Power Armor.
+> X-02 Power Armor - This unique Enclave Power Armor gets co-opted for vigilante justice by a Wasteland Hero known as Black Devil.
+> Heavy Incinerator - Brave the Saugus Ironworks to discover this unique Flamer that explodes in a giant fireball to consume clusters of enemies.
+> Tesla Cannon - Designed by the US Government pre-war as a lightweight anti-tank weapon, this powerful energy emitter can wreak havoc on armor.
+> Modular Military Backpack - Carry more stuff. 'Nuff said. No, the bedroll doesn't actually do anything.
+> Enclave Weapon and Armor Skins - I don't know what Sociopath would actually want to use these but I guess they're a good teaser for other Skins.
 
-Browse the "Creation Shop" and check out what's available. Of particular note: every few weeks _Bethesda_ offers certain "Paid Mods" for free as part of a Promotion, so you can grab one or two of these while you're in here. This is **OBVIOUSLY** not the most popular Feature of _Fallout 4_, so they are often heavily discounted as well. Find out which ones you want to purchase, grab the appropriate number of "Creation Club Credits" from the "Purchase Credits" link, and buy them in the "Creation Shop". The "Paid Mods" are often bundled in little extra collections so it is **VERY EASY TO PURCHASE DUPLICATES** if you are not careful. If you want to make certain you haven't already purchased a Creation (or "Paid Mod") you can browse the ones you own from the "Purchased" menu in the top right of the Shop.
-
-Once you have purchased some mods, exit the shop, and _Fallout 4_ will prompt you to reload the Load Order. Do so and exit the game. You now need to copy these "Paid Mods" to the appropriate location for _Parabellum._
-
-This final step involves opening your _Fallout 4_ directory (something like `C:\Steam\steamapps\common\Fallout 4\Data\`) and selecting all of the files that begin with the two letters `cc.` Once selected, press `CTRL+C` to copy them, and navigate to _Parabellum's_ "Creation Club" folder (this will be something like `D:\Parabellum\mods\Creation Club Content`). Use `CTRL+V` to paste all of the files in here, then open _Mod Organizer 2_ for the list, strike the `F5` key to refresh, and the "Paid Mods" should automatically be ready to go.
-
-That's it! Revel in your own decadence.
+Unfortunately _Parabellum_ **will not support** any further _Creation Club_ additions until the modlist can be Updated to the most recent version of _Fallout 4._
 
 ### Launching the List
 
