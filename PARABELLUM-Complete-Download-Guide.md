@@ -70,12 +70,6 @@ URL: https://www.loverslab.com/files/file/5983-my-animation-pack-updated-150423/
 
 File: `849639123_SavageCabbagesAnimationPackV1.3.0.7z`
 
-## Sex Education
-
-URL: https://www.loverslab.com/files/file/17248-sex-education/
-
-File: `Sex Education 1.22.zip`
-
 ## UAP - Ultimate AAF Patch
 
 URL: https://www.loverslab.com/files/file/11033-uap-ultimate-aaf-patch/
