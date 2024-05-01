@@ -24,21 +24,21 @@
     "links": {
       "image": "https://raw.githubusercontent.com/cacophony-wj/licentia_black/main/images/classic.babe.2.png",
       "readme": "https://github.com/cacophony-wj/licentia_black",
-      "download": "https://authored-files.wabbajack.org/Licentia BLACK.wabbajack_a3e2e534-103d-4fd0-bee1-e350eaf2311a",
+      "download": "https://authored-files.wabbajack.org/Licentia BLACK.wabbajack_10dc3e1f-c0ad-4f3e-8d91-8b9d4bb45a14",
       "machineURL": "licentia_black",
       "discordURL": "https://discord.gg/jolly-coop"
     },
     "download_metadata": {
-      "Hash": "ENP3pAD/pBY=",
-      "Size": 684755399,
-      "NumberOfArchives": 1628,
-      "SizeOfArchives": 209974418280,
-      "NumberOfInstalledFiles": 408949,
-      "SizeOfInstalledFiles": 343639529853
+      "Hash": "yW/9jmy4mmI=",
+      "Size": 684906726,
+      "NumberOfArchives": 1627,
+      "SizeOfArchives": 209421078101,
+      "NumberOfInstalledFiles": 409223,
+      "SizeOfInstalledFiles": 343641235497
     },
-    "version": "12.15.5",
+    "version": "12.15.6",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2024-04-30T06:38:59.5358571Z",
+    "dateUpdated": "2024-05-01T20:55:17.7138693Z",
     "repositoryName": ""
   },
   {
