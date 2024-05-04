@@ -20,7 +20,7 @@
     "utility_list": false,
     "image_contains_title": false,
     "DisplayVersionOnlyInInstallerView": false,
-    "force_down": false,
+    "force_down": true,
     "links": {
       "image": "https://raw.githubusercontent.com/cacophony-wj/licentia_black/main/images/classic.babe.2.png",
       "readme": "https://github.com/cacophony-wj/licentia_black",
@@ -102,7 +102,7 @@
     "utility_list": false,
     "image_contains_title": false,
     "DisplayVersionOnlyInInstallerView": false,
-    "force_down": false,
+    "force_down": true,
     "links": {
       "image": "https://raw.githubusercontent.com/cacophony-wj/licentia_black/main/images/LicentiaCompile3sm.png",
       "readme": "https://github.com/cacophony-wj/licentia_black",
@@ -131,7 +131,7 @@
       "github/cacophony-wj"
     ],
     "game": "skyrimspecialedition",
-    "official": false,
+    "official": true,
     "tags": [
       "Power Fantasy",
       "Vokriinator",
