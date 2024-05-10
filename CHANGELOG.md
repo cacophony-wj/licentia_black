@@ -1,5 +1,31 @@
 # LICENTIA BLACK CHANGELOG
 
+## LICENTIA 12.18
+
+**A Bit of a Note About This Update**
+
+I am sick of users dealing with animation bugs I can't replicate -- specifically, when the player gets "stuck" in crafting, sleeping, or _Animated Traversal_ animations. They can be resolved with the `player.moveto player` console command but for some they are so frequent as to make the list almost unplayable. My staff confirms that they do not manifest without _Improved Camera_, so that mod has been removed. You are just going to have to deal with the lack of a first person body and POV sex, not even returning _Improved Camera_ to its default configuration solved it.
+
+There is also another change many of you will probably not enjoy. I am convinced that _SMP_ contributes a lot to other crashes some users experience. It's almost always somewhere in the log whenever a crash occurs. I find little value in _SMP,_ I don't turn it on for sex scenes and most of the physics are a joke. I don't know how many times I've seen a dead guy's cape flying up like a banner or my own hair twisting off into infinity when I change camera modes. The only time I do bother with it is if I want to strip down and walk slowly toward the camera for a few seconds to admire the jiggle. So, I'm going to try without it for awhile. I believe the list will be more playable but you be the judge.
+
+Finally I should probably remove _DynDOLOD NG_ since the crash on load bug doesn't appear to be resolved, but that requires hours of regenerating LODs, so I settled for Updating the DLL instead. Maybe it'll make a difference, maybe it won't. I rarely if ever had any of the problems mentioned.
+
+- Removed _Faster HDT-SMP_ and XMLs
+- Removed _KS Hairdo's - HDT SMP_
+- Removed _Multicolored KS Hairdo's Standalone_
+- Removed _Xing HTD-SMP Hair & Wigs_
+- Removed _OSmp for CBBE 3BA_
+- Removed _Cloaks of Skyrim Retextured SSE HDT-SMP_
+- Removed _Artesian Cloaks of Skyrim_
+- Updated _OStim Standalone_ to 7.3c-IC
+- Updated _Open Animations 3P Plus_ to 1.11.1-Nex
+- Updated _Improved Follower Dialogue - Lydia_ to 4.10
+- Updated _Skyrim Revamped Rebalanced and Releveled_ to 2.57
+- Updated _Vanilla Hair Remake_ to 0.39
+- Updated _DynDOLOD DLL NG 1.6.11xx and Scripts 3.00_ to Alpha-25
+- Re-ran _Nemesis_
+- Fixed darkfaces on Vilja and a couple Bruma guards
+  
 ## LICENTIA 12.15.3
 
 - Updated _Vanilla hair remake_ to 0.38
