@@ -12,6 +12,8 @@ I should probably remove _DynDOLOD NG_ as well, since the crash on multiple load
 
 Lastly I finally corrected the darkface on Vilja and a couple of Bruma border guards properly.
 
+**NOT SAVE SAFE**
+
 - Removed _Faster HDT-SMP_ and XMLs
 - Removed _KS Hairdo's - HDT SMP_
 - Removed _Multicolored KS Hairdo's Standalone_
