@@ -8,7 +8,9 @@ I am sick of users dealing with animation bugs I can't replicate -- specifically
 
 There is also another change many of you will probably not enjoy. I am convinced that _SMP_ contributes a lot to other crashes some users experience. It's almost always somewhere in the log whenever a crash occurs. I find little value in _SMP,_ I don't turn it on for sex scenes and most of the physics are a joke. I don't know how many times I've seen a dead guy's cape flying up like a banner or my own hair twisting off into infinity when I change camera modes. The only time I do bother with it is if I want to strip down and walk slowly toward the camera for a few seconds to admire the jiggle. So, I'm going to try without it for awhile. I believe the list will be more playable but you be the judge.
 
-Finally I should probably remove _DynDOLOD NG_ since the crash on load bug doesn't appear to be resolved, but that requires hours of regenerating LODs, so I settled for Updating the DLL instead. Maybe it'll make a difference, maybe it won't. I rarely if ever had any of the problems mentioned.
+I should probably remove _DynDOLOD NG_ as well, since the crash on multiple load bug doesn't appear to be resolved, but that requires hours of regenerating LODs, so I settled for Updating the DLL instead. Maybe it'll make a difference, maybe it won't. I rarely if ever had any of the problems mentioned.
+
+Lastly I finally corrected the darkface on Vilja and a couple of Bruma border guards properly.
 
 - Removed _Faster HDT-SMP_ and XMLs
 - Removed _KS Hairdo's - HDT SMP_
