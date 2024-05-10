@@ -25,6 +25,31 @@ Finally I should probably remove _DynDOLOD NG_ since the crash on load bug doesn
 - Updated _DynDOLOD DLL NG 1.6.11xx and Scripts 3.00_ to Alpha-25
 - Re-ran _Nemesis_
 - Fixed darkfaces on Vilja and a couple Bruma guards
+
+## LICENTIA 12.17
+
+- Replaced _Kaidan Extended_ with _Nexus_ Version and patched appropriately
+- Added back Kaidan's buttslaps.
+- Removed _Peeno_
+- Re-ran _Nemesis_
+- Regenerated _Synthesis_ patches
+
+## LICENTIA 12.16
+
+- Updated _Kaidan Extended Edition AIO_ to 2.1.3
+
+## LICENTIA 12.15.6
+
+- Added _Take a Nap - Sleep on Chairs_
+
+## LICENTIA 12.15.5
+
+- Updated _Improved Follower Dialogue - Lydia_ to 4.0.7
+- Updated _The Wheels of Lull SE_ to 5.1.13.2
+- Updated _Landscape Fixes for Grass Mods_ to 5.4
+- Updated _Skyrim Anniversary - Growable Plants - Bruma_ to 10.1
+- Updated _SPID - NFF - Add Ignore Token to CustomAI Follower_ to 1.0.24
+- A user further fixed growables for my list so I added their patch, apologies for the delay.
   
 ## LICENTIA 12.15.3
 
