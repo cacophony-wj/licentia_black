@@ -1,5 +1,36 @@
 # LICENTIA BLACK CHANGELOG
 
+## LICENTIA 12.19
+
+- Added _Quickloot EE - NG Fork_
+- Updated _OStim Community Resource_ to 1.17.4
+- Updated _Open Animations RE for OStim Standalone_ to 1.49.1
+- Updated _Lovemaking Compendium for OStim Standalone_ to 1.7
+- Updated _Fencing in the Dark for OStim Standalone_ to 1.2
+- Updated _The New Gentleman_ to 3.0.2
+- Updated _Underwear.dll_ to 2.0
+- Updated _Vanilla Hair Remake_ to 1.0.2
+- Updated _Serana Dialogue Add-On SE_ to 4.1.1.1
+- Updated _Improved Follower Dialogue - Lydia_ to 4.1.3
+- Updated _VIGILANT - NPC Overhaul_ to 2.8.2
+- Updated _Wyrmstooth_ to 1.20.2
+- Updated _Additional Clockwork_ to 3.0.5
+- Updated _CC Farming - Tweaks and Enhancements_ to 1.4.2
+- Updated _Extended Encounters_ to 1.6.7
+- Updated _Completionist - Skyrim Completion Tracker_ to 4.0.0.2-r2
+- Updated _Experience NG_ to 3.3.0
+- Updated _Static Skill Leveling Rewritten_ to 1.8
+- Updated _Open Animation Replacer_ to 2.3.4
+- Updated _EVG Animated Traversal_ to 2.1
+- Updated _Read or Take SKSE_ to 1.4.0
+- Updated _DynDOLOD DLL NG 1.6.11xx and Scripts 3.00_ to Alpha-29
+- Updated _Navigator - Navmesh Fixes_ to 1.5.7
+- Updated _Missives Solstheim Patch_ to 2.09
+- Updated _Dynamic Activation Key_ to the _NG_ 1.10 version
+- Updated _SPID - NFF - Add Ignore Token to CustomAI Follower_ to 1.0.25
+- Re-ran _Nemesis_
+- Fixed a few script overwrites
+  
 ## LICENTIA 12.18
 
 **A Bit of a Note About This Update**
