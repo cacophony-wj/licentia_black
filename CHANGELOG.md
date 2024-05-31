@@ -3,6 +3,7 @@
 ## LICENTIA 12.19
 
 - Added _Quickloot EE - NG Fork_
+- Added _Interesting NPCs Quest Requirements Tweak_
 - Updated _OStim Community Resource_ to 1.17.4
 - Updated _Open Animations RE for OStim Standalone_ to 1.49.1
 - Updated _Lovemaking Compendium for OStim Standalone_ to 1.7
