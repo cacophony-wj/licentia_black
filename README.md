@@ -49,7 +49,7 @@ Ensure you have set antivirus exceptions for this folder, the _Skyrim_ vanilla g
 
 Ensure that _OneDrive_ is **uninstalled** or **completely disabled.** This program locks some of _Skyrim_'s configuration files when in use and will cause the modlist to experience errors.
 
-The _Microsoft Visual C++_ redistributable package is required for _Mod Organizer 2_ and you can download it from _Microsoft._ Download the x64 version under "Visual Studio 2015, 2017 and 2019" [here](https://aka.ms/vs/16/release/vc_redist.x64.exe).
+The _Microsoft Visual C++_ redistributable package is required for _Mod Organizer 2_ (as well as certain mods included with _Licentia_) and you can download it from _Microsoft._ Download the x64 version of "Visual Studio 2015, 2017, 2019 and 2022" [here](https://aka.ms/vs/17/release/vc_redist.x64.exe).
 
 You must set your Advanced Memory Pagefile to at least 40GB or the modlist will constantly crash. On _Windows 11_ you can find this setting in the About page for your PC. [Here](https://www.windowscentral.com/software-apps/windows-11/how-to-manage-virtual-memory-on-windows-11) is a document to find the specific option; other versions of Windows are similar. Setting the minimum and maximum pagefile size to `40,960` on one Solid State Drive is recommended. 
 
