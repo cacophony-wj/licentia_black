@@ -242,8 +242,6 @@ URL: https://www.loverslab.com/files/file/13011-sos-no-futanari-schlong-addon/
 
 File: `SOS - No Futanari Schlong - Addon.7z`
 
-Note: Not a normal download. This is a file attachment in a forum thread, which is located about 3/4 down the page in a post by @aeaeae6
-
 ### Schlongs of Skyrim - PapyrusUtil Version
 
 URL: https://www.loverslab.com/topic/95031-schlongs-of-skyrim-se/page/123/
