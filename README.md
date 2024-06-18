@@ -26,8 +26,6 @@ If you enjoy my work, please consider checking out that of my Friends and Suppor
 
 **Cursedelica** on the _Wabbajack_ UI, Unofficial. A seizure inducing psychotropic infuriating mind fuck that will make you question why you got into this hobby in the first place. Also known as the "Best Modlist Ever."
 
-**Fahluaan** in the _Wabbajack_ UI, Official. Third person combat by a group who, unlike me, knows what they are doing. Please do not disturb the authors with questions about adult content. They are rude and smelly.
-
 **Ascensio** in the _Wabbajack_ UI, Official. A great visuals only list to build your own dream collection off of. Please do not disturb the authors with questions about adult content. They are fragile, like Smokey.
 
 **Any of the Modlists hosted on the _Jolly Co-Operators_ Discord Server** Mix of Official and Unofficial. They are all great. They also take their hobby seriously in an extremely uncool way, unlike yours truly, who is Rad to the Max.
