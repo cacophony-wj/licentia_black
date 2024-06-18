@@ -18,6 +18,20 @@ Play _Licentia._ (This modlist.)
 
 Play [_Servitium._](https://github.com/cacophony-wj/servitium)
 
+## AFFILIATE LINKS: Please forgive these explicitly promotional messages.
+
+If you enjoy my work, please consider checking out that of my Friends and Supporters.
+
+[Serana Dead Sexy Collection](https://next.nexusmods.com/skyrimspecialedition/collections/gv7h2i): You might have heard tell of an Ancient, Depraved Version of _Licentia_ called **DEAD.** This is that version, except curated by the official author of the [Serana Dead Sexy](https://www.nexusmods.com/skyrimspecialedition/mods/73589) Suite of Mods. A grindhouse, murderschlock, Z-movie-grade list from Hell. I don't bring **DEAD** back because Fun Guy Scott has the Final Answer.
+
+**Cursedelica** on the _Wabbajack_ UI, Unofficial. A seizure inducing psychotropic infuriating mind fuck that will make you question why you got into this hobby in the first place. Also known as the "Best Modlist Ever."
+
+**Fahluaan** in the _Wabbajack_ UI, Official. Third person combat by a group who, unlike me, knows what they are doing. Please do not disturb the authors with questions about adult content. They are rude and smelly.
+
+**Ascensio** in the _Wabbajack_ UI, Official. A great visuals only list to build your own dream collection off of. Please do not disturb the authors with questions about adult content. They are fragile, like Smokey.
+
+**Any of the Modlists hosted on the _Jolly Co-Operators_ Discord Server** Mix of Official and Unofficial. They are all great. They also take their hobby seriously in an extremely uncool way, unlike yours truly, who is Rad to the Max.
+
 #### More Information
 
 If you want to examine a complete list of the mods in this modlist, [go here.](https://loadorderlibrary.com/lists/licentia-black-2)
