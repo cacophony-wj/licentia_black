@@ -10,13 +10,9 @@
 
 _Licentia_ is one of _Wabbajack's_ oldest and most well-regarded adult modlists, featuring optional non-fetish content with the _OSuite_ series of _OStim_ mods and an emphasis on build variety, backed up by an accessible Power Fantasy design philosophy. 
 
-**Do you like kicking ass in a high-powered RPG with "spicy," sexually explicit romances?**
+**Prefer your sex loving and optional?** Play this modlist -- _Licentia._
 
-Play _Licentia._ (This modlist.)
-
-**Do you like kicking ass in a high-powered RPG but also sometimes roleplaying as a sex slave?**
-
-Play [_Servitium._](https://github.com/cacophony-wj/servitium)
+**Prefer your sex abusive and intrusive?** Play its brother modlist -- _Servitium._
 
 ## AFFILIATE LINKS: Please forgive these explicitly promotional messages.
 
