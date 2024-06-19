@@ -1,5 +1,64 @@
 # LICENTIA BLACK CHANGELOG
 
+## LICENTIA 12.22 - TRASHY ROMANCE LICENTIA
+
+- Added _GORE - A Companion Mod_
+- Added _Another Gore Replacer_
+- Added _Gore - Romance Dialogue Expansion_
+- Added _RS Children - Gore_
+- Added _Gore X Vigilant_
+- Added _Gore Saints & Seducers Extended Cut_
+- Added _Gore Paarthurnax Quest Expansion Patch_
+- Added _Gore Fishing (CC) Patch_
+- Added _Val Serano - Pirate Custom Voiced Follower and Quest Adventure_
+- Added _Val Serano - Salt & Wind Hair_
+- Added _The Thalmor's Shadow - Taliesin_
+- Added _BiR's Taliesin Replacer_
+- Added _A Serious Wedding SSE_
+- Added _Chooey's Choice Requirements_
+- Added _Teldryn Sero - Chooey's Choice_
+- Added _NordWarUA Vanilla Armor Replacer SE_
+- Added _New Legion - NordWarUA Improved Upscaled Textures_
+- Added _Himbo NordwarUA - Vanilla Replacers_
+- Added _CBBE NordWar UI - Vanilla Replacers_
+  
+## LICENTIA 12.21.4
+
+- Added back _Better Third Person Selection_
+- Added back _Detection Meter_
+- Replaced _QuickLoot EE NG Fork_ with _QuickLoot IE_
+- Updated _OStim Standalone - Adult Animation Framework_ to 7.3.1
+- Updated _Improved Follower Dialogue - Lydia_ to 4.1.6
+- Updated _Serana Dialogue Addon Patch Hub_ to 2.9.4
+- Updated _Simplicity of Snow_ to 0.18
+- Updated _Dynamic Activation Key_
+- Updated _SPID - NFF - Add Ignore Token to CustomAI Followers_ to 1.0.27
+- Disabled headshots against the player
+- Corrected _BethINI Pie_ link
+
+## LICENTIA 12.21.3
+
+- Corrected tree fade values
+- Edited the futa schlongs to be more compatible
+
+## LICENTA 12.21.2
+
+- Hid the _Bijin Standalone_ ESPs
+- Fixed the level up menu incorrectly displaying "Security" and "Hand to Hand"
+- Fixed the "squished" crafting menus.
+
+## LICENTIA 12.21.1
+
+- Fixed a Missing Masters issue for EZSLOOT.
+- Added a beta fix for LOTD crashes with _QuickLoot_
+
+## LICENTIA 12.20
+
+- Updated _ORomance_ to 1.61
+- Updated _Improved Follower Dialogue - Lydia_ to 4.1.4
+- Updated _Honed Metal_ to 1.26.1
+- Updated _NL-MCM_
+  
 ## LICENTIA 12.19
 
 - Added _Quickloot EE - NG Fork_
