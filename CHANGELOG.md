@@ -1,5 +1,28 @@
 # LICENTIA BLACK CHANGELOG
 
+## LICENTIA 12.23
+
+- Updated _Drago's Love Those Neighbours for OStim Standalone_ to 1.5
+- Updated _Lovemaking Compendium for OStim Standalone_ to 1.7.5
+- Updated _Night-blooming Violets for OStim Standalone_ to 1.5
+- Updated _ORomance Plus Standalone_ to 1.64
+- Updated _ORomance Plus Animations Patch_
+- Updated _Remiel - Custom Voiced Dwemer Specialist and Companion_ to 1.7.3
+- Updated _Gladys the Corgi - A Custom Dog Follower Mod_ to 2.0.4
+- Updated _The Wheels of Lull_ to 5.1.13.3
+- Updated _Alternate Perspective - Alternate Start_ to 3.1.1
+- Updated _Spellsiphon - Immersive Combat_ to 5.28
+- Updated _Experience NG_ to 3.4.1
+- Updated _Open Animation Replacer_ to 2.3.5
+- Updated _Base Object Swapper_ to 3.1.1
+- Updated _Keyword Item Distributor_ to 3.4
+- Added _Scrambled Bugs - Script Effect Archetype Crash Fix_
+- Added _Scrambled Bugs - Vendor Respawn Fix_
+- Updated _powerofthree's Tweaks_ to 1.10.1
+- Updated _Crash Logger SSE_ to 1.14.1
+- Reinstalled _Additional Clockwork_ without the Courier Fix
+- Re-ran _Nemesis_
+  
 ## LICENTIA 12.22 - TRASHY ROMANCE LICENTIA
 
 - Added _GORE - A Companion Mod_
