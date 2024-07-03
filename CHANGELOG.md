@@ -1,6 +1,6 @@
 # LICENTIA BLACK CHANGELOG
 
-## LICENTIA 12.23
+## LICENTIA 12.24
 
 - Updated _Drago's Love Those Neighbours for OStim Standalone_ to 1.5
 - Updated _Lovemaking Compendium for OStim Standalone_ to 1.7.5
