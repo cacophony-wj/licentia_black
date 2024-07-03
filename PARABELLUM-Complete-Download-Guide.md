@@ -104,7 +104,7 @@ File: `AAF Spectators v1.4.7z`
 
 URL: https://www.loverslab.com/files/file/17954-aaf-autonomy-enhanced-redux/
 
-File: `AAF_AutonomyEnhanced_v3.000c_beta.7z`
+File: `AAF_AutonomyEnhanced_v3..305beta.7z`
 
 ## Captive Tattoos
 
@@ -149,73 +149,3 @@ https://mega.nz/folder/vlRzFIaS#CgeMqhCfNylqHPb3DmMG-Q/file/X5w3AKTA
 ## NUKA Ride - The Previous Girl
 
 https://mega.nz/file/viIQkKQZ#qABDruPixRI0B-pb9vWV2u-uf2Gt7pfGq9zWlLJeDgk
-
-## VTAW Lana
-
-https://mega.nz/file/4J9CCYaS#7WJjKmUpo3gMuaNSX42WIfCawbJfBeNgEB01XI-YDw8
-https://mega.nz/file/AE9ymaQS#te_ln4FdTQbrA9RM5z6PWfk9kGLa4edYIqCBdgLKb1E
-
-## VTAW Overalls
-
-https://mega.nz/file/IctAERAD#qSKbeEd2CQN_8Ra52zas6dtjNwoGh7PQe6HY-6JHHj0
-https://mega.nz/file/4c1GmDSL#-3PefFzPn8kkeuhsW8wJ7dV67BNsVJFyS6WpTYn1wOI
-
-## VTAW Nurse
-
-https://mega.nz/file/dRFFiQ4K#D7WSHLBIKAi5OGR1m6KjKXAYSNHFXC83v9UuzHRHrvI
-https://mega.nz/file/UZVnTKQZ#0_6_fpSuXEYW5sanAB6unqoW__D1LgCpB2II0sYdbzY
-
-## VTAW Bunny
-
-https://mega.nz/file/BENjSQJa#iA86ZwNy3DA7nSG6KFc6xl1yPWj4S1p9qdtNqwNqsPU
-https://mega.nz/file/ldM1FAhT#gYDq0LgcjB6DuXPnZ9S1T5GZrxzFpJN-fcLxgAg7WZ0
-
-## VTAW Academy
-
-https://mega.nz/file/wIN0hT5A#9cN9rQScrjEFP6IYCeJ3vfEVaC4JfE1zDbABMrYy_wc
-https://mega.nz/file/BEVDEayY#HJYjF2qX-GMBGSsK_MxufWV4fwS7bcpsarFGcyQKpPw
-
-## VTAW July
-
-https://mega.nz/file/hRtxUJaL#jar5pH9JUANlZ-VMynlZewjC0eJK292kGxPAb4kKHkU
-https://mega.nz/file/Zc0FRJjK#n7mdkJK8Pdpf8XwmDyKNEykIzePsV2Fbc45M_w4DXa0
-
-## VTAW Shadow Yamato
-
-https://mega.nz/file/oZEDCQKS#tZcfYd4t5Fmbi2y5hL3rpbubu_qI4nQ3WBzT2JamBVg
-https://mega.nz/file/cMEBAaqa#8h_G3KKIZTCKjEcBTx3IQVz28_rQfyeHzQxCQeR2mOg
-
-## VTAW Battlesuit
-
-https://mega.nz/file/hVdyQKKa#xAt8UB8Xrdpz0wVEX6iR2vpUJ6wW95e71xIdX2lPDdQ
-https://mega.nz/file/RRVQQABZ#6ecq-2JjasnEQq1l8jzXduBsOREjapc8o_Nk_jSQtPA
-
-## VTAW Club Dress
-
-https://mega.nz/file/0B92DD4K#BUQb6ceDLgFKH0Sds0kyUtaDrLdL8C3s3kybhsqMeBE
-https://mega.nz/file/oR1SHBIR#pl50BuL_z5V_fjIDQEc-Jml46kyuafFNRmScvyyGOdU
-
-## VTAW Kasuga
-
-https://mega.nz/file/xAdiERBB#pznFdv2_3fpwc2RupoP8W9UPInS4VVTkeUBLB_yIX2w
-https://mega.nz/file/VAF0Wb6A#HcKhaNxatW6TGbSMcG7lhDpwOXVmrnc-jtSLW_Cyt2s
-
-## VTAW Activewear
-
-https://mega.nz/file/5RdSFBTa#jedyvHWz5DCOR-taS4Zue5OBIt1xCQYDeNT6uptdF8E
-https://mega.nz/file/RdNC0bDS#Ll0yKD5imG-XAkNZrMFCIDqnpTpvRmGsp0GlrzGX8Ho
-
-## VTAW Wardrobe 8
-
-https://mega.nz/file/8zBCGJhI#apyUCBuGuZQ_5Va7iby02AEybzKLE25tSEcGML1C-Yg
-https://mega.nz/file/1E8RHZ7Z#SWxMF3lT-4mfUYRgrlq1hhokeS_z1fplmiZJvaP1JNY
-
-## VTAW Sweet Dress
-
-https://mega.nz/file/UIkETbxa#AAty_65_I9nRfN9TffEPBINPpBx5zOXV9CkVoN4A888
-https://mega.nz/file/8Ml2TJKJ#RzJpP8STFgV2m3rc5kji4gO0advbkigfgFH4zEMs2-M
-
-## VTAW 2022 March Dress
-
-https://mega.nz/file/5F10lDgC#xy83Rlfvh8Vg2oiQ3mF1_CyyEMxLVsmfhdt5E7Axzcs
-https://mega.nz/file/Mc1XxI6R#c2ptTrquyRiiZe5uBgxFZmQX7lMnBmyqmuamK11dld4
