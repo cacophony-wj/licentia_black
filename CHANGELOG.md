@@ -1,5 +1,216 @@
-# LICENTIA BLACK CHANGELOG
+# LICENTIA BLACK CHANGELO
 
+## LICENTIA TEST is now known as LICENTIA BLACK.
+
+- It will be the only supported list until the New Year.
+- All other modlists, including previous versions, are on MEGA.
+- Minor fixes and improvements.
+  
+## SERVITIUM 4.25.5
+
+- Updated _Billyy's SLAL Animations_ to 8.1SE
+- Updated _Laura's Bondage Shop_
+- Updated _Deviously Enchanted Chests_
+- Fixed _Paraglider_ load order
+  
+## LICENTIA BLACK 12.27.1, also others
+
+- Updated _enbseries_ to 5.0.2
+- Updated _Rudy ENB for NAT 3_ to 2.01
+- Updated _Improved Follower Dialogue - Lydia_ to 4.2.2
+- Updated _DynDOLOD 3.00_ to Alpha-174
+- Updated _DynDOLOD Resources SE 3.00_ to Alpha-51
+- Updated _Photo Mode_ to 1.6.0
+- Updated _Papryus Extender_ to 5.8.0
+  
+## LICENTIA QUESTS UPDATED
+
+- Created a Variant with lower Performance Requirements.
+  
+## LICENTIA BLACK 12.27
+
+- Added _Auri - OStim Patch_
+- Updated _Open Animations RE for OStim Standalone_ to 1.51
+- Updated _Dragon's Love Those Neighbors for OStim Standalone_ to 1.6
+- Updated _Improved Follower Dialogue - Lydia_ to 4.2.1
+- Updated _Civil War Lines Expansion_ to 1.1
+- Updated _CC Farming - Tweaks and Enhancements_ to 1.4.3
+- Updated _JS Rumpled Rugs_ to 1.44
+- Updated _NPCs React to Invisibility_ to 1.10
+- Updated _Castle Volkihar Rebuilt_ to 2.0.8
+- Updated _The Ultimate Control Scheme_ to 1.4
+- Updated _Experience_ to 3.4.4
+- Updated _Open Animation Replacer_ to 2.3.6
+- Updated _DynDOLOD DLL NG and Scripts_ to Alpha-32
+- Updated _powerofthree's Tweaks_ to 1.10.2
+- Updated _Papyrus Extender_ to 5.7.0
+- Updated _WIDeadBodyCleanupScript Crash Fix_ to 0.4
+- Re-Ran _Nemesis_
+  
+## LICENTIA QUESTS UPDATED
+
+- Created a _NON-SLOOT_ Version
+
+## LICENTIA TEST UPDATED
+
+- Brought over changes from _QUESTS_
+  
+## LICENTIA QUESTS UPDATED
+
+- Updated _OStim Standalone_ to 7.3.1a
+- Updated _OStim Community Resource_ to 1.7.5
+- Updated _Caught Red Handed - Quest Expansion_ to 1.0.6
+- Updated _Know Your Enemy Redux - Expansion Patches_ to 4.0.2
+- Updated _Experience_ to 3.4.3
+- Updated _QuickLoot IE_ to 1.2.0
+- Made the cap for all Skills 199
+- Re-Ran _Nemesis_
+  
+## LICENTIA BLACK 12.25
+
+- Made tongues in animations invisible
+- Fixed melee-only Atronachs
+- Relocated some misplaced `ESP`s.
+  
+## LICENTIA TEST UPDATED
+
+- Added all changes from _QUESTS_
+- Apparently _LUX x ICOW_ is broken now. Nothing I can do.
+
+## LICENTIA QUESTS UPDATED
+
+- Added all changes from _SERVITIUM_
+- Verified Dog Followers are working
+- 
+## SERVITIUM 4.23
+
+- Made slooty gear in boss chests less common.
+- Removed _Go To Bed_
+- Reconfigured _Improved Camera_ a little
+- Reconfigured some MCMs
+  
+## SERVITIUM 4.22
+
+- Added _Wintersun - SexLab Integration_
+- Updated _Submissive Lola: The Resubmission_ to 2.1.5a
+- Updated _Sexy Adventures_ to 0.7.0
+- Updated _Acheron_ to 1.5.1.2
+- Updated _Faster HDT-SMP_ to 2.5.0
+- Updated _DynDOLOD DLL NG and Scripts_ to Alpha-30
+  
+## LICENTIA TEST UPDATED
+
+- Updated _Lux Patch Hub_ for FULL LOTD 6 compatibility
+- Reintalled _Immersive Weapons_ to fix missing textures
+
+## LICENTIA BLACK 12.24.0.1
+
+- Previous fixes described, release to UI
+  
+## ALL VERSIONS
+
+- Removed _Yes Im Sure Completionist Patch_
+  
+## LICENTIA QUESTS UPDATED
+
+- Updated _There Is No Umbra_
+- Removed _TK Dodge_ and added back _Ultimate Dodge_
+- Reworked the _Defeat_ Configuration a little
+- Added changes from _TEST_ and _SERVITIUM_ that were appropriate
+  
+## LICENTIA TEST UPDATED
+
+- Added back _Legacy of the Dragonborn Visual Overhaul_
+- Added back _Legacy of the Dragonborn - NPC Overhaul_
+- Updated _Drago's Love Those Neighbors for OStim Standalone_ to 1.5
+- Updated _Lovemaking Compendium for OStim Standalone_ to 1.7.5
+- Updated _Night-Blooming Violets for OStim Standalone_ to 1.5
+- Updated _ORomance Plus_ to 1.64
+- Updated _Remiel - Dwemer Specialist_ to 1.7.3
+- Updated _Gladys the Corgi_ to 2.0.4
+- Updated _Alternate Perspective_ to 3.1.1
+- Updated _Open Animation Replacer_ to 2.3.5
+- Updated _Experience_ to 4.3.1
+- Updated _powerofthree's Tweaks_ to 1.10.1
+- Updated _Base Object Swapper_ to 3.1.1
+- Updated _Keyword Item Distributor_ to 3.4.0
+- Re-ran _Nemesis_
+  
+## SERVITIUM 4.21.2
+
+- Updated _Billyy's SLAL Animations_ to 8.0SE
+- Updated _Yamete Kudasai_ to 2.2.1.1
+- Replaced _SLUTS Resume 3.3_ with the _Lover's Lab_ Version
+- Re-ran _FNIS_ and _Nemesis_
+  
+## LICENTIA TEST UPDATED
+
+- Updated _Legacy of the Dragonborn_ to 6.1.2
+- Updated _Legacy of the Dragonborn Patches (Official)_ to 6.0.1
+- Updated _Legacy of the Dragonborn - Follower Room Patches_ to 4.0.1
+- Updated _Unofficial Skyrim Special Edition Patch_ to 4.3.1
+- Added _Scrambled Bugs - Script Effect Archetype Fix_
+- Added _Scrambled Bugs - Vendor Respawn Fix_
+- Replaced _Vanilla Script (micro)Optimiziations_ and _Vanilla Scripting Enhancements_ with _Script Optimizations & Fixes Compilation_
+- Reinstalled _Additional Clockwork_ to try again to fix the Courier, MAY CAUSE CRASHES WHEN GILDED RESPAWN
+- Removed _New Treasure Hunt_ and _Treasure Hunt SSE_ (now included in LOTD 6)
+- Removed several other bugfix and tweak mods included elsewhere
+- Hid some meshes from _Lux_ and _Lux Orbis_ for better compatibility with LOTD 6
+  
+## SERVITIUM 4.21.1.1
+
+- Set _Spank That Ass_ volume to 100%
+- Reduced assaults out of combat (when nude, vulnerable etc) to a max of 1 in a row
+- Reduced Master's available gold with _Lola_ from 20K to 3K
+  
+## SERVITIUM 4.21.1
+
+- Revamp of _Defeat_ Mods based on functionality and user feedback.
+- All strip on hit events Disabled.
+- All robbery events Disabled.
+- All player Defeats Disabled on MALE variant.
+- For FEMALE, the Player will always be teleported a safe distance away after Defeat.
+- For MALE, assaults by the Player will be considered crimes with a bounty of 1,000 Gold.
+- For FEMALE, the Hotkeys are as follows:
+    - U opens "Hunter's Pride" on a Downed Enemy
+    - G surrenders to HUMAN ENEMIES ONLY
+    - N surrenders to ANY ENEMY
+- For MALE, the Hotkeys are as follows:
+    - U same as above
+    - B attempts an Assault on a Passive NPC
+    - N surrenders to ANY ENEMY, but probably won't work.
+- Fixed the Courier breaking and refusing to show
+- Fixed some of the OWL leveled lists
+- Enabled Full Screen Borderless
+- Relocated Disabled Mods to reduce confusion
+
+## SERVITIUM 4.21
+
+- Added the complete _Sun Jeong Ninirim_ Suite of sexy outfits.
+- Removed the _Sun Jeong_ Museum in the middle of Lake Ilinata.
+- Khajiit merchants have 1-4 pieces of _Ninirim_ Gear.
+- Each Boss Chest has 1 piece of _Ninirim_ Gear.
+- Regenerated _BodySlides_
+  
+## SERVITIUM 4.20
+
+- Added the complete _[COCO]_ Suite of sexy outfits.
+- Crafting books can be found at Belethor's.
+- Khajiit merchants have 1-4 pieces of _[COCO]_ Gear.
+- Each Boss Chest has 1 piece of _[COCO] Gear.
+- Regenerated _BodySlides_
+
+## LICENTIA TEST Created.
+
+- Switches _Legacy of the Dragonborn_ to Version 6.X
+- Removes redundant mods now included with _Legacy of the Dragonborn_
+- Removes _LOTD_ related mods now outdated
+
+## LICENTIA QUESTS Created.
+
+- Same mods as 2023's _Quests_
+- Hid a script that conflicted with _Fancy Fishing
+- 
 ## LICENTIA 12.24
 
 - Updated _Drago's Love Those Neighbours for OStim Standalone_ to 1.5
