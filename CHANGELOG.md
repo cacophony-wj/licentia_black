@@ -4,7 +4,8 @@
 
 - It will be the only supported list until the New Year.
 - All other modlists, including previous versions, are on MEGA.
-- Minor fixes and improvements.
+- Too much to go into for one segment. Read below if you are interested in all the Summer Changes.
+- Minor fixes and improvements for the UI Version.
   
 ## SERVITIUM 4.25.5
 
