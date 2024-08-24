@@ -1,6 +1,6 @@
 # LICENTIA BLACK CHANGELOG
 
-## LICENTIA BLACK 12.28 (compiled by @akzar)
+## LICENTIA BLACK 13.2.2 (compiled by @akzar)
 
 **LOTD updates**
 
@@ -19,7 +19,21 @@
 - Created _MCM_ recording to enable said clutter filter
 - _Skyrim Extended Cut Saints and Seducers - Quest Patch_ - 1.0 -> 2.0
 
-## LICENTIA TEST is now known as LICENTIA BLACK.
+## LICENTIA BLACK 13.2.1
+
+- Returned _DynDOLOD_ to the Papyrus Implementation, _DynDOLOD NG DLL_ removed
+- Added a few patches by @Xelphos for the _Interdimensional Chambers_
+- Added a patch to make the _Blood of the Ancients_ Vampiric ability Permanent
+
+## LICENTIA BLACK 13.1
+
+- Various small patches and updates 
+- Added Remiel bodyslide files + no-SMP patch
+- Added _Conditional Dog Barking_
+- Added _Faster Horses + Horses Simply turn better_ patch
+- Added _CGO debug message removal_ patch
+
+## LICENTIA TEST is now known as LICENTIA BLACK (version 13.0)
 
 - It will be the only supported list until the New Year.
 - All other modlists, including previous versions, are on MEGA.
