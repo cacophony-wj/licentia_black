@@ -1,5 +1,22 @@
 # LICENTIA BLACK CHANGELOG
 
+## LICENTIA BLACK 12.28 (compiled by @akzar)
+
+**LOTD updates**
+_Legacy of the Dragonborn SSE_ - 6.1.2 -> 6.4.0
+_Legacy of the Dragonborn Patches (Official)_ - 6.0.1 -> 6.3.1
+_Legacy of the Dragonborn - Creation Club Patch Hub_ - 6.0 -> 6.0.3
+_Legacy of the Dragonborn SSE - The Curators Companion_ - 7.0 -> 7.0.2
+_Legacy of the Dragonborn - Follower Room Patches_ - 4.0 -> 4.0.4
+Added _LotD v6_ patch for _Sinister Seven_
+Updates to prioritize certain _LOTD CC_ patches over others
+
+**Other Updates**
+_Better Third Person Selection_ - 0.7.0 -> 0.7.1
+_BTPS Clutter Filter_ - 1.0.1 -> 1.0.2
+Created _MCM_ recording to enable said clutter filter
+_Skyrim Extended Cut Saints and Seducers - Quest Patch_ - 1.0 -> 2.0
+
 ## LICENTIA TEST is now known as LICENTIA BLACK.
 
 - It will be the only supported list until the New Year.
