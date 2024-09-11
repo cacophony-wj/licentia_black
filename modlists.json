@@ -41,5 +41,46 @@
     "dateCreated": "1970-01-01T00:00:00Z",
     "dateUpdated": "2024-09-05T03:51:28.1391839Z",
     "repositoryName": ""
-  }
+  },
+  {
+    "title": "SERVITIUM",
+    "description": "Sub, Dom, whichever you choose -- you\u0027re going to kill it.",
+    "author": "cacophony",
+    "maintainers": [
+      "github/cacophony-wj"
+    ],
+    "game": "skyrimspecialedition",
+    "official": true,
+    "tags": [
+      "Power Fantasy",
+      "Vokriinator",
+      "CGO",
+      "LotD",
+      "SexLab"
+    ],
+    "nsfw": true,
+    "utility_list": false,
+    "image_contains_title": false,
+    "DisplayVersionOnlyInInstallerView": false,
+    "force_down": false,
+    "links": {
+      "image": "https://raw.githubusercontent.com/cacophony-wj/licentia_black/main/images/Servitium_Splash_2.png",
+      "readme": "https://github.com/cacophony-wj/servitium/blob/main/README.md",
+      "download": "https://authored-files.wabbajack.org/SERVITIUM.wabbajack_ed6ca9f8-ae35-4c69-bc7f-7debc0dd9ae5",
+      "machineURL": "licentia_servitium",
+      "discordURL": "https://discord.gg/jolly-coop"
+    },
+    "download_metadata": {
+      "Hash": "7M25qoz54Q8=",
+      "Size": 713905243,
+      "NumberOfArchives": 1691,
+      "SizeOfArchives": 233159442565,
+      "NumberOfInstalledFiles": 399676,
+      "SizeOfInstalledFiles": 390327059606
+    },
+    "version": "4.25.8",
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "2024-08-18T12:56:53.9565963Z",
+    "repositoryName": ""
+  },
 ]
