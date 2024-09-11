@@ -66,21 +66,21 @@
     "links": {
       "image": "https://raw.githubusercontent.com/cacophony-wj/licentia_black/main/images/Servitium_Splash_2.png",
       "readme": "https://github.com/cacophony-wj/servitium/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/SERVITIUM.wabbajack_3b33f25d-402e-4b51-b1bc-b3be2b2875bd",
+      "download": "https://authored-files.wabbajack.org/SERVITIUM.wabbajack_cf3c2a39-0e05-483a-880e-65f55ce352f4",
       "machineURL": "licentia_servitium",
       "discordURL": "https://discord.gg/jolly-coop"
     },
     "download_metadata": {
-      "Hash": "fCegzG1iGrQ=",
-      "Size": 766300752,
+      "Hash": "iUw/vdhAPaY=",
+      "Size": 766301264,
       "NumberOfArchives": 1752,
       "SizeOfArchives": 242581257950,
-      "NumberOfInstalledFiles": 459737,
-      "SizeOfInstalledFiles": 417582601728
+      "NumberOfInstalledFiles": 459740,
+      "SizeOfInstalledFiles": 417582615778
     },
-    "version": "4.3.0.1",
+    "version": "4.3.0.2",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2024-09-11T06:46:41.2669914Z",
+    "dateUpdated": "2024-09-11T07:50:52.4312396Z",
     "repositoryName": ""
   }
 ]
