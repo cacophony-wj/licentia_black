@@ -1,5 +1,97 @@
 # LICENTIA BLACK CHANGELOG
 
+## LICENTIA BLACK 13.3.0 (compiled by @akzar)
+
+Not save safe!
+
+**Added:**
+- `IED preset by Missile` + made a mod that auto-loads that preset (with `WABBAJACK_INCLUDE` flag)
+- `Lotd Perk Tree` 2.0
+- `Dragons Fall Down` 1.0.3 (suggested by Xelphos)
+- `Dragon Ragdoll Sounds (ESP flagged as ESL)` 1.1 (also suggested by Xelphos)
+
+**Removed:**
+- `iAmMe preset for IED` (replaced with `IED preset by Missile`)
+- `3_HearthfireKidsMovingFix` (Vilja specific mod, she's not in the list anymore)
+- `Frostfall Nordic UI Patch` (unused)
+
+**Updated:**
+- ENB `.502` binaries to latest (14 aug 2024)
+- `Legacy of the Dragonborn SSE` (6.4.0 -> 6.6.0)
+- `Legacy of the Dragonborn Patches (Official)` (6.3.1 -> 6.6.1)
+- `Remiel-Custom Voiced Dwemer Specialist and Companion` (1.7.3 -> 1.7.4)
+- `Unofficial Skyrim Special Edition Patch - USSEP` (4.3.1 -> 4.3.2)
+- `Unofficial Skyrim Modder's Patch - USMP SE` (2.6.2beta -> 2.6.3)
+- `Achievement mods enabler` (1.2 -> 1.41)
+- `More Informative console` (1.2 -> 1.2.1)
+- `Run for your lives` (4.0.3 -> 4.0.6)
+- `Unaggressive Dragon Priests Fix` (1.3 -> 1.3.1)
+- `Comprehensive Attack Speed Patch - SKSE` (1.1.2.10 -> 1.1.2.11)
+- `ISC - Triumvirate Patch` (1.2 -> 1.3)
+- `Extended Encounters` (1.6.7 -> 1.6.8)
+- `Navigator - Navmesh Fixes` (1.5.7 -> 1.5.8)
+- `QuickLootIE - A QuickLoot EE Fork` (1.2 -> 2.0)
+- `Castle Volkihar Rebuilt - SSE` (2.0.6 -> 2.0.8)
+- `Completionist - Skyrim Completion Tracker (NG)` (4.0.0.2 -> 4.1.0.1)
+- `Caught Red Handed - Quest Expansion - USSEP Patch` (re-added)
+- `Landscape Fixes For Grass Mods` (5.4 -> 5.5)
+- `WiZkiD Carriages` (1.4 -> 1.5)
+- `JS Rumpled Rugs SE` (1.42 -> 1.44)
+- `JS Dragon Claws AE` (1.3 -> 1.32)
+- `JS Essense Extractor` (1.1 -> 1.2)
+- `JS Barenziah SE` (1.3 -> 1.4)
+- `JS Knapsacks SE` (1.2 -> 1.2.1)
+- `Civil War Lines Expansion` (1.09 - 1.10)
+- `Vampire Lines Expansion` (1.0 -> 1.02)
+- `SPID - NFF - Add Ignore Token to CustomAI Followers` (1.0.27 -> 1.0.28)
+- `Gladys the Corgi` (2.0.4 -> 2.0.8)
+- `Merlin the Corgi` (2.0.3.1 -> 2.0.6)
+- `Serana Dialogue Add-On` (4.1.1.1 -> 4.1.1.3)
+- `Interesting NPCs - Quest Requirement Tweaks` (1.2 -> 1.2.1)
+- `Trade and Barter SE` (2.0 -> 2.1)
+- `Security Overhaul SKSE - Lock Variations` (3.2 -> 4.0)
+- `Security Overhaul SKSE - Some more locks` (1.0.7 -> 1.0.8)
+- `Skyrims Unique Treasures SE` (4.6 -> 4.7)
+- `Experience NG` (3.4.3 -> 3.4.5)
+- `Spellsiphon` (5.27 -> 5.28)
+- `Necro Pizzeria` (1.1.1 -> 1.1.2) + added `ICOW` patch for it
+- `OStim Community Resource` (1.17.5 -> 1.17.6)
+- `Open Animations Romance and Erotica for OStim Standalone` (1.49.1 -> 1.51)
+- `Drago's Love Those Neighbours for OStim Standalone` (1.5 -> 1.6)
+- `More Adventures For OStim` (1.0 -> 1.1)
+- `Crash Logger SSE AE VR` (1.13.1 -> 1.14.1)
+- `Creation Club CBBE 3BA` (2.1 -> 2.2)
+- `Tamrielic Distribution` (1.3.4 -> 1.3.6)
+- `Take a Nap` (1.0.1 -> 1.0.2)
+- `Lux - Wheels of Lul patch` (1.0 -> 1.1)
+- `Headhunter` (1.52 -> 1.56) + its patch `OBIS SE - Missives - Headhunter - Addon - EN` (1.31 -> 1.32)
+- `Skyrim Revamped - Draugr Upgrades and Improvement Patch` (1.6 -> 2.0)
+- `CC Farming - Tweaks and Enhancements` (1.4.2 -> 1.4.4)
+- `Blood of the Ancients - Permanent` (1.1 -> 2.0)
+- `Maximum Carnage` (8.0 -> 9.0) + added `Maximum Skeletons D-Won Edition` (fixes Falmer gore)
+- `Deadly Spell Impacts` (1.70 -> 1.90)
+- `Absolutely play death animation` (1.0 -> 1.1)
+- `DynDOLOD Resources SE 3.00` (Alpha 51 -> Alpha 52)
+
+**Fixed/Patched:**
+- Cleaned up `SKSE Settings` mod of unused stuff
+- Removed some redundant downloads
+- Bug report: messed up beast legs (https://discord.com/channels/719714673431150627/1279208797990293597) - fixed the meshes 
+- Bug report: Bipolar Blade CTD (https://discord.com/channels/719714673431150627/1283855909415555185) - fixed with reverting to old meshes (mod `Bipolar mesh fix`)
+- KID issues with LotD - fixed with 6.6.0 update
+- Disabled NFF `elope` by default
+- Merged TrueHud settings
+- `Detection Meter` - added fixed DLL from comment section of the mod
+- Added `fXOffset = -16.000000` for SkyUI as default (centers items in UI) + fixed UI list-view width (`SkyUI width fix` mod in UI section)
+- Enabled OAR UI (`Insert` opens it)
+- In MO2 - fixed `libpng` warning
+- Re-ran LodGen, ACMOS, TexGen and Dyndolod (map is fixed now)
+- Re-ran Nemesis
+- Re-ran Bodyslide (added physcis to some clothing that was missing it)
+
+## LICENTIA BLACK 13.2.2.1
+- Updated DynDOLOD 3.00 tool to Alpha-180
+
 ## LICENTIA BLACK 13.2.2 (compiled by @akzar)
 
 **LOTD updates**
