@@ -14,7 +14,6 @@ Next, launch the tool with the "Nemesis Unlimited Behavior Engine" option on the
 - Combat Gameplay Overhaul SE
 - Skyrim's Paraglider
 - Retimed Hit Frame
-- All three True Directional Movement options
 - The Ultimate Dodge Mod
 
 If your chosen animation mod is included anywhere in this list, _it also needs to be checked._
