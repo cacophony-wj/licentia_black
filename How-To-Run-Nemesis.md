@@ -8,9 +8,9 @@ First, ensure that all antivirus and antimalware applications are temporarily di
 
 Next, launch the tool with the "Nemesis Unlimited Behavior Engine" option on the main dropdown menu of MO2. You will need to verify that all of the behavior patches are checked appropriately. For the default version of _Licentia_, these include the following options:
 
-- Animated Traversal
 - Archery Gameplay Overhaul SE
 - TUDM Attack Cancel
+- Extra Drawing Animations
 - Combat Gameplay Overhaul SE
 - Skyrim's Paraglider
 - Retimed Hit Frame
@@ -34,4 +34,4 @@ Once you do finish running _Nemesis_ successfully, **refresh MO2** with the `F5`
 
 You will notice that it created a blank, dummy `ESP` called `FNIS.esp` at the bottom of your Load Order. Right click on it, select "Open Origin in Explorer" and **delete it.** Normally the _XMPSE_ skeleton mod requires this ESP to function, but that requirement has been removed with another mod in this list. This `ESP` is just a waste of space.
 
-That's all there is to it! If you have questions, drop by and ask in my #black-additions channel.
+That's all there is to it! If you have questions, drop by and ask in my #les-adds-talk channel.
