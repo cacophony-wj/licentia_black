@@ -1,5 +1,21 @@
 # LICENTIA BLACK CHANGELOG
 
+## LICENTIA BLACK 13.3.1 (compiled by @akzar)
+
+Save safe (small update/fix).
+
+**Updated:**
+- `wd - Barrels - 2K` (1.0 -> 1.1)
+- `Silver Armor and Weapons Retexture` (1.0 -> 2.0.1)
+- `Daedric Armors and Weapons Retexture SE` (1.2 -> 2.0) + daedric hand texture name fix (was `daedricJand01_n.dds` instead of `daedricHand01_n.dds`, J instead of H)
+- `Tamrielic Distribution` (1.3.6 -> 1.3.7)
+- `Open Animations 3P Plus for OStim Standalone` (1.11-Nex -> 1.12-Nex)
+
+**Fixed/Patched:**
+- Bug report: Falkreath cart duplication (https://discord.com/channels/719714673431150627/1285440650182922240) - fixed by un-hiding `Unofficial Moonpath to Elsweyr Patch` scripts
+- Bodyslide/Outfit studio custom override fix (now you can edit executables without warnings)
+- Re-ran Nemesis
+  
 ## LICENTIA BLACK 13.3.0 (compiled by @akzar)
 
 Not save safe!
