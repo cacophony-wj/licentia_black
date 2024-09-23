@@ -23,7 +23,12 @@ If you want to examine a complete list of the mods in this modlist, [go here.](h
 The recommended setup for an enjoyable experience **at 1080p** is at least
 
 - intel i7 or AMD Ryzen 5600 or later
-- NVIDIA RTX 2070 SUPER or AMD Radeon 5700 XT or later
+- NVIDIA RTX 2070 SUPER or AMD Radeon 5700 XT or later with **AT LEAST 12GB OF DEDICATED VRAM**
+- **40GB PAGEFILE, NO EXCEPTIONS**
+
+**IF YOU DO NOT AT LEAST MEET THESE TARGETS, THE MODLIST WILL PLAY LIKE A HARD FREEZING CRASH-PRONE PIECE OF CRAP.**
+
+Remember that higher resolutions require more powerful Hardware.
 
 ### Requirements
 
@@ -35,7 +40,7 @@ This account is mandatory; it must be created before continuing. Nexus Premium i
 
 Before you do anything with _Wabbajack,_ ensure that _Skyrim_ is installed in a non-protected folder (such as the root of your drive, like `C:\`). It **cannot** be located in _Program Files_ or the list will not function. Relocate the game as necessary.
 
-For _ Wabbajack _ to match its files,_Skyrim_ needs to be set to the English language. Other languages will not work.
+For _Wabbajack_ to match its files, _Skyrim_ needs to be set to the English language. Other languages will not work.
 
 _Licentia_ requires the additional _Creation Club Content_ from the _Skyrim Anniversary Edition Upgrade_ or the modlist will not install. The price is about $20. 
 
@@ -48,8 +53,6 @@ Ensure that _OneDrive_ is **uninstalled** or **completely disabled.** This progr
 The _Microsoft Visual C++_ redistributable package is required for _Mod Organizer 2_ (as well as certain mods included with _Licentia_) and you can download it from _Microsoft._ Download the x64 version of "Visual Studio 2015, 2017, 2019 and 2022" [here](https://aka.ms/vs/17/release/vc_redist.x64.exe).
 
 You must set your Advanced Memory Pagefile to at least 40GB or the modlist will constantly crash. On _Windows 11_ you can find this setting in the About page for your PC. [Here](https://www.windowscentral.com/software-apps/windows-11/how-to-manage-virtual-memory-on-windows-11) is a document to find the specific option; other versions of Windows are similar. Setting the minimum and maximum pagefile size to `40,960` on one Solid State Drive is recommended. 
-
-**UPDATE** Currently you no longer need to manually download the _Kaidan_ file. Unsure yet if this situation will change.
 
 ##  Using Wabbajack
 
@@ -78,6 +81,28 @@ _Licentia Black_ will not work with a GOG or pirated game version. If you own th
 This shouldn't happen unless you download the list multiple times or download multiple _Wabbajack_ lists. Sign up for an account or wait for the timeout to expire.
 
 ## Post-Installation
+
+### Verifying the Modlist
+
+_Licentia_ is over **HALF A TERABYTE** in size with almost **HALF A MILLION** individual files. Given the likelihood of corrupted files during installation, it is strongly recommended that files be checked after installation.
+
+**DO NOT OPEN MOD ORGANIZER 2 AFTER INSTALLATION.** This will cause the Verification to fail.
+
+To verify the modlist, launch the _Wabbajack_ app again after installation.
+
+Ensure that all the same settings are used as during the installation process. You need the **SAME** `.Wabbajack` file and the **SAME** Modlist and Downloads folders.
+
+Click the **VERIFY** button in the Lower Right Corner of _Wabbajack._
+
+Wait for the process to complete. It can take quite some time.
+
+You **MUST** receive a popup webpage that is **BLANK** with **ZERO ERRORS** or you will have horribly weird bugs and crashes that are impossible to troubleshoot.
+
+If you receive **ANY** errors you **MUST** reinstall the list with the "Overwrite" checkbox selected. Do not worry, it will not redo everything. _Wabbajack_ can scan itself to see what's wrong and repair only what needs to be repaired. 
+
+**YOU MUST RECEIVE ZERO ERRORS. THIS IS NOT OPTIONAL.**
+
+This may be much more difficult if your Internet connection is poor, or the _Wabbajack_ app is frequently interrupted.
 
 ### Tweaking the Modlist
 
