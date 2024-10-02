@@ -94,6 +94,12 @@ URL: https://www.loverslab.com/files/file/8183-aaf-bad-end-animation-pack/
 
 File: `Release_BadEnd_v01_05.zip`
 
+### AAF Morning Sex With Lover
+
+URL: https://www.loverslab.com/files/file/7978-aaf-morning-sex-with-lover/
+
+File: `AAFMorningSexWithLover_v1.2.1.zip`
+
 ### AAF Spectators
 
 URL: https://www.loverslab.com/files/file/11703-aaf-spectators/
@@ -130,6 +136,8 @@ URL: https://www.loverslab.com/files/file/32791-kft-kziitd-fetish-toolset/
 
 File: `Kziitd Fetish Toolset 1.0 Beta 2.4.7z`
 
+File: `Kziitd Fetish Toolset - Clean Leather Textures Addon.7z`
+
 ### Plugs of the Commonwealth
 
 URL: https://www.loverslab.com/files/file/2664-plugs-of-the-commonwealth/
@@ -152,20 +160,25 @@ File: `TortureDevices 2.21.7z`
 
 ### NUKA Ride SUITE
 
-URL: https://mega.nz/folder/HxwTyQiQ#P139pOMVYKfW_5GuGJqXAA
+URL: https://mega.nz/folder/DtBHSbwA#KdRrNKOWY9Mus8hB6iSI0w
 
-File: `Nuka Ride 6.7 BodySlide for CBBE 1.1.7z`
+File: `Nuka Ride 6.8.2.7z`
 
-File: `Nuka Ride 6.7.6`
+File: `Nuka Ride 6.8 BodySlide for CBBE 1.0.7z`
 
 [Optional Subfolder]
 
+File: `Nuka Ride FaceGen for NextGen, by Dontax.zip`
+
 File: `Nuka Ride PC Female Idles.7z`
 
-File: `Nuka Ride Random Main Menu Themes 6.7.7z`
+File: `Nuka Ride Random Main Menu Themes 6.8.7z`
+
+You can install the voice files yourself if you want and install them manually, they can go anywhere and add a shit ton to the experience, 
+but I can't distribute them with automatic installation because they raise thorny copyright and consent questions related to the original actors and actresses.
 
 ## FILES HOSTED ON MEDIAFIRE
 
 URL: https://www.mediafire.com/file/flx0mao5fn7v541/Kziitd_F*t*sh_Toolset_-_Bodyslide_1.0_Beta_1.7z/file
 
-File: `Kziitd Fetisth Toolset - BodySlide 1.0 Beta 1.7z`
+File: `Kziitd Fetish Toolset - BodySlide 1.0 Beta 1.7z`
