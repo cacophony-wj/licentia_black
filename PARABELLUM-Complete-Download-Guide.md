@@ -162,7 +162,7 @@ File: `TortureDevices 2.21.7z`
 
 URL: https://mega.nz/folder/DtBHSbwA#KdRrNKOWY9Mus8hB6iSI0w
 
-File: `Nuka Ride 6.8.2.7z`
+File: `Nuka Ride 6.8.3.7z`
 
 File: `Nuka Ride 6.8 BodySlide for CBBE 1.0.7z`
 
