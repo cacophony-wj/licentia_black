@@ -136,7 +136,7 @@
       "Vanilla\u002B Mechanics",
       "NUKA RIDE",
       "Skimpy Outfits",
-	  "Survival Mode Support"
+      "Survival Mode Support"
     ],
     "nsfw": true,
     "utility_list": false,
@@ -146,21 +146,21 @@
     "links": {
       "image": "https://raw.githubusercontent.com/cacophony-wj/licentia_black/main/images/vault-meat.png",
       "readme": "https://github.com/cacophony-wj/licentia_black/blob/main/PARABELLUM.MD",
-      "download": "https://authored-files.wabbajack.org/Parabellum%20NUKA.wabbajack_3b846048-1f95-4858-8b9a-d3940e77d3af",
+      "download": "https://authored-files.wabbajack.org/Parabellum NUKA.wabbajack_8a586cf0-e48d-46ea-9315-ad8fee2f8db5",
       "machineURL": "parabellum_nuka",
       "discordURL": "https://discord.gg/jolly-coop"
     },
     "download_metadata": {
-      "Hash": "hcKL4hcBsdI=",
-      "Size": 236766905,
+      "Hash": "/e6UBSoRpH4=",
+      "Size": 236766234,
       "NumberOfArchives": 370,
-      "SizeOfArchives": 135070889345,
+      "SizeOfArchives": 135073946705,
       "NumberOfInstalledFiles": 149822,
-      "SizeOfInstalledFiles": 226428732567
+      "SizeOfInstalledFiles": 226441142110
     },
-    "version": "1.4",
+    "version": "1.5",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2024-08-06T06:51:05.6408084Z",
+    "dateUpdated": "2024-10-05T00:58:45.2231728Z",
     "repositoryName": ""
   }
 ]
