@@ -4,10 +4,6 @@
 
 It is vastly preferable to download all of these manually before you even attempt installation. There aren't many of them. Refer to the primary readme for specific steps on how to do so.
 
-### Advanced Animation Framework
-
-**External file no longer necessary as Nexus version is used.**
-
 ### AAF Sex 'Em Up
 
 URL: https://www.loverslab.com/files/file/7281-aaf-sex-em-up/
@@ -34,12 +30,6 @@ URL: https://www.loverslab.com/files/file/5205-aaf-bp70s-fallout-4-sex-anims-28-
 
 File: `bp70FO4sexanimations_2.8.zip`
 
-### The Bridge (AAF to NAF)
-
-URL: https://www.loverslab.com/files/file/32544-the-bridge-aaf-to-naf/
-
-File: `The Bridge (AAF to NAF) 0.40.7z`
-
 ### Commonwealth Moisturizer
 
 URL: https://www.loverslab.com/files/file/25514-commonwealth-moisturizer/
@@ -58,11 +48,23 @@ URL: https://www.loverslab.com/files/file/7885-hookers-of-the-commonwealth-lite-
 
 File: `HoTC Lite AAF patch V1.02.7z`
 
+### LL FourPlay Plugin
+
+URL: https://www.loverslab.com/files/file/4317-devtestbeta-ll-fourplay-community-f4se-plugin-v52-2024-09-02/
+
+File: `LLFP-v46-20230716.7z`
+
 ### OCBPC Physics for Fallout 4
 
 URL: https://www.loverslab.com/files/file/18605-ocbpc-for-fallout-4/
 
 File: `OCBPC-0.3-CBBE.zip`
+
+### Patch for AAF / NAF Animations
+
+URL: https://www.loverslab.com/files/file/10494-patch-for-animations-squirtcum-effects-cum-overlays-stages-fixes/
+
+File: `AnimationsAddonsAndFixes11.0.7z`
 
 ### SavageCabbage's Animation Pack
 
