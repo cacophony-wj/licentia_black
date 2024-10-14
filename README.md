@@ -18,6 +18,22 @@ _Licentia_ is one of _Wabbajack's_ oldest and most well-regarded adult modlists,
 
 If you want to examine a complete list of the mods in this modlist, [go here.](https://loadorderlibrary.com/lists/licentia-black-2)
 
+## Your Responsibilities as a Player, and Mine as a Modlist Author
+
+### The Most Important Things To Know For Not Having A Really Bad Time With Wabbajack
+
+Before you embark on your exciting _Wabbajack_ NSFW journey, let's get a few important points out of the way.
+
+Please keep in mind that all of _Jolly Co-Operators_ modlists are constant works in progress, an absolute amateur effort to harmonize the work of dozens if not hundreds of amateur mod authors who have little interest in verifying that their creations work in every possible steup. You should **NEVER** expect a 100% polished, well-balanced and "perfect" experience. I am just one man who barely knows what he is doing (although a little more than the average potato), so cut me some slack.
+
+As a Modlist User, I expect some small efforts into fixing your own issues, mostly by searching the documentation provided here and by the Discord channels. It's very likely any issue you encounter has already been solved - if this is the case and it's well known, don't be surprised if you get ignored. As a Modlist Author with little else to do with his free time, I expect to take my users seriously when they experience issues that are common enough to prompt more than one or two reports -- not blame them on the user or deny that they are issues -- and fix them when I can. **HOWEVER** if your issue is a rock slightly out of place, a particle of dust that looks weird or a patch of asscheek showing through some shorts, please go bother someone else. We're all modding a nearly 10 year old game here which already had a legendary reputation for bugginess, please temper your expectations.
+
+Support shouldn't assumed to be instant, I am in full-time school and and actively seeking for better methods to supplement my income. I will get to you when I have time. Support should also not be expected or demanded -- sometimes you could figure it out yourself with just a little reading, others I just straight up don't have an answer for you. Please recall that much of your behavior demanding instant free helpful support would be laughed at if you tried it with a real corporation.
+
+Finally, the **MOST IMPORTANT THING YOU CAN DO -- ABSOLUTELY** with **ANY** NSFW Wabbajack modlist is to **TAKE CARE OF YOUR SAVE.** Avoid saving frequently, during combat, or continuous reloads when you die -- you should approach the game as the ramshackle conglomeration of barely functioning hobby projects that it is. If you **DO NOT TAKE CARE OF YOUR SAVE** and try to force it, **EVERYTHING WILL BREAK** and you will experience all kinds of bugs that can't be solved. _It is generally recommended to save the game no more frequently than every five minutes, during periods of "low activity",_ -- no NSFW scenes, no combat, no huge events going on. If you can **FOLLOW THIS ONE PRIMARY DIRECTIVE** you will probably have a good experience. If you can't, you won't.
+
+Now that I've described how to have a good time with my modlists, I sincerely hope you find one! Moving on.
+
 ### System Specifications
 
 The recommended setup for an enjoyable experience **at 1080p** is at least
