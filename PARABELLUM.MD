@@ -41,19 +41,19 @@ The _Microsoft Visual C++_ redistributable package is required. Download the x64
 
 ###  Steam Config
 
-**Set the Game language to English**
+Set the Game language to English
 
-**Do Not Use Any Part of This List in a Protected Folder**
+Do Not Use Any Part of This List in a Protected Folder
 
-**Do Not Use Any Protected Folders inside of OneDrive**
+Do Not Use Any Protected Folders inside of OneDrive
 
-**Make Exceptions for Anti-Malware Programs**
+Make Exceptions for Anti-Malware Programs
 
-**Set Pagefile to 40GB Or Above**
+Set Pagefile to 40GB Or Above
 
-**Ensure Enough Free Storage Space**
+Ensure Enough Free Storage Space
 
-**Launch Fallout 4 Once Before You Continue**
+Launch Fallout 4 Once Before You Continue
  
 ##  Using Wabbajack
 
