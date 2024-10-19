@@ -16,12 +16,22 @@ Both lists are currently on hiatus due to the author's health difficulties.
 
 For a really old list of the mods included [go here.](https://loadorderlibrary.com/lists/parabellum-1)
 
+For _Parabellum NUKA_, [visit this link instead.](https://loadorderlibrary.com/lists/parabellum-nuka)
+
 ## Requirements
 
 - [Nexus Premium Account](https://forums.nexusmods.com/index.php?/store/category/1-premium-membership/)
 - [LoversLab Account](https://www.loverslab.com/)
 
 These accounts are mandatory.
+
+# BEFORE YOU BEGIN! VERY IMPORTANT!
+
+Download all the _Lover's Lab_ files manually **BEFORE** you begin installing anything with _Wabbajack_.
+
+Put all the downloads in the `downloads` folder for your Modlist.
+
+https://github.com/cacophony-wj/licentia_black/blob/main/PARABELLUM-Complete-Download-Guide.md
 
 ## Installation
 
