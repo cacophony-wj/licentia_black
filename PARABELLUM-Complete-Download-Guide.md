@@ -54,6 +54,12 @@ URL: https://www.loverslab.com/files/file/4317-devtestbeta-ll-fourplay-community
 
 File: `LLFP-v46-20230716.7z`
 
+### NAF Bridge
+
+URL: https://www.loverslab.com/files/file/32544-naf-bridge/?do=download
+
+File: `NAF Bridge 0-800.7z`
+
 ### OCBPC Physics for Fallout 4
 
 URL: https://www.loverslab.com/files/file/18605-ocbpc-for-fallout-4/
@@ -107,12 +113,6 @@ File: `AAFMorningSexWithLover_v1.2.1.zip`
 URL: https://www.loverslab.com/files/file/11703-aaf-spectators/
 
 File: `AAF Spectators v1.4.7z`
-
-### Autonomy Enhanced Redux
-
-URL: https://www.loverslab.com/files/file/17954-aaf-autonomy-enhanced-redux/
-
-File: `AAF_AutonomyEnhanced_v3..305beta.7z`
 
 ### Captive Tattoos
 
