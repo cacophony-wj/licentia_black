@@ -112,6 +112,10 @@ Once again, please wait for all of the messages in the upper left corner of the 
 
 That's it! Your modlist is configured.
 
+## FINAL NOTES
+
+**WHEN YOU ENTER YOUR FIRST EXTERIOR OVERWORLD LOCATION:** popups will appear to enable _Survival Mode,_ which requires you to eat, sleep, and stay warm -- and disables Fast Travel -- and to select which Deity you wish to serve. Choose according to your preference.
+
 ## TROUBLESHOOTING
 
 Refer to [Troubleshooting](TROUBLESHOOTING.md) for answers to common problems with the modlist.
