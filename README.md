@@ -58,53 +58,51 @@ Here's what you'll need:
 
 ### Skyrim and AE upgrade
 | Requirement | Mandatory? | Comment |
-| ----------- | ---------- | ------- |
+| :--- | :---: | :--- |
 | **Clean** Skyrim in **ENGLISH** language installed in non-protected folder | :white_check_mark: | <ul><li>Before you do anything with _Wabbajack,_ ensure that _Skyrim_ is installed in a non-protected folder (such as the root of your drive, like `C:\`). It **cannot** be located in _Program Files_ or the list will not function. Relocate the game as necessary. [Here's the Steam guide](https://help.steampowered.com/en/faqs/view/4BD4-4528-6B2E-8327) on moving games to another folder/drive.</li><li>[Here's a Bethesda's guide](https://help.bethesda.net/#en/answer/31431) on how to set the game to English.</li></ul> |
 | [Skyrim AE paid `20$` upgrade](https://store.steampowered.com/app/1746860/The_Elder_Scrolls_V_Skyrim_Anniversary_Upgrade/) | :white_check_mark: | This is required for modlist to work, no exceptions. Regular `Special Edition` or free `CC` content won't do |
 
 ### Accounts
 | Requirement | Mandatory? | Comment |
-| --- | --- | --- |
+| :--- | :---: | :--- |
 | [Nexus Account](https://users.nexusmods.com/register) | :white_check_mark: | Basic Nexus account is **mandatory**; it **must** be created before continuing. |
 | [Nexus Premium](https://next.nexusmods.com/premium) | :x: | Nexus Premium is **strongly** recommended or the installation will take many more hours _(possibly days)_. |
 
 ### General PC adjustments and requirements
 | Requirement | Mandatory? | Comment |
-| ----------- | ---------- | ------- |
+| :--- | :---: | :--- |
 | [Visual Studio 2015, 2017, 2019 and 2022](https://aka.ms/vs/17/release/vc_redist.x64.exe) | :white_check_mark: | **Required** for Mod Organizer 2 and a few mods. |
 | `600 GB` of free space on SSD | :white_check_mark: | After the installation our list + downloads would take up around `450 GB` (downloads folder can be deleted or relocated after installation, it would free you around `150 GB`), but the whole installation process would require up to `600 GB` to store its temp files and caches. |
 | Disabled/removed **OneDrive** | :white_check_mark: | Ensure that _OneDrive_ is **uninstalled** or **completely disabled.** This program locks some of _Skyrim_'s configuration files when in use and will cause the modlist to experience errors. |
 | **Pagefile** set to `40 GB` | :white_check_mark: | You must set your Advanced Memory Pagefile to at least 40GB or the modlist will constantly crash. On _Windows 11_ you can find this setting in the About page for your PC. [Here](https://www.windowscentral.com/software-apps/windows-11/how-to-manage-virtual-memory-on-windows-11) is a document to find the specific option; other versions of Windows are similar. Setting the minimum and maximum pagefile size to `40,960` on one Solid State Drive is recommended. |
 
 ## :two: Installation
-Assuming you've completed the Pre-installation part, let's get on with the actual installation!
+Assuming you've **completed** the [Pre-installation](#one-pre-installation) part, let's get on with the actual install!
 ### 1. Starting clean Skyrim once and downloading CC content
 1. **Make sure your Skyrim installation is clean**. If you're not sure that it is clean - that's how to make it one (or just watch [this video](https://www.youtube.com/watch?v=zQ5uNCKOKmI)).
-   <details>
-    <summary>Clean Skyrim install</summary>
-    
-    1. **DELETE SKYRIM**:
-       - Find your game folder and delete everything;
-       - Go to Steam and delete the game there.
-    2. Press `Win + R`, paste `%localappdata%` there, and in newly opened Explorer window delete the folder named `Skyrim Special Edition`
-    3. Go to `'Documents\My Games\'` and delete Skyrim Special Edition there.
-    4. Install the game via Steam as usual.
+    > [!TIP]
+    > Clean Skyrim install
+    > 1. **DELETE SKYRIM**:
+    >    - Find your game folder and delete everything;
+    >    - Go to Steam and delete the game there.
+    > 2. Press `Win + R`, paste `%localappdata%` there, and in newly opened Explorer window delete the folder named `Skyrim Special Edition`
+    > 3. Go to `'Documents\My Games\'` and delete Skyrim Special Edition there.
+    > 4. Install the game via Steam as usual.
 
-    <details>
 2. **Start the game once**. You'd need to do it through the Skyrim Launcher (settings there don't matter, we just need to get the game registred properly). When the Launcher starts, you'll see a popup like this:
 ![Launcher popup](images/readme_images/2_1_2_launcher_popup.png)
 Click `OK` and then `PLAY` in Skyrim Launcher.
 3. **Download AE content.** When you get to the main menu - the game would suggest you to download the AE content - click `DOWNLOAD`:
 ![AE popup](images/readme_images/2_1_3_ae_content_ingame_popup.png)
-    > [!IMPORTANT]  
-    > DON'T MINIMIZE THE GAME! Wait till everything is downloaded and popups stop appearing.
+> [!IMPORTANT]  
+> DON'T MINIMIZE THE GAME! Wait till everything is downloaded and popups stop appearing.
 
-    > [!TIP]
-    > If you're not sure that everything downloaded properly _(i.e. you accedentally closed the game while AE content was downloading)_ - do this:
-    >- Close the game and launch Skyrim from Steam again
-    >- Click `Creations`
-    >- Click `[O] Options` (at the bottom)
-    >- Click `Download all owned Creation Club Creations`
+> [!TIP]
+> If you're not sure that everything downloaded properly _(i.e. you accedentally closed the game while AE content was downloading)_ - do this:
+>- Close the game and launch Skyrim from Steam again
+>- Click `Creations`
+>- Click `[O] Options` (at the bottom)
+>- Click `Download all owned Creation Club Creations`
 ### 2. Creating directories and setting AV exceptions
 
 1. **Create a directory for Wabbajack.** Create a directory on the root of one of your Solid State drives (such as `D:\Wabbajack`) where you'd like to install _Wabbajack_ later on.
@@ -145,25 +143,24 @@ This will download _Licentia's_ **Wabbajack file**, which is basically an instal
 4. You'll see this screen. Select the directory we created for Licentia **(1)**, downloads folder would be populated automatically **(2)** _(you can change where downloads would be stored if you want, i.e. on another, slower drive)_, and hit `Play` button **(3)**:
 ![WJ start install](images/readme_images/2_4_4_wabbajack_start_installation.png)
 **This would begin the actual download and installation of the list.**
-    > [!NOTE]  
-    > Depending on your system specs, the download and installation process can take a **long time**.
+> [!NOTE]  
+> Depending on your system specs, the download and installation process can take a **long time**.
 
-    > [!TIP]
-    > There are many different scenarios where _Wabbajack_ will produce an **error**.
-    > 
-    > **General advice** - re-run _Wabbajack_ before seeking assistance. _Wabbajack_ will only download and reinstall the minimum necessary to get the modlist working.
-    >
-    > You can find most common issues below.
+> [!TIP]
+> There are many different scenarios where _Wabbajack_ will produce an **error**.
+> 
+> **General advice** - re-run _Wabbajack_ before seeking assistance. _Wabbajack_ will only download and reinstall the minimum necessary to get the modlist working.
+>
+> You can find most common issues below.
+>---
+>| Issue | Solution |
+>| :--- | :--- |
+>| **Various files beginning with `cc` and ending with `esl` or `esm` failed to download** | You did not purchase the [$20 upgrade to Skyrim](https://store.steampowered.com/app/1746860/The_Elder_Scrolls_V_Skyrim_Anniversary_Upgrade/), and this is not negotiable. Purchase it, verify it, delete it and re-download it if necessary, and try again. | 
+>| **Could not download X** | Some Internet providers have difficulty accessing the servers hosting the list's files. Use a VPN (Virtual Private Network) with a terminus set to the United States. Free options include _ProtonVPN_ and _Cloudflare WARP._ If a download gets interrupted, delete all corrupt local copies before trying again. |
+>| **Wabbajack could not find my game folder** | _Licentia NEXT_ will not work with a GOG or pirated game version. If you own the game on _Steam,_ return to the Installation step. If this still doesn't work, ensure you are not running Wabbajack as an Administrator. **Asking for help with pirated copies of the game will get you banned from Discord Support.** |
 
-    <details>
-    <summary>Most common Wabbajack Issues</summary>
+---
 
-    | Issue | Solution |
-    | --- | --- |
-    | **Various files beginning with `cc` and ending with `esl` or `esm` failed to download** | You did not purchase the [$20 upgrade to Skyrim](https://store.steampowered.com/app/1746860/The_Elder_Scrolls_V_Skyrim_Anniversary_Upgrade/), and this is not negotiable. Purchase it, verify it, delete it and re-download it if necessary, and try again. | 
-    | **Could not download X** | Some Internet providers have difficulty accessing the servers hosting the list's files. Use a VPN (Virtual Private Network) with a terminus set to the United States. Free options include _ProtonVPN_ and _Cloudflare WARP._ If a download gets interrupted, delete all corrupt local copies before trying again. |
-    | **Wabbajack could not find my game folder** | _Licentia NEXT_ will not work with a GOG or pirated game version. If you own the game on _Steam,_ return to the Installation step. If this still doesn't work, ensure you are not running Wabbajack as an Administrator. **Asking for help with pirated copies of the game will get you banned from Discord Support.** |
-    </details>
 5. If you see this in the bottom right part of Wabbajack - that mean that your **installation is complete!**
 ![WJ start install](images/readme_images/2_4_5_wabbajack_installation_complete.png)
 You can close Wabbajack now.
@@ -188,10 +185,10 @@ _Licentia NEXT_ is over **HALF A TERABYTE** in size with almost **HALF A MILLION
 
 4. Wait for the process to complete. It can take quite some time.
 
-    > [!IMPORTANT]  
-    > You **MUST** receive a popup webpage that is **BLANK** with **ZERO ERRORS** or you will have horribly weird bugs and crashes that are impossible to troubleshoot.
+> [!IMPORTANT]
+> You **MUST** receive a popup webpage that is **BLANK** with **ZERO ERRORS** or you will have horribly weird bugs and crashes that are impossible to troubleshoot.
 
-6. If you received **ANY** errors you **MUST** reinstall the list with the `Overwrite` checkbox selected. Do not worry, it will not redo everything. _Wabbajack_ can scan itself to see what's wrong and repair only what needs to be repaired.
+5. If you received **ANY** errors you **MUST** reinstall the list with the `Overwrite` checkbox selected. Do not worry, it will not redo everything. _Wabbajack_ can scan itself to see what's wrong and repair only what needs to be repaired.
 
 ### 2. Starting Mod Organizer and launching Licentia NEXT
 
@@ -208,25 +205,26 @@ _Licentia NEXT_ is over **HALF A TERABYTE** in size with almost **HALF A MILLION
     ![MO2 ini editor](images/readme_images/3_2_3_mo2_change_resolution_skyrimprefs.png)
     > Hit `Save` at the bottom, and you're done!
 4. Wait untill the game loads, **it might take a while!** 
-    > [!NOTE]  
-    > There's a game of `Flappy Dragon` that opens up while your Skyrim is loading:
-    ![MO2 run](images/readme_images/3_2_4_flappy_dragon.png) 
-    > Don't worry, _you didn't just download 500 GB of Flappy Dragon_!
-    > It's there just to brighten up the waiting time :dragon_face:
+> [!NOTE]  
+> There's a game of `Flappy Dragon` that opens up while your Skyrim is loading:
+![MO2 run](images/readme_images/3_2_4_flappy_dragon.png) 
+> Don't worry, _you didn't just download 500 GB of Flappy Dragon_!
+> It's there just to brighten up the waiting time :dragon_face:
 
-    **When you're in the main Skyrim menu** -- proceed to the next step.
+**When you're in the main Skyrim menu** -- proceed to the next step.
+
 ### 3. Starting a save and configuring MCMs for the Modlist in-game
 
 1. **Start the game** -- in main menu as normal by pressing `New Game`
 2. **Create & Name Your Character** -- choose your character’s appearance and name.
 3. **Wait for Mod Initialization**
-    > [!CAUTION]
-    > WHEN YOU SPAWN IN, **DO NOT TOUCH ANYTHING!**
-    > As much as possible, try to remain still in game and not open menus while the MCM setup is in progress.
+> [!CAUTION]
+> WHEN YOU SPAWN IN, **DO NOT TOUCH ANYTHING!**
+> As much as possible, try to remain still in game and not open menus while the MCM setup is in progress.
 
-    After gaining control of your character, wait. Mods will initialize -- **wait for all of the messages in the upper left corner of the screen to appear and disappear**. A warning will be issued that this readme is mandatory for proper installation. Click through and continue to wait untill you get this pop-up saying `Museum List Building Complete`:
-    ![Museum build list complete](images/readme_images/3_3_3_museum_list_popup.png)
-    Click `OK` and proceed to next step.
+   After gaining control of your character, wait. Mods will initialize -- **wait for all of the messages in the upper left corner of the screen to appear and disappear**. A warning will be issued that this readme is mandatory for proper installation. Click through and continue to wait untill you get this pop-up saying `Museum List Building Complete`:
+   ![Museum build list complete](images/readme_images/3_3_3_museum_list_popup.png)
+   Click `OK` and proceed to next step.
 
 4. **Play MCM Recording.** When all of the messages have disappeared:
    - Open the Main Menu with the `ESC` key and find the entry labeled `"MCM Recorder"` (They are in alphabetical order.) 
