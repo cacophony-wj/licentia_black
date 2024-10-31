@@ -1,15 +1,16 @@
 - [Content](#content)
+- [Gameplay](#gameplay)
   - [I don't have one of those ancient NUMPADs! How am I gonna use OStim?](#i-dont-have-one-of-those-ancient-numpads-how-am-i-gonna-use-ostim)
   - [Leveling up is weird!](#leveling-up-is-weird)
-  - [How do I turn off headbob and / or constant subtle camera motion?](#how-do-I-turn-off-headbob-and-or-constant-subtle-camera-motion)
+  - [How do I turn off headbob and / or constant subtle camera motion?](#how-do-i-turn-off-headbob-and--or-constant-subtle-camera-motion)
   - [I can't level up my skills!](#i-cant-level-up-my-skills)
   - [How do I start the Main Story Quest? I went to Helgen but it is intact!](#how-do-i-start-the-main-story-quest-i-went-to-helgen-but-it-is-intact)
-  - [Certain quests -- especially the Creation Club quests -- will not start or complete!](#certain-quests-especially-the-creation-club-quests-will-not-start-or-complete)
+  - [Certain quests (especially the Creation Club quests) will not start or complete!](#certain-quests-especially-the-creation-club-quests-will-not-start-or-complete)
   - [I'm not receiving the extra Thane weapons from Balgruuf (or others, when I complete their quests).](#im-not-receiving-the-extra-thane-weapons-from-balgruuf-or-others-when-i-complete-their-quests)
   - [WARNING! DON'T LISTEN TO ORLANDO!](#warning-dont-listen-to-orlando)
   - [I love the paraglider mod, but I keep dying when I land!](#i-love-the-paraglider-mod-but-i-keep-dying-when-i-land)
   - [The tuning gloves in Winterhold seem to be acting up.](#the-tuning-gloves-in-winterhold-seem-to-be-acting-up)
-  - [The Civil War questline is horribly messed up. I can't complete the Battle(s) of Whiterun / Solitude / Windhelm. People are inverting backwards off the ground. Enemies don't stop spawning. There's no Ulfric/Tullius!](#the-civil-war-questline-is-horribly-fucked-up-i-cant-complete-the-battles-of-whiterun--solitude--windhelm-people-are-inverting-backwards-off-the-ground-enemies-dont-stop-spawning-theres-no-ulfrictullius)
+  - [The Civil War questline is horribly messed up. I can't complete the Battle(s) of Whiterun / Solitude / Windhelm. People are inverting backwards off the ground. Enemies don't stop spawning. There's no Ulfric/Tullius!](#the-civil-war-questline-is-horribly-messed-up-i-cant-complete-the-battles-of-whiterun--solitude--windhelm-people-are-inverting-backwards-off-the-ground-enemies-dont-stop-spawning-theres-no-ulfrictullius)
   - [I can't complete the bandit raid quest for Whiterun (or another city)](#i-cant-complete-the-bandit-raid-quest-for-whiterun-or-another-city)
   - [I'm trying to kill the Necromancers for Undeath and the quest won't complete.](#im-trying-to-kill-the-necromancers-for-undeath-and-the-quest-wont-complete)
 - [Technical](#technical)
@@ -165,6 +166,5 @@ Skyrim uses a very tiny variable to keep track of these. The maximum number of q
 
 ## For More Information
 
-So you've had a taste of the caco experience and want more, you say? To get specific help with this modlist or modding in general (NSFW or SFW) feel free to join my discord server located at the link below. Depending on the phases of the moon you may find alphas of lists in progress, betas of lists being tested, tips for lewding lists and games yourself, or other strange projects. I'm also one of the few WJ modders who welcome additions to his list (or any list) and offer my services as support. 
-
-https://discord.gg/jolly-coop
+Visit our Discord server here:
+[Vermi's Hub](https://discord.gg/hRCYPMpX7J)

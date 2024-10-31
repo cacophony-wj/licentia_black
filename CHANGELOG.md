@@ -1,3 +1,25 @@
+# LICENTIA NEXT CHANGELOG
+
+## LICENTIA NEXT 13.4.0
+
+`TBD`
+
+## LICENTIA NEXT 13.3.2
+
+`TBD`
+
+---
+> [!IMPORTANT]  
+> This point in the log marks a shift from **Licentia BLACK** to **Licentia NEXT**. 
+> 
+> You can read the story of *why* it happened [here](https://cacophony.me/stepping-back-from-wabbajack/).
+>
+> **NEXT** will keep **BLACK**'s versioning system. Old logs would be stored inside the collapsible section below for historical purposes.
+---
+
+<details>
+  <summary>Old logs</summary>
+
 # LICENTIA BLACK CHANGELOG
 
 ## LICENTIA BLACK 13.3.1 (compiled by @akzar)
@@ -3901,3 +3923,5 @@ The following updates are for the **KAIDAN** profile **ONLY**
 _"And the modlist was without form, and void..."_
 
 You can read the list of mods from these versions in the Load Order Library link available in the list updates channel on my Discord Server.
+
+</details>
