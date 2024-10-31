@@ -9,7 +9,7 @@
 
 ## :book: Preamble
 
-_Licentia NEXT_ is a descendant to one of _Wabbajack's_ oldest and most well-regarded adult modlists -- Licentia BLACK.
+_Licentia NEXT_ is a descendant to one of _Wabbajack's_ oldest and most well-regarded adult modlists &mdash; Licentia BLACK.
 It features optional non-fetish content with a series of _OStim-based_ mods and quests and an emphasis on build variety, backed up by an accessible Power Fantasy design philosophy.
 
 > [!TIP]
@@ -26,14 +26,14 @@ Before you embark on your exciting _Wabbajack_ NSFW journey, let's get a few imp
 
 2. As a Modlist User, we expect some small efforts into fixing your own issues, mostly by searching the documentation provided here and by the Discord channels. It's very likely any issue you encounter has already been solved - please, do your research! 
 
-   **HOWEVER** if your issue is a rock slightly out of place, a particle of dust that looks weird or a patch of an _asscheek_ showing through some clothing -- please don't expect it to be fixed ASAP (or maybe ever). We're all modding a nearly 10 year old game here which already had a legendary reputation for _bugginess_, please temper your expectations. 
+   **HOWEVER** if your issue is a rock slightly out of place, a particle of dust that looks weird or a patch of an _asscheek_ showing through some clothing &mdash; please don't expect it to be fixed ASAP (or maybe ever). We're all modding a nearly 10 year old game here which already had a legendary reputation for _bugginess_, please temper your expectations. 
    > It just works :shipit:
 
-3. Support shouldn't assumed to be instant or obligatory, I work 2 jobs IRL and most of our Team Members have real lives as well (shocker, I know). It's a volunteer effort, so please, understand that support should not be expected or demanded -- sometimes you could figure it out yourself with just a little reading,  and sometimes we might not have an answer for you. That being said, you're more than welcome to ask for it in a civil way, we'd try our best to help you :open_hands:
+3. Support shouldn't assumed to be instant or obligatory, I work 2 jobs IRL and most of our Team Members have real lives as well (shocker, I know). It's a volunteer effort, so please, understand that support should not be expected or demanded &mdash; sometimes you could figure it out yourself with just a little reading,  and sometimes we might not have an answer for you. That being said, you're more than welcome to ask for it in a civil way, we'd try our best to help you :open_hands:
 
-4. Finally, the **MOST IMPORTANT THING YOU CAN DO -- ABSOLUTELY** with **ANY** NSFW Wabbajack modlist is to **TAKE CARE OF YOUR SAVE.**
+4. Finally, the **MOST IMPORTANT THING YOU CAN DO &mdash; ABSOLUTELY** with **ANY** NSFW Wabbajack modlist is to **TAKE CARE OF YOUR SAVE.**
 
-   Avoid saving frequently, during combat, or continuously reload when you die -- Skyrim should be approached as the ramshackle conglomeration of barely functioning hobby projects that it is. If you **DO NOT TAKE CARE OF YOUR SAVE** and try to force it, **EVERYTHING WILL BREAK** and you will experience all kinds of bugs that can't be solved. _It is generally recommended to save the game no more frequently than every five minutes, during periods of "low activity"_ -- no NSFW scenes, no combat, no huge events going on. If you can **FOLLOW THIS ONE PRIMARY DIRECTIVE** -- you will probably have a good experience. If you can't, you won't.
+   Avoid saving frequently, during combat, or continuously reload when you die &mdash; Skyrim should be approached as the ramshackle conglomeration of barely functioning hobby projects that it is. If you **DO NOT TAKE CARE OF YOUR SAVE** and try to force it, **EVERYTHING WILL BREAK** and you will experience all kinds of bugs that can't be solved. _It is generally recommended to save the game no more frequently than every five minutes, during periods of "low activity"_ &mdash; no NSFW scenes, no combat, no huge events going on. If you can **FOLLOW THIS ONE PRIMARY DIRECTIVE** &mdash; you will probably have a good experience. If you can't, you won't.
 
 </details>
 
@@ -80,20 +80,24 @@ Here's what you'll need:
 Assuming you've **completed** the [Pre-installation](#one-pre-installation) part, let's get on with the actual install!
 ### 1. Starting clean Skyrim once and downloading CC content
 1. **Make sure your Skyrim installation is clean**. If you're not sure that it is clean - that's how to make it one (or just watch [this video](https://www.youtube.com/watch?v=zQ5uNCKOKmI)).
-    > [!TIP]
-    > Clean Skyrim install
-    > 1. **DELETE SKYRIM**:
-    >    - Find your game folder and delete everything;
-    >    - Go to Steam and delete the game there.
-    > 2. Press `Win + R`, paste `%localappdata%` there, and in newly opened Explorer window delete the folder named `Skyrim Special Edition`
-    > 3. Go to `'Documents\My Games\'` and delete Skyrim Special Edition there.
-    > 4. Install the game via Steam as usual.
+> [!TIP]
+> Clean Skyrim install
+> 1. **DELETE SKYRIM**:
+>    - Find your game folder and delete everything;
+>    - Go to Steam and delete the game there.
+> 2. Press `Win + R`, paste `%localappdata%` there, and in newly opened Explorer window delete the folder named `Skyrim Special Edition`
+> 3. Go to `'Documents\My Games\'` and delete Skyrim Special Edition there.
+> 4. Install the game via Steam as usual.
 
 2. **Start the game once**. You'd need to do it through the Skyrim Launcher (settings there don't matter, we just need to get the game registred properly). When the Launcher starts, you'll see a popup like this:
-![Launcher popup](images/readme_images/2_1_2_launcher_popup.png)
-Click `OK` and then `PLAY` in Skyrim Launcher.
+
+   <img src="images/readme_images/2_1_2_launcher_popup.png" alt="Launcher popup" style="width:50%; height:auto;">
+
+   Click `OK` and then `PLAY` in Skyrim Launcher.
+
 3. **Download AE content.** When you get to the main menu - the game would suggest you to download the AE content - click `DOWNLOAD`:
-![AE popup](images/readme_images/2_1_3_ae_content_ingame_popup.png)
+
+   <img src="images/readme_images/2_1_3_ae_content_ingame_popup.png" alt="AE popup" style="width:50%; height:auto;">
 > [!IMPORTANT]  
 > DON'T MINIMIZE THE GAME! Wait till everything is downloaded and popups stop appearing.
 
@@ -123,26 +127,37 @@ Click `OK` and then `PLAY` in Skyrim Launcher.
 1. **Get the Wabbajack app.** Download latest `Wabbajack.exe` [here](https://github.com/wabbajack-tools/wabbajack/releases/latest/download/Wabbajack.exe) and save it to Wabbajack folder we created earlier (i.e. `D:\Wabbajack`).
 2. **Start the _Wabbajack_ app.** Start the `Wabbajack.exe` we downloaded earlier, Wabbajack would download its assets and _eventually_ open, just wait for a minute. 
 3.  **Login to _Nexus_ within the _Wabbajack_ app.** On the main screen click the **GEAR** icon in the top right:
-![WJ gear](images/readme_images/2_3_3_wabbajack_main_ui_gear.png)
+
+    <img src="images/readme_images/2_3_3_wabbajack_main_ui_gear.png" alt="WJ gear" style="width:70%; height:auto;">
 
     Here, click `Login` near Nexus logo:
-    ![WJ before login](images/readme_images/2_3_3_wabbajack_nexus_BEFORE_login.png)
+
+    <img src="images/readme_images/2_3_3_wabbajack_nexus_BEFORE_login.png" alt="WJ before login" style="width:50%; height:auto;">
 
     You'd be directed to Nexus website, login there as usual and click `Allow` when prompted. Login window will close by itself.
     In Wabbajack UI toggle will go over to `Login` when successful.
-    ![WJ after login](images/readme_images/2_3_3_wabbajack_nexus_AFTER_login.png)
+
+    <img src="images/readme_images/2_3_3_wabbajack_nexus_AFTER_login.png" alt="WJ after login" style="width:50%; height:auto;">
 
 ### 4. Downloading and installing the list from Wabbajack
 1. Go back from `Settings` to main Wabbajack UI and press `Browse Modlists`:
-![WJ browse](images/readme_images/2_4_1_wabbajack_main_ui_browse.png)
+
+    <img src="images/readme_images/2_4_1_wabbajack_main_ui_browse.png" alt="WJ browse" style="width:70%; height:auto;">
+
 2. Select filters in the top row - `Skyrim Special Edition` as a game **(1)**, tick `Show NSFW` **(2)** and `Show Unofficial Lists` **(3)**. When you see `Licentia NEXT` - click the download icon **(4)**:
-![WJ filters and download list](images/readme_images/2_4_2_wabbajack_filters_and_download.png)
-This will download _Licentia's_ **Wabbajack file**, which is basically an installation package.
+   
+    <img src="images/readme_images/2_4_2_wabbajack_filters_and_download.png" alt="WJ filters and download list" style="width:70%; height:auto;">
+    
+    This will download _Licentia's_ **Wabbajack file**, which is basically an installation package.
 3. When the download of the file is complete, the icon will change - hit `Play`:
-![WJ play button](images/readme_images/2_4_3_wabbajack_click_play.png)
+
+    <img src="images/readme_images/2_4_3_wabbajack_click_play.png" alt="WJ play button" style="width:50%; height:auto;">
+    
 4. You'll see this screen. Select the directory we created for Licentia **(1)**, downloads folder would be populated automatically **(2)** _(you can change where downloads would be stored if you want, i.e. on another, slower drive)_, and hit `Play` button **(3)**:
-![WJ start install](images/readme_images/2_4_4_wabbajack_start_installation.png)
-**This would begin the actual download and installation of the list.**
+
+    <img src="images/readme_images/2_4_4_wabbajack_start_installation.png" alt="WJ start install" style="width:70%; height:auto;">
+
+    **This would begin the actual download and installation of the list.**
 > [!NOTE]  
 > Depending on your system specs, the download and installation process can take a **long time**.
 
@@ -161,9 +176,11 @@ This will download _Licentia's_ **Wabbajack file**, which is basically an instal
 
 ---
 
-5. If you see this in the bottom right part of Wabbajack - that mean that your **installation is complete!**
-![WJ start install](images/readme_images/2_4_5_wabbajack_installation_complete.png)
-You can close Wabbajack now.
+5. If you see this in the bottom right part of Wabbajack - that means your **installation is complete!**
+
+    <img src="images/readme_images/2_4_5_wabbajack_installation_complete.png" alt="WJ done install" style="width:50%; height:auto;">
+
+    You can close Wabbajack now.
 
 ## :three: Post-Installation
 
@@ -181,7 +198,8 @@ _Licentia NEXT_ is over **HALF A TERABYTE** in size with almost **HALF A MILLION
 2. Click `Browse Modlists` again, find Licentia NEXT and hit `Play` icon again (as we did above).
 
 3. Ensure that all the same settings are used as during the installation process. You need the **SAME** `.Wabbajack` file and the **SAME** Modlist and Downloads folders. Click the **VERIFY** button in the Lower Right Corner of _Wabbajack_:
-![WJ verify](images/readme_images/3_1_3_wabbajack_verify.png)
+
+    <img src="images/readme_images/3_1_3_wabbajack_verify.png" alt="WJ verify" style="width:50%; height:auto;">
 
 4. Wait for the process to complete. It can take quite some time.
 
@@ -193,44 +211,56 @@ _Licentia NEXT_ is over **HALF A TERABYTE** in size with almost **HALF A MILLION
 ### 2. Starting Mod Organizer and launching Licentia NEXT
 
 1. Navigate to your Licentia NEXT directory and **execute ModOrganizer.exe**:
-![MO2 start](images/readme_images/3_2_1_mo2_start.png)
+
+    <img src="images/readme_images/3_2_1_mo2_start.png" alt="MO2 start" style="width:50%; height:auto;">
+
 2. If prompted, choose `Yes` to associate Mod Organizer with `.nxm` links. If there’s no prompt, **skip this step**.
 3. In the top-right corner, make sure that `SKSE` is selected from the dropdown **(1)**, and click the Run button **(2)**:
-![MO2 run](images/readme_images/3_2_3_mo2_run_the_game.png)
 
-    > [!TIP]  
-    > Wabbajack auto-detects and sets your **game resolution**, but if you wish to change your game's resolution **manually**, select the `INI Editor` from the `Tools` menu along the icon bar of MO2:
-    ![MO2 ini editor](images/readme_images/3_2_3_mo2_change_resolution.png)
-    > Select `SkyrimPrefs.ini` file. Scroll down until you see the `[Display]` header and look for the `iSize` values. Note that the TYPICAL ORDER IS REVERSED, the HEIGHT is listed BEFORE the WIDTH:
-    ![MO2 ini editor](images/readme_images/3_2_3_mo2_change_resolution_skyrimprefs.png)
-    > Hit `Save` at the bottom, and you're done!
+    <img src="images/readme_images/3_2_3_mo2_run_the_game.png" alt="MO2 run" style="width:50%; height:auto;">
+
+> [!TIP]  
+> Wabbajack auto-detects and sets your **game resolution**, but if you wish to change your game's resolution **manually**, select the `INI Editor` from the `Tools` menu along the icon bar of MO2:
+> 
+>    <img src="images/readme_images/3_2_3_mo2_change_resolution.png" alt="MO2 ini editor" style="width:50%; height:auto;">
+> 
+> Select `SkyrimPrefs.ini` file. Scroll down until you see the `[Display]` header and look for the `iSize` values. Note that the TYPICAL ORDER IS REVERSED, the HEIGHT is listed BEFORE the WIDTH:
+> 
+>    <img src="images/readme_images/3_2_3_mo2_change_resolution_skyrimprefs.png" alt="MO2 skyrimperfs" style="width:50%; height:auto;">
+> 
+> Hit `Save` at the bottom, and you're done!
+
 4. Wait untill the game loads, **it might take a while!** 
 > [!NOTE]  
 > There's a game of `Flappy Dragon` that opens up while your Skyrim is loading:
-![MO2 run](images/readme_images/3_2_4_flappy_dragon.png) 
+> 
+>    <img src="images/readme_images/3_2_4_flappy_dragon.png" alt="Flappy Dragon" style="width:50%; height:auto;">
+> 
 > Don't worry, _you didn't just download 500 GB of Flappy Dragon_!
 > It's there just to brighten up the waiting time :dragon_face:
 
-**When you're in the main Skyrim menu** -- proceed to the next step.
+**When you're in the main Skyrim menu** &mdash; proceed to the next step.
 
 ### 3. Starting a save and configuring MCMs for the Modlist in-game
 
-1. **Start the game** -- in main menu as normal by pressing `New Game`
-2. **Create & Name Your Character** -- choose your character’s appearance and name.
+1. **Start the game** &mdash; in main menu as normal by pressing `New Game`
+2. **Create & Name Your Character** &mdash; choose your character’s appearance and name.
 3. **Wait for Mod Initialization**
 > [!CAUTION]
 > WHEN YOU SPAWN IN, **DO NOT TOUCH ANYTHING!**
 > As much as possible, try to remain still in game and not open menus while the MCM setup is in progress.
-
-   After gaining control of your character, wait. Mods will initialize -- **wait for all of the messages in the upper left corner of the screen to appear and disappear**. A warning will be issued that this readme is mandatory for proper installation. Click through and continue to wait untill you get this pop-up saying `Museum List Building Complete`:
-   ![Museum build list complete](images/readme_images/3_3_3_museum_list_popup.png)
-   Click `OK` and proceed to next step.
+>
+> After gaining control of your character, wait. Mods will initialize &mdash; **wait for all of the messages in the upper left corner of the screen to appear and disappear**. A warning will be issued that this readme is mandatory for proper installation. Click through and continue to wait untill you get this pop-up saying `Museum List Building Complete`:
+>
+> <img src="images/readme_images/3_3_3_museum_list_popup.png" alt="Museum build list complete" style="width:50%; height:auto;">
+>
+> Click `OK` and proceed to next step.
 
 4. **Play MCM Recording.** When all of the messages have disappeared:
    - Open the Main Menu with the `ESC` key and find the entry labeled `"MCM Recorder"` (They are in alphabetical order.) 
    - Here, you will find an recording labeled `Licentia NEXT main recording`.
    - Click on it, answer `Yes`, and use `ESC` to back out of all menus. 
-   - You will receive a popup asking if you wish to play the recording -- please do so.
+   - You will receive a popup asking if you wish to play the recording &mdash; please do so.
    - Once again, please wait for all of the messages in the upper left corner of the screen to appear and disappear.
 
 5. Save your game, exit the game **COMPLETELY TO THE DESKTOP**, start it again via MO2 as described above, and load that save.
