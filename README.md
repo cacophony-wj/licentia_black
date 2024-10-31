@@ -212,7 +212,7 @@ _Licentia NEXT_ is over **HALF A TERABYTE** in size with almost **HALF A MILLION
 
 1. Navigate to your Licentia NEXT directory and **execute ModOrganizer.exe**:
 
-    <img src="images/readme_images/3_2_1_mo2_start.png" alt="MO2 start" style="width:50%; height:auto;">
+    <img src="images/readme_images/3_2_1_mo2_start.png" alt="MO2 start" style="width:40%; height:auto;">
 
 2. If prompted, choose `Yes` to associate Mod Organizer with `.nxm` links. If there’s no prompt, **skip this step**.
 3. In the top-right corner, make sure that `SKSE` is selected from the dropdown **(1)**, and click the Run button **(2)**:
@@ -226,7 +226,7 @@ _Licentia NEXT_ is over **HALF A TERABYTE** in size with almost **HALF A MILLION
 > 
 > Select `SkyrimPrefs.ini` file. Scroll down until you see the `[Display]` header and look for the `iSize` values. Note that the TYPICAL ORDER IS REVERSED, the HEIGHT is listed BEFORE the WIDTH:
 > 
->    <img src="images/readme_images/3_2_3_mo2_change_resolution_skyrimprefs.png" alt="MO2 skyrimperfs" style="width:50%; height:auto;">
+>    <img src="images/readme_images/3_2_3_mo2_change_resolution_skyrimprefs.png" alt="MO2 skyrimperfs" style="width:40%; height:auto;">
 > 
 > Hit `Save` at the bottom, and you're done!
 
