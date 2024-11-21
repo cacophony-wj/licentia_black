@@ -145,7 +145,7 @@ You can just remove the _Parabellum_ folder.
 
 Support is currently unavailable.
 
-For more ways to support my work, visit my webpage at [https://cacophony.me](https://cacophony.me).
+Support for **cacophony** is also currently unavailable.
 
 For email related to Parabellum, contact: [cacophony-wj@outlook.com](mailto:[cacophony-wj@outlook.com])
 
