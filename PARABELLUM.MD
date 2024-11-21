@@ -6,11 +6,11 @@
 
 **This Modlist contains mods with sexual content and you need to be of legal age in your country (most western countries: 18+, some eastern ones: 21+)**.
 
-_Parabellum_ was an NSFW Vanilla+ _Fallout 4_ modlist featuring _Sim Settlements 2,_ _Native Animation Framework_ and a pile of Quest mods.
+_Parabellum_ is an NSFW Vanilla+ _Fallout 4_ modlist featuring _Sim Settlements 2,_ _Native Animation Framework_ and a pile of Quest mods.
 
-_Parabellum NUKA_ was a tightly focused NSFW list for playing the _NUKA RIDE Fallout 4_ modification.
+_Parabellum NUKA_ is a tightly focused NSFW list for playing the _NUKA RIDE Fallout 4_ modification.
 
-Both lists are currently on hiatus due to the author's health difficulties.
+Both are currently infrequently maintained, if at all.
 
 #### More Information
 
@@ -39,7 +39,7 @@ https://github.com/cacophony-wj/licentia_black/blob/main/PARABELLUM-Complete-Dow
 
 ###  Installing Microsoft Visual C++ Redistributable Package
 
-The _Microsoft Visual C++_ redistributable package is required. Download the x64 version under "Visual Studio 2015, 2017 and 2019" [here](https://aka.ms/vs/16/release/vc_redist.x64.exe).
+The _Microsoft Visual C++_ redistributable package is required. Download the x64 version under [here](https://aka.ms/vs/17/release/vc_redist.x64.exe).
 
 ###  Steam Config
 
@@ -63,7 +63,7 @@ The first step is to log in to [The Nexus](https://www.nexusmods.com) with the *
 
 ##  Problems with Wabbajack
 
-There are many different scenarios where _Wabbajack_ will produce an error. Re-run _Wabbajack_ before seeking assistance.
+There are many different scenarios where _Wabbajack_ will produce an error. Re-run _Wabbajack_ before seeking further solutions.
 
 **Could not download x:**
 
@@ -119,9 +119,11 @@ Passive Sex Hotkey is F7. You will offer your services as a sex worker or surren
 
 #### A Bit of a Note about NUKA RIDE
 
-Look up the mod on _Lover's Lab._ 
+You can read details on the central mod (here)[https://www.loverslab.com/topic/171006-aaf-nuka-ride-a-porn-studio-mod/]
 
 Once you play this version there is not much point to the original game.
+
+The author's _Patreon_ is at that link. Any donations to me for _NUKA_ should go to them. They deserve the compensation.
 
 ## Updating the Modlist
 
