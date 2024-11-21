@@ -131,14 +131,6 @@ The author's _Patreon_ is linked at that page. Any donations for _NUKA_ should g
 
 ## Updating the Modlist
 
-Many times newer versions of _Parabellum_ will require an updated version of _Wabbajack_. 
-
-Download the new _Wabbajack_ file, select the "Install From Disk" option, and specify the same directories. Then check the "Overwrite" box. 
-
-It is rarely recommended to continue a save when you update a modlist.
-
-## Updating the Modlist
-
 Sometimes, newer versions of _Parabellum_ require an updated _Wabbajack_ version.
 
 Download the new _Wabbajack,_ select "Install From Disk," and choose the same directories. Then check the "Overwrite" box.
