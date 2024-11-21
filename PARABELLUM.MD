@@ -20,6 +20,8 @@ For _Parabellum NUKA_, [visit this link instead.](https://loadorderlibrary.com/l
 
 ### CURRENTLY THIS MODLIST IS NOT INSTALLABLE.
 
+The mod "Fallout Priority 3.4.0 (Preview)" has been removed from _Nexus._
+
 ## Requirements
 
 - [Nexus Premium Account](https://forums.nexusmods.com/index.php?/store/category/1-premium-membership/)
