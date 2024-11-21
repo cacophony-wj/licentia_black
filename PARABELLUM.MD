@@ -20,6 +20,8 @@ For _Parabellum NUKA,_ [click here](https://loadorderlibrary.com/lists/parabellu
 
 ### AS OF 2024-11-21 06:02 UTC PARABELLUM (not nuka) IS CURRENTLY INSTALLABLE.
 
+All of **cacophony's** modlists are always available [at the _MEGA_ repository](https://mega.nz/folder/RawGxSQC#18F3HuX5i5MvXzsMb6ARGg).
+
 ## Requirements
 
 - [Nexus Premium Account](https://forums.nexusmods.com/index.php?/store/category/1-premium-membership/)
