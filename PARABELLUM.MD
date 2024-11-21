@@ -39,23 +39,17 @@ Follow [this complete guide](https://github.com/cacophony-wj/licentia_black/blob
 
 ###  Installing Microsoft Visual C++ Redistributable Package
 
-The _Microsoft Visual C++_ redistributable package is required. Download the x64 version under [here](https://aka.ms/vs/17/release/vc_redist.x64.exe).
+Download the x64 version of the _Microsoft Visual C++_ redistributable package from [this link](https://aka.ms/vs/17/release/vc_redist.x64.exe).
 
-###  Steam Config
+###  Steam Setup
 
-Set the Game language to English
-
-Do Not Use Any Part of This List in a Protected Folder
-
-Do Not Use Any Protected Folders inside of OneDrive
-
-Make Exceptions for Anti-Malware Programs
-
-Set Pagefile to 40GB Or Above
-
-Ensure Enough Free Storage Space
-
-Launch Fallout 4 Once Before You Continue
+- Set the game language to English.
+- **Do not** use any part of this list in a protected folder.
+- **Do not** use protected folders inside _OneDrive._
+- Add exceptions for anti-malware programs.
+- Set the pagefile to 40GB or more.
+- Ensure there is enough free storage space.
+- Launch _Fallout 4_ once before continuing
  
 ##  Using Wabbajack
 
