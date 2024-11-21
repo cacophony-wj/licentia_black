@@ -45,13 +45,19 @@ Download the x64 version of the _Microsoft Visual C++_ redistributable package f
 
 ###  Steam Setup
 
-- Set the game language to English.
-- **Do not** use any part of this list in a protected folder.
-- **Do not** use protected folders inside _OneDrive._
-- Add exceptions for anti-malware programs.
-- Set the pagefile to 40GB or more.
-- Ensure there is enough free storage space.
-- Launch _Fallout 4_ once before continuing
+Set the game language to English.
+
+**Do not** use any part of this list in a protected folder. (Documents, Downloads, Desktop, etc)
+
+**Do not** use protected folders inside _OneDrive._
+
+Add exceptions for anti-malware programs.
+
+Set the pagefile to 40GB or more.
+
+Ensure there is enough free storage space.
+
+Launch _Fallout 4_ once before continuing
  
 ##  Using Wabbajack
 
