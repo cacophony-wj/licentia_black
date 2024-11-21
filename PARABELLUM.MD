@@ -149,10 +149,6 @@ For more ways to support my work, visit my webpage at [https://cacophony.me](htt
 
 For email related to Parabellum, contact: [cacophony-wj@outlook.com](mailto:[cacophony-wj@outlook.com])
 
-## Contributing
-
-See [Contributing](CONTRIBUTING.md).
-
 ## Changelog
 
 See [Changelog](CHANGELOG.md).
