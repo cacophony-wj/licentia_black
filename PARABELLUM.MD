@@ -53,23 +53,25 @@ Download the x64 version of the _Microsoft Visual C++_ redistributable package f
  
 ##  Using Wabbajack
 
-The first step is to log in to [The Nexus](https://www.nexusmods.com) with the **GEAR** icon at the top right of _Wabbajack._
+Log in to [The Nexus](https://www.nexusmods.com) using the **GEAR** icon at the top right of _Wabbajack._
 
 ##  Problems with Wabbajack
 
-There are many different scenarios where _Wabbajack_ will produce an error. Re-run _Wabbajack_ before seeking further solutions.
+There are many reasons _Wabbajack_ may produce errors. Try running _Wabbajack_ again before seeking solutions.
 
 **Could not download x:**
 
-Some Internet providers have difficulty accessing the servers which host the files comprising the list. Try using a VPN (Virtual Private Network) with a terminus set to the United States. 
+Some internet providers may have trouble accessing the servers hosting the mod files. Try using a VPN with a server in the United States.
 
-**Wabbajack could not find my game folder:**
+**_Wabbajack_ could not find the game folder:**
 
-_Parabellum_ will not work with a GOG or pirated game version. If you own the game on _Steam,_ return to the Installation step. 
+_Parabellum_ will not work with _GOG_ or pirated game versions. If using _Steam,_ return to the installation step.
 
-**MEGA download cap exceeded.**
+**MEGA download cap exceeded:**
 
-This shouldn't happen unless you download the list multiple times or download multiple _Wabbajack_ lists. Sign up for an account or wait for the timeout to expire.
+This error happens if downloading the list multiple times or downloading multiple _Wabbajack_ lists.
+
+Sign up for a _MEGA_ account or wait for the timeout to reset.
 
 ## Post-Installation
 
