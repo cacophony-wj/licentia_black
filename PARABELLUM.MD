@@ -75,51 +75,51 @@ Sign up for a _MEGA_ account or wait for the timeout to reset.
 
 ## Post-Installation
 
-### System Specifications
+### System Requirements
 
-A little bit higher than the original game.
+These mods require a system slightly more powerful than the original game. 
 
-CPU is more important than with most videogames.
+The CPU is more important than usual for most games.
 
 ## NEXT GEN UPDATE
 
-All _Creation Club_ content shoehorned in after the TV show is available by default.
+All _Creation Club_ content added after the TV show is included by default.
 
-Any other _Creation Club_ content will probably work in a modular fashion.
+Other _Creation Club_ content will likely work as optional additions. 
 
-Copy it to the appropriate directory before you begin a New Game.
+Copy the files to the correct directory before starting a new game.
 
 ### Launching the List
 
-Launch _ModOrganizer.exe_ from the directory in which you installed the list.
+Open `ModOrganizer.exe` from the folder where the modlist was installed.
 
- Launch the game from the **F4SE** entry in the drop-down menu.
+Launch the game through the **F4SE** option in the drop-down menu.
 
 ## MCM CONFIGURATION
 
-It may be necessary to press the `Enter` key a few times after you select "New Game" to skip some invisible menu prompts. 
+Press the `Enter` key several times after selecting "New Game" to skip any hidden menu prompts.
 
 ### WHEN YOU SPAWN IN THE BATHROOM, DO NOT TOUCH ANYTHING!
 
 Wait five minutes. Time it.
 
-To configure the MCMs, press the `ESC` key and select the top menu option: "MOD CONFIG."
+To configure MCMs, press the ESC key and select "MOD CONFIG."
 
-Find the bottom Settings entry and press "Apply."
+Find the bottom settings entry and press "Apply."
 
-#### A bit of a Note on how to Engage with the NSFW Content
+#### A Note on NSFW Content
 
-Active Sex Hotkey is F6. You will flirt with people or offer to strip.
+Active Sex Hotkey: `F6`. This will allow flirting or offering to strip.
 
-Passive Sex Hotkey is F7. You will offer your services as a sex worker or surrender to an assault.
+Passive Sex Hotkey: `F7`. This will offer sex work or surrender to an assault.
 
-#### A Bit of a Note about NUKA RIDE
+#### A Note About NUKA RIDE
 
-You can read details on the central mod (here)[https://www.loverslab.com/topic/171006-aaf-nuka-ride-a-porn-studio-mod/]
+Details about the main mod can be found (here)[https://www.loverslab.com/topic/171006-aaf-nuka-ride-a-porn-studio-mod/].
 
-Once you play this version there is not much point to the original game.
+When using this mod, there is little need to play the original game.
 
-The author's _Patreon_ is at that link. Any donations to me for _NUKA_ should go to them. They deserve the compensation.
+The author's _Patreon_ is linked at that page. Any donations for _NUKA_ should go to the author. They deserve the support.
 
 ## Updating the Modlist
 
@@ -129,22 +129,32 @@ Download the new _Wabbajack_ file, select the "Install From Disk" option, and sp
 
 It is rarely recommended to continue a save when you update a modlist.
 
+## Updating the Modlist
+
+Sometimes, newer versions of _Parabellum_ require an updated _Wabbajack_ version.
+
+Download the new _Wabbajack,_ select "Install From Disk," and choose the same directories. Then check the "Overwrite" box.
+
+It is usually not recommended to continue a save when updating a modlist.
+
 ## Removing the Modlist
 
-You can just remove the _Parabellum_ folder. 
+Simply delete the _Parabellum_ folder.
 
 ## Contact
 
-Limited support is available from fans on [my discord server](https://discord.gg/jolly-coop).
+Support is currently unavailable.
 
-For ways to support my work, visit my webpage at [https://cacophony.me](https://cacophony.me).
+For more ways to support my work, visit my webpage at [https://cacophony.me](https://cacophony.me).
 
-My _Parabellum_ related email is cacophony-wj@outlook.com
+For email related to Parabellum, contact: [cacophony-wj@outlook.com](mailto:[email protected])
 
-## Contributing
+Contributing
+See Contributing.
 
-See [Contributing](CONTRIBUTING.md).
+Changelog
+See Changelog.
 
-## Changelog
 
-See [Changelog](CHANGELOG.md).
+
+
