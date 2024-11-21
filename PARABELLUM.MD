@@ -18,7 +18,7 @@ To view a list of included mods, [click here](https://loadorderlibrary.com/lists
 
 For _Parabellum NUKA,_ [click here](https://loadorderlibrary.com/lists/parabellum-nuka).
 
-### AS OF 2024-11-21 06:02 UTC THIS MODLIST IS CURRENTLY INSTALLABLE.
+### AS OF 2024-11-21 06:02 UTC PARABELLUM (not nuka) IS CURRENTLY INSTALLABLE.
 
 ## Requirements
 
