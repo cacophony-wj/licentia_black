@@ -14,10 +14,6 @@ Both lists are rarely updated, if at all.
 
 #### More Information
 
-
-
-here.
-
 To view a list of included mods, [click here](https://loadorderlibrary.com/lists/parabellum-1).
 
 For _Parabellum NUKA,_ [click here](https://loadorderlibrary.com/lists/parabellum-nuka).
