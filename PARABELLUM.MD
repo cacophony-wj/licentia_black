@@ -18,7 +18,7 @@ For a really old list of the mods included [go here.](https://loadorderlibrary.c
 
 For _Parabellum NUKA_, [visit this link instead.](https://loadorderlibrary.com/lists/parabellum-nuka)
 
-### STILL INSTALLABLE AS OF 2024-11-20 01:50 UTC
+### CURRENTLY THIS MODLIST IS NOT INSTALLABLE.
 
 ## Requirements
 
