@@ -147,7 +147,7 @@ Support is currently unavailable.
 
 For more ways to support my work, visit my webpage at [https://cacophony.me](https://cacophony.me).
 
-For email related to Parabellum, contact: [cacophony-wj@outlook.com](mailto:[email protected])
+For email related to Parabellum, contact: [cacophony-wj@outlook.com](mailto:[cacophony-wj@outlook.com])
 
 ## Contributing
 
