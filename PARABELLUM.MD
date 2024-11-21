@@ -147,7 +147,7 @@ Support is currently unavailable.
 
 Support for **cacophony** is also currently unavailable.
 
-For email related to Parabellum, contact: [cacophony-wj@outlook.com](mailto:[cacophony-wj@outlook.com])
+For email related to _Parabellum,_ contact: [cacophony-wj@outlook.com](mailto:[cacophony-wj@outlook.com])
 
 ## Changelog
 
