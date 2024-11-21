@@ -4,19 +4,23 @@
 
 ## Preamble
 
-**This Modlist contains mods with sexual content and you need to be of legal age in your country (most western countries: 18+, some eastern ones: 21+)**.
+**This modlist includes adult content. You must be of legal age in your country to use it (typically 18+ in most western countries, 21+ in some eastern countries).**
 
-_Parabellum_ is an NSFW Vanilla+ _Fallout 4_ modlist featuring _Sim Settlements 2,_ _Native Animation Framework_ and a pile of Quest mods.
+_Parabellum_ is an **NSFW** modlist for _Fallout 4_ that includes mods like _Sim Settlements 2, Native Animation Framework,_ and several quest mods.
 
-_Parabellum NUKA_ is a tightly focused NSFW list for playing the _NUKA RIDE Fallout 4_ modification.
+_Parabellum NUKA_ is a focused **NSFW list** for the **_NUKA RIDE_** mod.
 
-Both are currently infrequently maintained, if at all.
+Both lists are rarely updated, if at all.
 
 #### More Information
 
-For a really old list of the mods included [go here.](https://loadorderlibrary.com/lists/parabellum-1)
 
-For _Parabellum NUKA_, [visit this link instead.](https://loadorderlibrary.com/lists/parabellum-nuka)
+
+here.
+
+To view a list of included mods, [click here](https://loadorderlibrary.com/lists/parabellum-1).
+
+For _Parabellum NUKA,_ [click here](https://loadorderlibrary.com/lists/parabellum-nuka).
 
 ### AS OF 2024-11-21 06:02 UTC THIS MODLIST IS CURRENTLY INSTALLABLE.
 
@@ -25,15 +29,15 @@ For _Parabellum NUKA_, [visit this link instead.](https://loadorderlibrary.com/l
 - [Nexus Premium Account](https://forums.nexusmods.com/index.php?/store/category/1-premium-membership/)
 - [LoversLab Account](https://www.loverslab.com/)
 
-These accounts are mandatory.
+Both accounts are required.
 
-# BEFORE YOU BEGIN! VERY IMPORTANT!
+# IMPORTANT! BEFORE STARTING!
 
-Download all the _Lover's Lab_ files manually **BEFORE** you begin installing anything with _Wabbajack_.
+Manually download all the _Lover's Lab_ files before installing anything using _Wabbajack._
 
-Put all the downloads in the `downloads` folder for your Modlist.
+Save all the files in the `downloads` folder for your modlist.
 
-https://github.com/cacophony-wj/licentia_black/blob/main/PARABELLUM-Complete-Download-Guide.md
+Follow (this complete guide)[https://github.com/cacophony-wj/licentia_black/blob/main/PARABELLUM-Complete-Download-Guide.md] for downloading files.
 
 ## Installation
 
