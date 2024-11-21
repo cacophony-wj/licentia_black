@@ -8,7 +8,7 @@
 
 _Parabellum_ is an **NSFW** modlist for _Fallout 4_ that includes mods like _Sim Settlements 2, Native Animation Framework,_ and several quest mods.
 
-_Parabellum NUKA_ is a focused **NSFW list** for the **_NUKA RIDE_** mod.
+_Parabellum NUKA_ is a focused **NSFW** list for the **_NUKA RIDE_** mod.
 
 Both lists are rarely updated, if at all.
 
