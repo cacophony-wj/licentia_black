@@ -139,7 +139,7 @@ It is usually not recommended to continue a save when updating a modlist.
 
 ## Removing the Modlist
 
-Simply delete the _Parabellum_ folder.
+You can just remove the _Parabellum_ folder. 
 
 ## Contact
 
@@ -149,11 +149,13 @@ For more ways to support my work, visit my webpage at [https://cacophony.me](htt
 
 For email related to Parabellum, contact: [cacophony-wj@outlook.com](mailto:[email protected])
 
-Contributing
-See Contributing.
+## Contributing
 
-Changelog
-See Changelog.
+See [Contributing](CONTRIBUTING.md).
+
+## Changelog
+
+See [Changelog](CHANGELOG.md).
 
 
 
