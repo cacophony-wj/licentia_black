@@ -123,7 +123,7 @@ Passive Sex Hotkey: `F7`. This will offer sex work or surrender to an assault.
 
 #### A Note About NUKA RIDE
 
-Details about the main mod can be found (here)[https://www.loverslab.com/topic/171006-aaf-nuka-ride-a-porn-studio-mod/].
+Details about the main mod can be found [here](https://www.loverslab.com/topic/171006-aaf-nuka-ride-a-porn-studio-mod/).
 
 When using this mod, there is little need to play the original game.
 
