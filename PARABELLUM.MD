@@ -18,9 +18,7 @@ For a really old list of the mods included [go here.](https://loadorderlibrary.c
 
 For _Parabellum NUKA_, [visit this link instead.](https://loadorderlibrary.com/lists/parabellum-nuka)
 
-### CURRENTLY THIS MODLIST IS NOT INSTALLABLE.
-
-The mod "Fallout Priority 3.4.0 (Preview)" has been removed from _Nexus._
+### AS OF 2024-11-21 06:02 UTC THIS MODLIST IS CURRENTLY INSTALLABLE.
 
 ## Requirements
 
