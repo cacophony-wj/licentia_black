@@ -33,7 +33,7 @@ Manually download all the _Lover's Lab_ files before installing anything using _
 
 Save all the files in the `downloads` folder for your modlist.
 
-Follow (this complete guide)[https://github.com/cacophony-wj/licentia_black/blob/main/PARABELLUM-Complete-Download-Guide.md] for downloading files.
+Follow [this complete guide](https://github.com/cacophony-wj/licentia_black/blob/main/PARABELLUM-Complete-Download-Guide.md) for downloading files.
 
 ## Installation
 
